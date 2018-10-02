@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>9</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Quadragesimae</la><fr>Temps du Car&#xEA;me</fr></tempus>
+<hebdomada><la>Hebdomada I Quadragesimae</la><fr>I&#xE8;re semaine de Car&#xEA;me</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+
+<HYMNUS_lectures>hy_Somno_refectis_artubus</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Aeterna_lux_divinitas</HYMNUS_lec_jour>
+
+<antL1>AN_Salvum_me_fac</antL1>
+
+<psL1>ps6</psL1>
+
+<antL2>AN_Factus_est</antL2>
+
+<psL2>ps9AI</psL2>
+
+<antL3>AN_Annuntiabo_laudationes_tuas</antL3>
+
+<psL3>ps09II</psL3>
+
+<LVers>VERS_Da_mihi</LVers>
+n<Llec1>L1_quadragesima_12</Llec1>
+
+<Lrep1>R1_quadragesima_12</Lrep1>
+
+<Llec2>L2_quadragesima_12</Llec2>
+
+<Lrep2>R2_quadragesima_12</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>quadragesima_12-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>quadragesima_12-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Iam_Christe_sol_iustitiae</HYMNUS_laudes>
+ 
+<ant1>AN_Ad_te_orabo</ant1>
+ 
+<ps1>ps5</ps1>
+ 
+<ant2>AN_Laudamus_nomen_tuum</ant2>
+ 
+<ps2>AT4</ps2>
+ 
+<ant3>AN_Adorate_Dominum_in</ant3>
+ 
+<ps3>ps28</ps3>
+ 
+<LB_matin>LB_Ex_19_4-6a</LB_matin> 
+ 
+<RB_matin>RB_Ipse_liberabit_me_De</RB_matin>  
+<benedictus>AN_Venite_benedicti_Patris</benedictus> 
+<laudes_preces>quadragesima_12</laudes_preces><oratio_laudes>COL_Converte_nos_Deus_salutaris_noster_et</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+ 
+ 
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+ 
+<ps4>ps18B</ps4>
+ 
+<ant5>AN_Vivo_ego_dicit</ant5>
+ 
+<ps5>ps7I</ps5>
+ 
+<ant6>AN_Per_arma_iustitiae</ant6>
+ 
+<ps6>ps7II</ps6>
+ 
+<LB_3>LB_Sap_11_23-24a</LB_3>
+ 
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+ 
+<LB_6>LB_Ez_18_23</LB_6>
+ 
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+ 
+<LB_9>LB_Is_58_6a._7</LB_9>
+ 
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+ 
+<oratio_3>COL_Deus_Pater_optime_qui_laborem_hominibus</oratio_3>
+ 
+<oratio_6>COL_Converte_nos_Deus_salutaris_noster_et</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_nos_advocas_illa_hora</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Iesu_quadragenariae</HYMNUS_vepres>
+ 
+<ant7>AN_Oculi_Domini_in</ant7>
+ 
+<ps7>ps10</ps7>
+ 
+<ant8>AN_Beati_mundo_corde</ant8>
+ 
+<ps8>ps14</ps8>
+ 
+<ant9>AN_In_Filio_suo</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_Is_58_6a._7</LB_soir>
+ 
+<RB_soir>RB_Ego_dixi_Domine_Miserere</RB_soir>
+ 
+<magnificat>AN_Quod_uni_ex</magnificat>
+ 
+<vepres_preces>quadragesima_12</vepres_preces>
+ 
+<oratio_vepres>COL_Converte_nos_Deus_salutaris_noster_et</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+ 
+<comp_ps1>ps85</comp_ps1> 
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+ 
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Sicut_oculi_servorum</IN>
+<LEC>LEC_Lv19,1-18</LEC>
+<PS1>GR_Protector_noster</PS1>
+<PS2/>
+<EV>EV_Mt25,31-46</EV>
+<OF>OF_Levabo_oculos_meos</OF>
+<CO>CO_Amen_dico_vobis_quod_uni</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Agn&#xE8;s de Boh&#xEA;me</intitule>
+ <biographiecourte>Fille du roi Autokar, elle fonda &#xE0; Prague un h&#xF4;pital et un monast&#xE8;re o&#xF9; elle entra comme simple religieuse (&#x2020;1282)</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/>
+ <intitule>Ste Colette</intitule>
+ <biographiecourte>Vierge, r&#xE9;formatrice des Clarisses (+1447)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 6 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tortone en Ligurie, saint Marcien, v&#xE9;n&#xE9;r&#xE9; comme &#xE9;v&#xEA;que et martyr des premiers si&#xE8;cles. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nicom&#xE9;die en Bithynie, saint Victorin, martyr. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tr&#xE8;ves en Gaule Belgique, au IVe si&#xE8;cle, saint Quiriaque, pr&#xEA;tre. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint &#xC9;vagre, qui fut &#xE9;lu &#xE9;v&#xEA;que de Constantinople par les orthodoxes, envoy&#xE9; en exil par l&#x2019;empereur arien Valens et s&#x2019;en alla vers le Seigneur, en confesseur de la foi, en 378.</para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tol&#xE8;de en Espagne, l&#x2019;an&#xA0;690, saint Julien, &#xE9;v&#xEA;que, qui r&#xE9;unit trois conciles dans cette ville et exposa dans ses &#xE9;crits la doctrine orthodoxe, faisant preuve de justice, de charit&#xE9; et de z&#xE8;le des &#xE2;mes. </para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; S&#xE4;ckingen sur le lac de Constance, en Suisse, vers le VIIe si&#xE8;cle, saint Fridolin, abb&#xE9;. Venu, dit-on, d&#x2019;Irlande, il s&#xE9;journa d&#x2019;abord &#xE0; Poitiers pr&#xE8;s du tombeau de saint Hilaire, puis p&#xE9;r&#xE9;grina &#xE0; travers la Gaule, et aboutit &#xE0; S&#xE4;ckingen, o&#xF9; il fonda un monast&#xE8;re double en l&#x2019;honneur de saint Hilaire.</para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Metz, en 766, saint Chrodegand, &#xE9;v&#xEA;que, qui r&#xE9;digea une r&#xE8;gle de vie, pour les pr&#xEA;tres de son dioc&#xE8;se qu&#x2019;il r&#xE9;unit en chapitres de chanoines, pour qu&#x2019;ils vivent dans la vertu &#xE0; l&#x2019;int&#xE9;rieur du clo&#xEE;tre&#xA0;; il promut aussi merveilleusement le chant d&#x2019;&#xC9;glise. </para><para>8. &#xA0; &#xA0; &#xA0; &#xA0; En Syrie, l&#x2019;an&#xA0;848, la passion de quarante-deux saints martyrs qui furent saisis par les Sarrasins &#xE0; Amorium de Phrygie, conduits jusqu&#x2019;&#xE0; l&#x2019;Euphrate et, puisqu&#x2019;ils refusaient de renier la foi chr&#xE9;tienne, &#xE9;gorg&#xE9;s par l&#x2019;&#xE9;p&#xE9;e. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Barcelone en Catalogne, l&#x2019;an&#xA0;1137, saint Oll&#xE9;gaire, &#xE9;v&#xEA;que, qui re&#xE7;ut en outre l&#x2019;&#xC9;glise de Tarragone, quand ce si&#xE8;ge tr&#xE8;s ancien fut lib&#xE9;r&#xE9; du joug des Maures. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Viterbe dans le Latium, en 1253, la bienheureuse Rose, vierge, du Tiers-Ordre de Saint-Fran&#xE7;ois, qui s&#x2019;adonna aux &#x153;uvres de charit&#xE9; et, &#xE0; l&#x2019;&#xE2;ge de dix-huit ans, termina dans la maison de son p&#xE8;re une br&#xE8;ve existence. </para><para>11. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Gand en Flandre, l&#x2019;an&#xA0;1449, sainte Colette Boylet, vierge, qui mena pendant trois ans une vie tr&#xE8;s aust&#xE8;re, recluse dans une maisonnette attenant &#xE0; l&#x2019;&#xE9;glise de Corbie, puis, admise &#xE0; la profession de la R&#xE8;gle de sainte Claire, elle r&#xE9;forma un grand nombre de monast&#xE8;res de Clarisses selon la mani&#xE8;re de vivre primitive, en y introduisant surtout l&#x2019;esprit de pauvret&#xE9; et de p&#xE9;nitence. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

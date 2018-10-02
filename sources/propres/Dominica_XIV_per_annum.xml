@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XIV per annum</la>
+<fr>XIV&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+
+<HYMNUS_1V id="hy_Rerum_Deus_fons_omnium"/>
+<ps01 id="ps118XIV"/>
+<ps02 id="ps15"/>
+<ps03 id="NT5"/>
+<ant07 id="AN_Lucerna_pedibus_meis"/>
+<ant02 id="AN_Adimplebis_me_laetitia"/>
+<ant03 id="AN_In_nomine_Iesu"/>
+<LB_1V id="LB_Col_1_2b-6a"/>
+<RB_1V id="RB_A_solis_ortu"/>
+
+<magnificat1_A id="AN_Confiteor_tibi_Pater"/>
+<magnificat1_B id="AN_Multi_audientes_admirabantur"/>
+<magnificat1_C id="AN_Messis_quidem_multa"/>
+<oratio id="COL_Deus_qui_in_Filii_tui_humilitate"/>
+<oratio_3 id="COL_Deus_qui_in_Filii_tui_humilitate"/>
+<oratio_6 id="COL_Deus_qui_in_Filii_tui_humilitate"/>
+<oratio_9 id="COL_Deus_qui_in_Filii_tui_humilitate"/>
+
+<benedictus_A id="AN_Tollite_iugum_meum"/>
+<benedictus_B id="AN_Amen_dico_vobis"/>
+<benedictus_C id="AN_In_quamcumque_domum"/>
+<magnificat_A id="AN_Iugum_meum_suave"/>
+<magnificat_B id="AN_Egressus_Iesus_e"/>
+<magnificat_C id="AN_Gaudete_et_exsultate"/>
+</liturgia>

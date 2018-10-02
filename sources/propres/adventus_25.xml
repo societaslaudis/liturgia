@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Regem_venturum_Dominum"/>
+<HYMNUS_laudes id="hy_Vox_clara_ecce_intonat"/>
+<ant1 id="AN_Excita_Domine_potentiam"/>
+<ant2 id="AN_Magnifice_fecit_Dominus"/>
+<ant3 id="AN_Exsultate_Deo_adiutori"/>
+<LB_matin id="LB_Is_45_8"/>
+<RB_matin id="RB_Super_te_Ierusalem_Orietur_Dominus"/>
+<benedictus id="AN_Ego_auxiliatus_sum"/>
+<oratio id="COL_Excita_Domine_corda_nostra_ad_praeparandas"/>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant4 id="AN_Prophetae_praedicaverunt_nasci"/>
+<LB_3 id="LB_Mic_5_3_4a"/>
+<RB_3 id="VERS_Timebunt_gentes_nomen_tuum_Domine"/>
+<ant5 id="AN_Gabriel_angelus_locutus"/>
+<LB_6 id="LB_Ag_2_6b._9"/>
+<RB_6 id="VERS_Memento_nostri_Domine_in_beneplacito"/>
+<ant6 id="AN_Maria_dixit_Qualis"/>
+<LB_9 id="LB_Mal_3_20-21b"/>
+<RB_9 id="VERS_Veni_Domine_et_noli_tardare"/>
+<HYMNUS_vesperas id="hy_Conditor_alme_siderum"/>
+<ant7 id="AN_Posui_te_in"/>
+<ant8 id="AN_Salvos_faciet_Dominus"/>
+<ant9 id="AN_Nunc_facta_est"/>
+<LB_soir id="LB_Iac_5_7-8._9b"/>
+<RB_soir id="RB_Veni_ad_liberandum_nos_Domine"/>
+<magnificat id="AN_Qui_post_me"/>
+<LEC_1_impaire>Is41,13-20</LEC_1_impaire><PR_impaire>Ps145,1</PR_impaire><LEC_1_paire>Is41,13-20</LEC_1_paire><PR_paire>Ps145,1</PR_paire><EV>Mt11,11-15<A id="Mt2,1-12"/><B id="Lc2,16-21"/></EV>
+
+
+<LEC_1_impaire id="Is41,13-20"/>
+<PR_impaire id="Ps145,1"/>
+<LEC_1_paire id="Is41,13-20"/>
+<PR_paire id="Ps145,1"/>
+<EV id="Mt11,11-15"/>
+<LEC_1_impaire id="Is41,13-20"/>
+<PR_impaire id="Ps145,1"/>
+<LEC_1_paire id="Is41,13-20"/>
+<PR_paire id="Ps145,1"/>
+<EV id="Mt11,11-15"/>
+
+<annoA><IN id="IN_Populus_Sion"/><PS1 id="GR_Ex_Sion"/><PS2 id="AL_Laetatus_sum"/><SEQ id=""/><OF id="OF_Deus_tu_convertens"/><CO id="CO_Ierusalem_surge"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoA><annoB><IN id="IN_Populus_Sion"/><PS1 id="GR_Ex_Sion"/><PS2 id="AL_Laetatus_sum"/><SEQ id=""/><OF id="OF_Deus_tu_convertens"/><CO id="CO_Ierusalem_surge"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoB><annoC><IN id="IN_Populus_Sion"/><PS1 id="GR_Ex_Sion"/><PS2 id="AL_Laetatus_sum"/><SEQ id=""/><OF id="OF_Deus_tu_convertens"/><CO id="CO_Ierusalem_surge"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoC>
+
+<messe>
+	<IN id="IN_Populus_Sion"/>
+	<LEC id="LEC_Is41,13-20"/>
+	<PR id="Ps145,1"/>
+	<PS1 id="GR_Ex_Sion"/>
+	<PS2 id="AL_Laetatus_sum"/>
+	<EV id="EV_Mt11,11-15"/>
+	<OF id="OF_Deus_tu_convertens"/>
+	<CO id="CO_Ierusalem_surge"/>
+</messe>
+</liturgia>

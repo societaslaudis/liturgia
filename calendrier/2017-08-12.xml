@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XVIII per annum</la><fr>XVIII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Ioannae Franciscae de Chantal, religiosae</la><fr>Ste Jeanne-Fran&#xE7;oise de Chantal, religieuse</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Audiamus_vocem_Domini</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps135I</psL1>
+
+<antL2/>
+
+<psL2>ps135II</psL2>
+
+<antL3/>
+
+<psL3>ps135III</psL3>
+
+<LVers/>
+n<Llec1>L1_perannum_18-7</Llec1>
+
+<Lrep1>R1_perannum_18-7</Lrep1>
+
+<Llec2>L2_perannum_18-7</Llec2>
+
+<Lrep2>R2_perannum_18-7</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Diei_luce_reddita</HYMNUS_laudes>
+ 
+<ant1>AN_Annuntiamus_mane_misericordiam</ant1>
+ 
+<ps1>ps91</ps1>
+ 
+<ant2>AN_Date_magnificentiam_Deo</ant2>
+ 
+<ps2>AT2</ps2>
+ 
+<ant3>AN_Quam_admirabile_est</ant3>
+ 
+<ps3>ps8</ps3>
+ 
+<LB_matin>LB_Rom_12_14-16a</LB_matin> 
+ 
+<RB_matin>RB_Exsultabunt_labia_mea_Cum</RB_matin>  
+<benedictus>AN_Dirige_Domine_pedes</benedictus> 
+<laudes_preces>perannum_27</laudes_preces><oratio_laudes>COL_Laudent_te_Domine_ora_nostra_laudet</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Caelum_et_terra</ant4>
+ 
+<ps4>ps118XI</ps4>
+ 
+<ant5>AN_Tu_Domine_spes</ant5>
+ 
+<ps5>ps60</ps5>
+ 
+<ant6>AN_A_timore_inimici</ant6>
+ 
+<ps6>ps63</ps6>
+ 
+<LB_3>LB_Deut_8_5b-6</LB_3>
+ 
+<RB_3>VERS_Timor_Domini</RB_3>
+ 
+<LB_6>LB_1_Reg_2_2b-3</LB_6>
+ 
+<RB_6>VERS_Deduc_me</RB_6>
+ 
+<LB_9>LB_Ier_6_16</LB_9>
+ 
+<RB_9>VERS_Hereditas_mea</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica XIX per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_A_solis_ortu</ant7>
+ 
+<ps7>ps112</ps7>
+ 
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+ 
+<ps8>ps115</ps8>
+ 
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Hebr_13_20-21</LB_soir>
+ 
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+ 
+<magnificat>AN_Dimissis_turbis_ascendit</magnificat>
+ 
+<vepres_preces>perannum_27</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Deus_in_adiutorium</IN>
+<IN_L>IN_L_perannum_18</IN_L>
+<COL>COL_perannum_18</COL>
+<LEC>LEC_Dt6,4-13</LEC>
+<PS1>GR_Benedicam_Dominum</PS1>
+<PS2>AL_Domine_Deus_salutis_meae</PS2>
+<EV>EV_Mt17,14-20</EV>
+<OF>OF_Precatus_est_Moyses</OF>
+<SO>SO_perannum_18</SO>
+<CO>CO_Panem_de_caelo</CO>
+<CO_L>CO_L_perannum_18</CO_L>
+<PC>PC_perannum_18</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Jeanne-Fran&#xE7;oise de Chantal, religieuse</intitule>
+ <biographiecourte>Veuve, disciple de St Fran&#xE7;ois de Sales, premi&#xE8;re sup&#xE9;rieure des Visitandines (&#x2020;1641)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 12 ao&#xFB;t.</para><para>M&#xE9;moire de sainte Jeanne-Fran&#xE7;oise de Chantal, religieuse. Elle avait &#xE9;t&#xE9; mari&#xE9;e au baron de Chantal et lui donna six enfants qu&#x2019;elle &#xE9;leva avec sollicitude. Apr&#xE8;s la mort de son mari, sous la direction de saint Fran&#xE7;ois de Sales, elle entra avec bonheur dans la voie de la perfection et accomplit des &#x153;uvres de charit&#xE9;, pour les pauvres, surtout et les malades. Elle fonda avec lui l&#x2019;Ordre de la Visitation, qu&#x2019;elle dirigea avec sagesse, et mourut &#xE0; Moulins, le 13 d&#xE9;cembre 1641.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Catane en Sicile, l&#x2019;an&#xA0;304, saint Euplus, martyr. Dans la pers&#xE9;cution de Diocl&#xE9;tien, selon les Actes du martyre, Euplus se pr&#xE9;senta spontan&#xE9;ment au tribunal, tenant en main le livre des &#xC9;vangiles. Mis en prison par le gouverneur Calvinianus, et interrog&#xE9; &#xE0; plusieurs reprises, il r&#xE9;pondit qu&#x2019;il se faisait gloire de savoir l&#x2019;&#xC9;vangile par c&#x153;ur. Il fut alors frapp&#xE9; de verges jusqu&#x2019;&#xE0; la mort.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nicom&#xE9;die, au IVe si&#xE8;cle, les saints martyrs Anicet et Photius.</para><para>4*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Killala en Irlande, au Ve ou VIe si&#xE8;cle, saint Muredach, v&#xE9;n&#xE9;r&#xE9; comme le premier &#xE9;v&#xEA;que du lieu.</para><para>5*.&#xA0; &#xA0; &#xA0; &#xA0; En Irlande, au Ve si&#xE8;cle, &#xE0; Killeely, sainte L&#xE9;lie, vierge.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Brescia en Lombardie, au VIe si&#xE8;cle, saint Herculan, &#xE9;v&#xEA;que.</para><para>7.&#xA0; &#xA0; &#xA0; &#xA0; Dans l&#x2019;&#xEE;le de L&#xE9;rins en Provence, vers le VIIIe si&#xE8;cle, saint Porcaire, abb&#xE9;, et un grand nombre de moines martyrs, qui furent, dit-on, massacr&#xE9;s par les Sarrasins.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rhondda au pays de Galles, en 1679, le bienheureux Charles Meehan, pr&#xEA;tre franciscain et martyr. D&#x2019;origine irlandaise, il fut arr&#xEA;t&#xE9; alors qu&#x2019;il traversait ce pays pour gagner l&#x2019;Irlande, condamn&#xE9; &#xE0; mort parce que, pr&#xEA;tre, il &#xE9;tait pass&#xE9; dans le royaume de Charles II, puis pendu et d&#xE9;pec&#xE9;.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, en 1689, le bienheureux Innocent XI, pape, qui gouverna l&#x2019;&#xC9;glise avec sagesse, bien que tourment&#xE9; par des douleurs et des &#xE9;preuves p&#xE9;nibles.</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, le bienheureux Pierre Jarrige de la Mor&#xE9;lie de Puyredon, pr&#xEA;tre de Limoges et martyr. Sous la R&#xE9;volution fran&#xE7;aise, il fut d&#xE9;tenu &#xE0; cause de son sacerdoce sur un bateau n&#xE9;grier, o&#xF9; il fut expos&#xE9;, moribond, sur le pont, aux br&#xFB;lures du soleil, jusqu&#x2019;&#xE0; ce que mort s&#x2019;ensuive.</para><para>11.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nam Dinh au Tonkin, en 1838, les saints martyrs Jacques Do Mai Nam, pr&#xEA;tre, Antoine Nguy&#xEA;n Dich, paysan, et Michel Nguy&#xEA;n Huy My, m&#xE9;decin, d&#xE9;capit&#xE9;s en haine du nom chr&#xE9;tien, apr&#xE8;s de cruels tourments, sous l&#x2019;empereur Minh Mang.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Hornachuelos pr&#xE8;s de Cordoue, le bienheureux Victoire Diez y Bustos de Molina, vierge, ma&#xEE;tresse d&#x2019;&#xE9;cole dans l&#x2019;Institut th&#xE9;r&#xE9;sien, qui professa publiquement sa foi et, en exhortant les autres au martyre, m&#xE9;rita de le subir elle-m&#xEA;me.</para><para>13*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Val di Moro pr&#xE8;s de Madrid, le bienheureux Flavius (Atila Arg&#xFC;ezo Gonzalez), religieux de l&#x2019;Ordre de Saint-Jean de Dieu.</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Barbastro en Aragon, le bienheureux S&#xE9;bastien Calvo Martinez. religieux missionnaire, fils du Coeur immacul&#xE9; de Marie.</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Marsa en Catalogne, le bienheureux Antoine Perulles Estivill, de la fraternit&#xE9; des pr&#xEA;tres ouvriers dioc&#xE9;sains.</para><para>16*.&#xA0; &#xA0; &#xA0; &#xA0; Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, les bienheureux pr&#xEA;tres et martyrs, Florian Stepniak, capucin, et Joseph Straszewski, du dioc&#xE8;se de Vladislava. Peu apr&#xE8;s l&#x2019;invasion de la Pologne, au d&#xE9;but de la Seconde Guerre mondiale, ils furent arr&#xEA;t&#xE9;s, puis d&#xE9;port&#xE9;s en Allemagne et, apr&#xE8;s deux ans de mauvais traitements, envoy&#xE9;s &#xE0; la chambre &#xE0; gaz.</para><para>17*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Planegg, pr&#xE8;s de Munich en Bavi&#xE8;re, en 1945, le bienheureux Charles Leisner, pr&#xEA;tre et martyr. Encore diacre, il fut emprisonn&#xE9; &#xE0; cause de sa profession publique de foi et son service assidu des &#xE2;mes. Il fut ordonn&#xE9; pr&#xEA;tre, au camp de concentration de Dachau, par un &#xE9;v&#xEA;que fran&#xE7;ais d&#xE9;tenu. Rendu &#xE0; la libert&#xE9; vers la fin de la guerre, il mourut des mauvais traitements subis en captivit&#xE9;.</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1936, le bienheureux Manuel Basulto Jim&#xE9;nez, &#xE9;v&#xEA;que, et cinq compagnons, martyrs de la Guerre Civile Espagnole, lors des pers&#xE9;cutions religieuses. (b&#xE9;atifi&#xE9;s le 2 mai 2013 par le pape Fran&#xE7;ois)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

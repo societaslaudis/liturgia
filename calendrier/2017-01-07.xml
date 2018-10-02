@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada I per annum</la><fr>I&#xE8;re semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Raimundi de Penyafort, presbyteri</la><fr>St Raymond de Penyafort, pr&#xEA;tre.</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Domini_est_terra</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps130</psL1>
+
+<antL2/>
+
+<psL2>ps131I</psL2>
+
+<antL3/>
+
+<psL3>ps131II</psL3>
+
+<LVers/>
+n<Llec1>L1_perannum_1-7</Llec1>
+
+<Lrep1>R1_perannum_1-7</Lrep1>
+
+<Llec2>L2_perannum_1-7</Llec2>
+
+<Lrep2>R2_perannum_1-7</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_1-7-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>perannum_1-7-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Aurora_iam_spargit_polum</HYMNUS_laudes>
+ 
+<ant1>AN_Praevenerunt_oculi_mei</ant1>
+ 
+<ps1>ps118XIX</ps1>
+ 
+<ant2>AN_Fortitudo_mea_et</ant2>
+ 
+<ps2>AT1</ps2>
+ 
+<ant3>AN_Laudate_Dominum_omnes</ant3>
+ 
+<ps3>ps116</ps3>
+ 
+<LB_matin>LB_2_Petr_1_10-11</LB_matin> 
+ 
+<RB_matin>RB_Clamavi_ad_te_Domine</RB_matin>  
+<benedictus>AN_Illumina_Domine_sedentes</benedictus> 
+<laudes_preces>perannum_17</laudes_preces><oratio_laudes>COL_Corda_nostra_quaesumus_Domine_resurrectionis_splendor</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Deduc_me_Domine</ant4>
+ 
+<ps4>ps118V</ps4>
+ 
+<ant5>AN_Inquirentes_Dominum_non</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Inquire_pacem_et</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_1_Reg_8_60-61</LB_3>
+ 
+<RB_3>VERS_Deus_meus</RB_3>
+ 
+<LB_6>LB_Ier_17_9-10</LB_6>
+ 
+<RB_6>VERS_Ab_occultis</RB_6>
+ 
+<LB_9>LB_Sap_7_27a;_8_1</LB_9>
+ 
+<RB_9>VERS_Quam_magnificata</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica II per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Rerum_Deus_fons_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_Lucerna_pedibus_meis</ant7>
+ 
+<ps7>ps118XIV</ps7>
+ 
+<ant8>AN_Adimplebis_me_laetitia</ant8>
+ 
+<ps8>ps15</ps8>
+ 
+<ant9>AN_In_nomine_Iesu</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Col_1_2b-6a</LB_soir>
+ 
+<RB_soir>RB_A_solis_ortu</RB_soir>
+ 
+<magnificat>AN_Ecce_Agnus_Dei</magnificat>
+ 
+<vepres_preces>perannum_17</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_caelestia_simul</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_In_excelso_throno</IN>
+<IN_L>IN_L_perannum_1</IN_L>
+<COL>COL_perannum_1</COL>
+<LEC>LEC_He4,12-16</LEC>
+<PR>Ps19,8</PR>
+<PS1>GR_Benedictus_Dominus</PS1>
+<PS2>AL_Iubilate_Deo</PS2>
+<EV>EV_Mc2,13-17</EV>
+<OF>OF_Iubilate_Deo_omnis_terra</OF>
+<SO>SO_perannum_1</SO>
+<CO>CO_Notas_mihi_fecisti</CO>
+<CO_L>CO_L_perannum_1</CO_L>
+<PC>PC_perannum_1</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Raymond de Penyafort, pr&#xEA;tre.</intitule>
+ <biographiecourte>Dominicain, il codifia le droit eccl&#xE9;siastique (&#x2020;1275)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Andr&#xE9; Bessette</intitule>
+ <biographiecourte>Religieux, b&#xE2;tisseur de l'Oratoir saint-Joseph du Mont-Royal, Montr&#xE9;al (&#x2020;1937)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 7 janvier</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de saint Raymond de Penyafort, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs. C&#xE9;l&#xE8;bre par sa science du droit canonique, il &#xE9;crivit une Somme tr&#xE8;s utile sur le sacrement de p&#xE9;nitence, et, &#xE9;lu ma&#xEE;tre g&#xE9;n&#xE9;ral de son Ordre, il r&#xE9;digea de nouvelles Constitutions. Il s&#x2019;endormit dans le Seigneur &#xE0; Barcelone, le 6 janvier 1275, en une grande vieillesse. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; M&#xE9;lit&#xE8;ne en Arm&#xE9;nie, vers 250, saint Polyeucte, martyr. Soldat oblig&#xE9; de sacrifier aux dieux par l&#x2019;&#xE9;dit de l&#x2019;empereur D&#xE8;ce, il brisa les idoles, subit pour cela de multiples supplices et enfin, d&#xE9;capit&#xE9;, fut baptis&#xE9; dans son sang. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nicom&#xE9;die en Bithynie, en 312, la passion de saint Lucien, pr&#xEA;tre de l&#x2019;&#xC9;glise d&#x2019;Antioche et martyr. Remarquable par sa science et son &#xE9;loquence, tra&#xEE;n&#xE9; devant le tribunal et press&#xE9; de questions au milieu des tortures, durant la pers&#xE9;cution de Gal&#xE8;re Maximien, il se contenta de r&#xE9;pondre intr&#xE9;pidement &#xAB;&#xA0;Je suis chr&#xE9;tien&#xA0;&#xBB;.</para><para>4*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Passau dans le Norique, comm&#xE9;moraison de Saint Valentin, &#xE9;v&#xEA;que de R&#xE9;tie, vers&#xA0;450. Saint Valentini, </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pavie en Lombardie, l&#x2019;an&#xA0;467 Saint Crispin, &#xE9;v&#xEA;que</para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Coire en Suisse, en 548, saint Valentinien, &#xE9;v&#xEA;que, qui, de ses propres ressources, secourut les pauvres, racheta des captifs et pourvut largement de v&#xEA;tements les n&#xE9;cessiteux. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Solignac dans le Limousin, en 702, saint Th&#xE9;au ou Tillon. Disciple de saint &#xC9;loi, qui le tira de l&#x2019;esclavage et l&#x2019;ordonna pr&#xEA;tre, il fut &#xE0; la fois orf&#xE8;vre, homme de pri&#xE8;re, et se retira comme reclus pr&#xE8;s du monast&#xE8;re. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Constantinople, en 714, saint Cyr, &#xE9;v&#xEA;que. Moine en Paphlagonie, il fut &#xE9;lu au si&#xE8;ge de la Cit&#xE9; imp&#xE9;riale, mais il en fut chass&#xE9; par la suite et mourut en exil.</para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; Au Mans, en 856, saint Aldric, &#xE9;v&#xEA;que, qui mit tout son z&#xE8;le &#xE0; d&#xE9;velopper le culte de Dieu et des saints. </para><para>10. &#xA0; &#xA0; &#xA0; &#xA0; Au Danemark, en 1137, saint Canut, surnomm&#xE9; Lavard, martyr. Duc de Schleswig, il gouverna avec justice et prudence et favorisa le christianisme. Il fut assassin&#xE9;, dans une for&#xEA;t, par des ennemis envieux de son autorit&#xE9;.</para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Palerme en Sicile, en 1451, le tr&#xE9;pas du bienheureux Matthieu Guimera, &#xE9;v&#xEA;que d&#x2019;Agrigente, de l&#x2019;Ordre des Mineurs, propagateur du culte du Saint Nom de J&#xE9;sus. </para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Suzuta au Japon, en 1620, le bienheureux Ambroise Fernandez, martyr, qui partit en Orient pouss&#xE9; par le d&#xE9;sir de s&#x2019;enrichir, mais fut ensuite admis dans la Compagnie de J&#xE9;sus et mourut en prison pour le Christ, bris&#xE9; par des privations de toute sorte. </para><para>13. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; An Bai au Tonkin, en 1862, saint Joseph Tu&#xE2;n, martyr. P&#xE8;re de famille et cultivateur, quand il re&#xE7;ut l&#x2019;ordre de fouler la croix aux pieds, il s&#x2019;agenouilla et pria devant elle. Il fut d&#xE9;capit&#xE9; sous l&#x2019;empereur Tu Duc. </para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Li&#xE8;ge, en 1876, la bienheureuse Marie-Th&#xE9;r&#xE8;se (Jeanne Haze), vierge, qui fonda la Congr&#xE9;gation des Filles de la Croix pour le service des infirmes et des pauvres. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; Au Br&#xE9;sil, en 1993, la bienheureuse Lindalva Justo de Oliveira, fille de la charit&#xE9;, martyre. (b&#xE9;atifi&#xE9;e par Benoit XVI le 2 d&#xE9;cembre 2007)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

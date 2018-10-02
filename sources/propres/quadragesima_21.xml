@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_Precemur_omnes_cernui"/>
+<ant1 id="AN_Dextera_Domini_fecit"/>
+<ant2 id="AN_Trium_puerorum_cantemus"/>
+<ant3 id="AN_Laudate_Dominum_in"/>
+<LB_matin id="LB_Neh_8_9b._10b"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi_"/>
+
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_1_Th_4_1._7"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_Is_30_15._18"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<LB_9 id="LB_Deut_4_29-31"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus"/>
+<HYMNUS_vesperas id="hy_Audi_benigne_Conditor"/>
+<ant7 id="AN_Virgam_virtutis_tuae_emittet"/>
+<ant8 id="AN_Deus_unus_est_quem"/>
+<ant9 id="AN_Proprio_Filio_suo_non"/>
+<ps9 id="NT8"/>
+<LB_soir id="LB_Cf._1_Cor_9_24-25"/>
+<RB_soir id="RB_Attende_Domine_et_miserere_"/>
+
+
+<preces id="quadragesima_21"/>
+
+<messe>
+	<IN id="IN_Reminiscere"/>
+	<COL id="COL_Deus_qui_nobis_dilectum_Filium_tuum"/>
+
+	<PS1 id="GR_Sciant_gentes"/>
+	<LEC2>
+		<A id="LEC_2Tm1,8b-10"/>
+		<B id="LEC_Rm8,31b-34"/>
+		<C id="LEC_Ph3,17-4,1"/>
+	</LEC2>
+	<PS2 id="TR_Commovisti"/>
+	<EV>
+		<A id="EV_Mt17,1-9"/>
+		<B id="EV_Mc9,2-10"/>
+		<C id="EV_Lc9,28b-36"/>
+	</EV>
+	<OF id="OF_Meditabor"/>
+	<CO id="CO_Visionem"/>
+	<LEC>
+		<A id="LEC_Gn12,1-4a"/>
+		<B id="LEC_Gn22,1-2.9-13.15-18"/>
+		<C id="LEC_Gn15,5-12.17-18"/>
+	</LEC>
+	<PR>
+		<A id="PR_Ps33,4"/>
+		<B id="PR_Ps106,10"/>
+		<C id="PR_Ps27,1"/>
+	</PR>
+	<PRE id="PRE_Pr&#xE9;facepropreouIouII"/>
+</messe>
+</liturgia>

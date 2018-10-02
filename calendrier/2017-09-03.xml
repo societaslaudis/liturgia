@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXII per annum</la><fr>XXII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XXII per annum</la><fr>XXII&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Populus_Domini_et</invitatoire>
+
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+
+<antL1>AN_Domine_Deus_meus</antL1>
+
+<psL1>ps103I</psL1>
+
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+
+<psL2>ps103II</psL2>
+
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+
+<psL3>ps103III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_XXII_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XXII_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XXII_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XXII_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Ecce_iam_noctis_tenuatur_umbra</HYMNUS_laudes>
+ 
+<ant1>AN_Benedictus_qui_venit</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Hymnum_dicamus_Domino</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Laudate_Dominum</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_Ez_36_25-27</LB_matin> 
+ 
+<RB_matin>RB_Confitebimur_tibi_Deus_Et</RB_matin>  
+<benedictus>AN_Quid_prodest_homini</benedictus> 
+<laudes_preces>perannum_21</laudes_preces><oratio_laudes>COL_Deus_virtutum_cuius_est_totum_quod</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_In_pascuis_virentibus_Dominus</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_In_Israel_magnum</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Terra_tremuit</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_Rom_5_1-2._5</LB_3>
+ 
+<RB_3>VERS_Misericordias_Domini</RB_3>
+ 
+<LB_6>LB_Rom_8_26</LB_6>
+ 
+<RB_6>VERS_Appropinquet_deprecatio_mea</RB_6>
+ 
+<LB_9>LB_2_Cor_1_21-22</LB_9>
+ 
+<RB_9>VERS_Dominus_illuminatio_mea</RB_9>
+ 
+<oratio_3>COL_Deus_virtutum_cuius_est_totum_quod</oratio_3>
+ 
+<oratio_6>COL_Deus_virtutum_cuius_est_totum_quod</oratio_6>
+ 
+<oratio_9>COL_Deus_virtutum_cuius_est_totum_quod</oratio_9>
+ 
+<intitule_soir><la>Dominica XXII per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_O_lux_beata_Trinitas</HYMNUS_vepres>
+ 
+<ant7>AN_Sacerdos_in_aeternum</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Deus_noster_in_caelo</ant8>
+ 
+<ps8>ps113B</ps8>
+ 
+<ant9>AN_Laudem_dicite_Deo</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_2Th2,13-14</LB_soir>
+ 
+<RB_soir>RB_Magnus_Dominus_noster</RB_soir>
+ 
+<magnificat>AN_Quodcumque_ligaveris_super</magnificat>
+ 
+<vepres_preces>perannum_21</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_virtutum_cuius_est_totum_quod</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Miserere_tribulor</IN>
+<IN_L>IN_L_perannum_22</IN_L>
+<COL>COL_perannum_22</COL>
+<LEC>LEC_Ez33,7-9</LEC>
+<PS1>GR_Timebunt_gentes</PS1>
+<LEC2>LEC_Rm12,1-2</LEC2>
+
+<PS2>AL_Cantate_Domino</PS2>
+<EV>EV_Mt16,21-27</EV>
+<OF>OF_Domine_in_auxilium</OF>
+<SO>SO_perannum_22</SO>
+<CO>CO_Qui_vult_venire</CO>
+<CO_L>CO_L_perannum_22</CO_L>
+<PC>PC_perannum_22</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Gr&#xE9;goire le Grand, pape et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>Pape, il fut un homme de pri&#xE8;re et d'action, soulagea la mis&#xE8;re du peuple romain, embellit la liturgie, docteur de l&#x2019;&#xC9;glise (&#x2020;604)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 3 septembre</para><para>1. M&#xE9;moire de saint Gr&#xE9;goire le Grand, pape et docteur de l&#x2019;&#xC9;glise. Apr&#xE8;s avoir commenc&#xE9; la vie monastique, il fut charg&#xE9; de mission &#xE0; Constantinople et fut enfin &#xE9;lu en ce jour, en 590, au si&#xE8;ge de Rome. Serviteur des serviteurs de Dieu, il organisa les affaires temporelles et veilla aux int&#xE9;r&#xEA;ts de la religion. Il se montra vrai pasteur en dirigeant l&#x2019;&#xC9;glise, en subvenant de toutes les mani&#xE8;res aux besoins des pauvres, en favorisant la vie monastique, en affermissant partout la foi ou en la propageant, et il &#xE9;crivit aussi, beaucoup et excellemment, sur la morale et la pastorale. Il mourut le 12 mars&#xA0;604. </para><para>2. Comm&#xE9;moraison de sainte Phoeb&#xE9;, ministre de l&#x2019;&#xC9;glise de Cenchr&#xE9;es, qui prit soin de l&#x2019;Ap&#xF4;tre saint Paul et de beaucoup de gens, comme il l&#x2019;atteste lui-m&#xEA;me dans sa lettre aux Romains. </para><para>3. &#xC0; Nicom&#xE9;die en Bithynie, au IVe sicle, sainte Basilisse, vierge et martyre. </para><para>4. &#xC0; Cordoue en Espagne, vers le IVe si&#xE8;cle, saint Sandale, martyr.</para><para>5. &#xC0; Toul au IVe si&#xE8;cle, saint Mansuy, premier &#xE9;v&#xEA;que de cette cit&#xE9;. </para><para>6. Au mont Titan, pr&#xE8;s de Rimini sur l&#x2019;Adriatique, vers le IVe si&#xE8;cle, saint Marin, diacre et ermite, qui conduisit, pense-t-on, le peuple de la r&#xE9;gion, encore pa&#xEF;en, &#xE0; la lumi&#xE8;re de l&#x2019;&#xC9;vangile et &#xE0; la libert&#xE9; du Christ. </para><para>7*. En Irlande, vers 514, saint Macanisius (Oengus Mac Nisse), qui fut d&#x2019;abord ermite, puis &#xE9;v&#xEA;que de son clan. </para><para>8. &#xC0; Milan, vers 559, saint Auxence, &#xE9;v&#xEA;que.</para><para>9*. &#xC0; Caudium en Campanie, au VIIe ou VIIIe si&#xE8;cle, saint Vitalien.</para><para>10*. &#xC0; Stavelot dans la Brabant, entre 671 et 679, saint Remacle, &#xE9;v&#xEA;que et abb&#xE9;. D&#x2019;abord moine &#xE0; Luxeuil, il fonda, &#xE0; la demande de saint &#xC9;loi, le monast&#xE8;re de Solignac, puis, dans la vaste solitude de la for&#xEA;t d&#x2019;Ardenne, un double monast&#xE8;re, &#xE0; Stavelot et Malm&#xE9;dy. </para><para>11. Dans l&#x2019;&#xEE;le de L&#xE9;rins, vers 675, saint Ayoul, abb&#xE9;, et ses moines, qui auraient subi le martyre lors d&#x2019;une incursion des Sarrasins. </para><para>12*. &#xC0; S&#xE9;es, au VIIIe si&#xE8;cle, saint Chrodegang, &#xE9;v&#xEA;que et martyr, assassin&#xE9; &#xE0; son retour d&#x2019;un p&#xE8;lerinage &#xE0; Rome, sur l&#x2019;ordre d&#x2019;un de sa parent&#xE9;, &#xE0; qui il avait confi&#xE9; le dioc&#xE8;se en son absence. </para><para>13*. Au monast&#xE8;re d&#x2019;Astino dans le pays de Bergame, en Lombardie, l&#x2019;an&#xA0;1244, la d&#xE9;position du bienheureux Guala, &#xE9;v&#xEA;que de Brescia, de l&#x2019;Ordre des Pr&#xEA;cheurs, qui travailla pour le bien de la paix entre l&#x2019;&#xC9;glise et l&#x2019;Empire au temps de l&#x2019;empereur Fr&#xE9;d&#xE9;ric II.</para><para>14. &#xC0; Nagasaki au Japon, en 1632, le bienheureux Barth&#xE9;lemy Gutierrez, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin, et cinq compagnons martyrs, qui, en haine de la foi chr&#xE9;tienne, furent d&#x2019;abord plong&#xE9;s dans des eaux sulfureuses br&#xFB;lantes, puis jet&#xE9;s sur un b&#xFB;cher. </para><para>15*. &#xC0; Plaisance en &#xC9;milie, l&#x2019;an&#xA0;1679, la bienheureuse Brigitte de J&#xE9;sus (Morello). Devenue veuve, elle se consacra au Seigneur en mettant tout son z&#xE8;le &#xE0; le servir dans la p&#xE9;nitence et les &#x153;uvres de charit&#xE9;, et fonda la Congr&#xE9;gation des S&#x153;urs ursulines de Marie Immacul&#xE9;e pour l&#x2019;&#xE9;ducation chr&#xE9;tienne des jeunes filles. </para><para>16*. &#xC0; Paris, le bienheureux Andr&#xE9; Abel Alricy pr&#xEA;tre et martyr et les soixante-quinze bienheureux martyrs, pr&#xEA;tres pour la plupart&#xA0;; le lendemain du massacre perp&#xE9;tr&#xE9; au couvent des Carmes, sous la R&#xE9;volution&#xB2;</para><para>17*. Les bienheureux martyrs Jean-Baptiste Bottex, Michel Marie Fran&#xE7;oise de la Gardette, Fran&#xE7;oise Hyacinthe le Livec de Tr&#xE9;surin,</para><para>18. &#xC0; S&#xE9;oul en Cor&#xE9;e, l&#x2019;an&#xA0;1839, la passion de saint Jean Pak Hu-jae et cinq compagnes, martyrs. Quand vint la pers&#xE9;cution, ils furent conduits comme chr&#xE9;tiens au tribunal criminel, subirent pour la foi de terribles tortures et furent &#xE0; la fin d&#xE9;capit&#xE9;s. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

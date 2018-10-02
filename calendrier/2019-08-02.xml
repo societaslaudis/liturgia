@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XVII per annum</la><fr>XVII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Petri Iuliani Eymard, presbyteri</la><fr>St Pierre Julien Eymard, pr&#xEA;tre</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Confitemini_Domino_quia</invitatoire>
+
+<HYMNUS_lectures>hy_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+
+<antL1>AN_Exsurge_Domine_in</antL1>
+
+<psL1>ps34I</psL1>
+
+<antL2>AN_Iudica_causam_meam;</antL2>
+
+<psL2>ps34II</psL2>
+
+<antL3>AN_Lingua_mea_tota</antL3>
+
+<psL3>ps34III</psL3>
+
+<LVers>VERS_Fili_mi</LVers>
+n<Llec1>L1_perannum_17-6</Llec1>
+
+<Lrep1>R1_perannum_17-6</Lrep1>
+
+<Llec2>L2_perannum_17-6</Llec2>
+
+<Lrep2>R2_perannum_17-6</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aterna_caeli_gloria</HYMNUS_laudes>
+ 
+<ant1>AN_Acceptabis_sacrificium_iustitiae</ant1>
+ 
+<ps1>ps50</ps1>
+ 
+<ant2>AN_In_Domino_iustificabitur</ant2>
+ 
+<ps2>AT27</ps2>
+ 
+<ant3>AN_Introite_in_conspectu</ant3>
+ 
+<ps3>ps99</ps3>
+ 
+<LB_matin>LB_Eph_4_29-32</LB_matin> 
+ 
+<RB_matin>RB_Auditam_fac_mihi_mane_</RB_matin>  
+<benedictus>AN_Visitavit_et_fecit</benedictus> 
+<laudes_preces>perannum_16</laudes_preces><oratio_laudes>COL_Deus_qui_tenebras_ignorantiae_Verbi_tui</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Viam_mandatorum_tuorum</ant4>
+ 
+<ps4>ps118IV</ps4>
+ 
+<ant5>AN_In_Domino_sperans</ant5>
+ 
+<ps5>ps25</ps5>
+ 
+<ant6>AN_In_Domino_speravit</ant6>
+ 
+<ps6>ps27</ps6>
+ 
+<LB_3>LB_Phil_2_2b-4</LB_3>
+ 
+<RB_3>VERS_Universae_viae</RB_3>
+ 
+<LB_6>LB_2_Cor_13_4</LB_6>
+ 
+<RB_6>VERS_Adhaesit_pulveri</RB_6>
+ 
+<LB_9>LB_Col_3_12-13</LB_9>
+ 
+<RB_9>VERS_Miserator_et</RB_9>
+ 
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+ 
+<oratio_6>COL_Domine_Iesu_Christe_qui_hora_sexta</oratio_6>
+ 
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Plasmator_hominis_Deus</HYMNUS_vepres>
+ 
+<ant7>AN_Sana_Domine_animam</ant7>
+ 
+<ps7>ps40</ps7>
+ 
+<ant8>AN_Dominus_virtutum_nobiscum</ant8>
+ 
+<ps8>ps45</ps8>
+ 
+<ant9>AN_Omnes_gentes_venient</ant9>
+ 
+<ps9>NT11</ps9>
+ 
+<LB_soir>LB_Rom_15_1-3</LB_soir>
+ 
+<RB_soir>RB_Christus_dilexit_nos</RB_soir>
+ 
+<magnificat>AN_Suscepit_nos_Dominus</magnificat>
+ 
+<vepres_preces>perannum_16</vepres_preces>
+ 
+<oratio_vepres>COL_Concede_nobis_famulis_tuis_quaesumus_Domine</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+ 
+<comp_ps1>ps87</comp_ps1> 
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+ 
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Deus_in_loco_sancto_suo</IN>
+<IN_L>IN_L_perannum_17</IN_L>
+<COL>COL_perannum_17</COL>
+<LEC>LEC_Lv23,1-37</LEC>
+<PS1>GR_In_Deo_speravit</PS1>
+<PS2>AL_Exsultate_Deo</PS2>
+<EV>EV_Mt13,54-58</EV>
+<OF>OF_Exaltabo_te</OF>
+<SO>SO_perannum_17</SO>
+<CO>CO_Honora_Dominum</CO>
+<CO_L>CO_L_perannum_17</CO_L>
+<PC>PC_perannum_17</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Eus&#xE8;be de Verceil, &#xE9;v&#xEA;que</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que, il lutta contre l'arianisme. Exil&#xE9;, il mourut martyr des suites des mauvais traitements subis (&#x2020;371)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Pierre Julien Eymard, pr&#xEA;tre</intitule>
+ <biographiecourte>Fondateur de la Soci&#xE9;t&#xE9; des pr&#xEA;tres du St-Sacrement, aida Pauline Jaricot fondatrice de la Propagation de la Foi (&#x2020;1868)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 2 ao&#xFB;t</para><para>M&#xE9;moire de saint Eus&#xE8;be, &#xE9;v&#xEA;que. Premier pasteur de Verceil en Pi&#xE9;mont, il consolida l&#x2019;&#xC9;glise dans toute la r&#xE9;gion sub-alpine et, &#xE0; cause de la confession de foi de Nic&#xE9;e, il fut rel&#xE9;gu&#xE9; par l&#x2019;empereur Constance &#xE0; Scythopolis, puis en Cappadoce et en Th&#xE9;ba&#xEF;de, d&#x2019;o&#xF9; il revint &#xE0; son si&#xE8;ge au bout de huit ans d&#x2019;exil, et il voulut mener avec ses clercs la vie commune. Il mourut, confesseur de la foi, le premier ao&#xFB;t&#xA0;371.</para><para>M&#xE9;moire de saint Pierre-Julien Eymard, pr&#xEA;tre, d&#x2019;abord dioc&#xE9;sain, puis membre de la Soci&#xE9;t&#xE9; de Marie. Il fut un propagateur merveilleux du culte du myst&#xE8;re eucharistique, ce qui le conduisit &#xE0; fonder deux nouvelles Congr&#xE9;gations, celle des Pr&#xEA;tres, et celle des Servantes du Saint-Sacrement pour v&#xE9;n&#xE9;rer et diffuser la pi&#xE9;t&#xE9; envers le sacrement de l&#x2019;Eucharistie. Il mourut, en 1868, &#xE0; La Mure, pr&#xE8;s de Grenoble o&#xF9; il &#xE9;tait n&#xE9;.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; En Afrique, avant&#xA0;212, saint Rutilius, martyr. Apr&#xE8;s avoir plusieurs fois chang&#xE9; de lieu pour fuir la pers&#xE9;cution, et s&#x2019;&#xEA;tre m&#xEA;me quelque fois rachet&#xE9; &#xE0; prix d&#x2019;argent, il fut un jour surpris inopin&#xE9;ment et pr&#xE9;sent&#xE9; au juge, qui lui fit souffrir de nombreux tourments. Enfin, jet&#xE9; dans le feu, il re&#xE7;ut la couronne d&#x2019;un glorieux martyre.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, sur la voie Appienne, au cimeti&#xE8;re de Calliste, en 257, saint &#xC9;tienne Ier, pape. Pour que l&#x2019;union baptismale des chr&#xE9;tiens avec le Christ, qui ne doit se faire qu&#x2019;une fois, ne soit pas obscurcie, il interdit de r&#xE9;it&#xE9;rer le bapt&#xEA;me des h&#xE9;r&#xE9;tiques qui demanderaient la pleine communion de l&#x2019;&#xC9;glise.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; Au pays de Burgos en Espagne, sainte Centolle, martyre</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Padoue en V&#xE9;n&#xE9;tie, au IIIe ou IVe si&#xE8;cle, saint Maxime, &#xE9;v&#xEA;que, qui succ&#xE9;da, dit-on, au premier &#xE9;v&#xEA;que, saint 
+         </para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Marseille, apr&#xE8;s 601, saint S&#xE9;r&#xE9;nus, &#xE9;v&#xEA;que, qui accueillit saint Augustin et les autres moines envoy&#xE9;s en Angleterre par le pape saint Gr&#xE9;goire le Grand. Il serait mort, en se rendant &#xE0; Rome, au pays de Verceil.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Chartres, vers 623, saint B&#xE9;thaire, &#xE9;v&#xEA;que</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Palencia en Vieille Castille, l&#x2019;an&#xA0;1109, le tr&#xE9;pas de saint Pierre, &#xE9;v&#xEA;que d&#x2019;Osma&#xA0;; d&#x2019;abord moine, puis archidiacre de Tol&#xE8;de, enfin plac&#xE9; &#xE0; la t&#xEA;te du dioc&#xE8;se d&#x2019;Osma r&#xE9;cemment lib&#xE9;r&#xE9; de la domination des Maures, il le restaura avec tout le z&#xE8;le d&#x2019;un pasteur</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; En Castille, Bienheureuse Joannae</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution qui s&#xE9;vit au cours de la guerre civile, en 1936, les bienheureux martyrs&#xA0;: &#xE0; Basbastre, Philippe de J&#xE9;sus Munarriz Azcona, Jean Diaz Nosti et L&#xE9;once P&#xE9;rez Ramos, pr&#xEA;tres, missionnaires fils du Coeur Immacul&#xE9; de Marie, fusill&#xE9;s par les miliciens &#xE0; la porte du cimeti&#xE8;re &#x2013; </para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution qui s&#xE9;vit au cours de la guerre civile, en 1936, le bienheureux Z&#xE9;phyrin Gim&#xE9;nez Malla, tsigane, qui s&#x2019;employa &#xE0; promouvoir la paix et la concorde entre son peuple et ses voisins et, parce qu&#x2019;il cherchait &#xE0; d&#xE9;fendre un pr&#xEA;tre maltrait&#xE9; par des miliciens dans les rues, fut emprisonn&#xE9;, conduit au cimeti&#xE8;re et fusill&#xE9;, tenant en main son chapelet</para><para>13*. En Espagne, &#xE0; Hijar pr&#xE8;s de Teruel, le bienheureux Fran&#xE7;ois Calvo Burillo, pr&#xEA;tre dominicain.</para><para>&#xA0;14*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution qui s&#xE9;vit au cours de la guerre civile, en 1936, le bienheureux Fran&#xE7;ois Tomas Serer, pr&#xEA;tre du Tiers-Ordre franciscain.</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Italie, en 1955, le bienheureux Giustino Maria Russolillo, fondateur de la soci&#xE9;t&#xE9; des vocations Divines. (b&#xE9;atifi&#xE9; le 7 mai 2011 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

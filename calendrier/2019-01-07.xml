@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>5</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Nativitatis</la><fr>Temps de la Nativit&#xE9;</fr></tempus>
+<hebdomada><la>Hebdomada III post Nativitatem</la><fr>III&#xE8;me semaine apr&#xE8;s la Nativit&#xE9;</fr></hebdomada>
+<intitule><la>In Baptismate Domini</la><fr>In Baptismate Domini</fr></intitule>
+<rang><la>Festum</la><fr>F&#xEA;te</fr></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Filium_dilectum</invitatoire>
+
+<HYMNUS_lectures>hy_Somno_refectis_artubus</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Aeterna_lux_divinitas</HYMNUS_lec_jour>
+
+<antL1>AN_Salvum_me_fac</antL1>
+
+<psL1>ps6</psL1>
+
+<antL2>AN_Factus_est</antL2>
+
+<psL2>ps9AI</psL2>
+
+<antL3>AN_Annuntiabo_laudationes_tuas</antL3>
+
+<psL3>ps09II</psL3>
+
+<LVers>VERS_Da_mihi</LVers>
+n<Llec1>L1_In_Baptismate_Domini</Llec1>
+
+<Lrep1>R1_In_Baptismate_Domini</Lrep1>
+
+<Llec2>L2_In_Baptismate_Domini</Llec2>
+
+<Lrep2>R2_In_Baptismate_Domini</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>In_Baptismate_Domini-NOCT1</LEC_NOCT1>
+
+<LEC_NOCT2>In_Baptismate_Domini-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>In_Baptismate_Domini-NOCT3-C</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Iesus_refulsit_omnium</HYMNUS_laudes>
+ 
+<ant1>AN_Baptizat_miles_Regem</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Fontes_aquarum_sanctificati</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Te_qui_in</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Is_61_1-2a</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi_Qui_apparu&#xED;sti</RB_matin>  
+<benedictus>AN_Baptizatur_Christus_et</benedictus> 
+<laudes_preces>INBAPTISMATE_DOMINI</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_Christum_in</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Ioannes_prohibebat_Iesum</ant4>
+ 
+<ps4>ps18B</ps4>
+ 
+<ant5>AN_Respondens_autem_Iesus</ant5>
+ 
+<ps5>ps7I</ps5>
+ 
+<ant6>AN_Testimonium_perhibuit_Ioannes</ant6>
+ 
+<ps6>ps7II</ps6>
+ 
+<LB_3>LB_Is_11_1-3a</LB_3>
+ 
+<RB_3>VERS_Illum_oportet_crescere_Me_autem</RB_3>
+ 
+<LB_6>LB_Is_42_1</LB_6>
+ 
+<RB_6>VERS_Ecce_servus_meus_suscipiam_eum</RB_6>
+ 
+<LB_9>LB_Is_49_6</LB_9>
+ 
+<RB_9>VERS_Ponam_spiritum_meum_super_eum</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Christum_in</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_sempiterne_Deus_qui_Christum_in</oratio_6>
+ 
+<oratio_9>COL_Omnipotens_sempiterne_Deus_qui_Christum_in</oratio_9>
+ 
+<intitule_soir><la>In Baptismate Domini</la></intitule_soir>
+ 
+<rang_soir><la>Festum</la></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Implente_munus_debitum</HYMNUS_vepres>
+ 
+<ant7>AN_Vox_de_caelis</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Caput_draconis_Salvator</ant8>
+ 
+<ps8>ps111</ps8>
+ 
+<ant9>AN_Magnum_mysterium_declaratur</ant9>
+ 
+<ps9>NT11</ps9>
+ 
+<LB_soir>LB_Act_10_37-38</LB_soir>
+ 
+<RB_soir>RB_Hic_est_qui_venit_</RB_soir>
+ 
+<magnificat>AN_Christus_Iesus_dilexit</magnificat>
+ 
+<vepres_preces>INBAPTISMATE_DOMINI</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_Christum_in</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+ 
+<comp_ps1>ps85</comp_ps1> 
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+ 
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Dilexisti</IN>
+<COL>COL_Omnipotens_sempiterne_Deus_qui_Christum_in</COL>
+<LEC>LEC_Is42,1-4.6-7</LEC>
+<PR>PR_Ps28,1aet2.3ac-4.3bet9b-10</PR>
+<LEC>LEC_Is40,1.9-11</LEC>
+<PS1>GR_Benedictus_qui_venit</PS1>
+<PS1>GR_Dilexisti</PS1><LEC2>LEC_Act10,34-38</LEC2>
+<LEC2>LEC_Tt2,11-14.3,4-7</LEC2>
+
+<PS2>AL_Benedictus_qui_venit</PS2>
+<PS2>AL_Inveni_David</PS2>
+<EV>EV_Lc3,15-16.21-22</EV>
+<OF>OF_Benedictus_qui_venit</OF>
+<CO>CO_Omnes_qui_in_Christo</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Raymond de Penyafort, pr&#xEA;tre.</intitule>
+ <biographiecourte>Dominicain, il codifia le droit eccl&#xE9;siastique (&#x2020;1275)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Andr&#xE9; Bessette</intitule>
+ <biographiecourte>Religieux, b&#xE2;tisseur de l'Oratoir saint-Joseph du Mont-Royal, Montr&#xE9;al (&#x2020;1937)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Bapt&#xEA;me du Seigneur</para><para>F&#xEA;te du Bapt&#xEA;me de notre Seigneur J&#xE9;sus-Christ, que Dieu a d&#xE9;clar&#xE9; Son Fils bien-aim&#xE9;, dans l&#x2019;eau sanctifiante, pour la purification de l&#x2019;homme, alors qu&#x2019;exulte toute la terre.</para><para>
+            Le 7 janvier</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de saint Raymond de Penyafort, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs. C&#xE9;l&#xE8;bre par sa science du droit canonique, il &#xE9;crivit une Somme tr&#xE8;s utile sur le sacrement de p&#xE9;nitence, et, &#xE9;lu ma&#xEE;tre g&#xE9;n&#xE9;ral de son Ordre, il r&#xE9;digea de nouvelles Constitutions. Il s&#x2019;endormit dans le Seigneur &#xE0; Barcelone, le 6 janvier 1275, en une grande vieillesse. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; M&#xE9;lit&#xE8;ne en Arm&#xE9;nie, vers 250, saint Polyeucte, martyr. Soldat oblig&#xE9; de sacrifier aux dieux par l&#x2019;&#xE9;dit de l&#x2019;empereur D&#xE8;ce, il brisa les idoles, subit pour cela de multiples supplices et enfin, d&#xE9;capit&#xE9;, fut baptis&#xE9; dans son sang. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nicom&#xE9;die en Bithynie, en 312, la passion de saint Lucien, pr&#xEA;tre de l&#x2019;&#xC9;glise d&#x2019;Antioche et martyr. Remarquable par sa science et son &#xE9;loquence, tra&#xEE;n&#xE9; devant le tribunal et press&#xE9; de questions au milieu des tortures, durant la pers&#xE9;cution de Gal&#xE8;re Maximien, il se contenta de r&#xE9;pondre intr&#xE9;pidement &#xAB;&#xA0;Je suis chr&#xE9;tien&#xA0;&#xBB;.</para><para>4*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Passau dans le Norique, comm&#xE9;moraison de Saint Valentin, &#xE9;v&#xEA;que de R&#xE9;tie, vers&#xA0;450. Saint Valentini, </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pavie en Lombardie, l&#x2019;an&#xA0;467 Saint Crispin, &#xE9;v&#xEA;que</para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Coire en Suisse, en 548, saint Valentinien, &#xE9;v&#xEA;que, qui, de ses propres ressources, secourut les pauvres, racheta des captifs et pourvut largement de v&#xEA;tements les n&#xE9;cessiteux. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Solignac dans le Limousin, en 702, saint Th&#xE9;au ou Tillon. Disciple de saint &#xC9;loi, qui le tira de l&#x2019;esclavage et l&#x2019;ordonna pr&#xEA;tre, il fut &#xE0; la fois orf&#xE8;vre, homme de pri&#xE8;re, et se retira comme reclus pr&#xE8;s du monast&#xE8;re. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Constantinople, en 714, saint Cyr, &#xE9;v&#xEA;que. Moine en Paphlagonie, il fut &#xE9;lu au si&#xE8;ge de la Cit&#xE9; imp&#xE9;riale, mais il en fut chass&#xE9; par la suite et mourut en exil.</para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; Au Mans, en 856, saint Aldric, &#xE9;v&#xEA;que, qui mit tout son z&#xE8;le &#xE0; d&#xE9;velopper le culte de Dieu et des saints. </para><para>10. &#xA0; &#xA0; &#xA0; &#xA0; Au Danemark, en 1137, saint Canut, surnomm&#xE9; Lavard, martyr. Duc de Schleswig, il gouverna avec justice et prudence et favorisa le christianisme. Il fut assassin&#xE9;, dans une for&#xEA;t, par des ennemis envieux de son autorit&#xE9;.</para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Palerme en Sicile, en 1451, le tr&#xE9;pas du bienheureux Matthieu Guimera, &#xE9;v&#xEA;que d&#x2019;Agrigente, de l&#x2019;Ordre des Mineurs, propagateur du culte du Saint Nom de J&#xE9;sus. </para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Suzuta au Japon, en 1620, le bienheureux Ambroise Fernandez, martyr, qui partit en Orient pouss&#xE9; par le d&#xE9;sir de s&#x2019;enrichir, mais fut ensuite admis dans la Compagnie de J&#xE9;sus et mourut en prison pour le Christ, bris&#xE9; par des privations de toute sorte. </para><para>13. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; An Bai au Tonkin, en 1862, saint Joseph Tu&#xE2;n, martyr. P&#xE8;re de famille et cultivateur, quand il re&#xE7;ut l&#x2019;ordre de fouler la croix aux pieds, il s&#x2019;agenouilla et pria devant elle. Il fut d&#xE9;capit&#xE9; sous l&#x2019;empereur Tu Duc. </para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Li&#xE8;ge, en 1876, la bienheureuse Marie-Th&#xE9;r&#xE8;se (Jeanne Haze), vierge, qui fonda la Congr&#xE9;gation des Filles de la Croix pour le service des infirmes et des pauvres. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; Au Br&#xE9;sil, en 1993, la bienheureuse Lindalva Justo de Oliveira, fille de la charit&#xE9;, martyre. (b&#xE9;atifi&#xE9;e par Benoit XVI le 2 d&#xE9;cembre 2007)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

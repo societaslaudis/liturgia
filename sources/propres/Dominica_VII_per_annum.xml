@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica VII per annum</la>
+<fr>VII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+
+<HYMNUS_1V id="hy_Deus_creator_omnium"/>
+ <ps01 id="ps112"/>
+<ps02 id="ps115"/>
+<ps03 id="NT5"/>
+<ant01 id="AN_A_solis_ortu"/>
+<ant02 id="AN_Calicem_salutaris_accipiam"/>
+<ant03 id="AN_Humiliavit_semetipsum_Dominus"/>
+<LB_1V id="LB_Hebr_13_20-21"/>
+<RB_1V id="RB_Quam_magnificata_sunt"/>
+
+
+<magnificat1_A id="AN_Diligite_inimicos_vestros"/>
+<magnificat1_B id="AN_Veniunt_ferentes_ad"/>
+<magnificat1_C id="AN_Prout_vultis_ut"/>
+<oratio id="COL_Praesta_quaesumus_omnipotens_Deus_ut_semper"/>
+<oratio_3 id="COL_Praesta_quaesumus_omnipotens_Deus_ut_semper"/>
+<oratio_6 id="COL_Praesta_quaesumus_omnipotens_Deus_ut_semper"/>
+<oratio_9 id="COL_Praesta_quaesumus_omnipotens_Deus_ut_semper"/>
+
+<benedictus_A id="AN_Pater_vester_solem"/>
+<benedictus_B id="AN_Dixit_Iesus_Ut"/>
+<benedictus_C id="AN_Nolite_iudicare_ut"/>
+<magnificat_A id="AN_Estote_vos_perfecti"/>
+<magnificat_B id="AN_Tulit_paralyticus_lectum"/>
+<magnificat_C id="AN_Dimittite_et_dimittemini;"/>
+</liturgia>

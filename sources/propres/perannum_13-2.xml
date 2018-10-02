@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+
+<messe>
+	<IN id="IN_Omnes_gentes"/>
+	<COL id="COL_perannum_13"/>
+	<LEC>
+		<impaire id="LEC_Gn18,16-33"/>
+		<paire id="LEC_Am2,6-16"/>
+	</LEC>
+	<PR> 
+		<impaire id="PR_Ps103,1"/>
+		<paire id="PR_Ps50,16"/>
+	</PR>
+	<PS1 id="GR_Venite_filii"/>
+	<PS2 id="AL_Omnes_gentes"/>
+	<EV id="EV_Mt8,18-22"/>
+	<OF id="OF_Sicut_in_holocausto"/>
+	<SO id="SO_perannum_13"/>
+	<CO id="CO_Inclina_aurem_tuam"/>
+	<PC id="PC_perannum_13"/>
+	<IN_L id="IN_L_perannum_13"/>
+	<CO_L id="CO_L_perannum_13"/>
+	</messe>
+</liturgia>

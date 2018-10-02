@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<liturgia>
+<preces id="perannum_10"/>
+
+<HYMNUS_completorium id="HY_Te_lucis_ante_terminum"/>
+<ant10 id="AN_Miserere_mei_Domine"/>
+<ps10 id="ps4"/>
+<ant11 id="AN_In_noctibus"/>
+<ps11 id="ps133"/>
+<LB_completorium id="LB_Deut_6_4-7"/>
+<RB_completorium id="RB_In_manus_tuas"/>
+<oratio_completorium id="COL_Visita_nos_quaesumus_Domine"/>
+<AM id="AM_Salve_regina"/>
+</liturgia>

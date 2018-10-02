@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<liturgia>
+<martyrologe>La C&#xE8;ne du Seigneur, lorsque le Christ J&#xE9;sus, avant Son crucifiement pour notre salut, institua la c&#xE9;l&#xE9;bration des myst&#xE8;res du Corps et du Sang &#xE0; Ses disciples.
+</martyrologe>
+ <HYMNUS_laudes id="hy_En_acetum_fel_arundo"/>
+<ant1 id="AN_Vide_Domine_et"/>
+<ant2 id="AN_Ecce_Deus_salvator"/>
+<ant3 id="AN_Cibavit_nos_Dominus"/>
+<LB_matin id="LB_Hebr_2_9b-10"/>
+<RB_matin id="RB_Redemisti_nos_Domine_In"/>
+<benedictus id="AN_Desiderio_desideravi_hoc"/>
+<preces_matin>
+<la>preces_I</la>
+</preces_matin>
+<oratio_laudes id="COL_Deus_quem_diligere_et_amare_iustitia"/>
+<HYMNUS_tertiam id="hy_Celsae_salutis_gaudia"/>
+<HYMNUS_sextam id="hy_Celsae_salutis_gaudia"/>
+<HYMNUS_nonam id="hy_Celsae_salutis_gaudia"/>
+<ant4 id="AN_Ante_diem_festum"/>
+<ant5 id="AN_Sicut_novit_me"/>
+<ant6 id="AN_Mihi_vivere_Christus"/>
+<LB_3 id="LB_Hebr_4_14-15"/>
+<RB_3 id="VERS_Oblatus_est_quia_ipse_voluit"/>
+<oratio_3 id="COL_Deus_quem_diligere_et_amare_iustitia"/>
+<LB_6 id="LB_Hebr_7_26-27"/>
+<RB_6 id="VERS_Vere_languores_nostros_ipse_tulit"/>
+<oratio_6 id="COL_Deus_quem_diligere_et_amare_iustitia"/>
+<LB_9 id="LB_Hebr_9_11-12"/>
+<RB_9 id="VERS_Adoremus_crucis_signaculum_Per"/>
+<oratio_9 id="COL_Deus_quem_diligere_et_amare_iustitia"/>
+<HYMNUS_vesperas id="hy_O_memoriale_mortis_Domini"/>
+<ant7 id="AN_Fecit_nos_Deo"/>
+<ant8 id="AN_Liberabit_Dominus_pauperem"/>
+<ant9 id="AN_Sancti_vicerunt_propter"/>
+<LB_soir id="LB_Hebr_13_12-15"/>
+<RB_soir id="RB_Christus_factus_est_pro_nobis"/>
+<magnificat id="AN_Cenantibus_illis_accepit"/>
+<oratio_vesperas id="COL_Deus_qui_ad_gloriam_tuam_et"/>
+<preces_soir>
+<la>preces_II</la>
+</preces_soir>
+<messe>
+	<intitule>Ad missam chrismatis</intitule>
+	<IN id="IN_Dilexisti"/>
+	<LEC id="LEC_Is61,1-9"/> 
+	<PR id="PR_Ps89,20"/>
+	<LEC2 id="LEC_Ap1,5-8"/>
+	<EV id="EV_Lc4,16-21"/>
+	<PS1 id="GR_Inveni_David"/>
+	<PS2 id="TR_Confitemini"/>
+	<OF id="HY_O_Redemptor"/>
+	<CO id="CO_Dilexisti_iustitiam"/>
+	</messe>
+<messe>
+	<intitule>Ad missam vespertinam in Coena Domini</intitule>
+		<IN id="IN_Nos_autem_gloriari"/>
+		<PS1 id="GR_Oculi_omnium"/>
+		<PS2 id="TR_Ab_ortu_solis"/>
+		<OF id="OF_Ubi_caritas"/>
+		<CO id="CO_Hoc_corpus"/>
+		<LEC id="LEC_Ex12,1-14"/>
+		<PR	id="PR_Ps116,12"/>
+		<LEC2 id="LEC_1Co11,23-26"/>
+		<EV	id="EV_Jn13,1-15"/>
+
+		<autre1 id="AN_Postquam_surrexit"/>
+		<autre2 id="AN_Dominus_Iesus"/>
+		<autre3 id="AN_Domine_tu_mihi_lavas_pedes"/>
+		<autre4 id="AN_Si_Ego_Dominus"/>
+		<autre5 id="AN_In_hoc_cognoscent_omnes"/>
+		<autre6 id="AN_Mandatum_novum"/>
+		<autre7 id="AN_Maneant_in_vobis"/>
+		<autre8 id="HY_Pange_lingua_corporis"/>
+		
+	</messe>
+
+
+</liturgia>

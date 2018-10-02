@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica III per annum</la>
+<fr>III&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<HYMNUS_1V id="hy_Deus_creator_omnium"/>
+ <ps01 id="ps112"/>
+<ps02 id="ps115"/>
+<ps03 id="NT5"/>
+<ant01 id="AN_A_solis_ortu"/>
+<ant02 id="AN_Calicem_salutaris_accipiam"/>
+<ant03 id="AN_Humiliavit_semetipsum_Dominus"/>
+<LB_1V id="LB_Hebr_13_20-21"/>
+<RB_1V id="RB_Quam_magnificata_sunt"/>
+
+
+<magnificat1_A id="AN_Dicit_Dominus_Paenitentiam"/>
+<magnificat1_B id="AN_Venit_Iesus_in"/>
+<magnificat1_C id="AN_Venit_Iesus_in"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_dirige_actus_nostros"/>
+<oratio_3 id="COL_Omnipotens_sempiterne_Deus_dirige_actus_nostros"/>
+<oratio_6 id="COL_Omnipotens_sempiterne_Deus_dirige_actus_nostros"/>
+<oratio_9 id="COL_Omnipotens_sempiterne_Deus_dirige_actus_nostros"/>
+
+<benedictus_A id="AN_Ambulans_iuxta_mare"/>
+<benedictus_B id="AN_Venite_post_me"/>
+<benedictus_C id="AN_Spiritus_Domini_super"/>
+<magnificat_A id="AN_Praedicabat_Iesus_Evangelium"/>
+<magnificat_B id="AN_Relictis_retibus_suis"/>
+<magnificat_C id="AN_Cum_plicuisset_librum"/>
+</liturgia>

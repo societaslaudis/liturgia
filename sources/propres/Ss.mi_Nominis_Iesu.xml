@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<liturgia>
+	<messe>
+	<IN id="IN_In_nomine_Iesu"/>
+	<PS1 id="GR_Salvos_fac_nos"/>
+	<PS2 id="AL_Laudem_Domini"/>
+	<OF id="OF_Confitebor"/>
+	<CO id="CO_Omnes_gentes"/>
+	</messe>
+</liturgia>

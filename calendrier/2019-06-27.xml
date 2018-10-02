@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>3</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XII per annum</la><fr>XII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>SACRATISSIMI CORDIS IESU</la><fr>TRES SAINT COEUR DE JESUS</fr></intitule>
+<rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Introite_in_conspectu</invitatoire>
+
+<HYMNUS_lectures>hy_Ales_diei_nuntius</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Amoris_sensus_erige</HYMNUS_lec_jour>
+
+<antL1>AN_Brachium_eorum_non</antL1>
+
+<psL1>ps43I</psL1>
+
+<antL2>AN_Non_avertet_Dominus</antL2>
+
+<psL2>ps43II</psL2>
+
+<antL3>AN_Exsurge_Domine_et</antL3>
+
+<psL3>ps43III</psL3>
+
+<LVers>VERS_Faciem_tuam</LVers>
+n<Llec1>L1_SACRATISSIMI_CORDIS_IESU</Llec1>
+
+<Lrep1>R1_SACRATISSIMI_CORDIS_IESU</Lrep1>
+
+<Llec2>L2_SACRATISSIMI_CORDIS_IESU</Llec2>
+
+<Lrep2>R2_SACRATISSIMI_CORDIS_IESU</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>SACRATISSIMI_CORDIS_IESU-NOCT1</LEC_NOCT1>
+
+<LEC_NOCT2>SACRATISSIMI_CORDIS_IESU-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>SACRATISSIMI_CORDIS_IESU-NOCT3-C</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Iam_lucis_orto_sidere</HYMNUS_laudes>
+ 
+<ant1>AN_Auditam_fac_mihi</ant1>
+ 
+<ps1>ps142</ps1>
+ 
+<ant2>AN_Declinabit_Dominus_super</ant2>
+ 
+<ps2>AT32</ps2>
+ 
+<ant3>AN_Deo_nostro_iucunda</ant3>
+ 
+<ps3>ps146</ps3>
+ 
+<LB_matin>LB_Rom_8_18-21</LB_matin> 
+ 
+<RB_matin>RB_In_matutinis_Domine_Meditabor</RB_matin>  
+<benedictus>AN_Da_scientiam_salutis</benedictus> 
+<laudes_preces>perannum_45</laudes_preces><oratio_laudes>COL_Scientiam_salutis_Domine_nobis_concede_sinceram</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Si_diligitis_me</ant4>
+ 
+<ps4>ps118XX</ps4>
+ 
+<ant5>AN_Benedicat_tibi_Dominus</ant5>
+ 
+<ps5>ps127</ps5>
+ 
+<ant6>AN_Deus_expugnavit_pro</ant6>
+ 
+<ps6>ps128</ps6>
+ 
+<LB_3>LB_1Io3,23-24</LB_3>
+ 
+<RB_3>VERS_Tu_Domine</RB_3>
+ 
+<LB_6>LB_Sap_1_1-2</LB_6>
+ 
+<RB_6>VERS_Spera_in</RB_6>
+ 
+<LB_9>LB_Hebr_12_1b-2</LB_9>
+ 
+<RB_9>VERS_Speravit_anima</RB_9>
+ 
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil</oratio_6>
+ 
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+ 
+<intitule_soir><la>SACRATISSIMI CORDIS IESU</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Deus_qui_claro_lumine</HYMNUS_vepres>
+ 
+<ant7>AN_Misericordia_mea_et</ant7>
+ 
+<ps7>ps143I</ps7>
+ 
+<ant8>AN_Beatus_populus_cuius</ant8>
+ 
+<ps8>ps143II</ps8>
+ 
+<ant9>AN_Nunc_facta_est</ant9>
+ 
+<ps9>NT10</ps9>
+ 
+<LB_soir>LB_Cf._Col_1_23</LB_soir>
+ 
+<RB_soir>RB_Dominus_pascit_me</RB_soir>
+ 
+<magnificat>AN_Esurientes_iustitiam_Dominus</magnificat>
+ 
+<vepres_preces>perannum_45</vepres_preces>
+ 
+<oratio_vepres>COL_Nostris_propitiare_Domine_supplicationibus_vespertinis_et</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Caro_mea</comp_ant1>
+ 
+<comp_ps1>ps15</comp_ps1> 
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+ 
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Cogitationes_Cordis_eius</IN>
+<LEC>LEC_Ez34,11-16</LEC>
+<PS1>GR_Dulcis_et_rectus_Dominus</PS1>
+<LEC2>LEC_</LEC2>
+
+<PS2>AL_Tollite_iugum_meum</PS2>
+<EV>EV_</EV>
+<OF>OF_Improperium</OF>
+<CO>CO_Unus_militum</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule>Notre Dame du perp&#xE9;tuel secours voir si m&#xE9;moire </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Cyrille d&#x2019;Alexandrie, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que, docteur de l&#x2019;&#xC9;glise, il confirma le titre de M&#xE8;re de Dieu &#xE0; Marie (&#x2020;444)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Solennit&#xE9; du C&#x153;ur de J&#xE9;sus</para><para>Solennit&#xE9; du C&#x153;ur tr&#xE8;s sacr&#xE9; de J&#xE9;sus, qui, humble et pauvre de c&#x153;ur, exalt&#xE9; sur la croix, s&#x2019;est fait source de vie et de dilection, en qui puisent les nations de l&#x2019;univers.</para><para>
+            Le 27 juin</para><para>1. M&#xE9;moire de saint Cyrille, &#xE9;v&#xEA;que d&#x2019;Alexandrie et docteur de l&#x2019;&#xC9;glise. &#xC9;lu au si&#xE8;ge de cette &#xC9;glise, il d&#xE9;fendit, avec une ardeur singuli&#xE8;re, la foi catholique, et joua un r&#xF4;le de premier plan au Concile d&#x2019;&#xC9;ph&#xE8;se o&#xF9; furent proclam&#xE9;s les dogmes de l&#x2019;unit&#xE9; de personne dans le Christ et de la maternit&#xE9; divine de la Vierge Marie. Il mourut en 444.</para><para>2. &#xC0; Carthage, en 203, sainte Gudd&#xE9;nis, martyre. Par ordre du proconsul Rufin, pour avoir confess&#xE9; le Christ, elle fut condamn&#xE9;e &#xE0; quatre reprises, tortur&#xE9;e avec des ongles de fer, longtemps enferm&#xE9;e dans un cachot infect, enfin mise &#xE0; mort par l&#x2019;&#xE9;p&#xE9;e. </para><para>3. &#xC0; Cordoue en Espagne, saint Zo&#xEF;le, martyr. </para><para>4. &#xC0; Constantinople, en 560, saint Samson, pr&#xEA;tre, qui s&#x2019;adonnait au soin des pauvres. On rapporte qu&#x2019;ayant gu&#xE9;ri l&#x2019;empereur Justinien, celui-ci lui donna de quoi construire un h&#xF4;pital. </para><para>5. &#xC0; Chinon en Touraine, au VIe si&#xE8;cle, saint Jean, pr&#xEA;tre breton, qui voulut &#xE9;chapper aux regards des hommes pour l&#x2019;amour de Dieu en habitant une petite cellule avec un oratoire, devant l&#x2019;&#xE9;glise. </para><para>6*. &#xC0; Milan, en 1066, saint Ariald, diacre et martyr, qui s&#x2019;opposa &#xE9;nergiquement aux m&#x153;urs des pr&#xEA;tres concubinaires et simoniaques et, &#xE0; cause de son z&#xE8;le pour la maison de Dieu, fut tu&#xE9; par deux clercs, apr&#xE8;s d&#x2019;atroces supplices. </para><para>7*. &#xC0; Corneto, pr&#xE8;s de Bovino dans les Pouilles, vers 1232, le bienheureux Bienvenu de Gubbio, religieux de l&#x2019;Ordre des Mineurs, qui se mit humblement au service des pauvres, &#xE0; l&#x2019;exemple du Christ pauvre. </para><para>8. &#xC0; Nam Dinh au Tonkin, en 1840, saint Thomas Toan, martyr. Cat&#xE9;chiste et responsable de la mission de Trung Linh, il souffrit en prison pour le Christ des supplices atroces et inou&#xEF;s, sous l&#x2019;empereur Minh Mang, et mourut de faim et de soif. </para><para>9*. Au canton de Fribourg en Suisse, l&#x2019;an&#xA0;1879, la bienheureuse Marguerite Bays, vierge, qui, tout en exer&#xE7;ant le m&#xE9;tier de couturi&#xE8;re &#xE0; domicile, mit tout son c&#x153;ur &#xE0; se rendre utile de toute mani&#xE8;re &#xE0; son prochain, sans jamais n&#xE9;gliger la pri&#xE8;re. </para><para>10*. &#xC0; Moulins, en 1885, la bienheureuse Louise-Th&#xE9;r&#xE8;se Montaignac de Chauvance, vierge, fondatrice de la Pieuse Union des Oblates du Sacr&#xE9;-C&#x153;ur de J&#xE9;sus. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

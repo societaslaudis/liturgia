@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXXII per annum</la>
+<fr>XXXII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+
+<HYMNUS_1V id="hy_Rerum_Deus_fons_omnium"/>
+ <ps01 id="ps121"/>
+<ps02 id="ps129"/>
+<ps03 id="NT5"/>
+<ant01 id="AN_Rogate_quae_ad"/>
+<ant02 id="AN_A_custodia_matutina"/>
+<ant03 id="AN_In_nomine_Iesu"/>
+<LB_1V id="LB_2_Petr_1_19-21"/>
+<RB_1V id="RB_A_solis_ortu"/>
+
+<magnificat1_A id="AN_Prudentes_virgines_aptate"/>
+<magnificat1_B id="AN_Sedens_Iesus_contra"/>
+<magnificat1_C id="AN_Illi_qui_digni"/>
+<oratio id="COL_Omnipotens_et_misericors_Deus_universa_nobis"/>
+<oratio_3 id="COL_Omnipotens_et_misericors_Deus_universa_nobis"/>
+<oratio_6 id="COL_Omnipotens_et_misericors_Deus_universa_nobis"/>
+<oratio_9 id="COL_Omnipotens_et_misericors_Deus_universa_nobis"/>
+
+<benedictus_A id="AN_Media_nocte_clamor"/>
+<benedictus_B id="AN_Amen_dico_vobis"/>
+<benedictus_C id="AN_Moyses_ostendit_secus"/>
+<magnificat_A id="AN_Amen_dico_vobis"/>
+<magnificat_B id="AN_Vidua_illa_pauper"/>
+<magnificat_C id="AN_Deus_non_est"/>
+</liturgia>

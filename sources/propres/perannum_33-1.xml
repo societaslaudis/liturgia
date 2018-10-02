@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<liturgia>
+
+<messe>
+	<IN id="IN_Dicit_Dominus_Ego"/>
+	<COL id="COL_perannum_33"/>
+	<PS1 id="GR_Liberasti_nos"/>
+	<LEC2>
+		<A id="LEC_1Th5,1-6"/>
+		<B id="LEC_He10,11-14.18"/>
+		<C id="LEC_2Th3,7-12"/>
+	</LEC2>
+	<PS2 id="AL_De_profundis"/>
+	<EV>
+		<A id="EV_Mt25,14-30"/>
+		<B id="EV_Mc13,24-32"/>
+		<C id="EV_Lc21,5-19"/>
+	</EV>
+	<OF id="OF_De_profundis"/>
+	<SO id="SO_perannum_33"/>
+	<CO id="CO_Domine_quinque_talenta"/>
+	<PC id="PC_perannum_33"/>
+	<PR>
+		<A id="PR_Ps128,1"/>
+		<B id="PR_Ps16,5"/>
+		<C id="PR_Ps98,5"/>
+	</PR>
+	<LEC>
+		<B id="LEC_Da12,1-3"/>
+		<C id="LEC_Ml3,19-20a"/>
+		<A id="LEC_Ez34,11-12.15-17"/>
+	</LEC>
+<IN_L id="IN_L_perannum_33"/><CO_L id="CO_L_perannum_33"/></messe>
+</liturgia>

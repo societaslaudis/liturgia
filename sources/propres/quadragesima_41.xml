@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant2 id="AN_Potens_es_Domine"/>
+<ant3 id="AN_Laudate_Dominum_in"/>
+<LB_matin id="LB_Neh_8_9b._l0b"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi_"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_1_Th_4_1._7"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_Is_30_15._18"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<LB_9 id="LB_Deut_4_29-31"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus"/>
+<HYMNUS_vesperas id="hy_Audi_benigne_Conditor"/>
+<ant7 id="AN_Ipse_est_qui"/>
+<ant8 id="AN_Iucundus_homo_qui"/>
+<ant9 id="AN_Quae_praenuntiavit_Deus"/>
+<ps9 id="NT8"/>
+<LB_soir id="LB_Cf._1_Cor_9_24-25"/>
+<RB_soir id="RB_Attende_Domine_et_miserere_"/>
+<preces id="quadragesima_41"/>
+
+<messe>
+	<IN id="IN_Laetare_Ierusalem"/>
+	<COL id="COL_Deus_qui_per_Verbum_tuum_humani"/>
+	<PS1 id="GR_Laetatus_sum"/>
+	<LEC2>
+		<A id="LEC_Ep5,8-14"/>
+		<B id="LEC_Ep2,4-10"/>
+		<C id="LEC_2Co5,17-21"/>
+	</LEC2>
+	<PS2 id="TR_Qui_confidunt"/>
+	<EV>
+		<A id="EV_Jn9,1-41"/>
+		<B id="EV_Jn3,14-21"/>
+		<C id="EV_Lc15,1-3.11-32"/>
+	</EV>
+	<OF id="OF_Laudate_Dominum"/>
+	<CO id="CO_Ierusalem_quae_aedificatur"/>
+	<LEC>
+		<A id="LEC_1S16,1.6-7.10-13a"/>
+		<B id="LEC_2Ch36,14-16.19-23"/>
+		<C id="LEC_Jos5,9-12"/>
+	</LEC>
+	<PR>
+		<A id="PR_Ps23,1"/>
+		<B id="PR_Ps137,1"/>
+		<C id="PR_Ps34,2"/>
+	</PR>
+	<PRE id="PRE_Pr&#xE9;facepropreouIouII"/>
+</messe>
+</liturgia>

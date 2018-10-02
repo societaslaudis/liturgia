@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica II Paschae</la>
+<fr>II&#xB0; dimanche de P&#xE2;ques</fr>
+</intitule>
+<HYMNUS_1V id="hy_Ad_cenam_Agni_providi"/>
+
+<ant7 id="AN_Venerunt_ad_monumentum"/>
+<ant8 id="AN_Venite_et_videte"/>
+<ant9 id="AN_Ait_Iesus_Nolite"/>
+<LB_soir id="LB_1_Petr_2_9-10"/>
+<RB_soir id="RB_Haec_dies_quam_fecit_Dominus_exsultemus"/>
+<magnificat_1V id="AN_Post_dies_octo"/>
+<oratio id="COL_Deus_misericordiae_sempiternae_qui_in_ipso"/>
+<oratio_3 id="COL_Deus_misericordiae_sempiternae_qui_in_ipso"/>
+<oratio_6 id="COL_Deus_misericordiae_sempiternae_qui_in_ipso"/>
+<oratio_9 id="COL_Deus_misericordiae_sempiternae_qui_in_ipso"/>
+
+<benedictus id="AN_Mitte_manum"/>
+<HYMNUS_vesperas id="hy_Ad_cenam_Agni_providi"/>
+<magnificat id="AN_Quia_vidisti_me"/>
+</liturgia>

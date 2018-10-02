@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<code>perannum_29-1</code>
+<propre>Dominica_XXIX_per_annum</propre>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXIX per annum</la><fr>XXIX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XXIX per annum</la><fr>XXIX&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+
+<HYMNUS_lectures>HY_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>HY_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Lignum_vitae_in</antL1>
+
+<psL1>ps1</psL1>
+
+<antL2>AN_Ego_constitui_Regem</antL2>
+
+<psL2>ps2</psL2>
+
+<antL3>AN_Tu_Domine_protector</antL3>
+
+<psL3>ps3</psL3>
+
+<LVers>VERS_Verbum_Christi</LVers>
+n<Llec1>L1_Dominica_XXIX_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XXIX_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XXIX_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XXIX_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ 
+<ant1>AN_Ad_te_de</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Tres_ex_uno</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Filii_Sion_exsultent</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Ap7.10b-12</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin>  
+<benedictus>AN_Quicumque_voluerit_fieri</benedictus> 
+<laudes_preces>perannum_11</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_fac_nos_tibi</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Bonum_est_confugere</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Fortitudo_mea_et</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Confitebor_tibi_Domine</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_I_Io4.16</LB_3>
+ 
+<RB_3>VERS_Inclina_cor</RB_3>
+ 
+<LB_6>LB_Gal6.7-8</LB_6>
+ 
+<RB_6>VERS_In_aeternum</RB_6>
+ 
+<LB_9>LB_CfGal6,9-10</LB_9>
+ 
+<RB_9>VERS_Clamavi_in</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_fac_nos_tibi</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_sempiterne_Deus_fac_nos_tibi</oratio_6>
+ 
+<oratio_9>COL_Omnipotens_sempiterne_Deus_fac_nos_tibi</oratio_9>
+ 
+<intitule_soir><la>Dominica XXIX per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+ 
+<ant7>AN_Virgam_potentiae_suae</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_A_facie_Domini</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_2_Cor_1_3-4</LB_soir>
+ 
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+ 
+<magnificat>AN_Filius_hominis_non</magnificat>
+ 
+<vepres_preces>perannum_11</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_fac_nos_tibi</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Ego_clamavi</IN>
+<IN_L>IN_L_perannum_29</IN_L>
+<COL>COL_perannum_29</COL>
+<LEC>LEC_Is53,10-11</LEC>
+<PS1>GR_Salvum_fac_populum</PS1>
+<LEC2>LEC_He4,14-16</LEC2>
+
+<PS2>AL_Lauda_anima_mea</PS2>
+<EV>EV_Mc10,35-45</EV>
+<OF>OF_Meditabor</OF>
+<SO>SO_perannum_29</SO>
+<CO>CO_Domine Dominus_noster</CO>
+<CO_L>CO_L_perannum_29</CO_L>
+<PC>PC_perannum_29</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>St Hilarion, abb&#xE9;</texte></jerusalem>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>Ste Marguerite Clitherow </intitule>
+ <biographiecourte>M&#xE8;re de famille, condamn&#xE9;e &#xE0; mort &#xE0; York parce qu'elle avait aid&#xE9; des pr&#xEA;tres catholiques (&#x2020;1586) </biographiecourte>
+ <canonisebeatifie>Paul VI</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 21 octobre</para><para>1. &#xC0; Nicom&#xE9;die en Bithynie, l&#x2019;an&#xA0;303, les saints Dasius, Zotique et Ca&#xEF;us. Au service de Diocl&#xE9;tien, accus&#xE9;s &#xE0; tort de l&#x2019;incendie du palais imp&#xE9;rial, ils furent livr&#xE9;s au supplice et jet&#xE9;s &#xE0; la mer avec des roches attach&#xE9;es au cou. </para><para>2. &#xC0; Cologne, comm&#xE9;moraison des saintes vierges qui achev&#xE8;rent leur vie par le martyre, vers le IVe si&#xE8;cle. Par la suite, une basilique fut construite &#xE0; cet endroit, portant le nom de la jeune Ursule, vierge innocente, consid&#xE9;r&#xE9;e comme la premi&#xE8;re du groupe. </para><para>3. &#xC0; Chypre, vers 371, saint Hilarion, abb&#xE9;. Marchant sur les traces de saint Antoine, il mena d&#x2019;abord pr&#xE8;s de Gaza une vie solitaire, puis fut, dans cette &#xEE;le, le fondateur et le mod&#xE8;le de la vie &#xE9;r&#xE9;mitique. </para><para>4. Comm&#xE9;moraison de saint Malchus, moine, dont saint J&#xE9;r&#xF4;me a racont&#xE9; la vie asc&#xE9;tique et illustre qu&#x2019;il mena &#xE0; Maronie, pr&#xE8;s d&#x2019;Antioche de Syrie, au IVe si&#xE8;cle. </para><para>5. &#xC0; Bordeaux, au Ve si&#xE8;cle, saint S&#xE9;verin, &#xE9;v&#xEA;que, que l&#x2019;&#xE9;v&#xEA;que saint Amand re&#xE7;ut avec honneur, venant des r&#xE9;gions d&#x2019;Orient, et qu&#x2019;il voulut comme successeur. </para><para>6. &#xC0; Laon, apr&#xE8;s 458, sainte C&#xE9;line, m&#xE8;re des saints &#xE9;v&#xEA;ques Prince de Soissons et Remi de Reims. </para><para>7. &#xC0; Lyon, comm&#xE9;moraison de saint Viatre, lecteur, qui fut le disciple et le ministre de l&#x2019;&#xE9;v&#xEA;que saint Just, qu&#x2019;il suivit dans sa solitude en &#xC9;gypte et dans sa mort, apr&#xE8;s 451. </para><para>8*. Pr&#xE8;s de Tr&#xE8;ves en Germanie, au VIIe si&#xE8;cle, saint Wendel, ermite.</para><para>9*. &#xC0; Marseille, vers 782, saint Mauront, &#xE9;v&#xEA;que, qui fut aussi abb&#xE9; du monast&#xE8;re de Saint-Victor. </para><para>10*. &#xC0; Cortone en Toscane, l&#x2019;an&#xA0;1445, le bienheureux Pierre Capucci, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, que la m&#xE9;ditation de la mort dirigea vers les r&#xE9;alit&#xE9;s d&#x2019;en-haut, et qui avertit les fid&#xE8;les, par une pr&#xE9;dication opportune, de ne pas tomber dans la mort &#xE9;ternelle. </para><para>11. &#xC0; S&#xE9;oul en Cor&#xE9;e, l&#x2019;an&#xA0;1839, saint Pierre Yu Tae-ch&#x2019; ol, martyr. Fils de saint Augustin Yo Chin-gil, incarc&#xE9;r&#xE9; &#xE0; l&#x2019;&#xE2;ge de treize ans, il exhorta ses compagnons de prison &#xE0; supporter les tortures, et lui-m&#xEA;me, frapp&#xE9; d&#x2019;une centaine de coups de verge, puis &#xE9;trangl&#xE9;, acheva ainsi son martyre. </para><para>12*. &#xC0; Balencito, pr&#xE8;s de Medellin en Colombie, l&#x2019;an&#xA0;1949, sainte Louise de Sainte-Catherine de Sienne (Marie-Louise de J&#xE9;sus Montoya y Upegui), vierge, qui s&#x2019;employa avec z&#xE8;le &#xE0; gagner &#xE0; Dieu, en leur annon&#xE7;ant l&#x2019;&#xC9;vangile, les peuples indig&#xE8;nes encore ignorants de la foi chr&#xE9;tienne, et fonda la Congr&#xE9;gation des S&#x153;urs missionnaires de Marie Immacul&#xE9;e et de Sainte Catherine de Sienne. (canonis&#xE9;e le 12 mai 2013 par le pape Fran&#xE7;ois)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

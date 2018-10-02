@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 28 iunii</la>
+<fr>Le 28 juin</fr>
+</jour>
+<intitule>
+<la>S. IREN&#xC6;I, EPISCOPI ET MARTYRIS</la>
+<fr>S. IRENEE, EVEQUE ET MARTYR</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_martyrum_Dominum"/>
+<HYMNUS_laudes id="hy_Martyr_Dei"/>
+<LB_matin id="LB_2_Cor_1_3-5"/>
+<RB_matin id="RB_Fortitudo_mea_Et_laus"/>
+<benedictus id="AN_Irenaeus_nomini_suo"/>
+<oratio id="COL_Deus_qui_beato_Irenaeo_episcopo_tribuisti"/>
+<messe> 
+<EV id="EV_Jn17,20-26"/>
+<LEC id="LEC_2Tm2,22b-26"/>
+<IN id="IN_Loquetur_Dominus_pacem"/>
+<COL id="COL_Deus_qui_beato_Irenaeo_episcopo_tribuisti"/>
+<PS1 id="GR_Inveni_David"/>
+<PS2 id="AL_Spiritus_Sanctus_docebit"/>
+<OF id="OF_Benedicam_Dominum"/>
+<CO id="CO_Quod_dico_vobis"/>
+</messe>
+</liturgia>

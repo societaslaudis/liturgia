@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada IX per annum</la><fr>IX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Norberti, episcopi</la><fr>St Norbert, &#xE9;v&#xEA;que.</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_magnum_Dominum</invitatoire>
+
+<HYMNUS_lectures>hy_Consors_paterni_luminis</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
+
+<antL1/>
+
+<psL1/>
+
+<antL2/>
+
+<psL2/>
+
+<antL3/>
+
+<psL3/>
+
+<LVers>VERS_Diriget_Dominus</LVers>
+n<Llec1>L1_perannum_9-3</Llec1>
+
+<Lrep1>R1_perannum_9-3</Lrep1>
+
+<Llec2>L2_perannum_9-3</Llec2>
+
+<Lrep2>R2_perannum_9-3</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_9-3-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>perannum_9-3-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Pergrata_mundo_nuntiat</HYMNUS_laudes>
+ 
+<ant1>AN_Innocens_manibus_et</ant1>
+ 
+<ps1>ps23</ps1>
+ 
+<ant2>AN_Exaltate_Regem_saeculorum</ant2>
+ 
+<ps2>AT5</ps2>
+ 
+<ant3>AN_Rectos_decet_collaudatio.</ant3>
+ 
+<ps3>ps32</ps3>
+ 
+<LB_matin>LB_Rom_13_11b._12-13a</LB_matin> 
+ 
+<RB_matin>RB_Deus_meus_adiutor_meus</RB_matin>  
+<benedictus>AN_Erexit_nobis_Dominus</benedictus> 
+<laudes_preces>perannum_13</laudes_preces><oratio_laudes>COL_Matutina_supplicum_vota_Domine_propitius_intuere</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Beati_qui_ambulant</ant4>
+ 
+<ps4>ps118I</ps4>
+ 
+<ant5>AN_Exsultabit_cor_meum</ant5>
+ 
+<ps5>ps12</ps5>
+ 
+<ant6>AN_Conclusit_Deus_omnia</ant6>
+ 
+<ps6>ps13</ps6>
+ 
+<LB_3>LB_Ier_17_7-8</LB_3>
+ 
+<RB_3>VERS_Dominus_non_privabit_bonis_eos</RB_3>
+ 
+<LB_6>LB_Prov_3_13-15</LB_6>
+ 
+<RB_6>VERS_Domine_veritatem_in_corde_dilexisti</RB_6>
+ 
+<LB_9>LB_Iob_5_17-18</LB_9>
+ 
+<RB_9>VERS_Fac_cum_servo_tuo_secundum</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Telluris_ingens_conditor</HYMNUS_vepres>
+ 
+<ant7>AN_Tribuit_Dominus_victoriam</ant7>
+ 
+<ps7>ps19</ps7>
+ 
+<ant8>AN_Cantabimus_et_psallemus</ant8>
+ 
+<ps8>ps20</ps8>
+ 
+<ant9>AN_Fecisti_nos_Domine</ant9>
+ 
+<ps9>NT9</ps9>
+ 
+<LB_soir>LB_1_Io_3_1a._2</LB_soir>
+ 
+<RB_soir>RB_In_aeternum_Domine</RB_soir>
+ 
+<magnificat>AN_Exsultet_spiritus_meus</magnificat>
+ 
+<vepres_preces>perannum_13</vepres_preces>
+ 
+<oratio_vepres>COL_Gratias_tibi_agimus_Domine_Deus_omnipotens</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+ 
+<comp_ps1>ps142</comp_ps1> 
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+ 
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Respice_in_me</IN>
+<IN_L>IN_L_perannum_9</IN_L>
+<COL>COL_perannum_9</COL>
+<LEC>LEC_Tb2,10-23</LEC>
+<PS1>GR_Iacta_cogitatum_tuum</PS1>
+<PS2>AL_Deus_iudex_iustus</PS2>
+<EV>EV_Mc12,13-17</EV>
+<OF>OF_Sperent_in_te</OF>
+<SO>SO_perannum_9</SO>
+<CO>CO_Amen_dico_vobis_Quidquid</CO>
+<CO_L>CO_L_perannum_9</CO_L>
+<PC>PC_perannum_9</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Norbert, &#xE9;v&#xEA;que.</intitule>
+ <biographiecourte>Pr&#xEA;tre, pr&#xE9;dicateur itin&#xE9;rant, fondateur des Pr&#xE9;montr&#xE9;s, conseiller des rois (&#x2020;1134</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Bx Marcellin Champagnat, pr&#xEA;tre</intitule>
+ <biographiecourte>Fondateur des fr&#xE8;res Mariste (&#x2020;1840)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 6 juin</para><para>1. M&#xE9;moire de saint Norbert, &#xE9;v&#xEA;que. De m&#x153;urs aust&#xE8;res, tout entier donn&#xE9; &#xE0; l&#x2019;union avec Dieu et &#xE0; la pr&#xE9;dication de l&#x2019;&#xC9;vangile, il fonda &#xE0; Pr&#xE9;montr&#xE9; pr&#xE8;s de Laon l&#x2019;Ordre des Chanoines R&#xE9;guliers et, devenu &#xE9;v&#xEA;que de Magdebourg en Saxe, il r&#xE9;forma dans son &#xC9;glise la vie chr&#xE9;tienne et s&#x2019;employa &#xE0; r&#xE9;pandre la foi chez les peuples voisins. Il mourut en 1134.</para><para>2. &#xC0; Rome, au second mille sur la voie Aur&#xE9;lienne, les saints martyrs Art&#xE8;me et Pauline. </para><para>3. &#xC0; Sc&#xE9;t&#xE9; en &#xC9;gypte, au IVe si&#xE8;cle, saint Bessarion, anachor&#xE8;te, qui v&#xE9;cut en mendiant et vagabond pour l&#x2019;amour de Dieu. </para><para>4*. &#xC0; Grenoble, vers 452, saint C&#xE9;rase, &#xE9;v&#xEA;que, qui remercia saint L&#xE9;on le Grand pour son Tome &#xE0; Flavien et pr&#xE9;serva son troupeau de l&#x2019;h&#xE9;r&#xE9;sie. </para><para>5. &#xC0; Milan, en 518, saint Eustorge II, &#xE9;v&#xEA;que, qui se fit remarquer par sa pi&#xE9;t&#xE9;, sa justice et ses vertus pastorales, et construisit un baptist&#xE8;re de toute beaut&#xE9;. </para><para>6*. En Irlande, vers 550, saint Jarlath, &#xE9;v&#xEA;que.</para><para>7. Dans le Jura, vers 703, saint Claude, qui fut, croit-on, &#xE9;v&#xEA;que et abb&#xE9; du monast&#xE8;re de Condat.</para><para>8. Sur le territoire de Bologne en &#xC9;milie, l&#x2019;an&#xA0;823, le tr&#xE9;pas de saint Alexandre, &#xE9;v&#xEA;que de Fiesole. En revenant de Pavie, o&#xF9; il avait obtenu de Lothaire, roi des Lombards, les biens dont son &#xC9;glise avait &#xE9;t&#xE9; spoli&#xE9;e, il fut assailli par ceux qui occupaient ces biens et noy&#xE9; dans une rivi&#xE8;re. </para><para>9. &#xC0; Constantinople, en 845, saint Hilarion, pr&#xEA;tre, sup&#xE9;rieur du monast&#xE8;re dit de Dalmace, qui subit, sans &#xEA;tre vaincu, prison, flagellation et exil pour le culte des saintes images. </para><para>10*. Dans l&#x2019;archipel des Orcades, au nord-est de l&#x2019;&#xC9;cosse, vers 1010, saint Colman, &#xE9;v&#xEA;que. </para><para>11*. Au monast&#xE8;re de Cava en Campanie l&#x2019;an&#xA0;1146, le bienheureux Falcon, abb&#xE9;.</para><para>12*. En Auvergne, l&#x2019;an&#xA0;1152, saint Gilbert, abb&#xE9; de l&#x2019;Ordre des Pr&#xE9;montr&#xE9;s, qui v&#xE9;cut d&#x2019;abord en ermite, puis construisit &#xE0; Neuffontaines un monast&#xE8;re et un h&#xF4;pital. </para><para>13*. &#xC0; Udine en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1350, le bienheureux Bertrand, &#xE9;v&#xEA;que d&#x2019;Aquil&#xE9;e et martyr. Il pourvut avec soin &#xE0; la formation du clerg&#xE9;, nourrit les pauvres de ses propres ressources dans une p&#xE9;riode de famine, d&#xE9;fendit &#xE9;nergiquement les droits de son &#xC9;glise et, &#xE0; l&#x2019;&#xE2;ge de quatre-vingt-dix ans, tomba sous les coups de gens du comte de Goritz. </para><para>14*. &#xC0; Ortona dans les Abruzzes, en 1535, le bienheureux Laurent de Villamagna, pr&#xEA;tre de l&#x2019;Ordre des Mineurs, c&#xE9;l&#xE8;bre par sa pr&#xE9;dication de la parole de Dieu. </para><para>15*. &#xC0; Londres, en 1537, le bienheureux Guillaume Greenwood, martyr. Fr&#xE8;re convers de la Chartreuse de la ville, &#xE0; cause de sa fid&#xE9;lit&#xE9; constante &#xE0; l&#x2019;&#xC9;glise catholique et au pape, il fut, sous le roi Henri VIII, enferm&#xE9; dans un cachot infect et y mourut de faim et de maladie. </para><para>16. &#xC0; Saint-Chamond dans la r&#xE9;gion de Lyon, en 1840, saint Marcellin Champagnat, pr&#xEA;tre de la Soci&#xE9;t&#xE9; de Marie, qui fonda l&#x2019;Institut des Petits Fr&#xE8;res de Marie pour l&#x2019;&#xE9;ducation chr&#xE9;tienne des enfants. </para><para>17. Dans la ville de Luong My au Tonkin, en 1862, les saints martyrs Pierre Dung et Pierre Thuan, p&#xEA;cheurs, et Vincent Duong, paysan. Pour avoir refus&#xE9; constamment de fouler la croix aux pieds, ils furent condamn&#xE9;s au b&#xFB;cher sous l&#x2019;empereur Tu Duc.</para><para>18*. &#xC0; Mexico, en 1938, le tr&#xE9;pas du saint Rapha&#xEB;l Guizar Valencia, &#xE9;v&#xEA;que de Veracruz. Au temps de la pers&#xE9;cution mexicaine, il exer&#xE7;a sans rel&#xE2;che son minist&#xE8;re &#xE9;piscopal, soit en exil, soit dans la clandestinit&#xE9;. (canonis&#xE9; le 15 octobre 2006 par Beno&#xEE;t XVI)</para><para>19*. Au camp de concentration de Sachsenhausen en Allemagne, l&#x2019;an&#xA0;1940, le bienheureux Innocent Guz, pr&#xEA;tre franciscain conventuel et martyr. D&#xE8;s l&#x2019;occupation de la Pologne par les troupes du r&#xE9;gime nazi, il fut arr&#xEA;t&#xE9; avec d&#x2019;autres pr&#xEA;tres, d&#xE9;port&#xE9; et, apr&#xE8;s des traitements inhumains, massacr&#xE9; par des gardes du camp. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada V Paschae</la><fr>V&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la>S. Mariae Magdalenae de Pazzi, virginis</la><fr>Ste Marie-Madeleine de Pazzi, vierge</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps130</psL1>
+
+<antL2/>
+
+<psL2>ps131I</psL2>
+
+<antL3/>
+
+<psL3>ps131II</psL3>
+
+<LVers/>
+n<Llec1>L1_pascha_57</Llec1>
+
+<Lrep1>R1_pascha_57</Lrep1>
+
+<Llec2>L2_pascha_57</Llec2>
+
+<Lrep2>R2_pascha_57</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ 
+<ant1>AN_Secundum_misericordiam_tuam</ant1>
+ 
+<ps1>ps118XIX</ps1>
+ 
+<ant2>AN_Qui_vicerunt_cantabant</ant2>
+ 
+<ps2>AT1</ps2>
+ 
+<ant3>AN_Confirmata_est_super</ant3>
+ 
+<ps3>ps116</ps3>
+ 
+<LB_matin>LB_Rom_14_7-9</LB_matin> 
+ 
+<RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin>  
+<benedictus>AN_In_hoc_Christus</benedictus> 
+<laudes_preces>perannum_17</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_semper_in_nobis</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps118V</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_Rom_5_10-11</LB_3>
+ 
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+ 
+<LB_6>LB_1_Cor_15_20-22</LB_6>
+ 
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+ 
+<LB_9>LB_2_Cor_5_14-15</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3>COL_Omnipotens_aeterne_Deus_qui_nobis_regeneratione</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_aeterne_Deus_qui_nobis_regeneratione</oratio_6>
+ 
+<oratio_9>COL_Omnipotens_aeterne_Deus_qui_nobis_regeneratione</oratio_9>
+ 
+<intitule_soir><la>Dominica VI Paschae</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+ 
+<ant7>AN_Qui_facit_veritatem</ant7>
+ 
+<ps7>ps118XIV</ps7>
+ 
+<ant8>AN_Solutis_doloribus_inferni</ant8>
+ 
+<ps8>ps15</ps8>
+ 
+<ant9>AN_Nonne_haec_oportuit</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_1_Petr_2_9-10</LB_soir>
+ 
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+ 
+<magnificat>AN_Si_quis_diligit</magnificat>
+ 
+<vepres_preces>perannum_17</vepres_preces>
+ 
+<oratio_vepres>COL_Fac_nos_omnipotens_Deus_hos_laetitiae</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Cantate_Domino</IN>
+<LEC>LEC_Ac16,1-10</LEC>
+<PS1>AL_Iubilate_Deo</PS1>
+<PS2/>
+<EV>EV_Jn15,18-21</EV>
+<OF>OF_Iubilate_Deo_universa_terra</OF>
+<CO>CO_Ego_sum_vitis_vera</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Via lucis </intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St B&#xE8;de le V&#xE9;n&#xE9;rable, pr&#xEA;tre et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>Docteur de l'&#xC9;glise, son &#x153;uvre sur l'histoire de l'&#xC9;glise en Angleterre lui valut le titre de "p&#xE8;re de l'histoire anglaise&#xA0;" (&#x2020;735)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Gr&#xE9;goire VII, pape</intitule>
+ <biographiecourte>Abb&#xE9; de St-Paul-hors-les-murs, puis pape livra combat contre l'investiture la&#xEF;que (&#x2020;1085)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Ste Marie-Madeleine de Pazzi, vierge</intitule>
+ <biographiecourte>Carm&#xE9;lite, mystique, elle offrit &#xE0; Dieu ses multiples souffrances (&#x2020;1607)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 25 mai</para><para>1. M&#xE9;moire de saint B&#xE8;de le V&#xE9;n&#xE9;rable, pr&#xEA;tre et docteur de l&#x2019;&#xC9;glise qui passa toute sa vie au service du Christ. Orphelin &#xE0; l&#x2019;&#xE2;ge de sept ans, il fut confi&#xE9;, au monast&#xE8;re de Wearmouth, &#xE0; saint Beno&#xEE;t Biscop, puis par celui-ci &#xE0; saint C&#xE9;olfrid, au monast&#xE8;re de Jarrow en Northumbrie o&#xF9; il v&#xE9;cut comme moine tout le reste de sa vie, tout occup&#xE9; &#xE0; m&#xE9;diter et &#xE0; commenter les saintes &#xC9;critures, &#xE0; pratiquer avec soin l&#x2019;observance r&#xE9;guli&#xE8;re, &#xE0; chanter chaque jour les louanges divines, trouvant son plaisir &#xE0; apprendre, &#xE0; enseigner et &#xE0; &#xE9;crire, jusqu&#x2019;&#xE0; sa mort en 735. </para><para>2. M&#xE9;moire de saint Gr&#xE9;goire VII, pape. Sous le nom d&#x2019;Hildebrand, il mena &#xE0; Rome la vie monastique et, charg&#xE9; de diverses missions, il aida les pontifes de son temps dans la r&#xE9;forme de l&#x2019;&#xC9;glise. &#xC9;lev&#xE9; sur la chaire de Pierre, il revendiqua, face au pouvoir des princes, la libert&#xE9; de l&#x2019;&#xC9;glise avec une grande autorit&#xE9; et un esprit r&#xE9;solu, et d&#xE9;fendit avec force la saintet&#xE9; du clerg&#xE9;. Pour cela il fut contraint de fuir Rome et mourut en exil &#xE0; Salerne en Campanie, l&#x2019;an&#xA0;1085. </para><para>3. M&#xE9;moire de sainte Marie-Madeleine de Pazzi, vierge de l&#x2019;Ordre du Carmel. Elle mena &#xE0; Florence, en Toscane, une vie cach&#xE9;e dans le Christ, de pri&#xE8;re et de renoncement, priant assid&#xFB;ment pour la r&#xE9;forme de l&#x2019;&#xC9;glise et, enrichie par Dieu de multiples dons, elle conduisit fort bien ses s&#x153;urs &#xE0; la perfection. Elle mourut en 1607. 4</para><para>4. &#xC0; Atelle en Campanie, au IIIe ou IVe si&#xE8;cle, saint Canion, &#xE9;v&#xEA;que et martyr. </para><para>5. &#xC0; Milan, comm&#xE9;moraison de saint Denis, &#xE9;v&#xEA;que. Rel&#xE9;gu&#xE9; en Arm&#xE9;nie pour la foi catholique par l&#x2019;empereur Constance, il y mourut, vers 361, d&#x2019;une mort presque semblable &#xE0; celle des martyrs. </para><para>6*. &#xC0; Florence en Toscane, &#xE0; la fin du IVe ou au d&#xE9;but du Ve si&#xE8;cle, saint Z&#xE9;nobe, &#xE9;v&#xEA;que. </para><para>7. Au monast&#xE8;re de Montenoy au pays de Troyes, au VIIe si&#xE8;cle, saint Ly&#xE9;, abb&#xE9;. </para><para>8. &#xC0; Malmesbury en Angleterre, l&#x2019;an&#xA0;709, la mise au tombeau de saint Aldhelm, &#xE9;v&#xEA;que et abb&#xE9;. C&#xE9;l&#xE8;bre par son &#xE9;rudition, il fut d&#x2019;abord abb&#xE9; de Malmesbury, puis devint le premier &#xE9;v&#xEA;que de Sherborne, tout en gouvernant son monast&#xE8;re, et mourut &#xE0; Doulting, au cours d&#x2019;une visite pastorale. </para><para>9*. &#xC0; Pennalba, dans les Asturies en Espagne, vers 925, saint Gennade. Abb&#xE9; du monast&#xE8;re de cette ville, puis &#xE9;v&#xEA;que au m&#xEA;me lieu, il fut conseiller des rois, mais, pouss&#xE9; par le d&#xE9;sir du clo&#xEE;tre, il d&#xE9;posa sa charge &#xE9;piscopale pour passer le reste de sa vie en moine, et il se retirait parfois dans la solitude o&#xF9; il mourut. </para><para>10*. &#xC0; Villamagna pr&#xE8;s de Florence en Toscane, l&#x2019;an&#xA0;1245, le bienheureux G&#xE9;rard Meccati, qui fut membre de l&#x2019;Ordre de Saint-Jean &#xE0; J&#xE9;rusalem, se d&#xE9;pensa pour l&#x2019;amour du Christ &#xE0; recevoir les p&#xE8;lerins et &#xE0; soulager les malades et, de retour dans son pays, mena une vie d&#x2019;anachor&#xE8;te. </para><para>11. En Italie, pr&#xE8;s de Montesanto dans les Marches, en 1346, le tr&#xE9;pas de saint G&#xE9;rard ou G&#xE9;ry. Jadis comte de Lunel, au dioc&#xE8;se de Maguelone, il v&#xE9;cut d&#x2019;abord dans la solitude pr&#xE8;s du pont du Gard, puis entra&#xEE;n&#xE9; par la temp&#xEA;te au cours d&#x2019;un p&#xE8;lerinage par mer en Terre sainte, il mourut sur la route d&#x2019;Anc&#xF4;ne.</para><para>12*. &#xC0; Faenza en &#xC9;milie, l&#x2019;an&#xA0;1483, le bienheureux Jacques-Philippe (Andr&#xE9; Bertoni), pr&#xEA;tre de l&#x2019;Ordre des Servites de Marie, remarquable par son don des larmes et son extr&#xEA;me humilit&#xE9;. </para><para>13. Au Tonkin, en 1865, saint Pierre Doan Van V&#xE2;n, martyr. Cat&#xE9;chiste et responsable de la paroisse de Bau No, &#xE0; l&#x2019;&#xE2;ge de quatre-vingts ans, sous l&#x2019;empereur Tu Duc, il confirma par son sang la fermet&#xE9; de sa foi.</para><para>14. &#xC0; Paris, en 1865, sainte Madeleine-Sophie Barat, vierge, qui fonda la Soci&#xE9;t&#xE9; du Sacr&#xE9;-C&#x153;ur de J&#xE9;sus et travailla beaucoup pour la formation chr&#xE9;tienne des jeunes filles. </para><para>15. &#xC0; Munyonyo en Ouganda, l&#x2019;an&#xA0;1886, saint Denis Ssebuggwawo, martyr. &#xC2;g&#xE9; de seize ans, au roi Mwanga qui l&#x2019;interrogeait, il affirma avoir enseign&#xE9; &#xE0; deux jeunes attach&#xE9;s &#xE0; la cour les rudiments de la foi chr&#xE9;tienne. &#xC0; cause de cela, le roi lui-m&#xEA;me le transper&#xE7;a de sa lance. </para><para>16. &#xC0; Catatlan, au pays de Guadalajara au Mexique, en 1927, la passion de saint Christophe Magallan&#xE8;s et Augustin Caloca, pr&#xEA;tres et martyrs, victimes de la pers&#xE9;cution religieuse en ce pays. Pr&#xEA;tres dans la m&#xEA;me paroisse, ils furent fusill&#xE9;s ensemble. Leur m&#xE9;moire est c&#xE9;l&#xE9;br&#xE9;e le 27 mai avec celle de leurs compagnons. </para><para>17*. Au camp de travaux forc&#xE9;s de Javas en Moldavie, l&#x2019;an&#xA0;1951, le bienheureux Nicolas Cehelskyij, pr&#xEA;tre de Lvov en Ukraine et martyr. Sous le r&#xE9;gime ath&#xE9;e sovi&#xE9;tique, il succomba aux tortures atroces qui lui furent inflig&#xE9;es. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

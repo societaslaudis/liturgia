@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<liturgia>
+	<LEC_II>
+		<A id="Col3,12-21"/>
+		<B id="He11,8.11-12.17-19"/>
+	</LEC_II>
+	<EV>
+		<A id="Mt2,13-15.19-23"/>
+		<B id="Lc2,22-40"/>
+	</EV>
+	<LEC>
+		<A id="Sir3,3-7.14-17a"/>
+		<B id="Gn15,1-6;21,1-3"/>
+	</LEC>
+	
+	<annoA>
+		<IN id="IN_Puer_natus_est_nobis"/>
+		<PS1 id="GR_Viderunt_omnes"/>
+		<PS2 id="AL_Dies_sanctificatus"/>
+		<SEQ id=""/>
+		<OF id="OF_Tui_sunt_caeli"/>
+		<CO id="CO_Viderunt_omnes"/>
+		
+	</annoA>
+	<annoB>
+		<IN id="IN_Puer_natus_est_nobis"/>
+		<PS1 id="GR_Viderunt_omnes"/>
+		<PS2 id="AL_Dies_sanctificatus"/>
+		<SEQ id=""/>
+		<OF id="OF_Tui_sunt_caeli"/>
+		<CO id="CO_Viderunt_omnes"/>
+
+	<annoC><IN id="IN_Puer_natus_est_nobis"/><PS1 id="GR_Viderunt_omnes"/><PS2 id="AL_Dies_sanctificatus"/><SEQ id=""/><OF id="OF_Tui_sunt_caeli"/><CO id="CO_Viderunt_omnes"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoC>
+	
+	<messe>
+	<IN id="IN_Lux_fulgebit"/>
+	<PS1 id="GR_Benedictus_qui_venit"/>
+	<LEC2>
+		<A id="LEC_Col3,12-21"/>
+		<B id="LEC_He11,8.11-12.17-19"/>
+		<C id="LEC_"/>
+	</LEC2>
+	<PS2 id="AL_Multifarie"/>
+	<EV>
+		<A id="EV_Mt2,13-15.19-23"/>
+		<B id="EV_Lc2,22-40"/>
+		<C id="EV_"/>`
+	</EV>
+	<OF id="OF_Deus_enim_firmavit"/>
+	<CO id="CO_Exsulta_filia_Sion"/>
+	</messe>
+</liturgia>

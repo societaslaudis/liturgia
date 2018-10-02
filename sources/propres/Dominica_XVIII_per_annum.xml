@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XVIII per annum</la>
+<fr>XVIII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+
+<HYMNUS_1V id="hy_Rerum_Deus_fons_omnium"/>
+<ps01 id="ps118XIV"/>
+<ps02 id="ps15"/>
+<ps03 id="NT5"/>
+<ant07 id="AN_Lucerna_pedibus_meis"/>
+<ant02 id="AN_Adimplebis_me_laetitia"/>
+<ant03 id="AN_In_nomine_Iesu"/>
+<LB_1V id="LB_Col_1_2b-6a"/>
+<RB_1V id="RB_A_solis_ortu"/>
+  
+
+<magnificat1_A id="AN_Cum_turba_multa"/>
+<magnificat1_B id="AN_Operamini_non_cibum"/>
+<magnificat1_C id="AN_Cavete_ab_omni"/>
+<oratio id="COL_Adesto_Domine_famulis_tuis_et_perpetuam"/>
+<oratio_3 id="COL_Adesto_Domine_famulis_tuis_et_perpetuam"/>
+<oratio_6 id="COL_Adesto_Domine_famulis_tuis_et_perpetuam"/>
+<oratio_9 id="COL_Adesto_Domine_famulis_tuis_et_perpetuam"/>
+
+<benedictus_A id="AN_De_quinque_panibus"/>
+<benedictus_B id="AN_Amen_amen_dico"/>
+<benedictus_C id="AN_Thesaurizate_vobis_thesauros"/>
+<magnificat_A id="AN_Manducaverunt_omnes_et"/>
+<magnificat_B id="AN_Ego_sum_panis"/>
+<magnificat_C id="AN_Si_vere_fratres"/>
+</liturgia>

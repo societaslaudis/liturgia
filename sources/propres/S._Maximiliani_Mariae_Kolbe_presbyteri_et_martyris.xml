@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 14 augusti</la>
+<fr>Le 14 ao&#xFB;t</fr>
+</jour>
+<intitule>
+<la>S. MAXIMILIANI MARI&#xC6; KOLBE, PRESBYTERI ET MARTYRIS</la>
+<fr>S. MAXIMILIEN MARIE KOLBE, PRETRE ET MARTYR</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_martyrum_Dominum"/>
+<HYMNUS_laudes id="hy_Martyr_Dei"/>
+<LB_matin id="LB_2_Cor_1_3-5"/>
+<RB_matin id="RB_Fortitudo_mea_Et_laus"/>
+<benedictus id="AN_Magnificabitur_Christus_in"/>
+
+<oratio id="COL_Deus_qui_sanctum_Maximilianum_Mariam_presbyterum"/>
+<HYMNUS_vesperas id="hy_Deus_tuorum_militum"/>
+<LB_soir id="LB_1_Petr_4_13-14"/>
+<RB_soir id="RB_Probasti_nos_Deus_Et"/>
+<magnificat id="AN_Domine_Deus_omnipotens"/>
+<messe> 
+<IN id="IN_Sacerdotes_Dei"/>
+<COL id="COL_Deus_qui_sanctum_Maximilianum_Mariam_presbyterum"/>
+
+<PS1 id="GR_Si_ambulem"/>
+<PS2 id="AL_Beatus_vir_qui_suffert"/>
+<OF id="OF_Deus_Deus_meus"/>
+<CO id="CO_Et_si_coram_hominibus"/>
+</messe>
+</liturgia>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<liturgia>
+	<messe>
+	<EV id="EV_Mt13,44,46"/>
+	<LEC id="LEC_2Co10,17-11,2"/>
+	<IN id="IN_Dilexisti"/>
+	<PS1 id="GR_Specie_tua"/>
+	<PS2 id="AL_Adducentur"/>
+	<OF id="OF_Filiae_regum"/>
+	<CO id="CO_Quinque_prudentes_virgines"/>
+	</messe>
+</liturgia>

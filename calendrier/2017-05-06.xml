@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>13</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada III Paschae</la><fr>III&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps106I</psL1>
+
+<antL2/>
+
+<psL2>ps106II</psL2>
+
+<antL3/>
+
+<psL3>ps106III</psL3>
+
+<LVers/>
+n<Llec1>L1_pascha_37</Llec1>
+
+<Lrep1>R1_pascha_37</Lrep1>
+
+<Llec2>L2_pascha_37</Llec2>
+
+<Lrep2>R2_pascha_37</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ 
+<ant1>AN_Verba_quae_ego</ant1>
+ 
+<ps1>ps118XIX</ps1>
+ 
+<ant2>AN_Adificasti_templum_et</ant2>
+ 
+<ps2>AT10</ps2>
+ 
+<ant3>AN_Ego_sum_via</ant3>
+ 
+<ps3>ps116</ps3>
+ 
+<LB_matin>LB_Rom_14_7-9</LB_matin> 
+ 
+<RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin>  
+<benedictus>AN_Dixit_Simon_Petrus</benedictus> 
+<laudes_preces>perannum_37</laudes_preces><oratio_laudes>COL_Deus_qui_credentes_in_te_fonte</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps118XVI</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_Rom_5_10-11</LB_3>
+ 
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+ 
+<LB_6>LB_1_Cor_15_20-22</LB_6>
+ 
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+ 
+<LB_9>LB_2_Cor_5_14-15</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3>COL_Deus_qui_credentes_in_te_fonte</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_credentes_in_te_fonte</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_credentes_in_te_fonte</oratio_9>
+ 
+<intitule_soir><la>Dominica IV Paschae</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+ 
+<ant7>AN_Pax_Christi_exsultet</ant7>
+ 
+<ps7>ps121</ps7>
+ 
+<ant8>AN_Redemisti_nos_Deo</ant8>
+ 
+<ps8>ps129</ps8>
+ 
+<ant9>AN_Nonne_haec_oportuit</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_1_Petr_2_9-10</LB_soir>
+ 
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+ 
+<magnificat>AN_Amen_dico_vobis</magnificat>
+ 
+<vepres_preces>perannum_37</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_deduc_nos_ad</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Iubilate_Deo</IN>
+<LEC>LEC_Ac9,31-42</LEC>
+<PS1>AL_Spiritus_est_qui_vivificat</PS1>
+<PS2/>
+<EV>EV_Jn6,60-69</EV>
+<OF>OF_Lauda_anima_mea</OF>
+<CO>CO_Cantate_Domino</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Via lucis </intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx Fran&#xE7;ois de Montmorency-Laval</intitule>
+ <biographiecourte>Premier &#xE9;v&#xEA;que du Canada, il &#xE9;vang&#xE9;lisa les Indiens et fonda le s&#xE9;minaire de Qu&#xE9;bec (universit&#xE9; Laval) (&#x2020;1708)</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 6 mai</para><para>1. Comm&#xE9;moraison de saint Lucius de Cyr&#xE8;ne, qui, dans les Actes des Ap&#xF4;tres, est compt&#xE9; parmi les proph&#xE8;tes et les docteurs de l&#x2019;&#xC9;glise qui &#xE9;taient &#xE0; Antioche. </para><para>2. &#xC0; Lamb&#xE8;se en Numidie, l&#x2019;an&#xA0;259, les saints martyrs Marien, lecteur, et Jacques, diacre. Le premier avait d&#xE9;j&#xE0; triomph&#xE9; des rigueurs de la pers&#xE9;cution de D&#xE8;ce en confessant le Christ. Il fut pris une seconde fois avec son illustre coll&#xE8;gue, et tous deux, apr&#xE8;s des supplices cruels, mais fortifi&#xE9;s par la gr&#xE2;ce divine, p&#xE9;rirent enfin par l&#x2019;&#xE9;p&#xE9;e avec beaucoup d&#x2019;autres. </para><para>3. &#xC0; Milan, en 409, saint V&#xE9;n&#xE8;re, &#xE9;v&#xEA;que, qui avait &#xE9;t&#xE9; disciple et diacre de saint Ambroise. Il envoya des clercs de son &#xC9;glise aux &#xE9;v&#xEA;ques d&#x2019;Afrique pour leur venir en aide et s&#x2019;int&#xE9;ressa &#xE0; la cause de saint Jean Chrysostome envoy&#xE9; en exil. </para><para>4. &#xC0; Rome, au VIe si&#xE8;cle, sainte Beno&#xEE;te, vierge moniale, qui, au dire du pape saint Gr&#xE9;goire le Grand, reposa dans le Seigneur le trenti&#xE8;me jour apr&#xE8;s la mort de sainte Galle, qui l&#x2019;aimait entre toutes et avait souhait&#xE9; de mourir ensemble. </para><para>5. &#xC0; Lindisfarne, en Northumbrie d&#x2019;Angleterre, l&#x2019;an&#xA0;698, saint Edbert, &#xE9;v&#xEA;que, qui succ&#xE9;da &#xE0; saint Cuthbert et s&#x2019;illustra par sa connaissance des &#xC9;critures, l&#x2019;observance des pr&#xE9;ceptes divins et surtout la g&#xE9;n&#xE9;rosit&#xE9; de ses aum&#xF4;nes. </para><para>6. Saint Pierrre Nolasco, pr&#xEA;tre, Espagne</para><para>7*. &#xC0; Montepulciano en Toscane, l&#x2019;an&#xA0;1330, le bienheureux Barth&#xE9;lemy Pucci Franceschi, pr&#xEA;tre de l&#x2019;Ordre des Mineurs. D&#xE9;laissant pour l&#x2019;amour de Dieu femme, enfants et richesses, il se fit petit pauvre du Christ. </para><para>8*. &#xC0; Londres, en 1590, les bienheureux &#xC9;douard Jones et Antoine Middleton, pr&#xEA;tres et martyrs. Ordonn&#xE9;s &#xE0; Douai, ils rejoignirent la mission d&#x2019;Angleterre, mais espionn&#xE9;s, pourchass&#xE9;s et arr&#xEA;t&#xE9;s, ils furent condamn&#xE9;s &#xE0; mort sous le reine &#xC9;lisabeth I&#xE8;re, pour trahison et invasion &#xE9;trang&#xE8;re, en r&#xE9;alit&#xE9; parce qu&#x2019;ils &#xE9;taient pr&#xEA;tres, et furent pendus &#xE0; la potence et d&#xE9;pec&#xE9;s &#xE0; la porte des maisons qu&#x2019;ils occupaient. </para><para>9*. Dans la ville de Qu&#xE9;bec au Canada, en 1708, le bienheureux Fran&#xE7;ois de Montmorency-Laval, &#xE9;v&#xEA;que, qui &#xE9;tablit l&#xE0; son si&#xE8;ge &#xE9;piscopal et, durant pr&#xE8;s de cinquante ans, mit tout son c&#x153;ur &#xE0; confirmer et d&#xE9;velopper l&#x2019;&#xC9;glise dans une r&#xE9;gion d&#x2019;Am&#xE9;rique du Nord qui s&#x2019;&#xE9;tendait jusqu&#x2019;au golfe du Mexique. </para><para>10*. Au Caire, en 1887, la bienheureuse Marie-Catherine Troiani, vierge du Tiers-Ordre de Saint-Fran&#xE7;ois. Envoy&#xE9;e d&#x2019;Italie en &#xC9;gypte, elle fonda dans ce pays une nouvelle famille de S&#x153;urs franciscaines missionnaires. </para><para>11*. &#xC0; Rome, en 1900, la bienheureuse Anne-Rose Gattorno, religieuse. M&#xE8;re de famille devenue veuve, elle se consacra tout enti&#xE8;re au Seigneur et &#xE0; son prochain, fonda les Filles de Sainte-Anne, mettant toutes ses forces au service des malades, des infirmes et des enfants sans d&#xE9;fense, sur le visage de qui elle contemplait le Christ. </para><para>12*. Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, les bienheureux martyrs Henri Kaczorowski et Casimir Gotynski, pr&#xEA;tres, l&#x2019;un de Vladislas, l&#x2019;autre de Lublin, qui, sous l&#x2019;occupation nazie de la Pologne, furent d&#xE9;port&#xE9;s et moururent dans une chambre &#xE0; gaz. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

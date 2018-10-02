@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XIX per annum</la><fr>XIX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XIX per annum</la><fr>XIX&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_XIX_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XIX_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XIX_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XIX_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ 
+<ant1>AN_Mirabilis_in_altis</ant1>
+ 
+<ps1>ps92</ps1>
+ 
+<ant2>AN_Laudabilis_es_Domine</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Laudate_Dominum_de</ant3>
+ 
+<ps3>ps148</ps3>
+ 
+<LB_matin>LB_Ez_37,12b-14</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin>  
+<benedictus>AN_Locutus_est_Iesus</benedictus> 
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_De_tribulatione_invocavi</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Dextera_Domini_fecit</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Rom_8_15-16</LB_3>
+ 
+<RB_3>VERS_Apud_te_Domine</RB_3>
+ 
+<LB_6>LB_Rom_8,_22-23</LB_6>
+ 
+<RB_6>VERS_Benedic_anima</RB_6>
+ 
+<LB_9>LB_2Tim1,9</LB_9>
+ 
+<RB_9>VERS_Deduxit_eos_Dominus</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_6>
+ 
+<oratio_9>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_9>
+ 
+<intitule_soir><la>Dominica XIX per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+ 
+<ant7>AN_Dixit_Dominus_Domino</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Memoriam_fecit_mirabilium</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_1_Petr1,3-5</LB_soir>
+ 
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+ 
+<magnificat>AN_Domine_iube_me</magnificat>
+ 
+<vepres_preces>perannum_31</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Respice_Domine</IN>
+<IN_L>IN_L_perannum_19</IN_L>
+<COL>COL_perannum_19</COL>
+<LEC>LEC_Is56,1-6-7</LEC>
+<PS1>GR_Ostende_nobis</PS1>
+<LEC2>LEC_Rm9,1-5</LEC2>
+
+<PS2>AL_Domine_refugium</PS2>
+<EV>EV_Mt14,22-33</EV>
+<OF>OF_In_te_speravi</OF>
+<SO>SO_perannum_19</SO>
+<CO>CO_Panis_quem_ego_dedero</CO>
+<CO_L>CO_L_perannum_19</CO_L>
+<PC>PC_perannum_19</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Sts Pontien, pape, et Hippolyte, pr&#xEA;tre, martyrs</intitule>
+ <biographiecourte>Oppos&#xE9;s, la pers&#xE9;cution les r&#xE9;unit. Le pape et le th&#xE9;ologien moururent martyrs en Sardaigne en 235</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 13 ao&#xFB;t.</para><para>M&#xE9;moire des saints martyrs Pontien, pape, et Hippolyte, pr&#xEA;tre de Rome. Celui-ci, th&#xE9;ologien de renom, s&#x2019;&#xE9;tait &#xE9;rig&#xE9; en chef d&#x2019;une communaut&#xE9; dissidente. Lors de la pers&#xE9;cution de Maximin, tous deux furent d&#xE9;port&#xE9;s en Sicile et soumis ensemble aux travaux forc&#xE9;s et probablement couronn&#xE9;s ensemble du martyre, avant 236. Leurs corps furent ensuite rapport&#xE9;s &#xE0; Rome&#xA0;: Pontien fut enterr&#xE9; au cimeti&#xE8;re de Calliste sur la voie Appienne, et Hippolyte, sur la voie Tiburtine.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; Au Forum de Cornelius [Imola] en &#xC9;milie, vers&#xA0;300, saint Cassien, martyr. Ma&#xEE;tre d&#x2019;&#xE9;cole, il avait refus&#xE9; d&#x2019;adorer les idoles et fut livr&#xE9; &#xE0; ses &#xE9;l&#xE8;ves pour qu&#x2019;ils le lac&#xE8;rent &#xE0; mort avec leurs poin&#xE7;ons, de fa&#xE7;on que, plus faibles &#xE9;taient leurs mains, plus longue fut la torture du martyr.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lyon, vers 500, saint Antioche, &#xE9;v&#xEA;que. Encore pr&#xEA;tre, il se rendit jusqu&#x2019;en &#xC9;gypte pour visiter saint Just, son &#xE9;v&#xEA;que, qui y s&#xE9;journait alors.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Poitiers, en 587, sainte Radegonde, reine des Francs. Du vivant m&#xEA;me de son &#xE9;poux, le roi Clotaire, elle demanda &#xE0; , &#xE9;v&#xEA;que de Noyon, de la consacrer &#xE0; Dieu. Elle re&#xE7;ut le voile sacr&#xE9; et servit le Seigneur, sous la R&#xE8;gle de saint C&#xE9;saire d&#x2019;Arles, au monast&#xE8;re de la Sainte-Croix, que le roi Clotaire avait fait construire pour elle.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; Au camp de Schemars dans les monts du Caucase, en 662, le tr&#xE9;pas de saint Maxime le Confesseur. Abb&#xE9; du monast&#xE8;re de Chrysopolis, en face de Constantinople, remarquable par sa science et son z&#xE8;le pour la v&#xE9;rit&#xE9; catholique, il combattit avec &#xE9;nergie les monoth&#xE9;lites, ce pour quoi l&#x2019;empereur h&#xE9;r&#xE9;tique Constant lui fit couper la main droite et le rel&#xE9;gua, avec deux de ses disciples appel&#xE9;s l&#x2019;un et l&#x2019;autre Athanase, apr&#xE8;s une dure incarc&#xE9;ration et des s&#xE9;vices multiples, dans l&#x2019;antique pays de Lazes (Transcaucasie), o&#xF9; il rendit son &#xE2;me &#xE0; Dieu</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Fritzlar en Germanie, vers 745, saint Wigbert, pr&#xEA;tre et abb&#xE9;, &#xE0; qui saint Boniface confia la monast&#xE8;re de ce lieu.</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Altenberg, pr&#xE8;s de Marbourg en Allemagne, en 1297, la bienheureuse Gertrude, abbesse, que sa m&#xE8;re sainte &#xC9;lisabeth de Hongrie, confia, toute jeune, au monast&#xE8;re des pr&#xE9;mont&#xE9;es de ce lieu, pour qu&#x2019;elle soit consacr&#xE9;e &#xE0; Dieu.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Killmaloc en Irlande, en 1579, les bienheureux martyrs Patrick O&#x2019;Healy, &#xE9;v&#xEA;que de Mayo, et Conn O&#x2019;Rourke, pr&#xEA;tre, tous deux franciscains. Quand on d&#xE9;couvrit leur &#xE9;tat sacerdotal, sous la reine &#xC9;lisabeth I&#xE8;re, ils furent condamn&#xE9;s &#xE0; mort et livr&#xE9;s aux supplices du gibet.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Warwick en Angleterre, en 1595, le bienheureux Guillaume Freeman, pr&#xEA;tre et martyr, condamn&#xE9; &#xE0; mort sous la reine &#xC9;lisabeth I&#xE8;re, uniquement parce qu&#x2019;il &#xE9;tait pr&#xEA;tre. Devant la potence, il commen&#xE7;a &#xE0; chanter le Te Deum et alla au supplice avec un grand courage.</para><para>10.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, en 1621, saint Jean Berchmans, religieux de la Compagnie de J&#xE9;sus. Aim&#xE9; de tous pour sa pi&#xE9;t&#xE9; sinc&#xE8;re, sa charit&#xE9; pr&#xE9;venante, sa joie continuelle, il mourut paisiblement, apr&#xE8;s une br&#xE8;ve maladie, &#xE0; l&#x2019;&#xE2;ge de vingt-deux ans.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0;  &#xC0; Vienne en Autriche, l&#x2019;an&#xA0;1699, le bienheureux Marc d&#x2019;Aviano (Charles-Dominique Cristofori), pr&#xEA;tre capucin. Savant pr&#xE9;dicateur de la parole de Dieu, il se d&#xE9;pensa partout pour les pauvres et les malades, provoquant en particulier les grands de ce monde &#xE0; pr&#xE9;f&#xE9;rer &#xE0; n&#x2019;importe quelle affaire ou utilit&#xE9;, la foi et la paix.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, le bienheureux Pierre Gabilhaud, pr&#xEA;tre de Limoges et martyr. Sous la R&#xE9;volution fran&#xE7;aise, &#xE0; cause de son sacerdoce, il fut d&#xE9;tenu dans des conditions inhumaines sur un bateau n&#xE9;grier, o&#xF9; il mourut d&#x2019;inanition et de maladie.</para><para>13.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Saugues pr&#xE8;s du Puy, en 1862, saint B&#xE9;nilde (Pierre Roman&#xE7;on), fr&#xE8;re des &#xC9;coles chr&#xE9;tiennes, qui passa toute sa vie &#xE0; former la jeunesse.</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, &#xE0; Barbastro en Aragon, le bienheureux Secondin-Marie Ortega Garcia, pr&#xEA;tre, religieux missionnaire fils du Coeur Immacul&#xE9; de Marie</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, &#xE0; Almazora, le bienheureux Jean Agramunt Riera, pr&#xEA;tre des Clercs r&#xE9;guliers des &#xC9;coles religieuses.</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, le bienheureux Joannis Agramunt, pr&#xEA;tre</para><para>16*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, le bienheureux Modeste Garcia Marti, pr&#xEA;tre capucin.</para><para>17*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, &#xE0; Barcelone, le bienheureux Joseph Bonet Nadal, pr&#xEA;tre sal&#xE9;sien.</para><para>18*.&#xA0; &#xA0; &#xA0; &#xA0; &#x2018;&#xC0; Berlin, en 1943, le bienheureux Jacques Gapp, pr&#xEA;tre de la Soci&#xE9;t&#xE9; de Marie et martyr. Avec un grand courage, il d&#xE9;clara publiquement que les lois du r&#xE9;gime nazi n&#x2019;&#xE9;taient pas compatibles avec la doctrine chr&#xE9;tienne. Expos&#xE9; pour cela aux pers&#xE9;cutions, il fut contraint &#xE0; s&#x2019;exiler en France, puis en Espagne, mais, arr&#xEA;t&#xE9; par des &#xE9;missaires du r&#xE9;gime, il fut d&#xE9;capit&#xE9;</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1936, les bienheureux Josep T&#xE0;pies et six Compagnons, pr&#xEA;tres, martyrs de la guerre civile espagnole. (b&#xE9;atifi&#xE9;s le 29 octobre 2005 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

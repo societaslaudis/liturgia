@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>9</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus passionis</la><fr>Temps de la Passion</fr></tempus>
+<hebdomada><la>Hebdomada V Quadragesimae</la><fr>V&#xE8;me semaine de Car&#xEA;me</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps130</psL1>
+
+<antL2/>
+
+<psL2>ps131I</psL2>
+
+<antL3/>
+
+<psL3>ps131II</psL3>
+
+<LVers/>
+n<Llec1>L1_quadragesima_57</Llec1>
+
+<Lrep1>R1_quadragesima_57</Lrep1>
+
+<Llec2>L2_quadragesima_57</Llec2>
+
+<Lrep2>R2_quadragesima_57</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>quadragesima_57-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>quadragesima_57-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_En_acetum_fel_arundo</HYMNUS_laudes>
+ 
+<ant1>AN_Praevenerunt_oculi_mei</ant1>
+ 
+<ps1>ps118XIX</ps1>
+ 
+<ant2>AN_Fortitudo_mea_et</ant2>
+ 
+<ps2>AT1</ps2>
+ 
+<ant3>AN_Laudate_Dominum_omnes</ant3>
+ 
+<ps3>ps116</ps3>
+ 
+<LB_matin>LB_Is_65_1</LB_matin> 
+ 
+<RB_matin>RB_Ipse_liberabit_me_De</RB_matin>  
+<benedictus>AN_Iesus_mortuus_est</benedictus> 
+<laudes_preces>quadragesima_57</laudes_preces><oratio_laudes>COL_Deus_qui_licet_salutem_hominum_semper</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+ 
+ 
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+ 
+<ps4>ps118V</ps4>
+ 
+<ant5>AN_Vivo_ego_dicit</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Per_arma_iustitiae</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_Ap_3_19-20</LB_3>
+ 
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+ 
+<LB_6>LB_Is_44_21-22</LB_6>
+ 
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+ 
+<LB_9>LB_Gal_6_7b-8</LB_9>
+ 
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>DOMINICA IN PALMIS DE PASSIONE DOMINI</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Vexilla_regis_prodeunt</HYMNUS_vepres>
+ 
+<ant7>AN_Tanto_tempore_vobiscum</ant7>
+ 
+<ps7>ps118XIV</ps7>
+ 
+<ant8>AN_Dominus_Deus_auxiliator</ant8>
+ 
+<ps8>ps15</ps8>
+ 
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_1_Petr_1_18-21</LB_soir>
+ 
+<RB_soir>RB_A_solis_ortu</RB_soir>
+ 
+<magnificat>AN_Dicite_filiae_Sion</magnificat>
+ 
+<vepres_preces>quadragesima_57</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_humano_generi</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Domine_ne_longe_facias</IN>
+<LEC>LEC_Ez37,21-28</LEC>
+<PS1>GR_Tenuisti_manum</PS1>
+<PS2/>
+<EV>EV_Jn11,45-57</EV>
+<OF>OF_Domine_vivifica_me</OF>
+<CO>CO_Aufer_a_me</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Julie Billiart ,religieuse</intitule>
+ <biographiecourte>Fondatrice d'un ordre enseignant&#xA0;: les S&#x153;urs de Notre Dame (&#x2020;1816)</biographiecourte>
+ <canonisebeatifie>Paul VI</canonisebeatifie>
+ <patronage/>
+ <intitule>Bse Constance</intitule>
+ <biographiecourte>M&#xE8;re de Saint &#xC9;lisabeth du Portuga ; mena une vie de pri&#xE8;res et s'occupa d'oeuv&#xE9;s charitables. Elle mourut &#xE0; Barcelone. (&#x2020;1302)   </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 8 avril</para><para>1. Comm&#xE9;moraison de saint Agabus, proph&#xE8;te, qui, au t&#xE9;moignage des Actes des Ap&#xF4;tres, annon&#xE7;a qu&#x2019;il y aurait une grande famine sur toute la terre et, inspir&#xE9; par l&#x2019;Esprit, pr&#xE9;dit &#xE0; saint Paul, par une action symbolique, les tourments qui l&#x2019;attendaient de la part des pa&#xEF;ens. </para><para>2. Comm&#xE9;moraison des saints H&#xE9;rodion, Asyncrite et Phl&#xE9;gon, que saint Paul salue dans sa lettre aux Romains. </para><para>3. Comm&#xE9;moraison de saint Denis, &#xE9;v&#xEA;que de Corinthe, vers 180. Par sa connaissance admirable de la parole de Dieu, il instruisit non seulement les fid&#xE8;les de sa cit&#xE9;, mais encore, par ses lettres, les &#xE9;v&#xEA;ques des autres villes et des autres provinces. </para><para>4. &#xC0; Antioche de Syrie, les saints martyrs Timoth&#xE9;e, Diog&#xE8;ne, Macaire et Maxime. </para><para>5. &#xC0; Alexandrie, vers 265, saint Denis, &#xE9;v&#xEA;que, personnage d&#x2019;une profonde &#xE9;rudition. C&#xE9;l&#xE8;bre pour avoir souvent confess&#xE9; la foi, riche en m&#xE9;rites &#xE0; cause de la diversit&#xE9; de ses souffrances et de ses tourments, il s&#x2019;endormit, plein de jours, en confesseur de la foi, au temps des empereurs Val&#xE9;rien et Gallien. </para><para>6. &#xC0; C&#xF4;me en Ligurie, l&#x2019;an&#xA0;449, saint Amance, &#xE9;v&#xEA;que, qui fut le troisi&#xE8;me &#xE0; si&#xE9;ger sur la cath&#xE8;dre de cette &#xC9;glise et &#xE9;difia la basilique des Ap&#xF4;tres. </para><para>7*. &#xC0; Orvieto en Toscane, l&#x2019;an&#xA0;1291, le bienheureux Cl&#xE9;ment d&#x2019;Osimo, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin, qui gouverna et d&#xE9;veloppa efficacement l&#x2019;Ordre et adapta avec sagesse sa l&#xE9;gislation. </para><para>8*. &#xC0; Alcala en Espagne, l&#x2019;an&#xA0;1606, le bienheureux Julien de Saint-Augustin, religieux. Repouss&#xE9; apr&#xE8;s plusieurs essais de vie religieuse, il fut enfin accept&#xE9; chez les Fr&#xE8;res Mineurs et, tenu pour fou pour Dieu &#xE0; cause de sa recherche excessive de p&#xE9;nitence, il pr&#xEA;cha le Christ davantage par l&#x2019;exemple de ses vertus que par ses discours. </para><para>9. &#xC0; Namur en Belgique, l&#x2019;an&#xA0;1816, sainte Julie Billiart, vierge, qui suscita l&#x2019;Institut des S&#x153;urs de Notre-Dame, pour l&#x2019;&#xE9;ducation chr&#xE9;tienne des jeunes filles et propagea beaucoup la d&#xE9;votion au Sacr&#xE9;-C&#x153;ur de J&#xE9;sus. </para><para>10*. &#xC0; Alassio en Ligurie, l&#x2019;an&#xA0;1893, le bienheureux Auguste Czartoryski, pr&#xEA;tre sal&#xE9;sien, que sa mauvaise sant&#xE9; n&#x2019;emp&#xEA;cha nullement de suivre avec courage l&#x2019;appel de Dieu. </para><para>11*. &#xC0; Belmonte pr&#xE8;s de Cuenca en Espagne, l&#x2019;an&#xA0;1927, le bienheureux Dominique du Saint-Sacrement (Dominique Iturrate), pr&#xEA;tre de l&#x2019;Ordre de la Sainte Trinit&#xE9;, qui veilla de toutes ses forces &#xE0; faire progresser le salut des &#xE2;mes et &#xE0; &#xE9;tendre la gloire de la Trinit&#xE9;. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<liturgia>
+<ant1 id="AN_De_Sion_veniet"/>
+<ant2 id="AN_Propter_Sion_non"/>
+<ant3 id="AN_Spiritus_Domini_super"/>
+<ant7 id="AN_De_Sion_veniet"/>
+<ant8 id="AN_Propter_Sion_non"/>
+<ant9 id="AN_Spiritus_Domini_super"/>
+<HYMNUS_tertiam id="hy_Certum_tenentes_ordinem"/>
+<HYMNUS_sextam id="hy_Dicamus_laudes_Domino"/>
+<HYMNUS_nonam id="hy_Ternis_horarum_terminis"/>
+<messe> 
+<IN id="IN_Memento_nostri_Domine"/>
+<PS1 id="GR_In_sole_posuit"/>
+<OF id="OF_Audi_Israel"/>
+<CO id="CO_Veni_Domine"/>
+</messe>
+</liturgia>

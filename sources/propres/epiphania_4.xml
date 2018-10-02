@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Tempus nativitatis post Epiphaniam - Feria IV</la>
+<fr>Temps de la Nativit&#xE9;, apr&#xE8;s l'Epiphanie - Mercredi</fr>
+</jour>
+<ant_invit id="INV_Christus_apparuit_nobis"/>
+<HYMNUS_laudes id="hy_Quicumque_Christum_quaeritis"/>
+<LB_matin id="LB_Is_49_8b-9a"/>
+<RB_matin id="RB_Adorabunt_eum_Omnes_reges"/>
+<benedictus id="AN_Vidimus_stellam_eius"/>
+<preces id="epiphania_4"/>
+<oratio id="COL_Deus_illuminator_omnium_gentium_da_populis"/>
+<HYMNUS_tertiam id="hy_Certum_tenentes_ordinem"/>
+<ant4 id="AN_Mysterium_quod_absconditum"/>
+<LB_3 id="LB_1_Tim_1_15"/>
+<RB_3 id="VERS_In_terris_visus_est_Et"/>
+<oratio_3 id="COL_Deus_illuminator_omnium_gentium_da_populis"/>
+<HYMNUS_sextam id="hy_Dicamus_laudes_Domino"/>
+<ant5 id="AN_Veniens_Christus_evangelizavit"/>
+<LB_6 id="LB_Ap_21_23-24"/>
+<RB_6 id="VERS_Videbunt_gentes_iustum_tuum_Et"/>
+<oratio_6 id="COL_Deus_illuminator_omnium_gentium_da_populis"/>
+<HYMNUS_nonam id="hy_Ternis_horarum_terminis"/>
+<ant6 id="AN_Ecce_dedi_te"/>
+<LB_9 id="LB_1Io1,5"/>
+<RB_9 id="VERS_Benedicite_gentes_Deum_nostrum_Et"/>
+<oratio_9 id="COL_Deus_illuminator_omnium_gentium_da_populis"/>
+<HYMNUS_vesperas id="hy_Hostis_Herodes_impie"/>
+<LB_soir id="LB_Col_1_13-15"/>
+<RB_soir id="RB_Benedicentur_in_ipso_Omnes"/>
+<magnificat id="AN_Interrogabat_magos_Herodes"/>
+<IN id="IN_Ecce_advenit"/>
+<PS1 id="GR_Omnes_de_Saba_venient"/>
+<PS2 id="AL_Vidimus_stellam"/>
+<SEQ id=""/>
+<OF id="OF_Reges_Tharsis"/>
+<CO id="CO_Vidimus_stellam"/>
+<autre1 id=""/><autre2 id=""/>
+<autre3 id=""/><autre4 id=""/>
+<autre5 id=""/><autre6 id=""/>
+<autre7 id=""/><autre8 id=""/>
+
+
+	<LEC_1_impaire id="1Jn4,11-18"/>
+	<PR_impaire id="Ps71,2.10-11.12-13"/>
+	<LEC_1_paire id="1Jn4,11-18"/>
+	<PR_paire id="Ps71,2.10-11.12-13"/>
+	<EV id="Mc6,45-52"/>
+</liturgia>

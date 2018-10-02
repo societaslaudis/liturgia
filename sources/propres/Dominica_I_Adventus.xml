@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica I Adventus</la>
+<fr>Ier dimanche de l'Avent</fr>
+</intitule>
+<magnificat1_A id="AN_Vigilate_ergo_dicit"/>
+<magnificat1_B id="AN_Ecce_nomen_Domini"/>
+<magnificat1_C id="AN_Erunt_signa_in"/>
+<oratio id="COL_Da_quaesumus_omnipotens_Deus_hanc_tuis"/>
+<oratio_3 id="COL_Da_quaesumus_omnipotens_Deus_hanc_tuis"/>
+<oratio_6 id="COL_Da_quaesumus_omnipotens_Deus_hanc_tuis"/>
+<oratio_9 id="COL_Da_quaesumus_omnipotens_Deus_hanc_tuis"/>
+
+<benedictus_A id="AN_Si_sciret_paterfamilias"/>
+<benedictus_B id="AN_Vigilate_ergo_nescitis"/>
+<benedictus_C id="AN_Respicite_et_levate"/>
+<magnificat_A id="AN_Spiritus_Sanctus_in_te descendet_Maria_ne_timeas"/>
+<magnificat_B id="AN_Ne_timeas_Maria"/>
+<magnificat_C id="AN_Beata_es_Maria"/>
+
+
+<messe>
+	<IN id="IN_Ad_te_levavi"/>
+	<COL id="COL_Da_quaesumus_omnipotens_Deus_hanc_tuis"/>
+	<PS1 id="GR_Universi_qui_te_exspectant"/>
+	<PS2 id="AL_Ostende_nobis"/>
+	<OF id="OF_Ad_te_Domine_levavi"/>
+	<CO id="CO_Dominus_dabit_benignitatem"/>
+	<LEC>
+		<A id="LEC_Is2,1-5"/>
+		<B id="LEC_Is63,16-17,19.64,2-7"/>
+		<C id="LEC_Jr33,14-16"/>
+	</LEC>
+	<PR>
+		<A id="PR_Ps122,1"/>
+		<B id="PR_Ps80,2"/>
+		<C id="PR_Ps25,4"/>
+	</PR>
+	<LEC2>
+		<A id="LEC_Rm13,11-14a"/>
+		<B id="LEC_1Co1,3-9"/>
+		<C id="LEC_1Th3,12-4,2"/>
+	</LEC2>
+	<EV>
+		<A id="EV_Mt24,37-44"/>
+		<B id="EV_Mc13,33-37"/>
+		<C id="EV_Lc21,25-28.34-36"/>
+	</EV>
+	<PRE id="PRE_Pr&#xE9;facedel'Aventn1."/>
+</messe>
+</liturgia>

@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada I per annum</la><fr>I&#xE8;re semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Confitemini_Domino_quia</invitatoire>
+
+<HYMNUS_lectures>hy_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+
+<antL1>AN_Exsurge_Domine_in</antL1>
+
+<psL1>ps34I</psL1>
+
+<antL2>AN_Iudica_causam_meam;</antL2>
+
+<psL2>ps34II</psL2>
+
+<antL3>AN_Lingua_mea_tota</antL3>
+
+<psL3>ps34III</psL3>
+
+<LVers>VERS_Fili_mi</LVers>
+n<Llec1>L1_perannum_1-6</Llec1>
+
+<Lrep1>R1_perannum_1-6</Lrep1>
+
+<Llec2>L2_perannum_1-6</Llec2>
+
+<Lrep2>R2_perannum_1-6</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_1-6-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>perannum_1-6-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Aterna_caeli_gloria</HYMNUS_laudes>
+ 
+<ant1>AN_Acceptabis_sacrificium_iustitiae</ant1>
+ 
+<ps1>ps50</ps1>
+ 
+<ant2>AN_In_Domino_iustificabitur</ant2>
+ 
+<ps2>AT27</ps2>
+ 
+<ant3>AN_Introite_in_conspectu</ant3>
+ 
+<ps3>ps99</ps3>
+ 
+<LB_matin>LB_Eph_4_29-32</LB_matin> 
+ 
+<RB_matin>RB_Auditam_fac_mihi_mane_</RB_matin>  
+<benedictus>AN_Visitavit_et_fecit</benedictus> 
+<laudes_preces>perannum_16</laudes_preces><oratio_laudes>COL_Deus_qui_tenebras_ignorantiae_Verbi_tui</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Viam_mandatorum_tuorum</ant4>
+ 
+<ps4>ps118IV</ps4>
+ 
+<ant5>AN_In_Domino_sperans</ant5>
+ 
+<ps5>ps25</ps5>
+ 
+<ant6>AN_In_Domino_speravit</ant6>
+ 
+<ps6>ps27</ps6>
+ 
+<LB_3>LB_Phil_2_2b-4</LB_3>
+ 
+<RB_3>VERS_Universae_viae</RB_3>
+ 
+<LB_6>LB_2_Cor_13_4</LB_6>
+ 
+<RB_6>VERS_Adhaesit_pulveri</RB_6>
+ 
+<LB_9>LB_Col_3_12-13</LB_9>
+ 
+<RB_9>VERS_Miserator_et</RB_9>
+ 
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+ 
+<oratio_6>COL_Domine_Iesu_Christe_qui_hora_sexta</oratio_6>
+ 
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Plasmator_hominis_Deus</HYMNUS_vepres>
+ 
+<ant7>AN_Sana_Domine_animam</ant7>
+ 
+<ps7>ps40</ps7>
+ 
+<ant8>AN_Dominus_virtutum_nobiscum</ant8>
+ 
+<ps8>ps45</ps8>
+ 
+<ant9>AN_Omnes_gentes_venient</ant9>
+ 
+<ps9>NT11</ps9>
+ 
+<LB_soir>LB_Rom_15_1-3</LB_soir>
+ 
+<RB_soir>RB_Christus_dilexit_nos</RB_soir>
+ 
+<magnificat>AN_Suscepit_nos_Dominus</magnificat>
+ 
+<vepres_preces>perannum_16</vepres_preces>
+ 
+<oratio_vepres>COL_Concede_nobis_famulis_tuis_quaesumus_Domine</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+ 
+<comp_ps1>ps87</comp_ps1> 
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+ 
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_In_excelso_throno</IN>
+<IN_L>IN_L_perannum_1</IN_L>
+<COL>COL_perannum_1</COL>
+<LEC>LEC_He4,1-11</LEC>
+<PS1>GR_Benedictus_Dominus</PS1>
+<PS2>AL_Iubilate_Deo</PS2>
+<EV>EV_Mc2,1-12</EV>
+<OF>OF_Iubilate_Deo_omnis_terra</OF>
+<SO>SO_perannum_1</SO>
+<CO>CO_Notas_mihi_fecisti</CO>
+<CO_L>CO_L_perannum_1</CO_L>
+<PC>PC_perannum_1</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Thomas de Cori</intitule>
+ <biographiecourte>Franciscain, grand pr&#xE9;dicateur, il se fit serviteur de ses fr&#xE8;res (&#x2020;1729)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Paulin d'Aquil&#xE9;e</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que et enseignant (&#x2020;802)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 11 janvier</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, en 142, saint Hygin, pape, qui fut le huiti&#xE8;me &#xE0; occuper la chaire de saint Pierre.</para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; En Afrique, au IIIe si&#xE8;cle, saint Salvius, martyr. Saint Augustin fit un sermon au peuple de Carthage le jour de sa naissance au ciel. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tigava en Maur&#xE9;tanie, vers 297, saint Typasius v&#xE9;t&#xE9;ran, martyr, qui, rappel&#xE9; au service, refusa de sacrifier aux dieux et fut d&#xE9;capit&#xE9;. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; C&#xE9;sar&#xE9;e de Palestine, en 309, saint Pierre, appel&#xE9; Apselame ou Balsame, martyr. Sous l&#x2019;empereur Maximin, il fut exhort&#xE9; &#xE0; plusieurs reprises par le juge et tous les assistants &#xE0; &#xE9;pargner sa jeunesse, mais, sourd &#xE0; leurs exhortations, avec un grand courage, il t&#xE9;moigna de sa foi dans le Christ comme un or tr&#xE8;s pur purifi&#xE9; par le feu. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Brindes en Apulie, au IVe si&#xE8;cle, saint Leuce, v&#xE9;n&#xE9;r&#xE9; comme le premier &#xE9;v&#xEA;que de cette cit&#xE9;.</para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pavie en Ligurie, vers 500, la translation de sainte Honorate, vierge consacr&#xE9;e &#xE0; Dieu, s&#x153;ur de l&#x2019;&#xE9;v&#xEA;que saint &#xC9;piphane. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; Dans le d&#xE9;sert de Jud&#xE9;e, en 529, saint Th&#xE9;odose le C&#xE9;nobiarque. Ami de saint Sabas, apr&#xE8;s de longues ann&#xE9;es de vie solitaire, il groupa autour de lui de nombreux disciples et leur fit mener la vie commune dans des monast&#xE8;res qu&#x2019;il avait b&#xE2;tis. Apr&#xE8;s avoir beaucoup souffert pour la foi catholique et devenu centenaire, il s&#x2019;endormit en paix dans le Christ. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Frioul aux confins de la V&#xE9;n&#xE9;tie, en 802, saint Paulin, &#xE9;v&#xEA;que d&#x2019;Aquil&#xE9;e, qui entreprit de convertir &#xE0; la foi les Avares et les Slov&#xE8;nes et adressa &#xE0; Charlemagne un po&#xE8;me remarquable sur la r&#xE8;gle de la foi. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Catane en Sicile, l&#x2019;an&#xA0;1487, le bienheureux Bernard Scammacca, pr&#xEA;tre. Apr&#xE8;s une jeunesse dissolue et un duel o&#xF9; il fut gri&#xE8;vement bless&#xE9;, il se convertit, entra dans l&#x2019;Ordre des Pr&#xEA;cheurs et ne cessa de pleurer les fautes de sa jeunesse dans l&#x2019;observance rigoureuse de la R&#xE8;gle et dans la p&#xE9;nitence. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Londres, en 1584, le bienheureux Guillaume Carter, martyr. Mari&#xE9;, il fut condamn&#xE9; &#xE0; mort sous le r&#xE8;gne d&#x2019;&#xC9;lisabeth I&#xE8;re, pour avoir &#xE9;dit&#xE9; un trait&#xE9; sur le schisme, pendu au gibet de Tyburn et horriblement taill&#xE9; en pi&#xE8;ces. </para><para>11. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Bellegra dans le Latium, en 1729, saint Thomas de Cori, pr&#xEA;tre de l&#x2019;Ordre des Mineurs, admirable par son aust&#xE9;rit&#xE9; et sa pr&#xE9;dication et remarquable fondateur de retraites.</para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; Au camp d&#x2019;extermination de Struthof, pr&#xE8;s de Gdansk, en Pologne, l&#x2019;an&#xA0;1940, le bienheureux Fran&#xE7;ois Rogaczewski, pr&#xEA;tre et martyr, qui, durant l&#x2019;oppression de la Pologne sous le r&#xE9;gime nazi, fut fusill&#xE9; pour la foi. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1885, la bienheureuse Anna Maria Janer Anglarill, fondatrice de l&#x2019;Institut des s&#x153;urs de la Sainte Famille d&#x2019;Urgel. (b&#xE9;atifi&#xE9;e le 8 octobre 2011 par Beno&#xEE;t XVI) &#xA0;</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

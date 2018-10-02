@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XVII per annum</la><fr>XVII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>In Dedicatione basilicae S. Mariae</la><fr>D&#xE9;dicace de la Basilique Ste Marie.</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Domini_est_terra</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps130</psL1>
+
+<antL2/>
+
+<psL2>ps131I</psL2>
+
+<antL3/>
+
+<psL3>ps131II</psL3>
+
+<LVers/>
+n<Llec1>L1_perannum_17-7</Llec1>
+
+<Lrep1>R1_perannum_17-7</Lrep1>
+
+<Llec2>L2_perannum_17-7</Llec2>
+
+<Lrep2>R2_perannum_17-7</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_iam_spargit_polum</HYMNUS_laudes>
+ 
+<ant1>AN_Praevenerunt_oculi_mei</ant1>
+ 
+<ps1>ps118XIX</ps1>
+ 
+<ant2>AN_Fortitudo_mea_et</ant2>
+ 
+<ps2>AT1</ps2>
+ 
+<ant3>AN_Laudate_Dominum_omnes</ant3>
+ 
+<ps3>ps116</ps3>
+ 
+<LB_matin>LB_2_Petr_1_10-11</LB_matin> 
+ 
+<RB_matin>RB_Clamavi_ad_te_Domine</RB_matin>  
+<benedictus>AN_Illumina_Domine_sedentes</benedictus> 
+<laudes_preces>perannum_17</laudes_preces><oratio_laudes>COL_Corda_nostra_quaesumus_Domine_resurrectionis_splendor</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Deduc_me_Domine</ant4>
+ 
+<ps4>ps118V</ps4>
+ 
+<ant5>AN_Inquirentes_Dominum_non</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Inquire_pacem_et</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_1_Reg_8_60-61</LB_3>
+ 
+<RB_3>VERS_Deus_meus</RB_3>
+ 
+<LB_6>LB_Ier_17_9-10</LB_6>
+ 
+<RB_6>VERS_Ab_occultis</RB_6>
+ 
+<LB_9>LB_Sap_7_27a;_8_1</LB_9>
+ 
+<RB_9>VERS_Quam_magnificata</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>IN TRANSFIGURATIONE DOMINI</la></intitule_soir>
+ 
+<rang_soir><la>Festum</la></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_O_nata_lux_de_lumine</HYMNUS_vepres>
+ 
+<ant7>AN_Assumpsit_Iesus_discipulos</ant7>
+ 
+<ps7>ps112</ps7>
+ 
+<ant8>AN_Et_ecce_apparuerunt</ant8>
+ 
+<ps8>ps116</ps8>
+ 
+<ant9>AN_Domine_bonum_est</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_Phil_3_20-21</LB_soir>
+ 
+<RB_soir>RB_Gloriosus_apparuisti_in_conspectu_Domini</RB_soir>
+ 
+<magnificat>AN_Christus_Iesus_splendor</magnificat>
+ 
+<vepres_preces>TRANSFIGURATIONE</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_fidei_sacramenta_in_Unigeniti</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Deus_in_loco_sancto_suo</IN>
+<IN_L>IN_L_perannum_17</IN_L>
+<COL>COL_perannum_17</COL>
+<LEC>LEC_Lv25,1-17</LEC>
+<PS1>GR_In_Deo_speravit</PS1>
+<PS2>AL_Exsultate_Deo</PS2>
+<EV>EV_Mt14,1-12</EV>
+<OF>OF_Exaltabo_te</OF>
+<SO>SO_perannum_17</SO>
+<CO>CO_Honora_Dominum</CO>
+<CO_L>CO_L_perannum_17</CO_L>
+<PC>PC_perannum_17</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>D&#xE9;dicace de la Basilique Sainte-Marie.</intitule>
+ <biographiecourte>Cette basilique romaine est la premi&#xE8;re &#xE9;glise d&#xE9;di&#xE9;e &#xE0; Marie en Occident, sa construction remonte &#xE0; 360 environs </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 5 ao&#xFB;t. </para><para>M&#xE9;moire de la d&#xE9;dicace de la basilique Sainte-Marie-Majeure &#xE0; Rome, sur l&#x2019;Esquilin. En 434, le pape Xyste III l&#x2019;offrit au peuple de Dieu apr&#xE8;s le Concile d&#x2019;&#xC9;ph&#xE8;se dans lequel la Vierge Marie fut salu&#xE9;e comme M&#xE8;re de Dieu.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ch&#xE2;lons-en-Champagne, au IVe si&#xE8;cle, saint Memmie, v&#xE9;n&#xE9;r&#xE9; comme le premier &#xE9;v&#xEA;que de la cit&#xE9;.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Teano en Campanie, au IVe si&#xE8;cle, saint Paris, &#xE9;v&#xEA;que, dont on dit qu&#x2019;il fut le premier &#xE0; occuper ce si&#xE8;ge</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Autun, au IVe si&#xE8;cle, saint Cassien, &#xE9;v&#xEA;que</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Naziance en Cappadoce, l&#x2019;an&#xA0;374, sainte Nonne, &#xE9;pouse de saint Gr&#xE9;goire l&#x2019;Ancien et m&#xE8;re des saints Gr&#xE9;goire le Th&#xE9;ologien, C&#xE9;saire et Gorgonia.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ascoli Piceno dans les Marches, saint Emigde, v&#xE9;n&#xE9;r&#xE9; comme premier &#xE9;v&#xEA;que de la cit&#xE9; et martyr.</para><para>7.*&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Viviers sur le Rh&#xF4;ne, apr&#xE8;s 535, saint Venance, &#xE9;v&#xEA;que</para><para>8*&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tremblevif en Sologne, saint Vi&#xE2;tre, ermite</para><para>9.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Maserfield en Angleterre, l&#x2019;an&#xA0;642, saint Oswald, martyr. Roi de Northumbrie, vaillant guerrier, mais plus encore ami de la paix, il propagea avec vigueur la foi chr&#xE9;tienne dans la r&#xE9;gion et fut tu&#xE9; au combat par des pa&#xEF;ens en haine du Christ.</para><para>10*&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Montegranaro dans les Marches, vers 1350, le bienheureux Fran&#xE7;ois Zanfredini, appel&#xE9; Checco de Pesaro, du Tiers-Ordre de saint Fran&#xE7;ois. Il distribua tous ses biens aux pauvres et v&#xE9;cut dans un ermitage qu&#x2019;il s&#x2019;&#xE9;tait construit, donnant, pendant quarante ans, un exemple de p&#xE9;nitence, de pri&#xE8;re et de bonnes &#x153;uvres.</para><para>11.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Setempeda [San Severino], dans les Marches, vers 1385, sainte Marguerite, veuve.</para><para>12*&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, le bienheureux Pierre-Michel No&#xEB;l, pr&#xEA;tre de Rouen et martyr. Sous la R&#xE9;volution fran&#xE7;aise, &#xE0; cause de son sacerdoce, il fut d&#xE9;tenu, dans des conditions inhumaines, sur un bateau n&#xE9;grier, et y mourut du scorbut</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

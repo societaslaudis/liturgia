@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>9</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Quadragesimae</la><fr>Temps du Car&#xEA;me</fr></tempus>
+<hebdomada><la>Hebdomada I Quadragesimae</la><fr>I&#xE8;re semaine de Car&#xEA;me</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps130</psL1>
+
+<antL2/>
+
+<psL2>ps131I</psL2>
+
+<antL3/>
+
+<psL3>ps131II</psL3>
+
+<LVers/>
+n<Llec1>L1_quadragesima_17</Llec1>
+
+<Lrep1>R1_quadragesima_17</Lrep1>
+
+<Llec2>L2_quadragesima_17</Llec2>
+
+<Lrep2>R2_quadragesima_17</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>quadragesima_17-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>quadragesima_17-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Iam_Christe_sol_iustitiae</HYMNUS_laudes>
+ 
+<ant1>AN_Praevenerunt_oculi_mei</ant1>
+ 
+<ps1>ps118XIX</ps1>
+ 
+<ant2>AN_Fortitudo_mea_et</ant2>
+ 
+<ps2>AT1</ps2>
+ 
+<ant3>AN_Laudate_Dominum_omnes</ant3>
+ 
+<ps3>ps116</ps3>
+ 
+<LB_matin>LB_Is_1_16-18</LB_matin> 
+ 
+<RB_matin>RB_Ipse_liberabit_me_De</RB_matin>  
+<benedictus>AN_Orate_pro_persequentibus</benedictus> 
+<laudes_preces>quadragesima_17</laudes_preces><oratio_laudes>COL_Ad_te_corda_nostra_Pater_aeterne</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+ 
+ 
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+ 
+<ps4>ps118V</ps4>
+ 
+<ant5>AN_Vivo_ego_dicit</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Per_arma_iustitiae</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_Ap_3_19-20</LB_3>
+ 
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+ 
+<LB_6>LB_Is_44_21-22</LB_6>
+ 
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+ 
+<LB_9>LB_Gal_6_7b-8</LB_9>
+ 
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica II Quadragesimae</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Audi_benigne_Conditor</HYMNUS_vepres>
+ 
+<ant7>AN_Lucerna_pedibus_meis</ant7>
+ 
+<ps7>ps118XIV</ps7>
+ 
+<ant8>AN_Adimplebis_me_laetitia</ant8>
+ 
+<ps8>ps15</ps8>
+ 
+<ant9>AN_In_nomine_Iesu</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Col_1_2b-6a</LB_soir>
+ 
+<RB_soir>RB_A_solis_ortu</RB_soir>
+ 
+<magnificat>AN_Facta_est_dum</magnificat>
+ 
+<vepres_preces>quadragesima_17</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_nobis_dilectum_Filium_tuum</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Lex_Domini</IN>
+<LEC>LEC_Dt26,16-19</LEC>
+<PS1>GR_Adiutor_meus</PS1>
+<PS2/>
+<EV>EV_Mt5,43-48</EV>
+<OF>OF_Domine_Deus</OF>
+<CO>CO_Domine_Deus_meus</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Quatre temps de printemps</intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste B&#xE9;n&#xE9;dicte</intitule>
+ <biographiecourte>Elle succ&#xE9;da &#xE0; Ste Claire (&#x2020;1260)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 16 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Aquil&#xE9;e en V&#xE9;n&#xE9;tie, les saints martyrs Hilaire, &#xE9;v&#xEA;que, et Tatien.</para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; S&#xE9;leucie en Perse au IVe si&#xE8;cle, saint Papas, martyr. Originaire de Lycaonie, pour avoir confess&#xE9; la foi dans le Christ, il subit divers supplices et fut, dit-on, pendu &#xE0; un arbre. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Anazarbe en Cilicie, au IVe si&#xE8;cle, saint Julien, martyr. Sous le pr&#xE9;fet Marcien, il fut longtemps tortur&#xE9;&#xA0;; &#xE0; la fin on l&#x2019;enferma dans un sac avec des serpents et on le jeta &#xE0; la mer. </para><para>4*. &#xA0; &#xA0; &#xA0; &#xA0; En Flandre, vers 680, Sainte Eus&#xE9;bie ou Ysoie, abbesse. Apr&#xE8;s la mort de son p&#xE8;re, saint Adalbald, elle accompagna sa m&#xE8;re, sainte Rictrude, dans la vie monastique &#xE0; Marchiennes, puis fut &#xE9;lue, &#xE0; douze ans, pour succ&#xE9;der &#xE0; sa tante, sainte Gertrude, &#xE0; la t&#xEA;te du couvent de Hamage. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; l&#x2019;abbaye de Deutz en Allemagne, l&#x2019;an&#xA0;1021, le tr&#xE9;pas de saint H&#xE9;ribert, &#xE9;v&#xEA;que. Chancelier de l&#x2019;empereur Othon III, &#xE9;lu malgr&#xE9; lui au si&#xE8;ge &#xE9;piscopal de Cologne, sans plus tarder, il se d&#xE9;voua &#xE0; son clerg&#xE9; et &#xE0; son peuple, donnant l&#x2019;exemple des vertus dont il recommandait la pratique dans sa pr&#xE9;dication. Il acheva sa course dans le monast&#xE8;re qu&#x2019;il avait fond&#xE9;. </para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Vicence en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1181, le bienheureux Jean de Sordi ou Cacciafronte, &#xE9;v&#xEA;que et martyr. D&#x2019;abord abb&#xE9; de Saint-Laurent &#xE0; Cr&#xE9;mone, il fut exil&#xE9; &#xE0; cause de sa fid&#xE9;lit&#xE9; au pape&#xA0;; &#xE9;lu &#xE9;v&#xEA;que de Mantoue, puis transf&#xE9;r&#xE9; au si&#xE8;ge de Vicence, il fut assassin&#xE9; par un malheureux qu&#x2019;il avait excommuni&#xE9; pour d&#xE9;fendre la libert&#xE9; de l&#x2019;&#xC9;glise. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; York en Angleterre, l&#x2019;an&#xA0;1589, les bienheureux Jean Amias et Robert Dalby, pr&#xEA;tres et martyrs, qui furent condamn&#xE9;s &#xE0; mort &#xE0; cause uniquement de leur qualit&#xE9; de pr&#xEA;tres, sous la reine &#xC9;lisabeth I&#xE8;re, et all&#xE8;rent joyeux au gibet o&#xF9; ils devaient &#xEA;tre pendus. </para><para>8. &#xA0; &#xA0; &#xA0; &#xA0; Chez les Hurons au Canada, en 1649, la passion de saint Jean de Br&#xE9;beuf, pr&#xEA;tre de la Compagnie de J&#xE9;sus, qui fut envoy&#xE9; de France dans la mission chez les Hurons et, apr&#xE8;s bien des travaux apostoliques, fut massacr&#xE9; par quelques pa&#xEF;ens du lieu et succomba pour le Christ, ayant fait le v&#x153;u de ne jamais fuir l&#x2019;occasion du martyre. Sa m&#xE9;moire est c&#xE9;l&#xE9;br&#xE9;e avec ses compagnons le 19 octobre. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

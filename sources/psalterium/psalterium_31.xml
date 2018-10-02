@@ -1,0 +1,70 @@
+﻿<?xml version="1.0"?>
+<liturgia>
+<HYMNUS_1V id="hy_Deus_creator_omnium"/>
+ <ps01 id="ps112"/>
+<ps02 id="ps115"/>
+<ps03 id="NT5"/>
+<ant01 id="AN_A_solis_ortu"/>
+<ant02 id="AN_Calicem_salutaris_accipiam"/>
+<ant03 id="AN_Humiliavit_semetipsum_Dominus"/>
+<LB_1V id="LB_Hebr_13_20-21"/>
+<RB_1V id="RB_Quam_magnificata_sunt"/>
+
+ <ant_invit id="INV_Venite_exsultemus_Domino"/>
+<HYMNUS_lectures id="hy_Primo_dierum_omnium"/>
+<HYMNUS_lec_jour id="hy_Dies_aetasque_ceteris"/>
+<antL1 id="AN_Per_Singluos_dies"/>
+<psL1 id="ps144I"/>
+<antL2 id="AN_Regnum_tuum_Domine"/>
+<psL2 id="ps144II"/>
+<antL3 id="AN_Fidelis_Dominus_in"/>
+<psL3 id="ps144III"/>
+<osb_vig_vers1 id="VERS_Ausculta_fili_mi"/>
+<HYMNUS_laudes id="hy_Aterne_rerum_conditor"/>
+<ant1 id="AN_Mirabilis_in_altis"/>
+<ps1 id="ps92"/>
+<ant2 id="AN_Laudabilis_es_Domine"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Laudate_Dominum_de"/>
+<ps3 id="ps148"/>
+<LB_matin id="LB_Ez_37,12b-14"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi"/>
+<benedictus id="AN"/>
+<oratio_laudes id="COL"/>
+<preces id="perannum_31"/>
+  
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant4 id="AN_De_tribulatione_invocavi"/>
+<ps4 id="ps117I"/>
+<ant5 id="AN_Dextera_Domini_fecit"/>
+<ps5 id="ps117II"/>
+<ant6 id="AN_Deus_Dominus_illuxit"/>
+<ps6 id="ps117III"/>
+<LB_3 id="LB_Rom_8_15-16"/>
+<RB_3 id="VERS_Apud_te_Domine"/>
+<LB_6 id="LB_Rom_8,_22-23"/>
+<RB_6 id="VERS_Benedic_anima"/>
+<LB_9 id="LB_2Tim1,9"/>
+<RB_9 id="VERS_Deduxit_eos_Dominus"/>
+
+ <HYMNUS_vesperas id="hy_Lucis_creator_optime" /> 
+  <ant7 id="AN_Dixit_Dominus_Domino" /> 
+  <ps7 id="ps109" /> 
+  <ant8 id="AN_Memoriam_fecit_mirabilium" /> 
+  <ps8 id="ps113A" /> 
+  <ant9 id="AN_Regnavit_Dominus_Deus" /> 
+  <ps9 id="NT12" /> 
+  <LB_soir id="LB_1_Petr1,3-5" /> 
+  <RB_soir id="RB_Benedictus_es_Domine" /> 
+  <preces id="perannum_31"/>
+
+<HYMNUS_completorium id="hy_Te_lucis_ante_terminum"/>
+<ant10 id="AN_Alis_suis_obumbrabit"/>
+<ps10 id="ps90"/>
+<LB_completorium id="LB_Ap_22_4-5"/>
+<RB_completorium id="RB_In_manus_tuas"/>
+<oratio_completorium id="COL_Vox_nostra_te_Domine"/>
+<AM id="AM_Salve_regina"/>
+</liturgia>

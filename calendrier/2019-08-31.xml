@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXI per annum</la><fr>XXI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Domini_est_terra</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps130</psL1>
+
+<antL2/>
+
+<psL2>ps131I</psL2>
+
+<antL3/>
+
+<psL3>ps131II</psL3>
+
+<LVers/>
+n<Llec1>L1_perannum_21-7</Llec1>
+
+<Lrep1>R1_perannum_21-7</Lrep1>
+
+<Llec2>L2_perannum_21-7</Llec2>
+
+<Lrep2>R2_perannum_21-7</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_iam_spargit_polum</HYMNUS_laudes>
+ 
+<ant1>AN_Praevenerunt_oculi_mei</ant1>
+ 
+<ps1>ps118XIX</ps1>
+ 
+<ant2>AN_Fortitudo_mea_et</ant2>
+ 
+<ps2>AT1</ps2>
+ 
+<ant3>AN_Laudate_Dominum_omnes</ant3>
+ 
+<ps3>ps116</ps3>
+ 
+<LB_matin>LB_2_Petr_1_10-11</LB_matin> 
+ 
+<RB_matin>RB_Clamavi_ad_te_Domine</RB_matin>  
+<benedictus>AN_Illumina_Domine_sedentes</benedictus> 
+<laudes_preces>perannum_17</laudes_preces><oratio_laudes>COL_Corda_nostra_quaesumus_Domine_resurrectionis_splendor</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Deduc_me_Domine</ant4>
+ 
+<ps4>ps118V</ps4>
+ 
+<ant5>AN_Inquirentes_Dominum_non</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Inquire_pacem_et</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_1_Reg_8_60-61</LB_3>
+ 
+<RB_3>VERS_Deus_meus</RB_3>
+ 
+<LB_6>LB_Ier_17_9-10</LB_6>
+ 
+<RB_6>VERS_Ab_occultis</RB_6>
+ 
+<LB_9>LB_Sap_7_27a;_8_1</LB_9>
+ 
+<RB_9>VERS_Quam_magnificata</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica XXII per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Rerum_Deus_fons_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_Lucerna_pedibus_meis</ant7>
+ 
+<ps7>ps118XIV</ps7>
+ 
+<ant8>AN_Adimplebis_me_laetitia</ant8>
+ 
+<ps8>ps15</ps8>
+ 
+<ant9>AN_In_nomine_Iesu</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Col_1_2b-6a</LB_soir>
+ 
+<RB_soir>RB_A_solis_ortu</RB_soir>
+ 
+<magnificat>AN_Cum_vocatus_fueris</magnificat>
+ 
+<vepres_preces>perannum_17</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_virtutum_cuius_est_totum_quod</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Inclina_Domine</IN>
+<IN_L>IN_L_perannum_21</IN_L>
+<COL>COL_perannum_21</COL>
+<LEC>LEC_1Th4,9-11</LEC>
+<PS1>GR_Bonum_est_confiteri</PS1>
+<PS2>AL_Quoniam_Deus</PS2>
+<EV>EV_Mt25,14-30</EV>
+<OF>OF_Exspectans_exspectavi</OF>
+<SO>SO_perannum_21</SO>
+<CO>CO_Domine_quinque_talenta</CO>
+<CO_L>CO_L_perannum_21</CO_L>
+<PC>PC_perannum_21</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule>F&#xEA;te orthodoxe de la D&#xE9;position de la ceinture de la Vierge &#xE0; Chalcoprateia </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Sts Joseph d'Arimathie et Nicod&#xE8;me</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx Edmige et ses compagnons</intitule>
+ <biographiecourte>Fr&#xE8;res des &#xE9;coles chr&#xE9;tiennes, morts martyrs en Espagne en 1936</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 31 ao&#xFB;t.</para><para>&#xC0; J&#xE9;rusalem, comm&#xE9;moraison des saints Joseph d&#x2019;Arimathie et Nicod&#xE8;me, qui recueillirent le corps de J&#xE9;sus d&#xE9;pos&#xE9; de la croix, l&#x2019;envelopp&#xE8;rent d&#x2019;un suaire et le d&#xE9;pos&#xE8;rent au tombeau. Joseph, originaire d&#x2019;Arimathie et membre du Sanh&#xE9;drin, homme bon et juste, disciple de J&#xE9;sus, mais en secret, attendait le royaume de Dieu. Nicod&#xE8;me, lui, pharisien, notable parmi les juifs, &#xE9;tait venu trouver J&#xE9;sus pendant la nuit pour l&#x2019;interroger sur sa mission et avait d&#xE9;fendu sa cause devant les pr&#xEA;tres et les pharisiens qui voulaient l&#x2019;arr&#xEA;ter.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ath&#xE8;nes, vers 150, saint Aristide, philosophe tr&#xE8;s c&#xE9;l&#xE8;bre par sa foi et sa sagesse, qui pr&#xE9;senta &#xE0; l&#x2019;empereur Adrien un livre sur la v&#xE9;rit&#xE9; de la religion chr&#xE9;tienne.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tr&#xE8;ves en Gaule Belgique, comm&#xE9;moraison de saint Paulin, &#xE9;v&#xEA;que et martyr. Au temps o&#xF9; la peste arienne faisait des ravages, il fut un vrai h&#xE9;raut de la v&#xE9;rit&#xE9; et au concile d&#x2019;Arles, r&#xE9;uni par l&#x2019;empereur arien Constance, ni les menaces ni les flatteries ne purent l&#x2019;amener &#xE0; condamner saint Athanase et &#xE0; d&#xE9;vier de la foi catholique. Aussi fut-il rel&#xE9;gu&#xE9; en Phrygie, o&#xF9;, apr&#xE8;s cinq ann&#xE9;es d&#x2019;exil, en 358, il acheva son martyre.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lindisfarne en Northumbrie, l&#x2019;an&#xA0;653, saint Aidan, &#xE9;v&#xEA;que et abb&#xE9;. Homme de grande pi&#xE9;t&#xE9;, d&#x2019;extr&#xEA;me mansu&#xE9;tude et de sage autorit&#xE9;, il fut appel&#xE9; du monast&#xE8;re d&#x2019;Iona par le roi saint Oswald, et il &#xE9;tablit dans cette &#xEE;le son si&#xE8;ge &#xE9;piscopal et son monast&#xE8;re, pour travailler efficacement &#xE0; r&#xE9;pandre l&#x2019;&#xC9;vangile dans ce royaume d&#x2019;Angleterre.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cardona pr&#xE8;s de Barcelone, vers 1240, saint Raymond Nonnat, qui fut un des premiers compagnons de saint Pierre Nolasque dans l&#x2019;Ordre de Notre-Dame-de-la-Merci et souffrit beaucoup, rapporte-t-on, au nom du Christ pour le rachat des captifs.</para><para>6*.&#xA0; &#xA0; &#xA0; &#xA0; Dans l&#x2019;ermitage de la Vallicola en Toscane, l&#x2019;an&#xA0;1315, le bienheureux Andr&#xE9; Dotti, pr&#xEA;tre de l&#x2019;Ordre des Servites de Marie, qui se livra aux pratiques de la mortification et de la contemplation.</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Almeira en Espagne, l&#x2019;an&#xA0;1936, les bienheureux martyrs Edmige (Isidore Primo Rodriguez), Amalius (Juste Zariquiegui Mendoza) et Val&#xE8;re-Bernard (Martien Herrero Martinez), fr&#xE8;res des &#xC9;coles chr&#xE9;tiennes, victimes de la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para><para/></martyrologe>
+
+<compendium/>
+
+</calendarium>

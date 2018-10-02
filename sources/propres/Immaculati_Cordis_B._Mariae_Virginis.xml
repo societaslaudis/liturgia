@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Immaculati Cordis B. Mariae Virginis</la>
+<fr>C&#x9C;ur Immacul&#xE9; de la B. Vierge Marie.</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<HYMNUS_laudes id="hy_O_gloriosa_domina"/>
+<LB_matin id="LB_Cf._Is_61_10"/>
+<RB_matin id="RB_Elegit_eam_Dominus_Et"/>
+<benedictus id="AN_Cor_meum_et"/>
+<oratio id="COL_Deus_qui_in_corde_beatae_Mariae"/>
+<preces id="COMMUNE_BMV"/>
+<messe>
+	<IN id="IN_Meditatio_cordis_mei"/>
+	<COL id="COL_Deus_qui_in_corde_beatae_Mariae"/>
+
+	<LEC>
+		<impaire id="LEC_Is61,9-11"/>
+		<paire id="LEC_Is61,9-11"/>
+	</LEC>
+	<PS1 id="GR_Exsultabit_cor_meum"/>
+	<PS2 id="AL_Paratum_cor_meum"/>
+	<EV id="EV_Lc2,41-51"/>
+	<OF id="OF_Meditabor"/>
+	<CO id="CO_Narrabo"/>
+</messe>
+</liturgia>

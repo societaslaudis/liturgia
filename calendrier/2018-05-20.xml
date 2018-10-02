@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>2</priorite>
+<couleur>Rouge</couleur>
+<code>Dominica_Pentecostes</code>
+<propre>Dominica_Pentecostes</propre>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada VII Paschae</la><fr>VII&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la>Dominica Pentecostes</la><fr>Dimanche de la Pentec&#xF4;te</fr></intitule>
+<rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Alleluia_Spiritus_Domini</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_Pentecostes</Llec1>
+
+<Lrep1>R1_Dominica_Pentecostes</Lrep1>
+
+<Llec2>L2_Dominica_Pentecostes</Llec2>
+
+<Lrep2>R2_Dominica_Pentecostes</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Beata_nobis_gaudia</HYMNUS_laudes>
+ 
+<ant1>AN_Mirabilis_in_altis</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Laudabilis_es_Domine</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Laudate_Dominum_de</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Act_5_30-32</LB_matin> 
+ 
+<RB_matin>RB_Repleti_sunt_omnes_Spiritu_Sancto</RB_matin>  
+<benedictus>AN_Accipite_Spiritum_Sanctum</benedictus> 
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Deus_qui_sacramento_festivitatis_hodiernae_universam</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_Christus_astra_ascenderat</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Spiritus_Sanctus_procedens</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Auge_in_nobis</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Non_enim_vos</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_1_Cor_12_13</LB_3>
+ 
+<RB_3>VERS_Spiritus_Paraclitus_alleluia_Docebit</RB_3>
+ 
+<LB_6>LB_Tit_3_5b-7</LB_6>
+ 
+<RB_6>VERS_Spiritus_Sanctus_docebit_vos_alleluia</RB_6>
+ 
+<LB_9>LB_2_Cor_1_21-22</LB_9>
+ 
+<RB_9>VERS_Loquebantur_variis_linguis_Apostoli_alleluia</RB_9>
+ 
+<oratio_3>COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis</oratio_3>
+ 
+<oratio_6>COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis</oratio_6>
+ 
+<oratio_9>COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis</oratio_9>
+ 
+<intitule_soir><la>Dominica Pentecostes</la></intitule_soir>
+ 
+<rang_soir><la>Sollemnitas</la></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+ 
+<ant7>AN_Spiritus_Domini_replevit</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Confirma_hoc_Deus</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Repleti_sunt_omnes</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Eph_4_3-6</LB_soir>
+ 
+<RB_soir>RB_Spiritus_Domini_replevit_orbem_terrarum</RB_soir>
+ 
+<magnificat>AN_Hodie_completi_sunt</magnificat>
+ 
+<vepres_preces>perannum_31</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_sacramento_festivitatis_hodiernae_universam</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	 
+<comp_ps1>ps90</comp_ps1>
+	 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>Ad missam in vigilia
+</Intitule_messe>
+<IN>IN_Dum_sanctificatus_fuero</IN>
+<PS1>AL_Emitte_Spiritum_tuum</PS1>
+<PS2>AL_Dum complerentur</PS2>
+<OF>OF_Emitte_Spiritum_tuum</OF>
+<CO>CO_Ultimo_festivitatis</CO>
+</messe>
+<messe>
+<Intitule_messe>Ad missam in die
+</Intitule_messe>
+<IN>IN_Spiritus_Domini</IN>
+<COL>COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis</COL>
+<PS1>AL_Emitte_Spiritum_tuum</PS1>
+<LEC2>LEC_Ga5,16-25</LEC2>
+
+<PS2>AL_Veni_Sancte_Spiritus</PS2>
+<SEQ>SEQ_Veni_Sancte_Spiritus</SEQ>
+<EV>EV_Jn15,26-27;16,12-15</EV>
+<OF>OF_Confirma_hoc_Deus</OF>
+<CO>CO_Factus_est_repente</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>St Bernardin de Sienne, pr&#xEA;tre.</intitule>
+ <biographiecourte>Pr&#xE9;dicateur franciscain, il parcourut toute l'Italie, r&#xE9;pandant la d&#xE9;votion du nom de J&#xE9;sus (&#x2020;1444)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para> Dimanche de Pentec&#xF4;te </para><para>Le jour de la Pentec&#xF4;te, qui conclut les cinquante jours de P&#xE2;ques, est aujourd&#x2019;hui comm&#xE9;mor&#xE9;e, ainsi que l&#x2019;effusion de l&#x2019;Esprit Saint sur les disciples &#xE0; J&#xE9;rusalem, d&#x2019;abord sur l&#x2019;&#xC9;glise et les premi&#xE8;res missions apostoliques, puis sur toutes les tribus, langues peuples et nations.</para><para>
+            Le 20 mai</para><para>1. M&#xE9;moire de saint Bernardin de Sienne, pr&#xEA;tre de l&#x2019;Ordre des Mineurs. Par sa parole et son exemple, &#xE0; travers bourgs et villes d&#x2019;Italie, il annon&#xE7;a l&#x2019;&#xC9;vangile au peuple, diffusa la d&#xE9;votion au saint nom de J&#xE9;sus et poursuivit inlassablement sa mission de pr&#xE9;dicateur avec de grands r&#xE9;sultats jusqu&#x2019;&#xE0; son dernier jour &#xE0; L&#x2019;Aquila dans les Abruzzes, en 1444. </para><para>2. Comm&#xE9;moraison de sainte Lydie, la marchande de pourpre de Thyatire, qui, &#xE0; Philippes de Mac&#xE9;doine, fut la premi&#xE8;re dans cette ville &#xE0; croire &#xE0; l&#x2019;&#xC9;vangile, apr&#xE8;s la pr&#xE9;dication de l&#x2019;Ap&#xF4;tre saint Paul. </para><para>3. &#xC0; Ostie, aux bouches du Tibre, saint Aur&#xE9;e, martyre. </para><para>4. &#xC0; N&#xEE;mes, saint Baudile, martyr. </para><para>5. &#xC0; &#xC9;g&#xE9;e en Cilicie, saint Thalal&#xE9;e, martyr.</para><para>6*. &#xC0; Cagliari en Sardaigne, l&#x2019;an&#xA0;370, saint Lucifer, &#xE9;v&#xEA;que. D&#xE9;fenseur intr&#xE9;pide de la foi de Nic&#xE9;e, il eut beaucoup &#xE0; souffrir et fut envoy&#xE9; en exil par l&#x2019;empereur Constant. Revenu enfin &#xE0; son &#xC9;glise, il mourut confesseur de la foi. </para><para>7*. &#xC0; Toulouse, vers 400, saint Hilaire, &#xE9;v&#xEA;que, qui construisit une petite basilique de bois sur le tombeau de son pr&#xE9;d&#xE9;cesseur, saint Saturnin. </para><para>8. &#xC0; Bourges, vers 624, saint Outrille (Austr&#xE9;gisile), &#xE9;v&#xEA;que, qui se montra ministre de la charit&#xE9;, surtout pour les pauvres, les orphelins, les malades et les condamn&#xE9;s &#xE0; mort. </para><para>9. &#xC0; Brescia en Lombardie, au VIIe si&#xE8;cle, saint Anastase, &#xE9;v&#xEA;que. </para><para>10. &#xC0; Pavie, &#xE9;galement en Lombardie, vers 744, saint Th&#xE9;odore, &#xE9;v&#xEA;que, qui, durant la guerre entre les Francs et les Lombards, dut s&#x2019;exiler.</para><para>11*. &#xC0; Castaneto en Toscane, au XIIe si&#xE8;cle, le bienheureux Guy de Gherardesca, ermite. </para><para>12*. &#xC0; P&#xE9;rouse en Ombrie, l&#x2019;an&#xA0;1501, la bienheureuse Colombe ou Ang&#xE8;le, vierge, s&#x153;ur de la P&#xE9;nitence de Saint-Dominique, qui s&#x2019;appliqua &#xE0; promouvoir la paix dans la cit&#xE9; divis&#xE9;e par les factions. </para><para>13. &#xC0; S&#xE9;oul en Cor&#xE9;e, l&#x2019;an&#xA0;1839, saint Protais Chong Kuk-bo, martyr. Quand se d&#xE9;cha&#xEE;na la pers&#xE9;cution, il abandonna la foi, mais se reprit, se d&#xE9;clara chr&#xE9;tien et, en prison, dans les tortures, il professa sa foi jusqu&#x2019;&#xE0; la mort. </para><para>14*. &#xC0; Botticino Sera, pr&#xE8;s de Brescia en Lombardie, l&#x2019;an&#xA0;1912, saint Archange Tadini, pr&#xEA;tre, qui eut &#xE0; c&#x153;ur de d&#xE9;fendre les droits et la dignit&#xE9; des ouvriers et fonda la Congr&#xE9;gation des S&#x153;urs ouvri&#xE8;res de la sainte maison de Nazareth, avec le souci premier de la justice sociale. (canonis&#xE9; le 26 avril 2009 par Beno&#xEE;t XVI))</para><para>&#xA0;15*. A Milan en Lombardie, Bienheureux Louis Talamoni, pr&#xEA;tre, Italie </para><para>**. &#xA0; &#xA0; &#xA0; &#xA0; En Hollande, en 1903, la bienheureuse Josepha Hendrina Stenmanns co-fondatrice allemande des s&#x153;urs missionnaires servantes du Saint Esprit (b&#xE9;atifi&#xE9;e par Beno&#xEE;t XVI le 29 juin 2008).</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Argentine, en 1932, la bienheureuse Mar&#xED;a Crescencia P&#xE9;rez religieuse de la congr&#xE9;gation des filles de la Vierge du Jardin. (b&#xE9;atifi&#xE9;e le 17 novembre 2012 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

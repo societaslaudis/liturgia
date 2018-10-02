@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica I Adventus</la>
+<fr>Ier dimanche de l'Avent</fr>
+</intitule>
+<HYMNUS_vesperas id="hy_Conditor_alme_siderum"/>
+<HYMNUS_1V id="hy_Conditor_alme_siderum"/>
+<ant7 id="AN_Annuntiate_populis_et"/>
+<ant8 id="AN_Ecce_Dominus_veniet"/>
+<ant9 id="AN_Veniet_Dominus_in"/>
+<LB_soir id="LB_1Th_5_23-24"/>
+<RB_soir id="RB_Ostende_nobis_Domine_Misericordiam"/>
+<oratio_vesperas id="COL_Da_quaesumus_omnipotens_Deus_hanc_tuis"/>
+</liturgia>

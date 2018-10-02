@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>10</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXI per annum</la><fr>XXI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>In Passione S. Ioannis Baptistae, martyris</la><fr>Passion de S. Jean-Baptiste, martyr</fr></intitule>
+<rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Agnum_Dei_quem</invitatoire>
+
+<HYMNUS_lectures>hy_Consors_paterni_luminis</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
+
+<antL1/>
+
+<psL1/>
+
+<antL2/>
+
+<psL2/>
+
+<antL3/>
+
+<psL3/>
+
+<LVers>VERS_Diriget_Dominus</LVers>
+n<Llec1>L1_In_Passione_S._Ioannis_Baptistae_martyris</Llec1>
+
+<Lrep1>R1_In_Passione_S._Ioannis_Baptistae_martyris</Lrep1>
+
+<Llec2>L2_In_Passione_S._Ioannis_Baptistae_martyris</Llec2>
+
+<Lrep2>R2_In_Passione_S._Ioannis_Baptistae_martyris</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_O_nimis_felix_meritique_celsi</HYMNUS_laudes>
+ 
+<ant1>AN_Misit_Dominus_manum</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Metuebat_Herodes_Ioannem</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Herodes_libenter_Ioannem</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Is_49_1b-2</LB_matin> 
+ 
+<RB_matin>RB_Vos_misistis_ad_Ioannem_Et</RB_matin>  
+<benedictus>AN_Amicus_sponsi_qui</benedictus> 
+<laudes_preces>IN PASSIONE S. IOANNIS BAPTISTAE</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Ioannem_Baptistam_et</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Beati_qui_ambulant</ant4>
+ 
+<ps4>ps118I</ps4>
+ 
+<ant5>AN_Exsultabit_cor_meum</ant5>
+ 
+<ps5>ps12</ps5>
+ 
+<ant6>AN_Conclusit_Deus_omnia</ant6>
+ 
+<ps6>ps13</ps6>
+ 
+<LB_3>LB_Ier_17_7-8</LB_3>
+ 
+<RB_3>VERS_Dominus_non_privabit_bonis_eos</RB_3>
+ 
+<LB_6>LB_Prov_3_13-15</LB_6>
+ 
+<RB_6>VERS_Domine_veritatem_in_corde_dilexisti</RB_6>
+ 
+<LB_9>LB_Iob_5_17-18</LB_9>
+ 
+<RB_9>VERS_Fac_cum_servo_tuo_secundum</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+ 
+<intitule_soir><la>IN PASSIONE S. IOANNIS BAPTIST&#xC6;</la></intitule_soir>
+ 
+<rang_soir><la>Memoria</la></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Praecessor_almus_gratiae</HYMNUS_vepres>
+ 
+<ant7>AN_Ne_timeas_a</ant7>
+ 
+<ps7>ps114</ps7>
+ 
+<ant8>AN_Misso_Herodes_spiculatore</ant8>
+ 
+<ps8>ps115</ps8>
+ 
+<ant9>AN_Ioannis_discipuli_venerunt</ant9>
+ 
+<ps9>NT9</ps9>
+ 
+<LB_soir>LB_Act_13_23-25</LB_soir>
+ 
+<RB_soir>RB_Amicus_sponsi_gaudet_Propter_vocem</RB_soir>
+ 
+<magnificat>AN_Non_sum_ego</magnificat>
+ 
+<vepres_preces>IN PASSIONE S. IOANNIS BAPTISTAE</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_beatum_Ioannem_Baptistam_et</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+ 
+<comp_ps1>ps142</comp_ps1> 
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+ 
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Inclina_Domine</IN>
+<IN_L>IN_L_perannum_21</IN_L>
+<COL>COL_perannum_21</COL>
+<LEC>LEC_1Th2,1-8</LEC>
+<PS1>GR_Bonum_est_confiteri</PS1>
+<PS2>AL_Quoniam_Deus</PS2>
+<EV>EV_Mt23,23-26</EV>
+<OF>OF_Exspectans_exspectavi</OF>
+<SO>SO_perannum_21</SO>
+<CO>CO_Qui_manducat</CO>
+<CO_L>CO_L_perannum_21</CO_L>
+<PC>PC_perannum_21</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Passion de St Jean-Baptiste</intitule>
+ <biographiecourte>Le pr&#xE9;curseur par sa mort a annonc&#xE9; la passion du Christ. Arr&#xEA;t&#xE9; par H&#xE9;rode, il fut d&#xE9;capit&#xE9; &#xE0; la demande de Salom&#xE9;</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 29 ao&#xFB;t.</para><para>M&#xE9;moire du martyre de saint Jean Baptiste, que le roi H&#xE9;rode Antipas maintint en prison dans la forteresse de Mach&#xE9;ronte et qu&#x2019;il ordonna de d&#xE9;capiter le jour de son anniversaire, &#xE0; la demande de la fille d&#x2019;H&#xE9;rodiade. Comme une lampe qui brille, le pr&#xE9;curseur du Seigneur a rendu t&#xE9;moignage &#xE0; la v&#xE9;rit&#xE9; aussi bien dans sa mort que dans sa vie.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Sirmium en Pannonie, sainte Basille</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, comm&#xE9;moraison de sainte Sabine, dont le titre &#xE9;tabli sur l&#x2019;Aventin vers 422-432, pr&#xE9;sente son nom &#xE0; la v&#xE9;n&#xE9;ration.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Metz, au Ve si&#xE8;cle, saint Adelphe, &#xE9;v&#xEA;que</para><para>5*.&#xA0; &#xA0; &#xA0; &#xA0; Au pays nantais, saint Victor, solitaire, qui v&#xE9;cut en reclus au VIe ou VIIe si&#xE8;cle, dans un petit oratoire construit pour lui &#xE0; Campbon.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Londres, vers 693, saint Sebbe. Roi des Saxons orientaux, tr&#xE8;s d&#xE9;vou&#xE9; &#xE0; Dieu, il voulut mourir rev&#xEA;tu de l&#x2019;habit monastique, qu&#x2019;il avait longtemps d&#xE9;sir&#xE9;.</para><para>7.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Paris, vers 700, saint Merry (M&#xE9;d&#xE9;ric), pr&#xEA;tre et abb&#xE9; d&#x2019;un monast&#xE8;re &#xE0; Autun. Devenu vieux, il quitta sa charge et finit sa vie dans un ermitage pr&#xE8;s de Paris.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Valence en Espagne, l&#x2019;an&#xA0;1231, les bienheureux martyrs Jean de P&#xE9;rouse, pr&#xEA;tre, et Pierre de Sassoferrato, religieux, tous deux fr&#xE8;res mineurs, qui, pour avoir pr&#xEA;ch&#xE9; la foi chr&#xE9;tienne aux Maures de la ville, furent d&#xE9;capit&#xE9;s sur l&#x2019;ordre du roi sur la place publique.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Cracovie en Pologne, l&#x2019;an&#xA0;1259, la bienheureuse Bronislava, vierge, de l&#x2019;Ordre de Pr&#xE9;montr&#xE9;, qui voulut mener une vie humble et cach&#xE9;e et, quand son couvent fut d&#xE9;truit par les Tartares, v&#xE9;cut dans une cabane, seule avec Dieu.</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lancaster en Angleterre, l&#x2019;an&#xA0;1618, le bienheureux Richard Herst, martyr. P&#xE8;re de famille, laboureur, faussement accus&#xE9; de meurtre, sous le roi Jacques Ier, il pr&#xE9;f&#xE9;ra la mort &#xE0; la libert&#xE9; qu&#x2019;on lui proposait s&#x2019;il abandonnait la foi catholique, et il fut condamn&#xE9; au supplice de la pendaison.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; Sur l&#x2019;&#xEE;le Madame, au large du port de Rochefort, en 1794, le bienheureux Louis-Wulphy Huppy, pr&#xEA;tre de Limoges et martyr. Sous la R&#xE9;volution fran&#xE7;aise, en raison de son sacerdoce, il fut d&#xE9;port&#xE9; sur un bateau n&#xE9;grier dans des conditions inhumaines et mourut de la contagion r&#xE9;pandue &#xE0; bord, &#xE0; l&#x2019;&#xE2;ge de vingt-huit ans.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Waterford en Irlande, l&#x2019;an&#xA0;1844, le bienheureux Ignace (Edmond) Rice, qui se d&#xE9;voua, avec toute la ferveur et la pers&#xE9;v&#xE9;rance possibles, &#xE0; l&#x2019;&#xE9;ducation des enfants et des jeunes, dans des conditions tr&#xE8;s difficiles&#xA0;; pour d&#xE9;velopper son &#x153;uvre, il fonda la Congr&#xE9;gation des Fr&#xE8;res chr&#xE9;tiens et celle des Fr&#xE8;res de la Pr&#xE9;sentation.</para><para>13*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; la Tour Saint-Joseph, pr&#xE8;s de Rennes, en 1877, sainte Jeanne Jugan (Marie de la Croix), vierge. Pour mendier des ressources pour les pauvres et pour Dieu, elle fonda la Congr&#xE9;gation des Petites S&#x153;urs des pauvres, mais, &#xE9;ject&#xE9;e sans aucune justice de la direction de son institut, elle passa les vingt derni&#xE8;res ann&#xE9;es de sa vie dans la pri&#xE8;re et l&#x2019;humilit&#xE9;. (canonis&#xE9;e le 11 octobre 2009 par Beno&#xEE;t XVI)</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1936, le bienheureux Constantin Fernandez Alvarez, pr&#xEA;tre dominicain et martyr, ex&#xE9;cuts l&#x2019;un &#xE0; Valence, victime de la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1936, le bienheureux Fran&#xE7;ois Monzon Romeo, pr&#xEA;tre dominicain et martyr, ex&#xE9;cut&#xE9; &#xE0; Hijar, pr&#xE8;s de Teruel, victime de la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para><para>16*.&#xA0; &#xA0; &#xA0; &#xA0; Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, le bienheureux Dominique Jedrzejewski, pr&#xEA;tre de Vladislava et martyr. Cur&#xE9; de Goslawice, quand la Pologne fut soumise &#xE0; l&#x2019;occupation nazie, il fut d&#xE9;port&#xE9; en Allemagne et mourut &#xE0; la suite des mauvais traitements subis.</para><para>17*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Posnan en Pologne, l&#x2019;an&#xA0;1942, la bienheureuse Sancie (Janine Szymkowiak), vierge, des Filles de la Vierge Marie des Douleurs, qui mit tout son z&#xE8;le &#xE0; venir en aide aux prisonniers dans la dure p&#xE9;riode de la guerre.</para><para>18*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Sainte-Julie en Ligurie, en 1944, la bienheureuse Th&#xE9;r&#xE8;se Bracco, vierge et martyre. Alors qu&#x2019;elle travaillait dans les champs, pendant la Seconde Guerre mondiale, elle tomba sous les coups de soldats, pour avoir d&#xE9;fendu sa chastet&#xE9;.</para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; En Inde, en 1952, la bienheureuse Euphrasie du Sacr&#xE9;-C&#x153;ur de J&#xE9;sus (Rosa Eluvathing) religieuse indienne de la congr&#xE9;gation des religieuses de la M&#xE8;re du Carmel. (b&#xE9;atifi&#xE9;e le 3 d&#xE9;cembre 2006 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

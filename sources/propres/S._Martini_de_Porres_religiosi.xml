@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<liturgia>
+	<messe>
+		<EV id="EV_Mt22,34-40"/>
+		<LEC id="LEC_Ph4,4-9"/>
+		<IN id="IN_Dispersit_dedit_pauperibus"/>
+		<PS1 id="GR_Dispersit"/>
+		<PS2 id="AL_Mirabilis_Dominus"/>
+		<OF id="OF_In_virtute_tua"/>
+		<CO id="CO_Amen_dico_vobis_quod_uni"/>
+	</messe>
+</liturgia>

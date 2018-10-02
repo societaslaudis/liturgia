@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<liturgia>
+		
+<messe>
+	<IN>
+		<A id="IN_Omnia_quae_fecisti"/>
+		<B id="IN_In_nomine_Domini"/>
+		<C id="IN_Omnia_quae_fecisti"/>
+	</IN> 
+	<COL id="COL_perannum_26"/>
+	<PS1>
+		<A id="GR_Christus_factus_est"/>
+		<B id="GR_Oculi_omnium"/>
+		<C id="GR_Oculi_omnium"/>
+	</PS1> 
+	<LEC2>
+		<A id="LEC_Ph2,1-11"/>
+		<B id="LEC_Jc5,1-6"/>
+		<C id="LEC_1Tm6,11-16"/>
+	</LEC2>	
+	<PS2 id="AL_Paratum_cor_meum"/>
+	<EV>
+		<A id="EV_Mt21,28-32"/>
+		<B id="EV_Mc9,38-43.45.47-48"/>
+		<C id="EV_Lc16,19-31"/>
+	</EV>
+	<OF id="OF_Super_flumina"/>
+	<SO id="SO_perannum_26"/>
+	<CO id="CO_Memento_verbi_tui"/>
+	<PC id="PC_perannum_26"/>
+	><PR>
+		<A id="PR_Ps25,4"/>
+		<B id="PR_Ps19,8"/>
+		<C id="PR_Ps146,5"/>
+	</PR>
+	<LEC>
+		<B id="LEC_Nb11,25-29"/>
+		<C id="LEC_Am6,1Am6,4-7"/>
+		<A id="LEC_Is5,1-7"/>
+	</LEC>
+	<IN_L id="IN_L_perannum_26"/>
+	<CO_L id="CO_L_perannum_26"/>
+</messe>
+</liturgia>

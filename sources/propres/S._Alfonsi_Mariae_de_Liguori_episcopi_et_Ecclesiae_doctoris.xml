@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 1 augusti</la>
+<fr>Le 1er ao&#xFB;t</fr>
+</jour>
+<intitule>
+<la>S. ALFONSI MARl&#xC6; DE LIGUORI, EPISCOPI ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. ALPHONSE MARIE DE LIGORI, EVEQUE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Fontem_sapientiae_Dominum"/>
+<preces id="pastorum"/>
+<HYMNUS_laudes id="hy_Doctor_aeternus_coleris_piusque"/>
+<LB_matin id="LB_Sap_7_13-14"/>
+<RB_matin id="RB_Sapientiam_sanctorum_Narrent_populi"/>
+<benedictus id="AN_Qui_docti_fuerint"/>
+<oratio id="COL_Deus_qui_in_Ecclesia_tua_nova"/>
+<HYMNUS_vesperas id="hy_Aterne_sol_qui_lumine"/>
+<LB_soir id="LB_Iac_3_17-18"/>
+<RB_soir id="RB_In_medio_Ecclesiae_Aperuit"/>
+<magnificat id="AN_O_doctor_optime"/>
+<messe> 
+<EV id="EV_Mt5,13-19"/>
+<LEC id="LEC_Rm8,1-4"/>
+<IN id="IN_Lex_Domini"/>
+<COL id="COL_Deus_qui_in_Ecclesia_tua_nova"/>
+<PS1 id="GR_Beatus_vir_qui_timet"/>
+<PS2 id="AL_Iuravit_Dominus"/>
+<OF id="OF_Inveni_David"/>
+<CO id="CO_Iustus_Dominus"/>
+
+<SO id="SO_S._ALFONSI_MARIAE_DE_LIGUORI_EPISCOPI_ET_ECCLESIAE_DOCTORIS"/>
+<PRE id="PRE_I_DE_SANCTIS"/>
+<PRE id="PRE_II_DE_SANCTIS"/>
+<PC id="PC_S._ALFONSI_MARIAE_DE_LIGUORI_EPISCOPI_ET_ECCLESIAE_DOCTORIS"/>
+<IN_L id="IN_L_COMMUNE_SANCTORUM_PRO_EPISCOPO1"/>
+<PR id="PR_Ps118,9.10.11.12.13.14_ R.12b"/>
+<PS2_L id="AL_L_Mt5,16"/>
+<CO_L id="CO_L_COMMUNE_SANCTORUM_PRO_EPISCOPO1"/>
+</messe>
+</liturgia>

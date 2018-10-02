@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>9</priorite>
+<couleur>Violet</couleur>
+<code>quadragesima_05</code>
+<propre/>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Quadragesimae</la><fr>Temps du Car&#xEA;me</fr></tempus>
+<hebdomada><la>Dies post Cineres</la><fr>Jours apr&#xE8;s les Cendres</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+
+<HYMNUS_lectures>hy_Ales_diei_nuntius</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Amoris_sensus_erige</HYMNUS_lec_jour>
+
+<antL1>AN_Salvasti_nos_Domine</antL1>
+
+<psL1>ps43I</psL1>
+
+<antL2>AN_Parce_Domine_et</antL2>
+
+<psL2>ps43II</psL2>
+
+<antL3>AN_Exsurge_Domine_et</antL3>
+
+<psL3>ps43III</psL3>
+
+<LVers>VERS_Domine_ad</LVers>
+n<Llec1>L1_quadragesima_05</Llec1>
+
+<Lrep1>R1_quadragesima_05</Lrep1>
+
+<Llec2>L2_quadragesima_05</Llec2>
+
+<Lrep2>R2_quadragesima_05</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>quadragesima_05-NOCT1-2</LEC_NOCT1>
+
+<LEC_NOCT2>quadragesima_05-NOCT2-2</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Iam_Christe_sol_iustitiae</HYMNUS_laudes>
+ 
+<ant1>AN_In_veritate_tua</ant1>
+ 
+<ps1>ps79</ps1>
+ 
+<ant2>AN_Declinabit_Dominus_super</ant2>
+ 
+<ps2>AT19</ps2>
+ 
+<ant3>AN_Deo_nostro_iucunda</ant3>
+ 
+<ps3>ps80</ps3>
+ 
+<LB_matin>LB_Cf._1_Reg_8_51-53a</LB_matin> 
+ 
+<RB_matin>RB_Ipse_liberabit_me_De</RB_matin>  
+<benedictus>AN_Qui_vult_venire</benedictus> 
+<laudes_preces>quadragesima_06</laudes_preces><oratio_laudes>COL_Actiones_nostras_quaesumus_Domine_aspirando_praeveni</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+ 
+ 
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+ 
+<ps4>ps118IX</ps4>
+ 
+<ant5>AN_Vivo_ego_dicit</ant5>
+ 
+<ps5>ps55</ps5>
+ 
+<ant6>AN_Per_arma_iustitiae</ant6>
+ 
+<ps6>ps56</ps6>
+ 
+<LB_3>LB_Is_55_6-7</LB_3>
+ 
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+ 
+<LB_6>LB_Deut_30_2-3a</LB_6>
+ 
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+ 
+<LB_9>LB_Hebr_10_35-36</LB_9>
+ 
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+ 
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil</oratio_6>
+ 
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Iesu_quadragenariae</HYMNUS_vepres>
+ 
+<ant7>AN_Mitte_manum_tuam</ant7>
+ 
+<ps7>ps71I</ps7>
+ 
+<ant8>AN_Beatus_populus_cuius</ant8>
+ 
+<ps8>ps71II</ps8>
+ 
+<ant9>AN_Nunc_facta_est</ant9>
+ 
+<ps9>NT10</ps9>
+ 
+<LB_soir>LB_Iac_4_7-8._10</LB_soir>
+ 
+<RB_soir>RB_Ego_dixi_Domine_Miserere</RB_soir>
+ 
+<magnificat>AN_Qui_vult_venire</magnificat>
+ 
+<vepres_preces>quadragesima_06</vepres_preces>
+ 
+<oratio_vepres>COL_Actiones_nostras_quaesumus_Domine_aspirando_praeveni</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Caro_mea</comp_ant1>
+ 
+<comp_ps1>ps15</comp_ps1> 
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+ 
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Dum_clamarem</IN>
+<LEC>LEC_Dt30,15-20</LEC>
+<PS1>GR_Convertere_Domine</PS1>
+<PS2/>
+<EV>EV_Lc9,22-25</EV>
+<OF>OF_Ad_te_Domine_levavi</OF>
+<CO>CO_Qui_vult_venire</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>St Claude la Colombi&#xE8;re</intitule>
+ <biographiecourte>J&#xE9;suite, confesseur et aide de Ste Marguerite-Marie (&#x2020;1682)                   </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/>
+ <intitule>Bx Michel Sopocko</intitule>
+ <biographiecourte>Pr&#xEA;tre polonais, confesseur et guide spirituel de sainte Faustine (&#x2020;1975) </biographiecourte>
+ <canonisebeatifie>B 16</canonisebeatifie>
+ <patronage/>
+ <intitule>St Faustin</intitule>
+ <biographiecourte>Patron de s&#x153;ur Faustine</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 15 f&#xE9;vrier</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de bienheureux On&#xE9;sime, que l&#x2019;Ap&#xF4;tre saint Paul a recueilli esclave en fuite, qu&#x2019;il a engendr&#xE9; dans la foi du Christ alors que lui-m&#xEA;me &#xE9;tait en prison, comme il le dit dans sa lettre &#xE0; Phil&#xE9;mon. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Brescia en V&#xE9;n&#xE9;tie, les saints martyrs Faustin et Jovite, qui, apr&#xE8;s de nombreux combats soutenus pour la foi du Christ, re&#xE7;urent en vainqueurs la couronne du martyre. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Antioche de Syrie, au d&#xE9;but du IVe si&#xE8;cle, les saints martyrs Isice, pr&#xEA;tre, Josippe, diacre de Rome, Zosime, Baral et Agap&#xE8;, vierge. </para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; En Auvergne, au Ve ou VIe si&#xE8;cle, sainte G&#xE9;orgie, vierge. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Vaison en Provence, vers&#xA0;578, saint Quinide, &#xE9;v&#xEA;que. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; Dans la province de Val&#xE9;rie dans les Abruzzes, au VIe si&#xE8;cle, saint S&#xE9;v&#xE8;re, pr&#xEA;tre, qui, comme l&#x2019;&#xE9;crit le pape saint Gr&#xE9;goire le Grand, &#xE0; force de larmes ramena un cadavre &#xE0; la vie. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Capoue en Campanie, apr&#xE8;s 680, saint D&#xE9;corose, &#xE9;v&#xEA;que. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Palatiole en Toscane, vers&#xA0;765, saint Walfrid, abb&#xE9;. Apr&#xE8;s avoir eu et &#xE9;lev&#xE9; cinq enfants, il d&#xE9;cida, de concert avec son &#xE9;pouse, de mener la vie monastique. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Wexiow en Su&#xE8;de, vers 1045, saint Sigfrid, &#xE9;v&#xEA;que, qui partit d&#x2019;Angleterre, annon&#xE7;a avec z&#xE8;le l&#x2019;&#xC9;vangile aux peuples du Gotland et baptisa dans le Christ le roi Olav lui-m&#xEA;me. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Borgo San Sepolcro en Ombrie, vers 1306, le bienheureux Ange Scarpetto, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin. </para><para>11. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Paray-le-Monial en Bourgogne, l&#x2019;an&#xA0;1682, saint Claude La Colombi&#xE8;re, pr&#xEA;tre de la Compagnie de J&#xE9;sus, homme enti&#xE8;rement donn&#xE9; &#xE0; la pri&#xE8;re, qui dirigea bien des fid&#xE8;les &#xE0; l&#x2019;amour de Dieu par ses conseils s&#xFB;rs et droits. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; A Prague, en 1611, les bienheureux Bed&#x159;ich Bachstein et 13 compagnons, fr&#xE8;res mineurs Franciscains, Martyris&#xE9;s (b&#xE9;atifi&#xE9;s le 13 octobre 2012 par Beno&#xEE;t XVI)</para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; En Pologne, en 1975, le bienheureux Michel Sopocko, fondateur de la congr&#xE9;gation des s&#x153;urs de J&#xE9;sus Mis&#xE9;ricordieux, confesseur et p&#xE8;re spirituel de Ste faustine &#xA0;(b&#xE9;atifi&#xE9; par Benoit XVI le 28 septembre 2008)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

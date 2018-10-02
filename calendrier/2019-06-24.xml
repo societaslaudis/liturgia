@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>4</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XII per annum</la><fr>XII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>IN NATIVITATE S. IOANNIS BAPTISTAE</la><fr>NATIVITE DE SAINT JEAN BAPTISTE</fr></intitule>
+<rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Agnum_Dei_quem</invitatoire>
+
+<HYMNUS_lectures>HY_Antra_deserti_teneris_sub_annis</HYMNUS_lectures>
+
+<HYMNUS_lec_jour/>
+
+<antL1>AN_Quam_bonus_Israel</antL1>
+
+<psL1>ps72I</psL1>
+
+<antL2>AN_Risus_eorum_in</antL2>
+
+<psL2>ps72II</psL2>
+
+<antL3>AN_Qui_elongant_se</antL3>
+
+<psL3>ps72III</psL3>
+
+<LVers>VERS_Quam_dulcia</LVers>
+n<Llec1>L1_IN_NATIVITATE_S._IOANNIS_BAPTISTAE</Llec1>
+
+<Lrep1>R1_IN_NATIVITATE_S._IOANNIS_BAPTISTAE</Lrep1>
+
+<Llec2>L2_IN_NATIVITATE_S._IOANNIS_BAPTISTAE</Llec2>
+
+<Lrep2>R2_IN_NATIVITATE_S._IOANNIS_BAPTISTAE</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_O_nimis_felix_meritique_celsi</HYMNUS_laudes>
+ 
+<ant1>AN_Ioannes_vocabitur_nomen</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Ipse_praeibit_ante</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Tu_puer_propheta</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Mal_3_23-24</LB_matin> 
+ 
+<RB_matin>RB_Magnus_erit_coram_Domino_</RB_matin>  
+<benedictus>AN_Apertum_est_os</benedictus> 
+<laudes_preces>perannum_42</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Ioannem_Baptistam_suscitasti</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Erit_magnus_coram</ant4>
+ 
+<ps4>ps122</ps4>
+ 
+<ant5>AN_Ex_quo_facta_est</ant5>
+ 
+<ps5>ps123</ps5>
+ 
+<ant6>AN_Iste_puer_magnus</ant6>
+ 
+<ps6>ps124</ps6>
+ 
+<LB_3>LB_Is_49_1</LB_3>
+ 
+<RB_3>VERS_Ego_vidi_Spiritum_descendentem_et</RB_3>
+ 
+<LB_6>LB_Cf._Is_49_5a-6b</LB_6>
+ 
+<RB_6>VERS_Dominus_ab_utero_vocavit_me</RB_6>
+ 
+<LB_9>LB_Is_49_7b</LB_9>
+ 
+<RB_9>VERS_Ecce_dedi_verba_mea_in</RB_9>
+ 
+<oratio_3>COL_Deus_qui_beatum_Ioannem_Baptistam_suscitasti</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_beatum_Ioannem_Baptistam_suscitasti</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_beatum_Ioannem_Baptistam_suscitasti</oratio_9>
+ 
+<intitule_soir><la>IN NATIVITATE S. IOANNIS BAPTISTAE</la></intitule_soir>
+ 
+<rang_soir><la>Sollemnitas</la></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Ut_queant_laxis_resonare_fibris</HYMNUS_vepres>
+ 
+<ant7>AN_Fuit_homo_missus</ant7>
+ 
+<ps7>ps14</ps7>
+ 
+<ant8>AN_Hic_venit_ut</ant8>
+ 
+<ps8>ps111</ps8>
+ 
+<ant9>AN_Ioannes_erat_lucerna</ant9>
+ 
+<ps9>NT11</ps9>
+ 
+<LB_soir>LB_Eph_2_4-7</LB_soir>
+ 
+<RB_soir>RB_Parate_vias_Domini_Rectas</RB_soir>
+ 
+<magnificat>AN_Puer_qui</magnificat>
+ 
+<vepres_preces>perannum_42</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_beatum_Ioannem_Baptistam_suscitasti</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	 
+<comp_ps1>ps90</comp_ps1>
+	 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>Ad missam in vigilia
+</Intitule_messe>
+<IN>IN_Ne_timeas</IN>
+<PS1>GR_Fuit_homo</PS1><LEC2>1Petr1,8-12</LEC2>
+<PS2>AL_Beatus_vir_qui_timet</PS2>
+<SEQ/>
+<EV>Lc1,5-17</EV>
+<OF>OF_Gloria_et_honore</OF>
+<CO>CO_Magna_est_gloria_eius</CO>
+</messe>
+<messe>
+<Intitule_messe>Ad missam in die
+</Intitule_messe>
+<IN>IN_De_ventre_matris_meae</IN>
+<PS1>GR_Priusquam_te_formarem</PS1><LEC2>Act13,22-26</LEC2>
+<PS2>AL_Tu_puer</PS2>
+<SEQ/>
+<EV>Lc1,s7-66.8o</EV>
+<OF>OF_Iustus_ut_palma</OF>
+<CO>CO_Tu_puer</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule>France. St Maur des Foss&#xE9;s, N.D. des Miracles  </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>NATIVIT&#xC9; DE SAINT JEAN BAPTISTE</intitule>
+ <biographiecourte>Pr&#xE9;curseur du Messie</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 24 juin</para><para>1. La solennit&#xE9; de saint Jean Baptiste, pr&#xE9;curseur du Seigneur. Rempli de l&#x2019;Esprit Saint d&#xE8;s le sein de sa m&#xE8;re, il exulta de joie &#xE0; la venue du salut des hommes, et sa propre naissance annon&#xE7;a celle du Christ Seigneur. La gr&#xE2;ce brilla tellement en lui que le Seigneur lui-m&#xEA;me d&#xE9;clara que, parmi les enfants des hommes, il n&#x2019;en a pas exist&#xE9; de plus grand que Jean Baptiste. </para><para>2. &#xC0; Rome, sur l&#x2019;ancienne voie Salarienne, au lieu dit les Sept Palombes, les saints martyrs Jean et Festus. </para><para>3. &#xC0; Autun, vers 375, saint Simplice, &#xE9;v&#xEA;que. De noble famille et tr&#xE8;s riche, il vivait avec son &#xE9;pouse dans la plus parfaite chastet&#xE9;, quand il fut choisi comme &#xE9;v&#xEA;que. </para><para>4. Au village de Cr&#xE9;teil sur le territoire de Paris, au VIe ou VIIe si&#xE8;cle, la passion des saints martyrs Agoard et Aglibert, avec beaucoup d&#x2019;autres. </para><para>5. &#xC0; Malines en Brabant, l&#x2019;an&#xA0;775, saint Rombaud, que l&#x2019;on v&#xE9;n&#xE8;re comme ermite et martyr. </para><para>6. &#xC0; Lobbes en Belgique, l&#x2019;an&#xA0;776, saint Th&#xE9;odulphe (Thiou), &#xE9;v&#xEA;que et abb&#xE9;. </para><para>7*. &#xC0; Nantes, en 843, saint Gohard, &#xE9;v&#xEA;que et martyr. Alors qu&#x2019;il c&#xE9;l&#xE9;brait les saints myst&#xE8;res avec son peuple dans la cath&#xE9;drale et qu&#x2019;il chantait &#x201C;&#xC9;levons notre c&#x153;ur&#x201D;, il fut transperc&#xE9; de fl&#xE8;ches par les Normands impies et succomba avec un grand nombre de ses fid&#xE8;les. </para><para>8*. &#xC0; Vestervig au Danemark, vers 1065, saint Th&#xE9;odgar, pr&#xEA;tre missionnaire, qui construisit dans la r&#xE9;gion la premi&#xE8;re &#xE9;glise en bois. </para><para>9. Dans la province chinoise di Sichuan, en 1817, saint Joseph Yuan Zaide, pr&#xEA;tre et martyr, &#xE9;trangl&#xE9; en haine de la foi chr&#xE9;tienne. </para><para>10*. &#xC0; Guadalajara au Mexique, en 1963, sainte Marie-Guadelupe (Anastasie Garcia Zavala), vierge, qui contribua activement &#xE0; fonder la Congr&#xE9;gation des Servantes de Sainte-Marguerite-Marie et des Pauvres et qui exer&#xE7;a avec soin la charit&#xE9; envers les pauvres et les malades. &#xA0;(canonis&#xE9;e le 12 mai 2013 par le pape Fran&#xE7;ois)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

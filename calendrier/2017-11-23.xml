@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXXIII per annum</la><fr>XXXIII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Columbani, abbatis</la><fr>St Colomban, abb&#xE9;</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_adoremus_Dominum</invitatoire>
+
+<HYMNUS_lectures>hy_Nox_atra_rerum_contegit</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Christe_precamur_adnuas</HYMNUS_lec_jour>
+
+<antL1>AN_Eloquium_Domini_scutum</antL1>
+
+<psL1>ps17IV</psL1>
+
+<antL2>AN_Dextera_tua_Domine</antL2>
+
+<psL2>ps17V</psL2>
+
+<antL3>AN_Vivat_Dominus_et</antL3>
+
+<psL3>ps17VI</psL3>
+
+<LVers>VERS_Revela_Domine</LVers>
+n<Llec1>L1_perannum_33-5</Llec1>
+
+<Lrep1>R1_perannum_33-5</Lrep1>
+
+<Llec2>L2_perannum_33-5</Llec2>
+
+<Lrep2>R2_perannum_33-5</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Sol_ecce_surgit_igneus</HYMNUS_laudes>
+ 
+<ant1>AN_Exsurge_psalterium_et</ant1>
+ 
+<ps1>ps56</ps1>
+ 
+<ant2>AN_Populus_meus</ant2>
+ 
+<ps2>AT36</ps2>
+ 
+<ant3>AN_Magnus_Dominus_et</ant3>
+ 
+<ps3>ps47</ps3>
+ 
+<LB_matin>LB_Is_66_1-2</LB_matin> 
+ 
+<RB_matin>RB_Clamavi_in_toto_corde_meo</RB_matin>  
+<benedictus>AN_In_sanctitate_serviamus</benedictus> 
+<laudes_preces>perannum_15</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_vespere_mane_et</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Revela_oculos_meos</ant4>
+ 
+<ps4>ps118III</ps4>
+ 
+<ant5>AN_Dirige_me_in</ant5>
+ 
+<ps5>ps24I</ps5>
+ 
+<ant6>AN_Respice_in_me</ant6>
+ 
+<ps6>ps24II</ps6>
+ 
+<LB_3>LB_1_P_1_13-14</LB_3>
+ 
+<RB_3>VERS_Benedicite_omnia</RB_3>
+ 
+<LB_6>LB_Am_5_8</LB_6>
+ 
+<RB_6>VERS_Magnificentia_et</RB_6>
+ 
+<LB_9>LB_Am_9_6</LB_9>
+ 
+<RB_9>VERS_Caeli_enarrant</RB_9>
+ 
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil</oratio_6>
+ 
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Magnae_Deus_potentiae</HYMNUS_vepres>
+ 
+<ant7>AN_Clamavi_ad_te</ant7>
+ 
+<ps7>ps29</ps7>
+ 
+<ant8>AN_Beatus_vir_cui</ant8>
+ 
+<ps8>ps31</ps8>
+ 
+<ant9>AN_Dedit_ei_Dominus</ant9>
+ 
+<ps9>NT10</ps9>
+ 
+<LB_soir>LB_1_Petr_1_6-9</LB_soir>
+ 
+<RB_soir>RB_Cibavit_nos_Dominus</RB_soir>
+ 
+<magnificat>AN_Deposuit_Dominus_potentes</magnificat>
+ 
+<vepres_preces>perannum_15</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_illuminas_noctem_et_lumen</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Caro_mea</comp_ant1>
+ 
+<comp_ps1>ps15</comp_ps1> 
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+ 
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Dicit_Dominus_Ego</IN>
+<IN_L>IN_L_perannum_33</IN_L>
+<COL>COL_perannum_33</COL>
+<LEC>LEC_1M2,15-29</LEC>
+<PS1>GR_Liberasti_nos</PS1>
+<PS2>AL_De_profundis</PS2>
+<EV>EV_Lc19,41-44</EV>
+<OF>OF_De_profundis</OF>
+<SO>SO_perannum_33</SO>
+<CO>CO_Amen_dico_vobis_Quidquid</CO>
+<CO_L>CO_L_perannum_33</CO_L>
+<PC>PC_perannum_33</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Cl&#xE9;ment Ier, pape et martyr</intitule>
+ <biographiecourte>Pape et martyr au 1er si&#xE8;cle</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Colomban, abb&#xE9;</intitule>
+ <biographiecourte>Moine irlandais, fondateur de Luxeuil (&#x2020;615)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 23 novembre</para><para>1. M&#xE9;moire de saint Cl&#xE9;ment Ier, pape et martyr. Il re&#xE7;ut l&#x2019;&#xE9;piscopat de Rome le troisi&#xE8;me &#xE0; partir des Ap&#xF4;tres Pierre et Paul. &#x201C;Il avait vu, dit saint Ir&#xE9;n&#xE9;e, les Ap&#xF4;tres eux-m&#xEA;mes et avait &#xE9;t&#xE9; en relation avec eux&#xA0;: leur pr&#xE9;dication r&#xE9;sonnait encore &#xE0; ses oreilles et leurs travaux &#xE9;taient encore devant ses yeux&#x201D;. Un grave dissentiment s&#x2019;&#xE9;tant produit chez les chr&#xE9;tiens de Corinthe, il leur &#xE9;crivit une lettre remarquable pour r&#xE9;tablir entre eux la concorde et la paix. </para><para>2. M&#xE9;moire de saint Colomban, abb&#xE9;. Moine de Bangor en Irlande sous l&#x2019;abb&#xE9; saint Comgal, il se fit p&#xE8;lerin pour le Christ et chercha &#xE0; former &#xE0; l&#x2019;&#xE9;cole de l&#x2019;&#xC9;vangile les peuples de la Gaule. Il fonda, parmi beaucoup d&#x2019;autres, le monast&#xE8;re de Luxeuil en Bourgogne, qu&#x2019;il gouverna lui-m&#xEA;me sous une r&#xE8;gle s&#xE9;v&#xE8;re. Forc&#xE9; &#xE0; l&#x2019;exil, il franchit les Alpes et fonda en Ligurie le monast&#xE8;re de Bobbio, c&#xE9;l&#xE8;bre par sa discipline et ses &#xE9;tudes, et c&#x2019;est l&#xE0; qu&#x2019;il mourut en paix, l&#x2019;an&#xA0;615, ayant bien m&#xE9;rit&#xE9; de l&#x2019;&#xC9;glise. </para><para>3. &#xC0; Rome, au cimeti&#xE8;re de Maxime, sur la nouvelle voie Salarienne, sainte F&#xE9;licit&#xE9;, martyre. </para><para>4. &#xC0; Chiusi en Toscane, sainte Mustiole, martyre.</para><para>5. &#xC0; Cyzique dans l&#x2019;Hellespont, au d&#xE9;but du IVe si&#xE8;cle, saint Sisinius, &#xE9;v&#xEA;que et martyr, qui, apr&#xE8;s de nombreux tourments, aurait &#xE9;t&#xE9; frapp&#xE9; par l&#x2019;&#xE9;p&#xE9;e au cours de la pers&#xE9;cution de Diocl&#xE9;tien.</para><para>6*. &#xC0; Metz, comm&#xE9;moraison de saint Cl&#xE9;ment, tenu pour le premier &#xE9;v&#xEA;que de la cit&#xE9; au IIIe ou IVe si&#xE8;cle. </para><para>7. &#xC0; M&#xE9;rida au Portugal, sainte Lucr&#xE8;ce, martyre au IVe ou Ve si&#xE8;cle. </para><para>8. &#xC0; Iconium en Lycaonie, vers 400, saint Amphiloque, &#xE9;v&#xEA;que, qui fut le compagnon des saints Basile et Gr&#xE9;goire de Nazianze dans le d&#xE9;sert, et leur coll&#xE8;gue dans l&#x2019;&#xE9;piscopat. C&#xE9;l&#xE8;bre pour sa saintet&#xE9; et sa science, il eut &#xE0; supporter beaucoup de combats pour la foi catholique. </para><para>9. &#xC0; Paris, au VIe si&#xE8;cle, saint S&#xE9;verin, qui v&#xE9;cut reclus dans une cellule, tout entier occup&#xE9; &#xE0; la contemplation de Dieu. </para><para>10. &#xC0; Agrigente en Sicile, apr&#xE8;s 603, saint Gr&#xE9;goire, &#xE9;v&#xEA;que, qui composa un commentaire de l&#x2019;Eccl&#xE9;siaste pour faire conna&#xEE;tre aux ignorants son sens spirituel. </para><para>11. &#xC0; Zerkingen dans le Limbourg, vers 690, saint Trond, pr&#xEA;tre, qui donna ses biens &#xE0; l&#x2019;&#xC9;glise de Metz et construisit l&#xE0;, sur ses terres, un monast&#xE8;re o&#xF9; il rassembla des disciples. </para><para>12*. &#xC0; Albe dans le Pi&#xE9;mont, en 1464, la bienheureuse Marguerite de Savoie, qui, devenue veuve, se retira pour se consacrer &#xE0; Dieu dans le monast&#xE8;re de moniales de l&#x2019;Ordre des Pr&#xEA;cheurs qu&#x2019;elle avait fond&#xE9;. </para><para>13. &#xC0; S&#xE9;oul en Cor&#xE9;e, l&#x2019;an&#xA0;1839, sainte C&#xE9;cile Yu So-sa, martyre. M&#xE8;re de saint Andr&#xE9; Kim, devenue veuve, elle fut d&#xE9;pouill&#xE9;e de ses biens &#xE0; cause de sa foi, conduite en prison, soumise douze fois &#xE0; la torture et livr&#xE9;e au supplice de la bastonnade au point de mourir en prison presque octog&#xE9;naire. </para><para>14*. &#xC0; Guadalupe sur le territoire de Zacata au Mexique, en 1927, le bienheureux Michel-Augustin Pro, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. Dans la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise, il poursuivit son minist&#xE8;re dans la clandestinit&#xE9;, mais arr&#xEA;t&#xE9; par deux fois, il fut condamn&#xE9; &#xE0; mort sans jugement comme s&#x2019;il &#xE9;tait complice d&#x2019;un attentat manqu&#xE9;, et fusill&#xE9; en criant &#x201C;Vive le Christ Roi&#x201D;. </para><para>15*. Pr&#xE8;s de Madrid, en 1936, la bienheureuse Marie-C&#xE9;cile (Marie-F&#xE9;licit&#xE9; Cendoya y Araquistain), vierge de l&#x2019;Ordre de la Visitation et martyre. Dans la pers&#xE9;cution religieuse au cours de la guerre civile espagnole, ses s&#x153;urs ayant &#xE9;t&#xE9; arr&#xEA;t&#xE9;es en son absence, elle se livra d&#x2019;elle-m&#xEA;me la m&#xEA;me nuit aux miliciens et confirma avec ses compagnes par le sacrifice supr&#xEA;me le t&#xE9;moignage de sa foi. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Italie, en 1951, la bienheureuse Enrichetta Alfieri, s&#x153;ur de la Charit&#xE9;. (b&#xE9;atifi&#xE9;e le 26 juin 2011 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

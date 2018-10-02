@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>B. Mariae Virginis Ecclesiae Matris</la>
+<fr>B. Vierge Marie, Mère de l'Eglise</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<HYMNUS_laudes id="hy_Quae_caritatis_fulgidum"/>
+<LB_matin id="LB_Cf._Is_61_10"/>
+<RB_matin id="RB_Elegit_eam_Dominus_Et"/>
+<benedictus id="AN_Erant_discipuli_perseverantes"/>
+<preces id="COMMUNE_BMV"/>
+<oratio id="COL_Deus_misericordiarum_Pater_cuius_Unigenitus_cruci"/>
+
+<HYMNUS_vesperas id="hy_Ave_maris_stella"/>
+<LB_soir id="LB_Gal_4_4-5"/>
+<RB_soir id="RB_Ave_Maria"/>
+<magnificat id="AN_Dixit_Dominus_matri_suae_Mulier"/>
+
+<messe>
+	<IN id="IN_Salve_sancta_parens"/>
+	<COL id="COL_Deus_qui_in_corde_beatae_Mariae"/>
+
+	<LEC>
+		<impaire id="LEC_Gn3,9-15.20"/>
+		<paire id="LEC_Act1,12-14"/>
+	</LEC>
+	<PS1 id="GR_Benedicta_es_tu"/>
+	<PS2 id="AL_Felix_es_sacra_Virgo"/>
+	<EV id="EV_Jn19,25-34"/>
+	<OF id="OF_Recordare_Virgo_Mater"/>
+	<CO id="CO_Gloriosa"/>
+	
+	<SO id="SO_B._Mariae_Virginis_Ecclesiae_Matris"/>
+	<PRE id="PRE_B._Mariae_Virginis_Ecclesiae_Matris"/>
+	<PC id="PC_B._Mariae_Virginis_Ecclesiae_Matris"/>
+	<IN_L id="IN_L_B._Mariae_Virginis_Ecclesiae_Matris"/>
+	<PR id="PR_B._Mariae_Virginis_Ecclesiae_Matris"/>
+	<PS2_L id="AL_L_B._Mariae_Virginis_Ecclesiae_Matris"/>
+	<CO_L id="CO_L_B._Mariae_Virginis_Ecclesiae_Matris"/>
+	
+</messe>
+
+
+
+</liturgia>

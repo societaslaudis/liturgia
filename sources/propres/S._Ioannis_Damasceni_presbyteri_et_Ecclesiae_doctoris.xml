@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 13 septembris</la>
+<fr>Le 13 septembre</fr>
+</jour>
+<intitule>
+<la>S. IOANNIS DAMASCENI, PRESBYTERI ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. JEAN DAMASCENE, PRETRE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Fontem_sapientiae_Dominum"/>
+<HYMNUS_laudes id="hy_Doctor_aeternus_coleris_piusque"/>
+<LB_matin id="LB_Sap_7_13-14"/>
+<RB_matin id="RB_Sapientiam_sanctorum_Narrent_populi"/>
+<benedictus id="AN_Qui_docti_fuerint"/>
+<oratio id="COL_Praesta_nobis_quaesumus_Domine_sancti_Ioannis_presbyteri"/>
+<HYMNUS_vesperas id="hy_Aterne_sol_qui_lumine"/>
+<LB_soir id="LB_Iac_3_17-18"/>
+<RB_soir id="RB_In_medio_Ecclesiae_Aperuit"/>
+<magnificat id="AN_O_doctor_optime"/>
+<EV id="Mt25,14-30"/><LEC id="2Tm1,13-14;2,1-3"/><IN id="IN_Meditatio_cordis_mei"/><PS1 id="GR_Os_iusti"/><PS2 id="AL_Iustus_non_conturbabitur"/><SEQ id=""/><OF id="OF_Bonum_est_confiteri"/><CO id="CO_Narrabo"/><IN id="IN_Meditatio_cordis_mei"/><PS1 id="GR_Os_iusti"/><PS2 id="AL_Iustus_non_conturbabitur"/><SEQ id=""/><OF id="OF_Bonum_est_confiteri"/><CO id="CO_Narrabo"/><IN id="IN_Meditatio_cordis_mei"/><PS1 id="GR_Os_iusti"/><PS2 id="AL_Iustus_non_conturbabitur"/><SEQ id=""/><OF id="OF_Bonum_est_confiteri"/><CO id="CO_Narrabo"/></liturgia>

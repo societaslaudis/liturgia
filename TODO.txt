@@ -1,0 +1,76 @@
+TODO
+
+//DONE Les lectures hors evangile ne s'affichent pas / genere_calendarium2
+//DONE Titres : mettre l'intitulé de la célébration
+//DONE Titres et H1 : indiquer de la férie ou mémoire facultative
+//DONE Psalerium per annum media hora : ajoute res références des versiculi et des oraisons.
+//DONE Formulaire des complies les veilles de solennité
+//DONE Amélioration de l'arborescence du site pour faciliter une meilleure indexation
+//DONE intitule_soir : traduction française
+//DONE Traductions de l'ordinaire et des intitulés (Cf. aux 1ères vêpres) : problème avec traductions.xml ?
+//DONE 20171224 : 1res vêpres de Noël et temps de la nativité
+//DONE bug avec la couleur liturgique rose
+//DONE calendrier : le 3ème de l'avent n'apparait pas rose.
+//DONE Nativité 2017 : marqué 4ème semaine de l'Avent au temps liturgique
+//DONE Revoir les jours où il y a plusieurs messes / syntaxe des lectures : les rendre conformes au jour de Noël : Pentecôte, nativité de SJB, SS Pierre et Paul
+20171216 //DONE Les lectures le dimanche et solennités ne s'affichent pas : références à replacer
+// DONE Tierce sexte none : mettre les formulaires et collectes des dimanche fêtes et solennités.
+20171218 //DONE Majuscules du psaume 93 (media hora)
+20171218 //DONE Format du ps4
+20171218 //DONE Format du Ps15
+//DONE A VERIFIER revoir le code de l'affichage de l'Evangile de la messe pour pouvoir saisir le texte dans le mode correction
+//DONE Replacer au bon endroit dans genere calendarium 2 le code pour la messe avec le format conforme <messe></messe>
+//DONE Problème pour les messes de début 2018 : pas de formulaire de sanctoral ?
+20171218 //DONE 7 janvier 2018 : problème affichage titre Epiphanie.
+20171218 //DONE Propres des chants de la messe dans la neuvaine de Noël (du 17 au 24/12)
+//DONE lectures de la messe de la vigile de l'Epiphanie : dimanche de la éème semaine de la nativité
+20171220 //DONE Calendrier france : mettre le baptême le 1er lundi après la solennité extéreure (dimanche) de l'Epiphanie
+//DONE Noveritis
+20171221 //DONE messe de la vigile de l'Epiphanie
+//DONE Interdire l'accès à HTML5 Cf : http://www.societaslaudis.org/wp-content/plugins/liturgia/edit.php?refL=wp-content/plugins/liturgia/LH/TXT/ps50.xml&langue=fr
+20180105 // DONE (conformité graduale romanum) S. ANTONII, ABBATIS à verifier (propre messe) : !!!! 146 Die 17 ianuarii S. Antonii, abbatis Mem. Ut in Grad. Rom., de Communi abbatum, prreter: IN. Justus ut palma Ad comm. Fidelis servus: ps. 111* (n. 396)
+//DONE reformatage des messes du sanctoral avec <messe></messe>
+//DONE Vérifier l'ordo des chants des 4 messes de Noël 
+//module_calendrier : afficher l'infobulle avec l'intitule de la célébration
+
+Mettre l'ordinaire de la messe
+ajouter les références des preces du sanctoral et du propre du temps.
+faire une moulinette pour les messes du sanctoral et du propre dans laquelle apparaîtront les oraisons propres des célébrations.
+Probleme de date dans le titre et le calendrier
+titre du soir à distinguer du titre du matin (1ères vepres)
+generecalendarium : format des date Ymd et non pas Y-m-d
+faire un script qui upload automatiquement les dernières mises à jour dans TXT
+ajouter un script qui uploade automatiquement le calendrier après sa regénération (sur argument en ligne de commande)
+creation fichier : modification par web : ajouter une ligne de façon systématique qui sera supprimmée si vide; 
+création fichier : transformer les sretours chariot en ligne xml
+Ajouter dans la moulinette messe pour le propre les préfaces, les communicantes propres, les bénédictions solennelles, les alleluia aux messes lues;
+Voir pour ajouter les lectures des messes ad libitum
+Ajouter les messes "Rorate" des samedi de l'Avent.
+Ajouter la messe du 3ème samedi de l'Avent.
+et corriger les messes de l'octave de noël
+Formater correctement la vigile pascale.
+// DONE pour le temps per annum Ajouter les "modifications aux messes lues" avec les PR les IN_L et les CO_L. 
+"modifactions aux messes lues : Gérer les alléluia ?
+Ajouter les "modifications aux messes lues" avec les PR les PS2_L les IN_L et les CO_L. 
+Mettre au choix au temps per annum et pendant l'Avent le samedi ad libitum la messe votive de la BVM
+Collectes per annum numérotées à faire matcher avec les collectes qui ont leur incipit.
+corrections.php : oratio_6 LEC1 et LEC2 non fonctionnels. ajouter les modifications aux messs lues et préfaces; suppression de la séquence si non néecessaire
+S. PII DE PIETRELCINA, PRESBYTERI : ajout de la messe (commun des pasteurs)
+Lectures des messes du 15 août
+Lectures des messes dans la neuvaine de noël
+Ajout des versets d'alléluia aux modifications aux messes lues;
+Vérifier S. Jean ordo des lectures et des oraisons (cf. le soir = celebration de l'octave de noël)
+Dans genere calendarium, mettre dans l'entête la genese de la compsition des fichiers venant de liturgia/sources
+1ères vepres de l'Epiphanie
+Saint Nom de Jésus le 3 janvier
+oratio_1V à faire prendre en compte par l'affichage.
+Saisie des antiennes d'invitatoire lorsqu'elles ne sont pas présentes dans l'éditeur web
+conversion en PDF pour exploitation (feuilles de messe, feuilles d'office)
+mise à jour de l'office en conformité avec la liturgie chantée (antiphonae romanum / heures grégoriennes / Ordo cantus officii)
+SACRATISSIMI CORDIS IESU : problème d'ordo pour l'office
+genere_galendarium2 : proposer diférents ordo
+2 février : ajouter en tête de messe l'ordo de la procession
+Martyrologe du lundi de pentecôte / Bienheureuse Marie Mère del4eglsie. La notice est insérée mais n'apparaît pas.
+Ajout ddes annonces des lectures et de l'Evangile "secundum ioannem") en fonction des références bibliques.
+!!! Quand il y a solennnité, ne pas mentionner la psalmodie complémentaire aux petites heures.
+URGENT : Quand il y a plusieurs choix de chants propres de la messe pouvoir varier (A/B/C) Cf/ 26 per annum

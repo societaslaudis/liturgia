@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XVII per annum</la><fr>XVII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Marthae</la><fr>Ste Marthe</fr></intitule>
+<rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Mirabilem_Deum_in</invitatoire>
+
+<HYMNUS_lectures>hy_Somno_refectis_artubus</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Aeterna_lux_divinitas</HYMNUS_lec_jour>
+
+<antL1>AN_Salvum_me_fac</antL1>
+
+<psL1>ps6</psL1>
+
+<antL2>AN_Factus_est</antL2>
+
+<psL2>ps9AI</psL2>
+
+<antL3>AN_Annuntiabo_laudationes_tuas</antL3>
+
+<psL3>ps09II</psL3>
+
+<LVers>VERS_Da_mihi</LVers>
+n<Llec1>L1_S._Marthae</Llec1>
+
+<Lrep1>R1_S._Marthae</Lrep1>
+
+<Llec2>L2_S._Marthae</Llec2>
+
+<Lrep2>R2_S._Marthae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Quas_tibi_laudes_ferimusque_vota</HYMNUS_laudes>
+ 
+<ant1>AN_Ad_te_orabo</ant1>
+ 
+<ps1>ps5</ps1>
+ 
+<ant2>AN_Laudamus_nomen_tuum</ant2>
+ 
+<ps2>AT4</ps2>
+ 
+<ant3>AN_Adorate_Dominum_in</ant3>
+ 
+<ps3>ps28</ps3>
+ 
+<LB_matin>LB_Rom_12_1-2</LB_matin> 
+ 
+<RB_matin>RB_Adiuvabit_eam_Deus_vultu</RB_matin>  
+<benedictus>AN_Dixit_Martha_ad</benedictus> 
+<laudes_preces>perannum_12</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_cuius_Filius_in</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Lex_Domini_laetificat</ant4>
+ 
+<ps4>ps18B</ps4>
+ 
+<ant5>AN_Exsurget_Dominus_iudicare</ant5>
+ 
+<ps5>ps7I</ps5>
+ 
+<ant6>AN_Deus_iudex_iustus</ant6>
+ 
+<ps6>ps7II</ps6>
+ 
+<LB_3>LB_Rom_13_8._10</LB_3>
+ 
+<RB_3>VERS_Adiutor_meus_esto_ne_me</RB_3>
+ 
+<LB_6>LB_Iac_1_19b-20._26</LB_6>
+ 
+<RB_6>VERS_Benedicam_Dominum_in_omni_tempore</RB_6>
+ 
+<LB_9>LB_1_Petr_1_17b._18a._19</LB_9>
+ 
+<RB_9>VERS_Redime_me_Domine_et_miserere</RB_9>
+ 
+<oratio_3>COL_Deus_Pater_optime_qui_laborem_hominibus</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_messis_ac_vineae_dominus</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_nos_advocas_illa_hora</oratio_9>
+ 
+<intitule_soir><la>S. MARTH&#xC6;. </la></intitule_soir>
+ 
+<rang_soir><la>Memoria</la></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Te_gratulantes_pangimus</HYMNUS_vepres>
+ 
+<ant7>AN_Oculi_Domini_in</ant7>
+ 
+<ps7>ps10</ps7>
+ 
+<ant8>AN_Beati_mundo_corde</ant8>
+ 
+<ps8>ps14</ps8>
+ 
+<ant9>AN_In_Filio_suo</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_Rom_8_28-30</LB_soir>
+ 
+<RB_soir>RB_Elegit_eam_Deus_Et</RB_soir>
+ 
+<magnificat>AN_Diligebat_Iesus_Martham</magnificat>
+ 
+<vepres_preces>perannum_12</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_cuius_Filius_in</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+ 
+<comp_ps1>ps85</comp_ps1> 
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+ 
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Dilexisti</IN>
+<COL>COL_Omnipotens_sempiterne_Deus_cuius_Filius_in</COL>
+<LEC>LEC_1Jn4,7-16</LEC>
+<PS1>GR_Specie_tua</PS1>
+<PS2>AL_Adducentur</PS2>
+<SEQ/>
+<EV>EV_Jn11,19-27</EV>
+<OF>OF_Filiae_regum</OF>
+<CO>CO_Quinque_prudentes_virgines</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Sts Lazare, Marthe et Marie</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Marthe</intitule>
+ <biographiecourte>S&#x153;ur de Lazare, elle servit le Christ. Selon une l&#xE9;gende, elle aurait combattu la Tarasque et serait morte &#xE0; Tarascon</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 29 juillet.</para><para>M&#xE9;moire de sainte Marthe, qui re&#xE7;ut le Seigneur J&#xE9;sus dans sa maison de B&#xE9;thanie, non loin de J&#xE9;rusalem, et apr&#xE8;s la mort de son fr&#xE8;re Lazare, dit &#xE0; J&#xE9;sus&#xA0;: &#x201C;Tu es le Christ, le Fils de Dieu, celui qui vient dans le monde&#x201D;.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison des saints Lazare et Marie. Quand Lazare, fr&#xE8;re de sainte Marthe, mourut, le Seigneur le pleura et le ressuscita. Tandis que Marthe &#xE9;tait accapar&#xE9;e par les multiples occupations du service, Marie sa s&#x153;ur, se tenait assise aux pieds du Seigneur, &#xE9;coutant sa parole.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Gangres en Paphlagonie, saint Callinique, martyr.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, sur la voie de Porto, au troisi&#xE8;me mille, dans le cimeti&#xE8;re qui porte son nom, saint F&#xE9;lix, martyr.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, sur la voie de Porto, dans le cimeti&#xE8;re de G&#xE9;n&#xE9;rosa, les saints martyrs Simplice, Faustin, Viatrix et Rufus.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Troyes, vers 478, saint Loup, &#xE9;v&#xEA;que. Avec saint Germain d&#x2019;Auxerre, il se rendit en Grande-Bretagne pour y combattre l&#x2019;h&#xE9;r&#xE9;sie p&#xE9;lagienne&#xA0;; par sa pri&#xE8;re, il d&#xE9;fendit sa ville de la fureur d&#x2019;Attila et, apr&#xE8;s cinquante-deux ans de minist&#xE8;re &#xE9;piscopal, il s&#x2019;endormit dans le Seigneur.</para><para>7.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Orl&#xE9;ans, au Ve si&#xE8;cle, saint Prosper, &#xE9;v&#xEA;que.</para><para>8.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nidaros en Norv&#xE8;ge, l&#x2019;an&#xA0;1030, saint Olav, roi, martyr. Il propagea dans son royaume la foi chr&#xE9;tienne qu&#x2019;il avait re&#xE7;ue en Angleterre et combattit avec vigueur l&#x2019;idol&#xE2;trie, mais son action provoqua des oppositions et, &#xE0; la fin, il p&#xE9;rit dans un combat men&#xE9; par ses ennemis.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, pr&#xE8;s de saint Pierre, en 1099, le bienheureux Urbain II, pape, qui d&#xE9;fendit la libert&#xE9; de l&#x2019;&#xC9;glise contre les empi&#xE8;tements des la&#xEF;cs, combattit les simoniaques et les clercs d&#xE9;prav&#xE9;s et, au Concile de Clermont, exhorta les soldats chr&#xE9;tiens &#xE0; prendre la croix pour d&#xE9;livrer le tombeau du Seigneur et leurs fr&#xE8;res de Palestine opprim&#xE9;s par les infid&#xE8;les.</para><para>10.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Saint-Brieuc, en 1234, saint Guillaume Pinchon, &#xE9;v&#xEA;que, qui se d&#xE9;pensa pour la construction de la cath&#xE9;drale. D&#x2019;une bont&#xE9; et d&#x2019;une simplicit&#xE9; remarquables, il montra aussi une force d&#x2019;&#xE2;me sans peur devant les vexations graves et l&#x2019;exil qu&#x2019;il subit pour la d&#xE9;fense de son peuple et des droits de l&#x2019;&#xC9;glise.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Omura au Japon, en 1627, les bienheureux martyrs Louis Bertran, pr&#xEA;tre, Mancius de la Sainte-Croix et Pierre de Sainte-Marie, religieux dominicains, qui furent jet&#xE9;s dans le feu pour le Christ.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, le bienheureux Charles-Nicolas-Antoine Ancel, pr&#xEA;tre eudiste et martyr. Sous la R&#xE9;volution fran&#xE7;aise, il fut, &#xE0; cause de son sacerdoce, d&#xE9;port&#xE9; et d&#xE9;tenu, dans des conditions inhumaines, sur un bateau n&#xE9;grier, o&#xF9; il mourut au bout de quelques mois.</para><para>13.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Qingyan, dans la province chinoise de Guizhou, en 1861, les saints martyrs Joseph Zhang Wenlan et Paul ChenChangpin, s&#xE9;minaristes, Jean-Baptiste Lou Tingyin, administrateur du s&#xE9;minaire, et Marthe Wang Louzhi, veuve. D&#xE9;tenus dans un cachot humide et chaud, ils subirent des tortures atroces et finalement furent d&#xE9;capit&#xE9;s pour la foi du Christ.</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution qui accompagna la guerre civile, en 1936, &#xE0; Esplugues, pr&#xE8;s de Barcelone le bienheureux martyr Jean-Baptiste Egozcuezabal Aldaz, religieux de l&#x2019;Ordre de Saint-Jean de Dieu</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution qui accompagna la guerre civile, en 1936 &#xE0; Calanda, pr&#xE8;s de Terruel, le bienheureux martyr Lucius Martinez Mancebo, pr&#xEA;tre dominicain.</para><para>16*&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution qui accompagna la guerre civile, en 1936, &#xE0; Valence, le bienheureux martyr Joseph de Calasanz Marqu&#xE9;s, pr&#xEA;tre sal&#xE9;sien.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

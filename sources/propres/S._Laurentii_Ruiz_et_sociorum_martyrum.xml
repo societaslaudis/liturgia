@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<liturgia>
+	<messe>
+	<EV id="EV_Mt10,34-39"/>
+	<LEC id="LEC_1P3,14-17"/>
+	<IN id="IN_In_virtute_tua_rex"/>
+	<PS1 id="GR_Beatus_vir_qui_timet"/>
+	<PS2 id="AL_Posuisti_Domine"/>
+	<OF id="OF_Gloria_et_honore"/>
+	<CO id="CO_Qui_vult_venire"/>
+	</messe>
+	
+	</liturgia>

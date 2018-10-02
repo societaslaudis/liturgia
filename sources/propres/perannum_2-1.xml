@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<liturgia>
+		<LEC>
+		<A id="Is49,3.5-6"/>
+		<B id="1R3,3b-10.19"/>
+		<C id="Is62,1-5"/>
+	</LEC>
+	<LEC_II>
+		<A id="1Co1,1-3"/>
+		<B id="1Co6,13c-15a.17-20"/>
+		<C id="1Co12,4-11"/>
+	</LEC_II>
+	
+	<EV>
+	<A id="Jn1,29-34"/>
+	<B id="Jn1,35-42"/>
+	<C id="Jn2,1-11"/>
+	</EV>
+<annoA>
+	<IN id="IN_Omnis_terra"/>
+	<PS1 id="GR_Misit_Dominus"/>
+	<PS2 id="AL_Laudate_Deum"/>
+	<OF id="OF_Iubilate_Deo_universa_terra"/>
+	<CO id="CO_Laetabimur"/>
+</annoA>
+<annoB>
+	<IN id="IN_Omnis_terra"/>
+	<PS1 id="GR_Misit_Dominus"/>
+	<PS2 id="AL_Laudate_Deum"/>
+	<SEQ id=""/>
+	<OF id="OF_Iubilate_Deo_universa_terra"/>
+	<CO id="CO_Laetabimur"/>
+</annoB>
+
+<annoC>
+	<IN id="IN_Omnis_terra"/>
+	<PS1 id="GR_Misit_Dominus"/>
+	<PS2 id="AL_Laudate_Deum"/>
+	<SEQ id=""/>
+	<OF id="OF_Iubilate_Deo_universa_terra"/>
+	<CO id="CO_Dicit_Dominus_implete_hydrias"/>
+</annoC>	
+<messe>
+	<IN id="IN_Omnis_terra"/>
+	<COL id="COL_perannum_2"/>
+	<PS1 id="GR_Misit_Dominus"/>
+	<LEC2>
+		<A id="LEC_1Co1,1-3"/>
+		<B id="LEC_1Co6,13c-15a.17-20"/>
+		<C id="LEC_1Co12,4-11"/>
+	</LEC2>
+		<PS2 id="AL_Laudate_Deum"/>
+	<EV>
+		<A id="EV_Jn1,29-34"/>
+		<B id="EV_Jn1,35-42"/>
+		<C id="EV_Jn2,1-11"/>
+	</EV>
+	<OF id="OF_Iubilate_Deo_universa_terra"/>
+	<SO id="SO_perannum_2"/>
+	<CO id="CO_Laetabimur"/>
+	<PC id="PC_perannum_2"/>
+<PR><A id="PR_Ps40,2"/><B id="PR_Ps40,2"/><C id="PR_Ps96,1"/></PR><LEC><B id="LEC_1S3,3-10.19"/><C id="LEC_Is62,1-5"/><A id="LEC_Is8,23-9,3"/></LEC><IN_L id="IN_L_perannum_2"/><CO_L id="CO_L_perannum_2"/></messe>
+</liturgia>

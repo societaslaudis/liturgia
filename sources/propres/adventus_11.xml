@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Regem_venturum_Dominum"/>
+<HYMNUS_laudes id="hy_Vox_clara_ecce_intonat"/>
+<ant1 id="AN_In_illa_die"/>
+<ant2 id="AN_Montes_et_colles"/>
+<ant3 id="AN_Ecce_veniet_Propheta"/>
+<LB_matin id="LB_Rom_13_11-12"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi_"/>
+
+<HYMNUS_vesperas id="hy_Conditor_alme_siderum"/>
+<ant7 id="AN_Iucundare_filia_Sion"/>
+<ant8 id="AN_Rex_noster_adveniet"/>
+<ant9 id="AN_Ecce_venio_cito"/>
+<LB_soir id="LB_Phil4,4-5"/>
+<RB_soir id="RB_Ostende_nobis_Domine_Misericordiam"/>
+
+</liturgia>

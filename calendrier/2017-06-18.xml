@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>3</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XI per annum</la><fr>XI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>SS.MI CORPORIS ET SANGUINIS CHRISTI</la><fr>TRES SAINT CORPS ET SANG DU CHRIST</fr></intitule>
+<rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Panem_vitae_Christum</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_SS.MI_CORPORIS_ET_SANGUINIS_CHRISTI</Llec1>
+
+<Lrep1>R1_SS.MI_CORPORIS_ET_SANGUINIS_CHRISTI</Lrep1>
+
+<Llec2>L2_SS.MI_CORPORIS_ET_SANGUINIS_CHRISTI</Llec2>
+
+<Lrep2>R2_SS.MI_CORPORIS_ET_SANGUINIS_CHRISTI</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>SS._MI_CORPORIS_ET_SANGUINIS_CHRISTI-NOCT1</LEC_NOCT1>
+
+<LEC_NOCT2>SS._MI_CORPORIS_ET_SANGUINIS_CHRISTI-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>SS._MI_CORPORIS_ET_SANGUINIS_CHRISTI-NOCT3-A</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Verbum_supernum_prodiens</HYMNUS_laudes>
+ 
+<ant1>AN_Angelorum_esca_nutrivisti</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Sacerdotes_sancti_incensum</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Vincenti_dabo_manna</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Mal_1_11</LB_matin> 
+ 
+<RB_matin>RB_Educas_panem_de_terra_Alleluia</RB_matin>  
+<benedictus>AN_Ego_sum_panis</benedictus> 
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Deus_qui_nobis_sub_sacramento_mirabili</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Desiderio_desideravi_hoc</ant4>
+ 
+<ps4>ps122</ps4>
+ 
+<ant5>AN_Cenantibus_illis_accepit</ant5>
+ 
+<ps5>ps123</ps5>
+ 
+<ant6>AN_Cognoverunt_Dominum_Iesum</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Sap_16_20</LB_3>
+ 
+<RB_3>VERS_Introibo_ad_altare_Dei_alleluia</RB_3>
+ 
+<LB_6>LB_Prov_9_1-2</LB_6>
+ 
+<RB_6>VERS_Panem_de_caelo_praestitisti_eis</RB_6>
+ 
+<LB_9>LB_Act_2_42._47a</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3/>
+ 
+<oratio_6/>
+ 
+<oratio_9/>
+ 
+<intitule_soir><la>SS.MI CORPORIS ET SANGUINIS CHRISTI</la></intitule_soir>
+ 
+<rang_soir><la>Sollemnitas</la></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Pange_lingua_gloriosi</HYMNUS_vepres>
+ 
+<ant7>AN_Sacerdos_in_aeternum</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+ 
+<ps8>ps115</ps8>
+ 
+<ant9>AN_Tu_es_via</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_1_Cor_11_23-25</LB_soir>
+ 
+<RB_soir>RB_Panem_caeli_dedit_eis_Alleluia</RB_soir>
+ 
+<magnificat>AN_O_sacrum_convivium</magnificat>
+ 
+<vepres_preces>perannum_31</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_nobis_sub_sacramento_mirabili</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	 
+<comp_ps1>ps90</comp_ps1>
+	 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Cibavit_eos</IN>
+<LEC>LEC_Dt8,2-3.14-16a</LEC>
+<PS1>GR_Oculi_omnium</PS1>
+<LEC2>LEC_1Co10,16-17</LEC2>
+
+<PS2>AL_Caro_mea</PS2>
+<EV>EV_Jn6,51-58</EV>
+<OF>OF_Portas_caeli</OF>
+<CO>CO_Qui_manducat</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Amand, &#xE9;v&#xEA;que</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que de Bordeaux, &#xE9;vang&#xE9;lisa sa r&#xE9;gion, convertit et baptisa Paulin de Nole (&#x2020;432)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Solennit&#xE9; du Corps et du sang du Christ</para><para>Solennit&#xE9; des tr&#xE8;s Saints Corps et Sang du Christ, dont la nourriture sacr&#xE9;e est le pr&#xE9;mice de l&#x2019;immortalit&#xE9; et la promesse du gage de la r&#xE9;surrection.</para><para>
+            Le 18 juin</para><para>1. &#xC0; Rome, au cimeti&#xE8;re de Balbine, sur la voie Ard&#xE9;atine, vers 304, les saints Marc et Marcellien, martyrs sous la pers&#xE9;cution de Diocl&#xE9;tien&#xA0;: une m&#xEA;me passion fit d&#x2019;eux des fr&#xE8;res. </para><para>2. &#xC0; Tripoli en Ph&#xE9;nicie, vers 304, saint L&#xE9;once, soldat. Apr&#xE8;s de tr&#xE8;s cruels tourments subis en prison, il parvint &#xE0; la couronne du martyre. </para><para>3. En Afrique, les saints martyrs Cyriaque et Paule.</para><para>4. &#xC0; Bordeaux, au Ve si&#xE8;cle, saint Amand, &#xE9;v&#xEA;que, qui enseigna la vraie doctrine &#xE0; saint Paulin, le baptisa et re&#xE7;ut fr&#xE9;quemment de lui, devenu &#xE9;v&#xEA;que de Nole, des lettres &#xE9;logieuses. </para><para>5. Au mont Chronios, pr&#xE8;s des Thermes de S&#xE9;linonte en Sicile, vers le Ve si&#xE8;cle, saint Caloger, ermite. </para><para>6. &#xC0; Sch&#xF6;nau en Rh&#xE9;nanie, l&#x2019;an&#xA0;1164, sainte &#xC9;lisabeth, vierge moniale. Entr&#xE9;e au monast&#xE8;re &#xE0; l&#x2019;&#xE2;ge de douze ans, elle s&#x2019;effor&#xE7;a, malgr&#xE9; sa sant&#xE9; d&#xE9;bile, d&#x2019;observer exactement la R&#xE8;gle. Afflig&#xE9;e de douloureuses peines int&#xE9;rieures, elle fut aussi combl&#xE9;e de faveurs mystiques. </para><para>7*. &#xC0; Mantoue en Lombardie, l&#x2019;an&#xA0;1505, la bienheureuse Hosanna Andreasi, vierge. Sous l&#x2019;habit des S&#x153;urs de la P&#xE9;nitence de Saint-Dominique, elle joignit, avec une sagesse admirable, la contemplation des r&#xE9;alit&#xE9;s divines avec les occupations du monde et le souci des bonnes &#x153;uvres.</para><para>8. &#xC0; Padoue en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1697, saint Gr&#xE9;goire Barbarigo, &#xE9;v&#xEA;que, qui fonda un s&#xE9;minaire pour le clerg&#xE9;, enseigna le cat&#xE9;chisme aux enfants dans leur propre langue, institua un synode et des r&#xE9;unions avec ses clercs, ouvrit de tr&#xE8;s nombreuses &#xE9;coles. S&#xE9;v&#xE8;re pour lui-m&#xEA;me, il se montra g&#xE9;n&#xE9;reux envers tous. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

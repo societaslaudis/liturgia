@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>2</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada V Paschae</la><fr>V&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la>Dominica V Paschae</la><fr>V&#xE8;me dimanche de P&#xE2;ques</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+
+<HYMNUS_lectures>HY_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>HY_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Lignum_vitae_in</antL1>
+
+<psL1>ps1</psL1>
+
+<antL2>AN_Ego_constitui_Regem</antL2>
+
+<psL2>ps2</psL2>
+
+<antL3>AN_Tu_Domine_protector</antL3>
+
+<psL3>ps3</psL3>
+
+<LVers>VERS_Verbum_Christi</LVers>
+n<Llec1>L1_Dominica_V_Paschae</Llec1>
+
+<Lrep1>R1_Dominica_V_Paschae</Lrep1>
+
+<Llec2>L2_Dominica_V_Paschae</Llec2>
+
+<Lrep2>R2_Dominica_V_Paschae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ 
+<ant1>AN_Qui_sitit_accipiet</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Adorate_Dominum_qui</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Exsultabunt_sancti_in</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_ap10.40-43</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi_alleluia</RB_matin>  
+<benedictus>AN_Ego_sum_via</benedictus> 
+<laudes_preces>pascha_51</laudes_preces><oratio_laudes>COL_Deus_per_quem_nobis_et_redemptio</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Cf.1Cor15,3b-5</LB_3>
+ 
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+ 
+<LB_6>LB_Eph2,4-6</LB_6>
+ 
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+ 
+<LB_9>LB_Rom6,4</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3>COL_Deus_per_quem_nobis_et_redemptio</oratio_3>
+ 
+<oratio_6>COL_Deus_per_quem_nobis_et_redemptio</oratio_6>
+ 
+<oratio_9>COL_Deus_per_quem_nobis_et_redemptio</oratio_9>
+ 
+<intitule_soir><la>Dominica V Paschae</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+ 
+<ant7>AN_Surrexit_Dominus_et_sedet</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Eripuit_nos_de_potestate</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Alleluia_regnavit_Dominus_noster</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>Hebr10,12-14</LB_soir>
+ 
+<RB_soir>RB_Surrexit_Dominus_vere</RB_soir>
+ 
+<magnificat>AN_Domine_ostende_nobis</magnificat>
+ 
+<vepres_preces>pascha_51</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_per_quem_nobis_et_redemptio</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Cantate_Domino</IN>
+<LEC>LEC_Ac6,1-7</LEC>
+<PS1>AL_Dextera_Dei</PS1>
+<LEC2>LEC_1P2,4-9</LEC2>
+
+<PS2>AL_Christus_resurgens</PS2>
+<EV>EV_        </EV>
+<EV>EV_Jn14,1-12</EV>
+<OF>OF_Iubilate_Deo_universa_terra</OF>
+<PRE>PRE_Pr&#xE9;facedutempspascal,nn.1-5</PRE>
+<CO>CO_Tanto_tempore</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Matthias, ap&#xF4;tre</intitule>
+ <biographiecourte>Ap&#xF4;tre, il fut choisi pour remplacer Judas. Serait mort martyr en &#xC9;thiopie</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 14 mai</para><para>1. F&#xEA;te de saint Matthias, Ap&#xF4;tre. Il avait suivi le Seigneur J&#xE9;sus depuis son bapt&#xEA;me par Jean jusqu&#x2019;au jour o&#xF9; la Christ fut enlev&#xE9; au ciel&#xA0;; aussi fut-il choisi par les Ap&#xF4;tres, apr&#xE8;s l&#x2019;Ascension du Seigneur, pour prendre la place du tra&#xEE;tre Judas, &#xEA;tre compt&#xE9; au nombre des Douze et devenir t&#xE9;moin de la R&#xE9;surrection. </para><para>2. En Asie, vers 250, saint Maxime, qui, dans la pers&#xE9;cution de D&#xE8;ce, fut, dit-on, lapid&#xE9; et rendit ainsi son &#xE2;me &#xE0; Dieu. </para><para>3. &#xC0; Cimiez, pr&#xE8;s de Nice, au IIIe ou IVe si&#xE8;cle, saint Pons, martyr. </para><para>4. En Syrie, saint Victor et saint Couronne, martyrs, dont on rapporte qu&#x2019;ils furent mis &#xE0; mort ensemble. </para><para>5. Dans l&#x2019;&#xEE;le de Chio, saint Isidore, martyr, qui fut, croit-on, jet&#xE9; dans un puits. </para><para>6. &#xC0; Aquil&#xE9;e en V&#xE9;n&#xE9;tie, peut-&#xEA;tre au IVe si&#xE8;cle, les saints F&#xE9;lix et Fortunat, martyrs. </para><para>7. En Sardaigne, comm&#xE9;moraison des saints Juste et H&#xE9;r&#xE9;dine, martyrs. </para><para>8*. &#xC0; Clermont en Auvergne, l&#x2019;an&#xA0;488, saint Aproncule. </para><para>9. &#xC0; Clermont &#xE9;galement, en 551, saint Gall, &#xE9;v&#xEA;que, homme humble et doux, qui fut l&#x2019;oncle paternel de saint Gr&#xE9;goire de Tours. </para><para>10*. &#xC0; Lismore en Irlande, l&#x2019;an&#xA0;638, saint Carthage ou Mochuda, qui fut abb&#xE9; de plus de huit cents moines et fonda le si&#xE8;ge &#xE9;piscopal de Lismore. </para><para>11*. Au monast&#xE8;re de Fontenelle en Gaule occidentale, l&#x2019;an&#xA0;674, saint &#xC9;rembert. Entr&#xE9; dans ce monast&#xE8;re au temps du fondateur saint Wandrille, il fut nomm&#xE9; &#xE9;v&#xEA;que de Toulouse, mais renon&#xE7;a &#xE0; sa charge et revint finir ses jours dans son monast&#xE8;re. </para><para>12*. &#xC0; Santarem au Portugal, en 1605, le bienheureux Gilles de Vouzela, pr&#xEA;tre. Enseignant la m&#xE9;decine &#xE0; Paris, il abandonna une vie dissolue pour entrer dans l&#x2019;Ordre des Pr&#xEA;cheurs&#xA0;; il y passa le reste de ses jours dans les larmes, la pri&#xE8;re et la p&#xE9;nitence, repoussant toutes les tentations. </para><para>13*. &#xC0; Sainte-Marie des Bois dans l&#x2019;Indianapolis, aux &#xC9;tats-Unis d&#x2019;Am&#xE9;rique, en 1865, la saint- Th&#xE9;odore Gu&#xE9;rin (Anne-Th&#xE9;odore). N&#xE9;e &#xE0; &#xC9;tables-sur-Mer, en Bretagne, elle fonda la Congr&#xE9;gation des S&#x153;urs de la Providence, toujours confiante en la divine Providence, m&#xEA;me dans les plus grandes difficult&#xE9;s. (canonis&#xE9; le 15 octobre 2006 par Beno&#xEE;t XVI)</para><para>14. &#xC0; B&#xE9;tharram dans les Pyr&#xE9;n&#xE9;es, en 1863, saint Michel Garrico&#xEF;ts, pr&#xEA;tre. Pouss&#xE9; par un grand z&#xE8;le apostolique, il fonda la Soci&#xE9;t&#xE9; des pr&#xEA;tres missionnaires du Sacr&#xE9;-C&#x153;ur et l&#x2019;&#xE9;tendit jusqu&#x2019;aux r&#xE9;gions lointaines d&#x2019;Am&#xE9;rique latine. </para><para>15. &#xC0; Nizza Monferrato dans le Pi&#xE9;mont, en 1881, sainte Marie-Dominique Mazzarello, vierge. Avec saint Jean Bosco, elle fonda l&#x2019;Institut des Filles de Marie Auxiliatrice pour l&#x2019;&#xE9;ducation des jeunes filles pauvres, qu&#x2019;elle dirigea avec humilit&#xE9;, prudence et charit&#xE9;. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

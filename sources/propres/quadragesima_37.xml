@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_Iam_Christe_sol_iustitiae"/>
+<ant1 id="AN_Praevenerunt_oculi_mei"/>
+<ant2 id="AN_Fortitudo_mea_et"/>
+<ant3 id="AN_Laudate_Dominum_omnes"/>
+<LB_matin id="LB_Is_1_16-18"/>
+<RB_matin id="RB_Ipse_liberabit_me_De"/>
+<benedictus id="AN_Stans_a_longe"/>
+<oratio id="COL_Observationis_huius_annua_celebritate_laetantes_quaesumus"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_Ap_3_19-20"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_Is_44_21-22"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<LB_9 id="LB_&#xA0;Gal_6_7b-8"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus_Cor"/>
+<preces id="quadragesima_37"/>
+<LEC_1_impaire id="Os6,1-6"/><PR_impaire id="Ps51,3"/><LEC_1_paire id="Os6,1-6"/><PR_paire id="Ps51,3"/><EV id="Lc18,9-14"/><LEC_1_impaire id="Os6,1-6"/><PR_impaire id="Ps51,3"/><LEC_1_paire id="Os6,1-6"/><PR_paire id="Ps51,3"/><EV id="Lc18,9-14"/><annoA><IN id="IN_Exsurge_Domine"/><PS1 id="GR_Deus_exaudi"/><PS2 id=""/><SEQ id=""/><OF id="OF_Domine_convertere"/><CO id="CO_Dominus_virtutum"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoA><annoB><IN id="IN_Exsurge_Domine"/><PS1 id="GR_Deus_exaudi"/><PS2 id=""/><SEQ id=""/><OF id="OF_Domine_convertere"/><CO id="CO_Dominus_virtutum"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoB><annoC><IN id="IN_Exsurge_Domine"/><PS1 id="GR_Deus_exaudi"/><PS2 id=""/><SEQ id=""/><OF id="OF_Domine_convertere"/><CO id="CO_Dominus_virtutum"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoC><messe><IN id="IN_Exsurge_Domine"/><LEC><impaire id="LEC_Os6,1-6"/><paire id="LEC_Os6,1-6"/></LEC><PS1 id="GR_Deus_exaudi"/><PS2 id=""/><EV id="EV_Lc18,9-14"/><OF id="OF_Domine_convertere"/><CO id="CO_Dominus_virtutum"/></messe></liturgia>

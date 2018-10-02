@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>2</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada VI Paschae</la><fr>VI&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la>Dominica VI Paschae</la><fr>VI&#xE8;me dimanche de P&#xE2;ques</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+
+<antL1>AN_Domine_Deus_meus</antL1>
+
+<psL1>ps103I</psL1>
+
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+
+<psL2>ps103II</psL2>
+
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+
+<psL3>ps103III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_VI_Paschae</Llec1>
+
+<Lrep1>R1_Dominica_VI_Paschae</Lrep1>
+
+<Llec2>L2_Dominica_VI_Paschae</Llec2>
+
+<Lrep2>R2_Dominica_VI_Paschae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ 
+<ant1>AN_Haec_dies_quam</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Benedictus_es_in</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Adorate_Deum_sedentem</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_ap10.40-43</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi_alleluia</RB_matin>  
+<benedictus>AN_Non_vos_relinquam</benedictus> 
+<laudes_preces>perannum_21</laudes_preces><oratio_laudes>COL_Fac_nos_omnipotens_Deus_hos_laetitiae</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_1_Cor_15_3b-5</LB_3>
+ 
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+ 
+<LB_6>LB_Eph_2_4-6</LB_6>
+ 
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+ 
+<LB_9>LB_Rom_6_4</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3>COL_Fac_nos_omnipotens_Deus_hos_laetitiae</oratio_3>
+ 
+<oratio_6>COL_Fac_nos_omnipotens_Deus_hos_laetitiae</oratio_6>
+ 
+<oratio_9>COL_Fac_nos_omnipotens_Deus_hos_laetitiae</oratio_9>
+ 
+<intitule_soir><la>Dominica VI Paschae</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+ 
+<ant7>AN_Qui_facit_veritatem</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Solutis_doloribus_inferni</ant8>
+ 
+<ps8>ps113B</ps8>
+ 
+<ant9>AN_Nonne_haec_oportuit</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_1_Petr_2_9-10</LB_soir>
+ 
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+ 
+<magnificat>AN_Qui_diligit_me</magnificat>
+ 
+<vepres_preces>perannum_21</vepres_preces>
+ 
+<oratio_vepres>COL_Fac_nos_omnipotens_Deus_hos_laetitiae</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Vocem_iucunditatis</IN>
+<LEC>LEC_Ac8,5-17</LEC>
+<PS1>AL_Surrexit_Christus_et_illuxit</PS1>
+<LEC2>LEC_1P3,15-18</LEC2>
+
+<PS2>AL_Non_vos_relinquam</PS2>
+<EV>EV_           </EV>
+<EV>EV_Jn14,15-21</EV>
+<OF>OF_Benedicite_gentes</OF>
+<PRE>PRE_Pr&#xE9;facedutempspascal,nn.1-5</PRE>
+<CO>CO_Non_vos_relinquam_orphanos</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Ste H&#xE9;l&#xE8;ne</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Christophe Magallan&#xE9;s, pr&#xEA;tre, et ses compagnons, martyrs</intitule>
+ <biographiecourte>Et ses compagnons de l'Action catholique, martyrs au Mexique (&#x2020;1937)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Eug&#xE8;ne de Mazenod</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que de Marseille, fondateur des Oblats de Marie, mort en 1861</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 21 mai</para><para>1. M&#xE9;moire des saints Christophe Magallan&#xE8;s, pr&#xEA;tre, et de ses compagnons, martyrs, qui de 1926 &#xE0; 1928, dans diff&#xE9;rentes r&#xE9;gions du Mexique, furent pers&#xE9;cut&#xE9;s en haine du nom chr&#xE9;tien et de l&#x2019;&#xC9;glise catholique et, pour avoir confess&#xE9; leur foi dans le Christ Roi, re&#xE7;urent la couronne du martyre. </para><para>2. En Maur&#xE9;tanie, peut-&#xEA;tre au IIIe si&#xE8;cle, saint Timoth&#xE9;e, diacre et martyr. </para><para>3. &#xC0; C&#xE9;sar&#xE9;e de Cappadoce, au IIIe si&#xE8;cle, saint Polyeucte, martyr. </para><para>4. Comm&#xE9;moraison des saints martyrs d&#x2019;Alexandrie, hommes et femmes, que, sous l&#x2019;empereur Constance, en 357 ou 358, durant les f&#xEA;tes de la Pentec&#xF4;te, l&#x2019;&#xE9;v&#xEA;que arien Georges fit maltraiter de la mani&#xE8;re la plus cruelle dans le cimeti&#xE8;re. Plusieurs moururent de leurs blessures, d&#x2019;autres furent exil&#xE9;s dans la grande oasis. </para><para>5. &#xC0; Vannes en Armorique, saint Patern, &#xE9;v&#xEA;que, qui fut, croit-on, ordonn&#xE9; en ce jour par saint Perp&#xE9;tue de Tours dans le concile provincial tenu en cette ville.</para><para>6. Aux environs de Nice, vers 581, saint Hospice. Homme d&#x2019;une asc&#xE8;se admirable, il v&#xE9;cut en reclus dans une tour, au temps du roi Chilp&#xE9;ric, et pr&#xE9;dit l&#x2019;arriv&#xE9;e des envahisseurs lombards. </para><para>7. &#xC0; Evora au Portugal, au VIe si&#xE8;cle saint Mancius, martyr. </para><para>8*. &#xC0; Vienne en Dauphin&#xE9;, l&#x2019;an&#xA0;1001, saint Thibaud, &#xE9;v&#xEA;que, d&#x2019;une charit&#xE9; et d&#x2019;une pi&#xE9;t&#xE9; remarquables, qui illustra cette &#xC9;glise durant quarante-quatre ans. </para><para>9*. &#xC0; Abo&#xEB; en Finlande, l&#x2019;an&#xA0;1366, saint Hemming, &#xE9;v&#xEA;que. Br&#xFB;lant de z&#xE8;le pastoral, il restaura, par un d&#xE9;cret pris en synode, la discipline de cette &#xC9;glise, favorisa les &#xE9;tudes des clercs, donna un nouvel &#xE9;lan au culte divin et promut la paix entre les peuples du pays.</para><para>10*. Dans la baie devant le port de Rochefort, en 1794, le bienheureux Jean Mopinot, Fr&#xE8;re des &#xC9;coles chr&#xE9;tiennes et martyr. Sous la R&#xE9;volution fran&#xE7;aise, il fut d&#xE9;port&#xE9;, parce que religieux, sur un bateau n&#xE9;grier et mourut de la contagion qui r&#xE9;gnait &#xE0; bord. </para><para>11. &#xC0; Marseille, en 1861, saint Charles-Eug&#xE8;ne de Mazenod, &#xE9;v&#xEA;que. Pour que les pauvres soient &#xE9;vang&#xE9;lis&#xE9;s, il suscita les Missionnaires Oblats de Marie Immacul&#xE9;e et, pendant pr&#xE8;s de vingt-cinq ans, il illustra son &#xC9;glise par ses vertus, ses &#x153;uvres et ses &#xE9;crits. </para><para>**. &#xA0; &#xA0; &#xA0; &#xA0; Au Br&#xE9;sil, en 1924, le bienheureux Manuel Gomez Gonzalez, pr&#xEA;tre martyr (b&#xE9;atifi&#xE9; le 21 octobre 2007 par Beno&#xEE;t XVI).</para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; Au Br&#xE9;sil, en 1924, le bienheureux Adilio Daronch, pr&#xEA;tre martyr. (b&#xE9;atifi&#xE9; le 21 octobre 2007 par Beno&#xEE;t XVI).</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

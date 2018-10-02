@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada VI Paschae</la><fr>VI&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la>S. Philippi Neri, presbyteri</la><fr>St Philippe N&#xE9;ri, pr&#xEA;tre</fr></intitule>
+<rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_pastorum_principem</invitatoire>
+
+<HYMNUS_lectures>hy_Galli_cantu_mediante</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Adesto_rerum_conditor</HYMNUS_lec_jour>
+
+<antL1>AN_Ne_in_ira</antL1>
+
+<psL1>ps37I</psL1>
+
+<antL2>AN_Domine_ante_te</antL2>
+
+<psL2>ps37II</psL2>
+
+<antL3>AN_Iniquitatem_meam_annuntiabo</antL3>
+
+<psL3>ps37III</psL3>
+
+<LVers>VERS_Oculi_mei</LVers>
+n<Llec1>L1_S._Philippi_Neri_presbyteri</Llec1>
+
+<Lrep1>R1_S._Philippi_Neri_presbyteri</Lrep1>
+
+<Llec2>L2_S._Philippi_Neri_presbyteri</Llec2>
+
+<Lrep2>R2_S._Philippi_Neri_presbyteri</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Inclitus_rector_pater_atque_prudens</HYMNUS_laudes>
+ 
+<ant1>AN_Confide_fili_remittuntur</ant1>
+ 
+<ps1>ps50</ps1>
+ 
+<ant2>AN_Egressus_es_Domine</ant2>
+ 
+<ps2>AT43</ps2>
+ 
+<ant3>AN_Lauda_Deum_tuum</ant3>
+ 
+<ps3>ps147</ps3>
+ 
+<LB_matin>LB_Hebr_13_7-9a</LB_matin> 
+ 
+<RB_matin>RB_Super_te_Ierusalem_Constitui</RB_matin>  
+<benedictus>AN_Non_vos_estis</benedictus> 
+<laudes_preces>perannum_26</laudes_preces><oratio_laudes>COL_Deus_qui_fideles_tibi_servos_sanctitatis</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps118X</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps58</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps59</ps6>
+ 
+<LB_3>LB_Act_2_32._36</LB_3>
+ 
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+ 
+<LB_6>LB_Gal_3_27-28</LB_6>
+ 
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+ 
+<LB_9>LB_1_Cor_5_7-8</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3>COL_Deus_qui_ad_aeternam_vitam_in</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_ad_aeternam_vitam_in</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_ad_aeternam_vitam_in</oratio_9>
+ 
+<intitule_soir><la>S. PHILIPPI NERI, PRESBYTERI</la></intitule_soir>
+ 
+<rang_soir><la>Memoria</la></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Vir_celse_forma_fulgida</HYMNUS_vepres>
+ 
+<ant7>AN_De_angustiis_inferni</ant7>
+ 
+<ps7>ps114</ps7>
+ 
+<ant8>AN_Quasi_pupillam_oculi</ant8>
+ 
+<ps8>ps120</ps8>
+ 
+<ant9>AN_Fortitudo_mea_et</ant9>
+ 
+<ps9>NT11</ps9>
+ 
+<LB_soir>LB_1_Petr_5_1-4</LB_soir>
+ 
+<RB_soir>RB_Hic_est_fratrum_amator_</RB_soir>
+ 
+<magnificat>AN_Iste_est_fidelis</magnificat>
+ 
+<vepres_preces>perannum_26</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_fideles_tibi_servos_sanctitatis</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+ 
+<comp_ps1>ps87</comp_ps1> 
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+ 
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Caritas_Dei</IN>
+<COL>COL_Deus_qui_fideles_tibi_servos_sanctitatis</COL>
+<LEC>LEC_Ph4,4-9</LEC>
+<PS2>AL_O_quam_bonus</PS2>
+<EV>EV_Jn17,20-26</EV>
+<OF>OF_Benedic_anima_mea</OF>
+<CO>CO_Magna_est_gloria_eius</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Philippe N&#xE9;ri, pr&#xEA;tre</intitule>
+ <biographiecourte>Pr&#xEA;tre, fondateur de l'Oratoire &#xE0; Rome, guide spirituel (&#x2020;1595)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 26 mai</para><para>1. M&#xE9;moire de saint Philippe N&#xE9;ri, pr&#xEA;tre. Originaire de Florence, il vint &#xE0; Rome o&#xF9; il devint cur&#xE9; de Saint-Jean des Florentins. Pour sauver du mal la jeunesse, il fonda l&#x2019;Oratoire, o&#xF9; les le&#xE7;ons spirituelles succ&#xE9;daient aux chants et aux &#x153;uvres de charit&#xE9; et il s&#x2019;illustra par son amour du prochain, sa simplicit&#xE9; &#xE9;vang&#xE9;lique et son c&#x153;ur plein de joie, dans un z&#xE8;le extr&#xEA;me et un fervent service de Dieu. Il mourut &#xE0; Rome en 1595. </para><para>2. &#xC0; Rome &#xE9;galement, en 189, saint &#xC9;leuth&#xE8;re, pape, &#xE0; qui les illustres martyrs de Lyon, alors d&#xE9;tenus en prison, &#xE9;crivirent une noble lettre sur le maintien de la paix dans l&#x2019;&#xC9;glise. </para><para>3. &#xC0; Rome encore, au cimeti&#xE8;re de Priscille, sur la voie Salarienne nouvelle, saint Sim&#xE8;tre, martyr. </para><para>4. &#xC0; Todi en Ombrie, sainte F&#xE9;licissime, martyre. </para><para>5. Au territoire d&#x2019;Auxerre, la passion de saint Prix, martyr. </para><para>6. &#xC0; Cantorb&#xE9;ry en Angleterre, vers 604, la mise au tombeau de l&#x2019;&#xE9;v&#xEA;que saint Augustin, dont la m&#xE9;moire est c&#xE9;l&#xE9;br&#xE9;e le lendemain. </para><para>7. Sur le territoire de Lyon, en 606 ou 607, la passion de saint Didier, &#xE9;v&#xEA;que de Vienne. Ayant reproch&#xE9; &#xE0; la reine Brunehaut un mariage incestueux et d&#x2019;autres d&#xE9;pravations, il fut d&#x2019;abord envoy&#xE9; par elle en exil, puis, sur son ordre, arr&#xEA;t&#xE9; dans sa cath&#xE9;drale, et enfin lapid&#xE9; par les soldats et achev&#xE9; &#xE0; coups de b&#xE2;ton, recevant ainsi la couronne du martyre. </para><para>8*. Au monast&#xE8;re de Saint-Papoul, en 1093, saint B&#xE9;renger, moine. </para><para>9*. &#xC0; Vence en Provence, l&#x2019;an&#xA0;1154, saint Lambert, &#xE9;v&#xEA;que, auparavant moine de L&#xE9;rins. Il fut la providence des pauvres et aimait la pauvret&#xE9;. </para><para>10*. &#xC0; Sienne en Toscane, l&#x2019;an&#xA0;1328, le bienheureux Fran&#xE7;ois Patrizi, pr&#xEA;tre de l&#x2019;Ordre des Servites de Marie, qui exer&#xE7;a avec un z&#xE8;le admirable le minist&#xE8;re de la pr&#xE9;dication, de la direction des &#xE2;mes et de la p&#xE9;nitence. </para><para>11*. &#xC0; Pistoie, &#xE9;galement en Toscane, l&#x2019;an&#xA0;1401, le bienheureux Andr&#xE9; Franchi, &#xE9;v&#xEA;que. Prieur du couvent dominicain de la ville, il restaura la vie r&#xE9;guli&#xE8;re dans les couvents de l&#x2019;Ordre dans la r&#xE9;gion apr&#xE8;s la peste noire, et il approuva dans la cit&#xE9; les confr&#xE9;ries de p&#xE9;nitents pour favoriser la paix et la mis&#xE9;ricorde. </para><para>12. &#xC0; Quito en &#xC9;quateur, l&#x2019;an&#xA0;1645, sainte Marie-Anne de J&#xE9;sus de Paredes, vierge, qui consacra sa vie au Christ dans le Tiers-Ordre de Saint-Fran&#xE7;ois, et d&#xE9;pensa ses forces &#xE0; subvenir aux besoins des pauvres indig&#xE8;nes ou noirs. </para><para>13. &#xC0; Fuzhou dans la province chinoise de Fujian, en 1747, la passion de saint Pierre Sans i Jordan, &#xE9;v&#xEA;que et martyr. De l&#x2019;Ordre des Pr&#xEA;cheurs, il fut arr&#xEA;t&#xE9; avec d&#x2019;autres pr&#xEA;tres et conduit au tribunal, encha&#xEE;n&#xE9;, par un long parcours. Sur le lieu du supplice, il se mit &#xE0; genoux et, quand il eut termin&#xE9; sa pri&#xE8;re, tendit son cou &#xE0; la hache. </para><para>14. &#xC0; S&#xE9;oul en Cor&#xE9;e, l&#x2019;an&#xA0;1839, saint Joseph Chang Song-jib, martyr. Pharmacien devenu chr&#xE9;tien, il fut mis dans les fers et succomba aux pires tourments. </para><para>15. &#xC0; Dong Hoi en Annam, l&#x2019;an&#xA0;1861, les saints martyrs Jean Doan Trinh Hoan, pr&#xEA;tre, et Matthieu Nguyen Van Phuong, m&#xE9;decin, p&#xE8;re de famille et cat&#xE9;chiste, qui lui avait donn&#xE9; l&#x2019;hospitalit&#xE9;. Tous deux furent tortur&#xE9;s pour la foi, sous l&#x2019;empereur Tu Duc, et sauvagement d&#xE9;capit&#xE9;s. </para><para>16. &#xC0; Numyanyo en Ouganda, l&#x2019;an&#xA0;1886, saint Andr&#xE9; Kaggwa, martyr. Chef des joueurs de tambourin du roi Mwanga et son familier, &#xE0; peine fut-il initi&#xE9; au Christ, qu&#x2019;il forma les pa&#xEF;ens et les cat&#xE9;chum&#xE8;nes &#xE0; la doctrine de l&#x2019;&#xC9;vangile, et pour cela, il fut tu&#xE9; avec cruaut&#xE9;. </para><para>17. &#xC0; Ttaka Jiunge, &#xE9;galement en Ouganda et la m&#xEA;me ann&#xE9;e, saint Pontien Ngondwe, martyr. Garde du corps du roi, alors que la pers&#xE9;cution mena&#xE7;ait, il re&#xE7;ut le bapt&#xEA;me, fut peu apr&#xE8;s jet&#xE9; en prison et, tandis qu&#x2019;on le conduisait &#xE0; la colline du supplice, il fut transperc&#xE9; d&#x2019;un coup de lance par le bourreau. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

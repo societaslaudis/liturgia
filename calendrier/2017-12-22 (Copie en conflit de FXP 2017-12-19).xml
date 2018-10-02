@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>9</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Adventus</la><fr>Temps de l'Avent</fr></tempus>
+<hebdomada><la>Hebdomada III Adventus</la><fr>III&#xE8;me semaine de l'Avent</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Prope_est_iam</invitatoire>
+
+<HYMNUS_lectures>hy_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+
+<antL1>AN_Laboravi_clamans_dum</antL1>
+
+<psL1>ps68I</psL1>
+
+<antL2>AN_Dederunt_in_escam</antL2>
+
+<psL2>ps68II</psL2>
+
+<antL3>AN_Quaerite_Dominum_et</antL3>
+
+<psL3>ps68III</psL3>
+
+<LVers>VERS_Dominus_vias</LVers>
+
+<osb_vig_ant_attente id=""/>
+
+<osb_vig_ps_attente id=""/>
+
+<Llec1>L1_adventus_36</Llec1>
+
+<Lrep1>R1_adventus_36</Lrep1>
+
+<Llec2>L2_adventus_36</Llec2>
+
+<Lrep2>R2_adventus_36</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Magnis_prophetae_vocibus</HYMNUS_laudes>
+ 
+<ant1>AN_De_Sion_veniet</ant1>
+ 
+<ps1>ps50</ps1>
+ 
+<ant2>AN_Constantes_estote_videbitis</ant2>
+ 
+<ps2>AT34</ps2>
+ 
+<ant3>AN_Ego_autem_ad</ant3>
+ 
+<ps3>ps99</ps3>
+ 
+<LB_matin>LB_Is_45_8</LB_matin> 
+ 
+<RB_matin>RB_Super_te_Ierusalem_Orietur</RB_matin>  
+<benedictus>AN_Ex_quo_facta_est</benedictus> 
+<laudes_preces>perannum_36</laudes_preces><oratio_laudes>COL_Deus_qui_hominem_delapsum_in_mortem</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Prophetae_praedicaverunt_nasci</ant4>
+ 
+<ps4>ps21I</ps4>
+ 
+<ant5>AN_Gabriel_angelus_locutus</ant5>
+ 
+<ps5>ps21II</ps5>
+ 
+<ant6>AN_Maria_dixit_Qualis</ant6>
+ 
+<ps6>ps21III</ps6>
+ 
+<LB_3>LB_Mic_5_3_4a</LB_3>
+ 
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+ 
+<LB_6>LB_Ag_2_6b._9</LB_6>
+ 
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+ 
+<LB_9>LB_Mal_3_20-21b</LB_9>
+ 
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+ 
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+ 
+<oratio_6>COL_Domine_Iesu_Christe_qui_hora_sexta </oratio_6>
+ 
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Verbum_salutis_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_De_Sion_veniet</ant7>
+ 
+<ps7>ps134I</ps7>
+ 
+<ant8>AN_Constantes_estote_videbitis</ant8>
+ 
+<ps8>ps134II</ps8>
+ 
+<ant9>AN_Ego_autem_ad</ant9>
+ 
+<ps9>NT11</ps9>
+ 
+<LB_soir>LB_Iac_5_7-8._9b</LB_soir>
+ 
+<RB_soir>RB_Veni_ad_liberandum_nos_</RB_soir>
+ 
+<magnificat>AN_O_Rex_gentium</magnificat>
+ 
+<vepres_preces>perannum_36</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_hominem_delapsum_in_mortem</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+ 
+<comp_ps1>ps87</comp_ps1> 
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+ 
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Veni_et_ostende_nobis</IN>
+<LEC>LEC_1S1,24-28</LEC>
+<PR/>
+<PS1>GR_Domine_Deus_virtutum</PS1>
+<EV>EV_Lc1,46-56</EV>
+<OF>OF_Exsulta_satis</OF>
+<CO>CO_Exsultavit_ut_gigas</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Fran&#xE7;oise-Xavi&#xE8;re Cabrini</intitule>
+ <biographiecourte>Missionnaire du Sacr&#xE9;-C&#x153;ur aux USA, "M&#xE8;re des &#xE9;migrants", son activit&#xE9; fut intense en Am&#xE9;rique et en Europe (&#x2020;1917) </biographiecourte>
+ <canonisebeatifie>Pie XII</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 22 d&#xE9;cembre</para><para>1. Comm&#xE9;moraison des saints martyrs en &#xC9;gypte, Ch&#xE9;r&#xE9;mon, &#xE9;v&#xEA;que de Nilopolis, et beaucoup d&#x2019;autres. Vers 250, au temps o&#xF9; s&#xE9;vissait la pers&#xE9;cution de D&#xE8;ce, les uns s&#x2019;&#xE9;taient enfuis et errant dans le d&#xE9;sert furent d&#xE9;vor&#xE9;s par les b&#xEA;tes. D&#x2019;autres moururent de faim, de froid ou de langueur. D&#x2019;autres enfin furent massacr&#xE9;s par les barbares et les voleurs. Tous re&#xE7;urent ainsi, par divers genres de mort, la m&#xEA;me couronne de gloire du martyre. </para><para>2. Comm&#xE9;moraison de saint Ischyrion, martyr en &#xC9;gypte. Vers le m&#xEA;me temps, m&#xE9;prisant les opprobres et les injures pour son refus de sacrifier, il fut transperc&#xE9; par le milieu des entrailles au moyen d&#x2019;un pieu ac&#xE9;r&#xE9;, et mourut de la sorte. </para><para>3. &#xC0; Rome, sur la vie Labicane, au cimeti&#xE8;re &#x201C;Aux deux lauriers&#x201D;, trente saints martyrs, qui furent tous couronn&#xE9;s le m&#xEA;me jour. </para><para>4. Dans la r&#xE9;gion de Ra&#xEF;the en &#xC9;gypte, au IVe si&#xE8;cle, quarante-trois saints moines, massacr&#xE9;s par les Blemmyes pour la religion chr&#xE9;tienne. </para><para>5*. &#xC0; Utrecht, en 866, saint Hunger, &#xE9;v&#xEA;que. </para><para>6*. &#xC0; Londres, en 1642, le bienheureux Thomas Holland, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. Alors qu&#x2019;il exer&#xE7;ait son minist&#xE8;re dans la clandestinit&#xE9; depuis sept ans, il fut arr&#xEA;t&#xE9; sous le roi Charles Ier, condamn&#xE9; &#xE0; mort comme pr&#xEA;tre et pendu &#xE0; Tyburn. </para><para>7. &#xC0; Chicago dans l&#x2019;Illinois, aux &#xC9;tats-Unis d&#x2019;Am&#xE9;rique, en 1917, sainte Fran&#xE7;oise-Xavi&#xE8;re Cabrini, vierge, qui fonda l&#x2019;Institut des S&#x153;urs missionnaires du Sacr&#xE9;-C&#x153;ur et d&#xE9;pensa toutes ses forces avec une exquise charit&#xE9; au soin des migrants. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

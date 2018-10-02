@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 1 octobris.</la>
+<fr>Le 1er octobre.</fr>
+</jour>
+<intitule>
+<la>S. TERESI&#xC6; A IESU INFANTE, VIRGINIS. </la>
+<fr>S. THERESE DE L'ENFANT JESUS, VIERGE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_virginum_Dominum"/>
+<HYMNUS_laudes id="hy_Aptata_virgo_lampade"/>
+<LB_matin id="LB_Cant_8_7"/>
+<RB_matin id="RB_Tibi_dixit_cor_meum_"/>
+<benedictus id="AN_Amen_dico_vobis"/>
+<oratio id="COL_Deus_qui_regnum_tuum_humilibus_parvulisque"/>
+<HYMNUS_vesperas id="hy_Iesu_corona_virginum"/>
+<LB_soir id="LB_1_Cor_7_32_b._34_a"/>
+<RB_soir id="RB_Afferentur_Regi_virgines_In"/>
+<magnificat id="AN_Gaudete_et_exsultate"/>
+<messe>
+<EV id="EV_Mt18,1-5"/>
+<LEC id="LEC_Is66,10,14c"/>
+<IN id="IN_Ego_autem_in_Domino_speravi"/>
+<COL id="COL_Deus_qui_regnum_tuum_humilibus_parvulisque"/>
+<PS1 id="GR_Unam_petii"/>
+<PS2 id="AL_Laudate_Dominum"/>
+<OF id="OF_Benedic_anima_mea"/>
+<CO id="CO_Narrabo"/>
+</messe>
+ </liturgia>

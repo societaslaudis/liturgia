@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<liturgia>
+<ant1 id="AN_De_Sion_veniet"/>
+<ant2 id="AN_Constantes_estote_videbitis"/>
+<ant3 id="AN_Ego_autem_ad"/>
+
+<HYMNUS_tertiam id="hy_Certum_tenentes_ordinem"/>
+<HYMNUS_sextam id="hy_Dicamus_laudes_Domino"/>
+<HYMNUS_nonam id="hy_Ternis_horarum_terminis"/>
+
+<HYMNUS_vesperas id="hy_Verbum_salutis_omnium"/>
+<ant7 id="AN_De_Sion_veniet"/>
+<ant8 id="AN_Constantes_estote_videbitis"/>
+<ant9 id="AN_Ego_autem_ad"/>
+
+<messe> 
+	<IN id="IN_Veni_et_ostende_nobis"/>
+	<PS1 id="GR_Domine_Deus_virtutum"/>
+	<OF id="OF_Exsulta_satis"/>
+	<CO id="CO_Exsultavit_ut_gigas"/>
+</messe>
+</liturgia>

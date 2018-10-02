@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<liturgia>
+	<messe> 
+	<EV id="EV_Mt28,16-20"/>
+	<LEC id="LEC_2Co4,7-15"/>
+	<IN id="IN_Ego_autem_cum_iustitia"/>
+	<PS1 id="GR_Iustus_ut_palma"/>
+	<PS2 id="AL_Beatus_vir_qui_suffert"/>
+	<OF id="OF_In_te_speravi"/>
+	<CO id="CO_Qui_vult_venire"/>
+	</messe>
+</liturgia>

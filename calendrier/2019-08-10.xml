@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>7</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XVIII per annum</la><fr>XVIII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Laurentii, diaconi et martyris</la><fr>St Laurent, diacre et martyr</fr></intitule>
+<rang><la>Festum</la><fr>F&#xEA;te</fr></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_martyrum_Dominum</invitatoire>
+
+<HYMNUS_lectures>HY_Martyris_Christi_colimus_triumphum</HYMNUS_lectures>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps135I</psL1>
+
+<antL2/>
+
+<psL2>ps135II</psL2>
+
+<antL3/>
+
+<psL3>ps135III</psL3>
+
+<LVers/>
+n<Llec1>L1_S._Laurentii_diaconi_et_martyris</Llec1>
+
+<Lrep1>R1_S._Laurentii_diaconi_et_martyris</Lrep1>
+
+<Llec2>L2_S._Laurentii_diaconi_et_martyris</Llec2>
+
+<Lrep2>R2_S._Laurentii_diaconi_et_martyris</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_In_martyris_Laurentii</HYMNUS_laudes>
+ 
+<ant1>AN_Adhaesit_anima_mea</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Misit_Dominus_angelum</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Beatus_Laurentius_orabat</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_2_Cor_1_3-5</LB_matin> 
+ 
+<RB_matin>RB_Fortitudo_mea_Et_laus_mea</RB_matin>  
+<benedictus>AN_Puer_meus_noli</benedictus> 
+<laudes_preces>perannum_27</laudes_preces><oratio_laudes>COL_Deus_cuius_caritatis_ardore_beatus_Laurentius</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Caelum_et_terra</ant4>
+ 
+<ps4>ps118XI</ps4>
+ 
+<ant5>AN_Tu_Domine_spes</ant5>
+ 
+<ps5>ps60</ps5>
+ 
+<ant6>AN_A_timore_inimici</ant6>
+ 
+<ps6>ps63</ps6>
+ 
+<LB_3>LB_1_Petr_5_10-11</LB_3>
+ 
+<RB_3>VERS_Stola_iucunditatis_induit_eum_Dominus</RB_3>
+ 
+<LB_6>LB_Iac_1_12</LB_6>
+ 
+<RB_6>VERS_In_Deo_speravi_Non_timebo</RB_6>
+ 
+<LB_9>LB_Sap_3_1-2_a._3_b</LB_9>
+ 
+<RB_9>VERS_Venientes_venient_cum_exsultatione_Portantes</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica XIX per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_A_solis_ortu</ant7>
+ 
+<ps7>ps112</ps7>
+ 
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+ 
+<ps8>ps115</ps8>
+ 
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Hebr_13_20-21</LB_soir>
+ 
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+ 
+<magnificat>AN_Ubi_est_thesaurus</magnificat>
+ 
+<vepres_preces>perannum_27</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Confessio</IN>
+<COL>COL_Deus_cuius_caritatis_ardore_beatus_Laurentius</COL>
+<LEC>LEC_2Co9,6-10</LEC>
+<PS1>GR_Probasti_Domine</PS1>
+<PS2>AL_Levita_Laurentius</PS2>
+<EV>EV_Jn12,24-26</EV>
+<OF>OF_Confessio</OF>
+<CO>CO_Qui_mihi_ministrat</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Laurent, diacre et martyr</intitule>
+ <biographiecourte>Diacre du pape Sixte II, martyr &#xE0; Rome en 258</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 10 ao&#xFB;t.</para><para>F&#xEA;te de saint Laurent, diacre, martyris&#xE9; &#xE0; Rome en 258. Arr&#xEA;t&#xE9; avec le pape Sixte II et les autres diacres de l&#x2019;&#xC9;glise romaine, Laurent fut provisoirement &#xE9;pargn&#xE9; dans l&#x2019;espoir de lui arracher des informations sur les biens de la communaut&#xE9; chr&#xE9;tienne. Il fut br&#xFB;l&#xE9; vif quand il eut d&#xE9;clar&#xE9; qu&#x2019;il n&#x2019;avait d&#x2019;autres richesses que les pauvres, pris en charge par l&#x2019;&#xC9;glise.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Alexandrie, en Egypte, comm&#xE9;moration des saints martyrs</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; En &#xC9;cosse, au VIe si&#xE8;cle, saint Blain, &#xE9;v&#xEA;que.</para><para>4*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Alcamo en Sicile, l&#x2019;an&#xA0;1460, le bienheureux Archange Piacentini de Calatafimi, pr&#xEA;tre, de l&#x2019;Ordre des Mineurs, remarquable par sa vie aust&#xE8;re et son go&#xFB;t de la solitude.</para><para>5*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Iki au Japon, en 1622, le bienheureux Augustin Ota, religieux de la Compagnie de J&#xE9;sus et martyr, d&#xE9;capit&#xE9; pour le Christ et jet&#xE9; ensuite dans la mer.</para><para>6*&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, les bienheureux Claude-Joseph Jouffret de Bonnefont, sulpicien, Fran&#xE7;ois Fran&#xE7;ois, capucin, et Lazare Tiersot, chartreux, tous trois pr&#xEA;tres et martyrs. Sous la R&#xE9;volution fran&#xE7;aise, &#xE0; cause de leur sacerdoce, ils furent d&#xE9;tenus, dans des conditions inhumaines, sur un bateau n&#xE9;grier, o&#xF9; ils achev&#xE8;rent leur martyre.</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; El Saler, pr&#xE8;s de Valence en Espagne, en 1936, le bienheureux Joseph Toledo Pellicer, pr&#xEA;tre et martyr dans la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile </para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; El Saler, pr&#xE8;s de Valence en Espagne, en 1936, le bienheureux Jean Martorell Soria, pr&#xEA;tre sal&#xE9;sien et martyr. Avec eux on comm&#xE9;more aussi le bienheureux Pierre Mesonero Rodriguez, religieux sal&#xE9;sien, martyris&#xE9;, un jour inconnu, au bourg de Vedat de Torrent, dans la r&#xE9;gion de Valence.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, les bienheureux Fran&#xE7;ois Drzewiezcki et &#xC9;douard Grzymala, pr&#xEA;tres et martyrs, le premier, de la Petite &#x152;uvre de la divine Providence, le second, du dioc&#xE8;se de Vladislava. Quand la Pologne fut occup&#xE9;e par le r&#xE9;gime nazi dans la Seconde Guerre mondiale, ils furent d&#xE9;port&#xE9;s en Allemagne et mis &#xE0; mort dans une chambre &#xE0; gaz.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>1</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus passionis</la><fr>Temps de la Passion</fr></tempus>
+<hebdomada><la>Sacrum Triduum Paschale</la><fr>Triduum pascal sacr&#xE9;</fr></hebdomada>
+<intitule><la>Feria V hebdomadae sanctae</la><fr>Jeudi de la semaine sainte</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Introite_in_conspectu</invitatoire>
+
+<HYMNUS_lectures>hy_Ales_diei_nuntius</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Amoris_sensus_erige</HYMNUS_lec_jour>
+
+<antL1>AN_Salvasti_nos_Domine</antL1>
+
+<psL1>ps43I</psL1>
+
+<antL2>AN_Parce_Domine_et</antL2>
+
+<psL2>ps43II</psL2>
+
+<antL3>AN_Exsurge_Domine_et</antL3>
+
+<psL3>ps43III</psL3>
+
+<LVers>VERS_Domine_ad</LVers>
+n<Llec1>L1_Feria_V_hebdomadae_sanctae</Llec1>
+
+<Lrep1>R1_Feria_V_hebdomadae_sanctae</Lrep1>
+
+<Llec2>L2_Feria_V_hebdomadae_sanctae</Llec2>
+
+<Lrep2>R2_Feria_V_hebdomadae_sanctae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>HS_5-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>HS_5-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_En_acetum_fel_arundo</HYMNUS_laudes>
+ 
+<ant1>AN_Vide_Domine_et</ant1>
+ 
+<ps1>ps79</ps1>
+ 
+<ant2>AN_Ecce_Deus_salvator</ant2>
+ 
+<ps2>AT19</ps2>
+ 
+<ant3>AN_Cibavit_nos_Dominus</ant3>
+ 
+<ps3>ps80</ps3>
+ 
+<LB_matin>LB_Hebr_2_9b-10</LB_matin> 
+ 
+<RB_matin>RB_Redemisti_nos_Domine_In</RB_matin>  
+<benedictus>AN_Desiderio_desideravi_hoc</benedictus> 
+<laudes_preces>perannum_25</laudes_preces><oratio_laudes>COL_Deus_quem_diligere_et_amare_iustitia</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Celsae_salutis_gaudia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Celsae_salutis_gaudia</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Celsae_salutis_gaudia</HYMNUS_9>
+ 
+ 
+<ant4>AN_Ante_diem_festum</ant4>
+ 
+<ps4>ps118IX</ps4>
+ 
+<ant5>AN_Sicut_novit_me</ant5>
+ 
+<ps5>ps55</ps5>
+ 
+<ant6>AN_Mihi_vivere_Christus</ant6>
+ 
+<ps6>ps56</ps6>
+ 
+<LB_3>LB_Hebr_4_14-15</LB_3>
+ 
+<RB_3>VERS_Oblatus_est_quia_ipse_voluit</RB_3>
+ 
+<LB_6>LB_Hebr_7_26-27</LB_6>
+ 
+<RB_6>VERS_Vere_languores_nostros_ipse_tulit</RB_6>
+ 
+<LB_9>LB_Hebr_9_11-12</LB_9>
+ 
+<RB_9>VERS_Adoremus_crucis_signaculum_Per</RB_9>
+ 
+<oratio_3>COL_Deus_quem_diligere_et_amare_iustitia</oratio_3>
+ 
+<oratio_6>COL_Deus_quem_diligere_et_amare_iustitia</oratio_6>
+ 
+<oratio_9>COL_Deus_quem_diligere_et_amare_iustitia</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_O_memoriale_mortis_Domini</HYMNUS_vepres>
+ 
+<ant7>AN_Fecit_nos_Deo</ant7>
+ 
+<ps7>ps71I</ps7>
+ 
+<ant8>AN_Liberabit_Dominus_pauperem</ant8>
+ 
+<ps8>ps71II</ps8>
+ 
+<ant9>AN_Sancti_vicerunt_propter</ant9>
+ 
+<ps9>NT10</ps9>
+ 
+<LB_soir>LB_Hebr_13_12-15</LB_soir>
+ 
+<RB_soir>RB_Christus_factus_est_pro_nobis</RB_soir>
+ 
+<magnificat>AN_Cenantibus_illis_accepit</magnificat>
+ 
+<vepres_preces>perannum_25</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_ad_gloriam_tuam_et</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Caro_mea</comp_ant1>
+ 
+<comp_ps1>ps15</comp_ps1> 
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+ 
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>Ad missam chrismatis
+</Intitule_messe>
+<IN>IN_Dilexisti</IN>
+<LEC>LEC_Is61,1-9</LEC>
+<PR>PR_Ps89,20</PR>
+<PS1>GR_Inveni_David</PS1><LEC2>LEC_Ap1,5-8</LEC2>
+<PS2>TR_Confitemini</PS2>
+<EV>EV_Lc4,16-21</EV>
+<OF>HY_O_Redemptor</OF>
+<CO>CO_Dilexisti_iustitiam</CO>
+</messe>
+<messe>
+<Intitule_messe>Ad missam vespertinam in Coena Domini
+</Intitule_messe>
+<IN>IN_Nos_autem_gloriari</IN>
+<LEC>LEC_Ex12,1-14</LEC>
+<PR>PR_Ps116,12</PR>
+<PS1>GR_Oculi_omnium</PS1><LEC2>LEC_1Co11,23-26</LEC2>
+<PS2>TR_Ab_ortu_solis</PS2>
+<EV>EV_Jn13,1-15</EV>
+<OF>OF_Ubi_caritas</OF>
+<CO>CO_Hoc_corpus</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Martin 1er, pape et martyr</intitule>
+ <biographiecourte>Pape, mort des suites de son enl&#xE8;vement &#xE0; Constantinople (&#x2020;655)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Jeudi de la Semaine Sainte</para><para>La C&#xE8;ne du Seigneur, lorsque le Christ J&#xE9;sus, avant Son crucifiement pour notre salut, institua la c&#xE9;l&#xE9;bration des myst&#xE8;res du Corps et du Sang &#xE0; Ses disciples.</para><para>
+            Le 13 avril</para><para>1. M&#xE9;moire de saint Martin Ier, pape et martyr. En un temps difficile, il condamna dans un Concile au Latran l&#x2019;h&#xE9;r&#xE9;sie des partisans d&#x2019;une volont&#xE9; unique dans le Christ&#xA0;; sur l&#x2019;ordre de l&#x2019;empereur Constant II, l&#x2019;exarque Calliope donna l&#x2019;assaut &#xE0; la basilique du Latran et arracha le pape de son si&#xE8;ge. Le pontife fut conduit &#xE0; Constantinople, o&#xF9; il fut gard&#xE9; &#xE9;troitement au secret en prison, enfin rel&#xE9;gu&#xE9; en Cherson&#xE8;se, o&#xF9;, apr&#xE8;s deux ans environ, en 656, il vit la fin de ses tribulations pour la d&#xE9;fense de la foi catholique. </para><para>2. &#xC0; Pergame en Asie, au IIe si&#xE8;cle, les saints martyrs Carpe, &#xE9;v&#xEA;que de Thyatire, Papyle, diacre, sa s&#x153;ur Agathonique, et beaucoup d&#x2019;autres, qui re&#xE7;urent la couronne du martyre pour avoir g&#xE9;n&#xE9;reusement confess&#xE9; le Christ. </para><para>3. &#xC0; Ravenne en Flaminie, l&#x2019;an&#xA0;398, saint Ours, &#xE9;v&#xEA;que, qui d&#xE9;pla&#xE7;a de Classis dans la ville le si&#xE8;ge &#xE9;piscopal, fit le jour de P&#xE2;ques la d&#xE9;dicace de la cath&#xE9;drale sous le titre de l&#x2019;Anastasis, et le m&#xEA;me jour de P&#xE2;ques d&#x2019;une autre ann&#xE9;e, passa lui-m&#xEA;me &#xE0; la gloire du Christ ressuscit&#xE9;. </para><para>4. &#xC0; Tarragone en Espagne, l&#x2019;an&#xA0;586, saint Herm&#xE9;n&#xE9;gilde, martyr. Fils du roi arien des Wisigoths L&#xE9;ovigild, il fut converti &#xE0; la foi catholique par l&#x2019;&#xE9;v&#xEA;que saint L&#xE9;andre, et ne se laissa fl&#xE9;chir ni par les faveurs ni par les menaces de son p&#xE8;re, qui, irrit&#xE9;, le priva du r&#xE8;gne et le fit enfermer dans une &#xE9;troite prison. Au moment des f&#xEA;tes pascales, ayant refus&#xE9; de recevoir la communion des mains d&#x2019;un &#xE9;v&#xEA;que arien, il fut frapp&#xE9; &#xE0; mort d&#x2019;un coup de hache, sur l&#x2019;ordre de son p&#xE8;re.</para><para>5*. Au monast&#xE8;re de La Capelle pr&#xE8;s de Wast, au pays de Boulogne, en 1113, la bienheureuse Ida. Veuve du comte de Boulogne Eustache, elle s&#x2019;illustra par sa lib&#xE9;ralit&#xE9; envers les pauvres et son z&#xE8;le pour la beaut&#xE9; de la maison de Dieu. </para><para>6*. &#xC0; M&#xE9;n&#xE9;vie au pays de Galles, en 1124, saint Caradoc, pr&#xEA;tre et ermite. Joueur de harpe &#xE0; la cour du roi Rhys, il abandonna ce prince quand il vit qu&#x2019;il aimait mieux les chiens que les hommes, et il apprit de l&#x2019;abb&#xE9; Teila &#xE0; servir Dieu. </para><para>7*. Au monast&#xE8;re cistercien de La Ram&#xE9;e dans le Brabant, vers 1260, la bienheureuse Ida, vierge, qui souffrit beaucoup de la part de son p&#xE8;re, avant de pouvoir entrer dans la vie religieuse, o&#xF9;, par l&#x2019;aust&#xE9;rit&#xE9; de sa vie, elle imita dans son corps le Christ souffrant. </para><para>8*. Au monast&#xE8;re de Font Avellane en Ombrie, l&#x2019;an&#xA0;1294, le bienheureux Albertin, ermite et prieur d&#x2019;une communaut&#xE9; d&#x2019;ermites, qui pr&#xE9;f&#xE9;ra aux honneurs la solitude, et s&#x2019;employa &#xE0; r&#xE9;concilier des cit&#xE9;s qui se battaient entre elles. </para><para>9*. &#xC0; Citt&#xE0; di Castello, &#xE9;galement en Ombrie, l&#x2019;an&#xA0;1320, la bienheureuse Marguerite, vierge, S&#x153;ur de la P&#xE9;nitence de Saint-Dominique. N&#xE9;e aveugle, naine et difforme, abandonn&#xE9;e par ses parents, elle garda toute sa vie un c&#x153;ur confiant dans le nom de J&#xE9;sus. </para><para>10*. &#xC0; Rochester en Angleterre, l&#x2019;an&#xA0;1590, les bienheureux Fran&#xE7;ois Dickenson et Milon G&#xE9;rard, pr&#xEA;tres et martyrs. Du coll&#xE8;ge anglais de Reims, ils rentr&#xE8;rent dans leur patrie pour y exercer en cachette leur minist&#xE8;re sacerdotal&#xA0;; pour ce motif, ils furent condamn&#xE9;s &#xE0; mort, sous la reine &#xC9;lisabeth I&#xE8;re, par pendaison et autres supplices habituels. </para><para>11*. &#xC0; York, &#xE9;galement en Angleterre, l&#x2019;an&#xA0;1642, les bienheureux Jean Lockwood et &#xC9;douard Catherick, pr&#xEA;tres et martyrs, sous le roi Charles Ier. Le premier, &#xE2;g&#xE9; de quatre-vingt-sept ans, qui avait d&#xE9;j&#xE0; &#xE9;chapp&#xE9; deux fois &#xE0; la peine capitale, fut derechef condamn&#xE9; &#xE0; mort en raison de son sacerdoce. Il voulut pr&#xE9;c&#xE9;der &#xE0; la potence son compagnon plus jeune et troubl&#xE9;, pour lui communiquer le courage du martyre. </para><para>12*. &#xC0; l&#x2019;&#xEE;le de la R&#xE9;union, en 1867, le bienheureux Scubilion (Jean-Bernard Rousseau), fr&#xE8;re des &#xC9;coles chr&#xE9;tiennes, qui, sans rel&#xE2;che, instruisit les enfants et apporta secours aux pauvres et esp&#xE9;rance aux esclaves. </para><para>13. &#xC0; Totoclan, dans la r&#xE9;gion de Guadalajara au Mexique, en 1927, saint Sabas Rayes, pr&#xEA;tre et martyr, qui durant la pers&#xE9;cution en ce pays, fut arr&#xEA;t&#xE9; apr&#xE8;s avoir c&#xE9;l&#xE9;br&#xE9; un bapt&#xEA;me, puis tortur&#xE9; et fusill&#xE9; dans le cimeti&#xE8;re. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Italie, en 1822, le bienheureux Serafino Morazzone, pr&#xEA;tre (b&#xE9;atifi&#xE9; le 26 juin 2011 par Beno&#xEE;t XVI)</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Italie, en 1945, le bienheureux Rolando Rivi, martyr tu&#xE9;, alors qu&#x2019;il avait 14 ans, par haine de sa foi, &#xA0; (beatifi&#xE9; 5 octobre 2013 par le pape Fran&#xE7;ois)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

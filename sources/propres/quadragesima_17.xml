@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_Iam_Christe_sol_iustitiae"/>
+<ant1 id="AN_Praevenerunt_oculi_mei"/>
+<ant2 id="AN_Fortitudo_mea_et"/>
+<ant3 id="AN_Laudate_Dominum_omnes"/>
+<LB_matin id="LB_Is_1_16-18"/>
+<RB_matin id="RB_Ipse_liberabit_me_De"/>
+<benedictus id="AN_Orate_pro_persequentibus"/>
+<oratio id="COL_Ad_te_corda_nostra_Pater_aeterne"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_Ap_3_19-20"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_Is_44_21-22"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<LB_9 id="LB_Gal_6_7b-8"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus"/>
+<preces id="quadragesima_17"/>
+<LEC_1_impaire id="Dt26,16-19"/><PR_impaire id="Ps119,1"/><LEC_1_paire id="Dt26,16-19"/><PR_paire id="Ps119,1"/><EV id="Mt5,43-48"/><LEC_1_impaire id="Dt26,16-19"/><PR_impaire id="Ps119,1"/><LEC_1_paire id="Dt26,16-19"/><PR_paire id="Ps119,1"/><EV id="Mt5,43-48"/><annoA><IN id="IN_Lex_Domini"/><PS1 id="GR_Adiutor_meus"/><PS2 id=""/><SEQ id=""/><OF id="OF_Domine_Deus"/><CO id="CO_Domine_Deus_meus"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoA><annoB><IN id="IN_Lex_Domini"/><PS1 id="GR_Adiutor_meus"/><PS2 id=""/><SEQ id=""/><OF id="OF_Domine_Deus"/><CO id="CO_Domine_Deus_meus"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoB><annoC><IN id="IN_Lex_Domini"/><PS1 id="GR_Adiutor_meus"/><PS2 id=""/><SEQ id=""/><OF id="OF_Domine_Deus_in_simplicitate"/><CO id="CO_Domine_Deus_meus"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoC><messe><IN id="IN_Lex_Domini"/><LEC><impaire id="LEC_Dt26,16-19"/><paire id="LEC_Dt26,16-19"/></LEC><PS1 id="GR_Adiutor_meus"/><PS2 id=""/><EV id="EV_Mt5,43-48"/><OF id="OF_Domine_Deus"/><CO id="CO_Domine_Deus_meus"/></messe></liturgia>

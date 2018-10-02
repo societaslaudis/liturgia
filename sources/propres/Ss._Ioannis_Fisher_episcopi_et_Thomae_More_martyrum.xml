@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<liturgia>
+	<messe>
+	<EV id="EV_Lc12,32-34"/>
+	<LEC id="LEC_2Co8,9-15"/>
+	<IN id="IN_Multae_tribulationes"/>
+	<PS1 id="GR_Venite_filii"/>
+	<PS2 id="AL_Sancti_tui_benedicent"/>
+	<OF id="OF_Mirabilis_Deus"/>
+	<CO id="CO_Iustorum_animae"/>
+	</messe>
+</liturgia>

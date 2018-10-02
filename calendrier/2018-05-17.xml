@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>13</priorite>
+<couleur>Blanc</couleur>
+<code>pascha_75</code>
+<propre/>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada VII Paschae</la><fr>VII&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_qui</invitatoire>
+
+<HYMNUS_lectures>hy_Nox_atra_rerum_contegit</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Christe_precamur_adnuas</HYMNUS_lec_jour>
+
+<antL1>AN_Intuere_Domine_et</antL1>
+
+<psL1>ps88IV</psL1>
+
+<antL2>AN_Ego_sum_radix</antL2>
+
+<psL2>ps88V</psL2>
+
+<antL3>AN_Anni_nostri_sicut</antL3>
+
+<psL3>ps89</psL3>
+
+<LVers>VERS_Domine_apud</LVers>
+n<Llec1>L1_pascha_75</Llec1>
+
+<Lrep1>R1_pascha_75</Lrep1>
+
+<Llec2>L2_pascha_75</Llec2>
+
+<Lrep2>R2_pascha_75</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Optatus_votis_omnium</HYMNUS_laudes>
+ 
+<ant1>AN_Cantabimus_sicut_choros</ant1>
+ 
+<ps1>ps86</ps1>
+ 
+<ant2>AN_Sicut_pastor_congregabit</ant2>
+ 
+<ps2>AT25</ps2>
+ 
+<ant3>AN_Dominus_in_Sion</ant3>
+ 
+<ps3>ps98</ps3>
+ 
+<LB_matin>LB_Rom_8_10-11</LB_matin> 
+ 
+<RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin>  
+<benedictus>AN_Euntes_in_mundum</benedictus> 
+<laudes_preces>perannum_35</laudes_preces><oratio_laudes>COL_Spiritus_tuus_quaesumus_Domine_spiritalia_nobis</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps118XV</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps78</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps79</ps6>
+ 
+<LB_3>LB_1_Cor_12_13</LB_3>
+ 
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+ 
+<LB_6>LB_Tit_3_5b-7</LB_6>
+ 
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+ 
+<LB_9>LB_Col_1_12-14</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3>COL_Spiritus_tuus_quaesumus_Domine_spiritalia_nobis</oratio_3>
+ 
+<oratio_6>COL_Spiritus_tuus_quaesumus_Domine_spiritalia_nobis</oratio_6>
+ 
+<oratio_9>COL_Spiritus_tuus_quaesumus_Domine_spiritalia_nobis</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Veni_creator_Spiritus</HYMNUS_vepres>
+ 
+<ant7>AN_Dedit_illi_Dominus</ant7>
+ 
+<ps7>ps131I</ps7>
+ 
+<ant8>AN_Iesus_Christus_solus</ant8>
+ 
+<ps8>ps131II</ps8>
+ 
+<ant9>AN_Quis_similis_tui</ant9>
+ 
+<ps9>NT10</ps9>
+ 
+<LB_soir>LB_1_Petr_3_18._21b-22</LB_soir>
+ 
+<RB_soir>RB_Spiritus_Paraclitus_Alleluia_alleluia</RB_soir>
+ 
+<magnificat>AN_Cum_venerit_ille</magnificat>
+ 
+<vepres_preces>perannum_35</vepres_preces>
+ 
+<oratio_vepres>COL_Spiritus_tuus_quaesumus_Domine_spiritalia_nobis</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Caro_mea</comp_ant1>
+ 
+<comp_ps1>ps15</comp_ps1> 
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+ 
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Accipite_iucunditatem</IN>
+<LEC>LEC_Ac22,30-23,11</LEC>
+<PS1>AL_Spiritus_Sanctus_docebit</PS1>
+<PS2/>
+<EV>EV_Jn17,20-26</EV>
+<OF>OF_Lauda_anima_mea</OF>
+<CO>CO_Spiritus_qui_a_Patre_procedit</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Tous les saints &#xE9;v&#xEA;ques de J&#xE9;rusalem</texte></jerusalem>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>Bse Antoinette M&#xE9;sina</intitule>
+ <biographiecourte>Jeune sarde, membre de l'Action catholique, assassin&#xE9;e en 1935 par un jeune gar&#xE7;on pour avoir voulu garder sa puret&#xE9;</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/>
+ <intitule>Bse Giulia Salzano</intitule>
+ <biographiecourte>Religieuse, fondatrice des S&#x153;urs cat&#xE9;chistes du Sacr&#xE9; c&#x153;ur (&#x2020;1929)</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 17 mai</para><para>1. &#xC0; Alexandrie, saint Adrion, martyr.</para><para>2. &#xC0; Rome, au cimeti&#xE8;re de Basilla, sur la voie Salarienne ancienne, saint Victor, martyr. </para><para>3. &#xC0; Noviodunum en M&#xE9;sie, les saints martyrs H&#xE9;raclius et Paul. </para><para>4. Comm&#xE9;moraison de sainte Restitute, vierge et martyre en Afrique proconsulaire, dont le culte s&#x2019;est &#xE9;tendu sur les c&#xF4;tes de la M&#xE9;diterran&#xE9;e. </para><para>5. A Vercelli en Ligurie, translation de Saint Emilianin, &#xE9;v&#xEA;que</para><para>6. &#xC0; Villa R&#xE9;al, pr&#xE8;s de Valence en Espagne, l&#x2019;an&#xA0;1592, saint Pascal Baylon, religieux de l&#x2019;Ordre des Mineurs, qui se montra toujours empress&#xE9; et bienveillant envers tous et ne cessa de v&#xE9;n&#xE9;rer avec un ardent amour le myst&#xE8;re de la Sainte Eucharistie. </para><para>7. &#xC0; Kweyang, dans la province chinoise de Guizhou, en 1834, saint Pierre Liu Wenuyan, martyr. Ayant re&#xE7;u la foi et le bapt&#xEA;me quand il &#xE9;tait jeune homme, il se fit &#xE0; son tour cat&#xE9;chiste. Arr&#xEA;t&#xE9; une premi&#xE8;re fois, il fut exil&#xE9; en Tartarie. Au bout de dix-huit ans, il revint dans sa patrie o&#xF9;, arr&#xEA;t&#xE9; une seconde fois, il fut condamn&#xE9; &#xE0; &#xEA;tre &#xE9;trangl&#xE9;, &#xE0; cause du nom du Christ.</para><para>8*. &#xC0; Casoria pr&#xE8;s de Naples, en 1929, sainte Julie Salzano, vierge, qui fonda la Congr&#xE9;gation des S&#x153;urs Cat&#xE9;chistes du Sacr&#xE9;-C&#x153;ur de J&#xE9;sus pour enseigner la doctrine chr&#xE9;tienne et r&#xE9;pandre la d&#xE9;votion &#xE0; l&#x2019;Eucharistie. &#xA0;(canonis&#xE9;e le 17 octobre 2010 par Beno&#xEE;t XVI)</para><para>9*. &#xC0; Orgasolo en Sardaigne, l&#x2019;an&#xA0;1935, la bienheureuse Antonie Mesina, vierge et martyre. D&#xE9;vou&#xE9;e aux &#x153;uvres de l&#x2019;&#xC9;glise, elle d&#xE9;fendit sa chastet&#xE9; jusqu&#x2019;&#xE0; la mort, &#xE0; l&#x2019;&#xE2;ge de seize ans. </para><para>10*. Au camp de travaux forc&#xE9;s d&#x2019;Oserlag, pr&#xE8;s d&#x2019;Irkoutsk en Sib&#xE9;rie, l&#x2019;an&#xA0;1952, le bienheureux Ivan Ziatyk, pr&#xEA;tre de la Congr&#xE9;gation du Tr&#xE8;s Saint R&#xE9;dempteur et martyr. Sup&#xE9;rieur du couvent de Ternopol, il fut arr&#xEA;t&#xE9; par la police secr&#xE8;te sovi&#xE9;tique et d&#xE9;port&#xE9; en Sib&#xE9;rie, o&#xF9; il succomba &#xE0; d&#x2019;horribles tortures. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

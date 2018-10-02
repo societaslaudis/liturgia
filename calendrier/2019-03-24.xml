@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>2</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Quadragesimae</la><fr>Temps du Car&#xEA;me</fr></tempus>
+<hebdomada><la>Hebdomada III Quadragesimae</la><fr>III&#xE8;me semaine de Car&#xEA;me</fr></hebdomada>
+<intitule><la>Dominica III Quadragesimae</la><fr>III&#xE8;me dimanche de Car&#xEA;me</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_III_Quadragesimae</Llec1>
+
+<Lrep1>R1_Dominica_III_Quadragesimae</Lrep1>
+
+<Llec2>L2_Dominica_III_Quadragesimae</Llec2>
+
+<Lrep2>R2_Dominica_III_Quadragesimae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>quadragesima_31-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>quadragesima_31-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>quadragesima_31-NOCT3-C</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Precemur_omnes_cernui</HYMNUS_laudes>
+ 
+<ant1>AN_Super_voces_aquarum</ant1>
+ 
+<ps1>ps92</ps1>
+ 
+<ant2>AN_Benedicite_fontes_Domino;</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Reges_terrae_et</ant3>
+ 
+<ps3>ps148</ps3>
+ 
+<LB_matin>LB_Neh_8_9b._l0b</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi_</RB_matin>  
+<benedictus>AN_Iustificati_ex_fide</benedictus> 
+<laudes_preces>quadragesima_31</laudes_preces><oratio_laudes>COL_Deus_omnium_misericordiarum_et_totius_bonitatis</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+ 
+ 
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Vivo_ego_dicit</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Per_arma_iustitiae</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_1_Th_4_1._7</LB_3>
+ 
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+ 
+<LB_6>LB_Is_30_15._18</LB_6>
+ 
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+ 
+<LB_9>LB_Deut_4_29-31</LB_9>
+ 
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+ 
+<oratio_3/>
+ 
+<oratio_6/>
+ 
+<oratio_9/>
+ 
+<intitule_soir><la>Dominica III Quadragesimae</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Audi_benigne_Conditor</HYMNUS_vepres>
+ 
+<ant7>AN_Paenitemini_et_credite</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Sacrificabo_hostiam_laudis</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Nemo_tollit_a</ant9>
+ 
+<ps9>NT8</ps9>
+ 
+<LB_soir>LB_2_Cor_6_1-4a</LB_soir>
+ 
+<RB_soir>RB_Attende_Domine_et_miserere_Quia</RB_soir>
+ 
+<magnificat>AN_Domine_dimitte_illam</magnificat>
+ 
+<vepres_preces>quadragesima_31</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_omnium_misericordiarum_et_totius_bonitatis</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Dum_sanctificatus_fuero</IN>
+<COL>COL_Deus_omnium_misericordiarum_et_totius_bonitatis</COL>
+<LEC>LEC_Ex3,1-8.13-15</LEC>
+<PS1>GR_Exsurge_non_praelevat</PS1>
+<LEC2>LEC_1Co10,1-6.10-12</LEC2>
+
+<PS2>TR_Ad_te_levavi</PS2>
+<EV>EV_Lc13,1-9</EV>
+<OF>OF_Iustitiae_Domini</OF>
+<PRE>PRE_Pr&#xE9;facepropreouIouII</PRE>
+<CO>CO_Qui_biberit_aquam</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule>Journ&#xE9;e des Missionnaires martyrs </intitule></journeesdediees>
+
+<biographie>
+ <intitule>Ste Catherine de Su&#xE8;de</intitule>
+ <biographiecourte>Fille de Ste Brigitte, veuve, elle devint abbesse du monast&#xE8;re fond&#xE9; par sa m&#xE8;re (&#x2020;1381)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 24 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; C&#xE9;sar&#xE9;e de Palestine, en 303, les saints martyrs Timolaus, Denis, sous-diacre, Pauside, Romulus, Alexandre et un autre Alexandre&#xA0;; durant la pers&#xE9;cution de Diocl&#xE9;tien, ils se pr&#xE9;sent&#xE8;rent les mains li&#xE9;es, devant le pr&#xE9;fet Urbain, en criant qu&#x2019;ils &#xE9;taient chr&#xE9;tiens. Le pr&#xE9;fet les fit mettre en prison, o&#xF9; ils furent rejoints par deux autres chr&#xE9;tiens&#xA0;: Agapios et un autre Denis. Le m&#xEA;me jour ils eurent la t&#xEA;te tranch&#xE9;e et m&#xE9;rit&#xE8;rent la couronne de vie. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; En Maur&#xE9;tanie, saint Secondule, qui souffrit pour la foi au Christ.</para><para>3*.&#xA0; &#xA0; &#xA0; &#xA0;  &#xC0; Clogher en Irlande, au Ve si&#xE8;cle, saint Maccartan, &#xE9;v&#xEA;que, que l&#x2019;on dit avoir &#xE9;t&#xE9; ordonn&#xE9; par saint Patrice. </para><para>4*. &#xC0;&#xA0; &#xA0; &#xA0; &#xA0;  Catane en Sicile, l&#x2019;an&#xA0;814, saint S&#xE9;v&#xE8;re, &#xE9;v&#xEA;que. </para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Fabriano dans les Marches en 1290, le bienheureux Jean de B&#xE2;ton, pr&#xEA;tre et moine, qui se pla&#xE7;a sous la conduite de saint Silvestre, abb&#xE9;.</para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Valdstena en Su&#xE8;de, l&#x2019;an&#xA0;1381, sainte Catherine, vierge. Fille de sainte Brigitte, mari&#xE9;e contre son gr&#xE9;, elle conserva la virginit&#xE9; avec l&#x2019;accord de son &#xE9;poux et, quand celui-ci mourut, elle mena une vie de pi&#xE9;t&#xE9;. P&#xE8;lerine &#xE0; Rome et en Terre sainte, elle ramena en Su&#xE8;de les restes de sa m&#xE8;re et les d&#xE9;posa au monast&#xE8;re de Valdstena, o&#xF9; elle-m&#xEA;me rev&#xEA;tit l&#x2019;habit des moniales. </para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ronda, dans la r&#xE9;gion de Malaga en Espagne, l&#x2019;an&#xA0;1901, le bienheureux Didace-Joseph de Cadix (Fran&#xE7;ois-Joseph Lopez-Caama&#xF1;o), pr&#xEA;tre de l&#x2019;Ordre des Mineurs Capucins, pr&#xE9;dicateur c&#xE9;l&#xE8;bre et d&#xE9;fenseur intr&#xE9;pide de la libert&#xE9; de l&#x2019;&#xC9;glise. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pniewite pr&#xE8;s de Dantzig, l&#x2019;an&#xA0;1935, la bienheureuse Marie Karlowska, vierge, qui fonda la Congr&#xE9;gation des S&#x153;urs du Divin Pasteur de la Providence, pour que les jeunes filles et les femmes indigentes tomb&#xE9;es dans la d&#xE9;bauche retrouvent la dignit&#xE9; de filles de Dieu. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Italie, en 1911, la bienheureuse Marie S&#xE9;raphine du Sacr&#xE9; C&#x153;ur (Maria Sera
+            fina Micheli) religieuse, fondatrice de l'Institut des S&#x153;urs des Anges. (b&#xE9;atifi&#xE9;e le 28 mai 2011 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica VI Paschae</la>
+<fr>VI&#xB0; dimanche de P&#xE2;ques</fr>
+</intitule>
+<HYMNUS_1V id="hy_Ad_cenam_Agni_providi"/>
+<HYMNUS_vesperas id="hy_Ad_cenam_Agni_providi"/>
+<ant7 id="AN_Qui_facit_veritatem"/>
+<ant8 id="AN_Solutis_doloribus_inferni"/>
+<ant9 id="AN_Nonne_haec_oportuit"/>
+<LB_soir id="LB_1_Petr_2_9-10"/>
+<RB_soir id="RB_Gavisi_sunt_discipuli_Alleluia_alleluia"/>
+<magnificat1_A id="AN_Ego_rogabo_Patrem"/>
+<magnificat1_B id="AN_Sicut_dilexit_me"/>
+<magnificat1_C id="AN_Si_quis_diligit"/>
+<oratio id="COL_Fac_nos_omnipotens_Deus_hos_laetitiae"/>
+<oratio_3 id="COL_Fac_nos_omnipotens_Deus_hos_laetitiae"/>
+<oratio_6 id="COL_Fac_nos_omnipotens_Deus_hos_laetitiae"/>
+<oratio_9 id="COL_Fac_nos_omnipotens_Deus_hos_laetitiae"/>
+
+<benedictus_A id="AN_Non_vos_relinquam"/>
+<benedictus_B id="AN_Haec_locutus_sum"/>
+<benedictus_C id="AN_Spiritus_Sanctus_quem"/>
+<magnificat_A id="AN_Qui_diligit_me"/>
+<magnificat_B id="AN_Hoc_est_praeceptum"/>
+<magnificat_C id="AN_Pacem_relinquo_vobis"/>
+</liturgia>

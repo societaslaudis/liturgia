@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada X per annum</la><fr>X&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Barnabae, apostoli</la><fr>St Barnab&#xE9;, ap&#xF4;tre.</fr></intitule>
+<rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Spiritum_Sanctum_qui</invitatoire>
+
+<HYMNUS_lectures>hy_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+
+<antL1>AN_Committe_Domino_viam</antL1>
+
+<psL1>ps36I</psL1>
+
+<antL2>AN_Declina_a_malo</antL2>
+
+<psL2>ps36II</psL2>
+
+<antL3>AN_Exspecta_Dominum_et</antL3>
+
+<psL3>ps36III</psL3>
+
+<LVers>VERS_Bonitatem_et</LVers>
+n<Llec1>L1_S._Barnabae_apostoli</Llec1>
+
+<Lrep1>R1_S._Barnabae_apostoli</Lrep1>
+
+<Llec2>L2_S._Barnabae_apostoli</Llec2>
+
+<Lrep2>R2_S._Barnabae_apostoli</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_10-3-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>S._Barnabae_apostoli-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Barnabae_clarum_colimus_tropaeum</HYMNUS_laudes>
+ 
+<ant1>AN_Emitte_lucem_tuam</ant1>
+ 
+<ps1>ps42</ps1>
+ 
+<ant2>AN_Cunctis_diebus_vitae</ant2>
+ 
+<ps2>AT23</ps2>
+ 
+<ant3>AN_Te_decet_hymnus</ant3>
+ 
+<ps3>ps64</ps3>
+ 
+<LB_matin>LB_1_Cor_15_1-2a._3-4</LB_matin> 
+ 
+<RB_matin>RB_Narraverunt_laudes_Domini_Et_virtutes</RB_matin>  
+<benedictus>AN_Profectus_est_Barnabas</benedictus> 
+<laudes_preces>perannum_23</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Barnabam_plenum_fide</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_In_loco_peregrinationis</ant4>
+ 
+<ps4>ps118VII</ps4>
+ 
+<ant5>AN_Convertet_Dominus_captivitatem</ant5>
+ 
+<ps5>ps52</ps5>
+ 
+<ant6>AN_Deus_adiuvat_me</ant6>
+ 
+<ps6>ps53</ps6>
+ 
+<LB_3>LB_2_Cor_5_19_b-20</LB_3>
+ 
+<RB_3>VERS_In_omnem_terram_exivit_sonus</RB_3>
+ 
+<LB_6>LB_Act_5_12_a._14</LB_6>
+ 
+<RB_6>VERS_Custodiebant_testimonia_Dei_Et_praecepta</RB_6>
+ 
+<LB_9>LB_Act_5_41-42</LB_9>
+ 
+<RB_9>VERS_Gaudete_et_exsultate_dicit_Dominus</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+ 
+<intitule_soir><la>S. BARNAB&#xC6;, APOSTOLI</la></intitule_soir>
+ 
+<rang_soir><la>Memoria</la></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Barnabae_clarum_colimus_tropaeum</HYMNUS_vepres>
+ 
+<ant7>AN_Non_potestis_Deo</ant7>
+ 
+<ps7>ps48I</ps7>
+ 
+<ant8>AN_Thesaurizate_vobis_thesauros</ant8>
+ 
+<ps8>ps48II</ps8>
+ 
+<ant9>AN_Dignus_est_Agnus</ant9>
+ 
+<ps9>NT9</ps9>
+ 
+<LB_soir>LB_Col_1_3-6a</LB_soir>
+ 
+<RB_soir>RB_Annuntiate_inter_gentes_gloriam_Domini</RB_soir>
+ 
+<magnificat>AN_Tacuit_omnis_multitudo</magnificat>
+ 
+<vepres_preces>perannum_23</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_beatum_Barnabam_plenum_fide</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_non_abscondas_faciem</comp_ant1>
+ 
+<comp_ps1>ps142</comp_ps1> 
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+ 
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Dominus_illuminatio_mea</IN>
+<IN_L>IN_L_perannum_10</IN_L>
+<COL>COL_perannum_10</COL>
+<LEC>LEC_2Co1,18-22</LEC>
+<PS1>GR_Propitius_esto</PS1>
+<PS2>AL_Deus_qui_sedes</PS2>
+<EV>EV_Mt5,13-16</EV>
+<OF>OF_Illumina_oculos_meos</OF>
+<SO>SO_perannum_10</SO>
+<CO>CO_Dominus_firmamentum_meum</CO>
+<CO_L>CO_L_perannum_10</CO_L>
+<PC>PC_perannum_10</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Saint Barnab&#xE9;, ap&#xF4;tre </texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Barnab&#xE9;, ap&#xF4;tre.</intitule>
+ <biographiecourte> "Homme de la consolation", compagnon de St Paul, serait mort martyr &#xE0; Chypre en 60</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 11 juin</para><para>1. M&#xE9;moire de saint Barnab&#xE9;, Ap&#xF4;tre. Cet homme de bien, rempli de l&#x2019;Esprit Saint et de foi, comptait parmi les premiers fid&#xE8;les de J&#xE9;rusalem. Il annon&#xE7;a l&#x2019;&#xC9;vangile &#xE0; Antioche, introduisit dans le groupe des fr&#xE8;res Paul de Tarse &#xE0; peine converti, et l&#x2019;accompagna dans son premier voyage pour &#xE9;vang&#xE9;liser l&#x2019;Asie mineure. Il intervint au Concile de J&#xE9;rusalem et, de retour &#xE0; Chypre, sa patrie, il y diffusa l&#x2019;&#xC9;vangile. </para><para>2. &#xC0; Naples, entre 355 et 362, saint Maxime, &#xE9;v&#xEA;que. Pour avoir &#xE9;nergiquement affirm&#xE9; la foi de Nic&#xE9;e, il fut envoy&#xE9; en exil par l&#x2019;empereur Constance et, accabl&#xE9; de peines, il y mourut, confesseur de la foi. </para><para>3. &#xC0; Br&#xEA;me en Saxe, l&#x2019;an&#xA0;888, saint Rambert, &#xE9;v&#xEA;que de Hambourg ainsi que de Br&#xEA;me. Fid&#xE8;le disciple de saint Anschaire et son successeur, il &#xE9;tendit son minist&#xE8;re jusqu&#x2019;aux confins du Danemark et de la Su&#xE8;de et, &#xE0; l&#x2019;&#xE9;poque des irruptions des Normands, il prit soin du rachat des captifs chr&#xE9;tiens. </para><para>4*. &#xC0; Mayence en Franconie, l&#x2019;an&#xA0;1051, le bienheureux Bardon, &#xE9;v&#xEA;que. Premier abb&#xE9; de Hersfeld, il fut &#xE9;lev&#xE9; &#xE0; l&#x2019;ordre &#xE9;piscopal et montra pour son &#xC9;glise une sollicitude pastorale incessante. </para><para>5*. Au monast&#xE8;re cistercien de La Cambre, pr&#xE8;s de Bruxelles dans le Brabant, en 1250, sainte Ad&#xE9;la&#xEF;de, vierge moniale. Atteinte de la l&#xE8;pre &#xE0; vingt-deux ans, elle fut contrainte &#xE0; une vie de recluse et m&#xEA;me, les derni&#xE8;res ann&#xE9;es de sa vie, devenue aveugle, il ne lui restait aucun membre sain, sauf la langue pour chanter les louanges de Dieu. </para><para>6. &#xC0; Tr&#xE9;vise en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1267, saint Parisius, pr&#xEA;tre camaldule. Pendant soixante-dix ans, il aida les moniales de ses conseils et mourut &#xE0; l&#x2019;&#xE2;ge de cent-sept ans. </para><para>7*. Pr&#xE8;s de Gniezno en Pologne, l&#x2019;an&#xA0;1298, la bienheureuse Yolande, abbesse. Apr&#xE8;s la mort de son mari, le duc Boleslas le Pieux, elle abandonna tous ses biens terrestres et, avec sa fille, fit profession de vie monastique dans l&#x2019;Ordre de sainte Claire. </para><para>8*. &#xC0; Saluzzo dans le Pi&#xE9;mont, en 1450, le bienheureux &#xC9;tienne Bandelli, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, remarquable par ses pr&#xE9;dications et assidu &#xE0; entendre les confessions. </para><para>9. &#xC0; Salamanque en Espagne, l&#x2019;an&#xA0;1479, saint Jean de Saint-Facond (Gonzalez de Castrillo), pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin. Alors que ses concitoyens se battaient entre factions jusqu&#x2019;au sang, il parvint, par des colloques priv&#xE9;s et par la saintet&#xE9; de sa vie, &#xE0; r&#xE9;tablir entre eux la concorde. </para><para>10. &#xC0; Tortosa, &#xE9;galement en Espagne, l&#x2019;an&#xA0;1876, sainte Marie-Rose (Rose-Fran&#xE7;oise-Marie des Douleurs Molas Vallv&#xE9;), vierge, qui transforma une association de pieuses femmes en une Congr&#xE9;gation des S&#x153;urs de Notre-Dame de Consolation, consacr&#xE9;e au service des afflig&#xE9;s. </para><para>11. &#xC0; Rome, en 1882, sainte Paule Frassinetti, vierge, qui fonda la Congr&#xE9;gation des S&#x153;urs de Sainte-Doroth&#xE9;e pour l&#x2019;&#xE9;ducation chr&#xE9;tienne des jeunes filles. Apr&#xE8;s avoir surmont&#xE9; de grandes difficult&#xE9;s au d&#xE9;but, elle mit un grand courage, toute la douceur et tout l&#x2019;&#xE9;lan qu&#x2019;il fallait pour d&#xE9;velopper son &#x153;uvre. </para><para>12*. &#xC0; Raguse en Sicile, l&#x2019;an&#xA0;1910, la bienheureuse Maria Schinina, vierge. Noble et riche, elle choisit de vivre humble et simple au service des malades, des abandonn&#xE9;s et des pauvres. Consid&#xE9;r&#xE9;e par les siens comme le d&#xE9;shonneur de la famille, elle institua les S&#x153;urs du C&#x153;ur de J&#xE9;sus pour soulager toutes les formes de mis&#xE8;re. </para><para>13*. &#xC0; Karo-Kenpruc, pr&#xE8;s d&#x2019;Amida en Turquie, l&#x2019;an&#xA0;1915, la passion du bienheureux Ignace Maloyan, &#xE9;v&#xEA;que de Mardin et martyr. Au cours du g&#xE9;nocide des chr&#xE9;tiens arm&#xE9;niens de cette r&#xE9;gion, il refusa d&#x2019;embrasser l&#x2019;islam et, apr&#xE8;s avoir consacr&#xE9; du pain pour la r&#xE9;fection spirituelle des chr&#xE9;tiens captifs avec lui, il fut fusill&#xE9; avec d&#x2019;innombrables fid&#xE8;les.</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Allemagne, en 1933, la bienheureuse Hildegard Burjan m&#xE8;re de famille allemande, d&#xE9;put&#xE9; sociale chr&#xE9;tienne de la 1&#xE8;re R&#xE9;publique d&#x2019;Autriche et fondatrice des S&#x153;urs de la Caritas Socialis. (b&#xE9;atifi&#xE9;e le 29 janvier 2012 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

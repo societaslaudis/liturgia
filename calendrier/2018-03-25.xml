@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>2</priorite>
+<couleur>Rouge</couleur>
+<code>DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI</code>
+<propre>DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI</propre>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus passionis</la><fr>Temps de la Passion</fr></tempus>
+<hebdomada><la>Hebdomada Sancta</la><fr>Semaine sainte</fr></hebdomada>
+<intitule><la>DOMINICA IN PALMIS DE PASSIONE DOMINI</la><fr>DIMANCHE DES RAMEAUX ET DE LA PASSION DU SEIGNEUR</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+
+<antL1>AN_Domine_Deus_meus</antL1>
+
+<psL1>ps103I</psL1>
+
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+
+<psL2>ps103II</psL2>
+
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+
+<psL3>ps103III</psL3>
+
+<LVers/>
+n<Llec1>L1_DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI</Llec1>
+
+<Lrep1>R1_DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI</Lrep1>
+
+<Llec2>L2_DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI</Llec2>
+
+<Lrep2>R2_DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI-NOCT1-2</LEC_NOCT1>
+
+<LEC_NOCT2>DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI-NOCT2-2</LEC_NOCT2>
+
+<LEC_NOCT3>DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI-NOCT3-B</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_En_acetum_fel_arundo</HYMNUS_laudes>
+ 
+<ant1>AN_Turba_multa</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Cum_Angelis</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Benedictus_qui_venit</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_Zac_9_9</LB_matin> 
+ 
+<RB_matin>RB_Redemisti_nos_Domine_In</RB_matin>  
+<benedictus>AN_Qui_praeibant_et</benedictus> 
+<laudes_preces>perannum_21</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_humano_generi</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Celsae_salutis_gaudia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Celsae_salutis_gaudia</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Celsae_salutis_gaudia</HYMNUS_9>
+ 
+ 
+<ant4>AN_Ante_diem_festum</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_Sicut_novit_me</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Mihi_vivere_Christus</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_Cf._2_Cor_4_10-11</LB_3>
+ 
+<RB_3>VERS_Oblatus_est_quia_ipse_voluit</RB_3>
+ 
+<LB_6>LB_1_Petr_4_13-14</LB_6>
+ 
+<RB_6>VERS_Vere_languores_nostros_ipse_tulit</RB_6>
+ 
+<LB_9>LB_1_Petr_5_10-11</LB_9>
+ 
+<RB_9>VERS_Adoremus_crucis_signaculum_Per</RB_9>
+ 
+<oratio_3/>
+ 
+<oratio_6/>
+ 
+<oratio_9/>
+ 
+<intitule_soir><la>DOMINICA IN PALMIS DE PASSIONE DOMINI</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Vexilla_regis_prodeunt</HYMNUS_vepres>
+ 
+<ant7>AN_Percussum_et_humiliatum</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Sanguis_Christi_emundat</ant8>
+ 
+<ps8>ps113B</ps8>
+ 
+<ant9>AN_Peccata_nostra_ipse</ant9>
+ 
+<ps9>Canticum_1_Petr_2_21-24</ps9>
+ 
+<LB_soir>LB_Act_13_26-30a</LB_soir>
+ 
+<RB_soir>RB_Adoramus_te_Christe_Et</RB_soir>
+ 
+<magnificat>AN_Ave_Rex_noster</magnificat>
+ 
+<vepres_preces>perannum_21</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_humano_generi</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN/>
+<LEC>Is50,4-7</LEC>
+<PR>PR_Ps22,8</PR>
+<PS1>TR_Deus_Deus_meus</PS1><LEC2>LEC_Phil2,6-11</LEC2>
+<PS2>GR_Christus_factus_est</PS2>
+<EV>EV_Mc11,1-10</EV>
+<OF>OF_Improperium</OF>
+<CO>CO_Pater_si_non_potest</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>ANNONCIATION DU SEIGNEUR</intitule>
+ <biographiecourte/>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Dismas, le Bon Larron</intitule>
+ <biographiecourte/>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Dimanche des rameaux et de la Passion du Seigneur</para><para>Dimanche des Rameaux de la Passion du Seigneur, lorsque notre Seigneur J&#xE9;sus-Christ, r&#xE9;alisant la proph&#xE9;tie de Zacharie, assis sur le petit d&#x2019;une &#xE2;nesse, entra dans J&#xE9;rusalem, et que la foule vint f&#xEA;ter avec des rameaux de palmes.</para><para>
+            Le 25 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; Solennit&#xE9; de l&#x2019;Annonciation du Seigneur. Elle rappelle le jour o&#xF9; &#xE0; Nazareth la Vierge Marie accueillit la parole qui lui fut dite par l&#x2019;Ange de la part du Seigneur&#xA0;:&#x201D;Tu concevras et tu enfanteras un fils qui sera appel&#xE9; Fils du Tr&#xE8;s-Haut&#x201D;. Ainsi quand fut venue la pl&#xE9;nitude des temps, pour nous les hommes et pour notre salut, par l&#x2019;Esprit Saint, le Fils unique de Dieu, qui &#xE9;tait avant tous les si&#xE8;cles, a pris chair de la Vierge Marie et s&#x2019;est fait homme. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison du Bon Larron, qui confessa le Christ sur la croix et m&#xE9;rita d&#x2019;entendre de lui ces paroles&#xA0;: &#x201C;Aujourd&#x2019;hui, avec moi, tu seras dans le paradis.&#x201D;</para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nicom&#xE9;die, saint Dule, martyr. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, au cimeti&#xE8;re de Pontien sur la voie de Porto, saint Quirin, martyr. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Thessalonique en Mac&#xE9;doine, peut-&#xEA;tre au d&#xE9;but du IVe si&#xE8;cle, sainte Matrone, martyre. Servante d&#x2019;une femme juive, elle adorait le Christ en secret. Surprise par sa ma&#xEE;tresse, qui lui fit endurer de multiples tourments, elle re&#xE7;ut finalement de si rudes coups de b&#xE2;ton qu&#x2019;elle rendit &#xE0; Dieu son &#xE2;me innocente, en confessant le Christ. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Milan, au d&#xE9;but du IVe si&#xE8;cle, saint Monas, &#xE9;v&#xEA;que. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; Dans l&#x2019;&#xEE;le d&#x2019;Indre pr&#xE8;s de Nantes, vers 720, saint Hermeland (Herblain), qui quitta la cour du roi Clotaire III pour entrer &#xE0; l&#x2019;abbaye de Fontenelle, et de l&#xE0; fut envoy&#xE9; comme premier abb&#xE9; d&#x2019;une fondation monastique voulue par l&#x2019;&#xE9;v&#xEA;que de Nantes saint Pasquier. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Mammola en Calabre, l&#x2019;an&#xA0;990, saint Nicod&#xE8;me, ermite, qui fut un ma&#xEE;tre de vie monastique par l&#x2019;aust&#xE9;rit&#xE9; de sa vie et ses vertus. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Sazava en Boh&#xEA;me, l&#x2019;an&#xA0;1053, saint Procope, abb&#xE9;. Apr&#xE8;s avoir &#xE9;t&#xE9; chanoine de Prague et pr&#xEA;tre, il chercha &#xE0; vivre en ermite, puis, devant l&#x2019;affluence de disciples, il fonda en ce lieu un monast&#xE8;re qu&#x2019;il dirigea, et c&#xE9;l&#xE9;bra les louanges divines selon le rite grec et en langue slave. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Schaffhouse en Suisse, l&#x2019;an&#xA0;1078, le bienheureux &#xC9;vrard, comte de Nellenbourg, qui embrassa la vie monastique, ainsi que son &#xE9;pouse Itta, dans le monast&#xE8;re de Tous les Saints qu&#x2019;il avait fait construire. </para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Costecciaro en Ombrie, l&#x2019;an&#xA0;1337, le bienheureux Thomas, ermite, qui pendant soixante-cinq ans mena une vie de solitaire et enseigna &#xE0; d&#x2019;autres &#xE0; la mener. </para><para>12. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; York en Angleterre, l&#x2019;an&#xA0;1586, sainte Marguerite Clitherow, martyre. Avec l&#x2019;accord de son mari, demeur&#xE9; protestant, elle adh&#xE9;ra &#xE0; la foi catholique, dans laquelle elle &#xE9;leva aussi ses enfants, et veilla &#xE0; cacher chez elle les pr&#xEA;tres recherch&#xE9;s. Emprisonn&#xE9;e plusieurs fois pour cela sous la reine &#xC9;lisabeth I&#xE8;re, elle refusa de plaider sa cause, pour &#xE9;viter que ses amis, ses domestiques et ses propres enfants ne soient contraints &#xE0; t&#xE9;moigner contre elle. Cela lui valut la peine forte et dure d&#x2019;&#xEA;tre &#xE9;cras&#xE9;e par un poids lourd jusqu&#x2019;&#xE0; ce que mort s&#x2019;en suive. </para><para>13*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Winchester, &#xE9;galement en Angleterre, l&#x2019;an&#xA0;1592, le bienheureux Jacques Bird, martyr. Sous la m&#xEA;me reine, jeune homme de dix-neuf ans r&#xE9;cemment devenu catholique, il refusa de participer &#xE0; la liturgie anglicane et fut condamn&#xE9; aux supplices du gibet. </para><para>14. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Montefiascone en Toscane, l&#x2019;an&#xA0;1732, sainte Lucie Filippini, vierge, qui fonda l&#x2019;Institut des Ma&#xEE;tresses religieuses pour faire progresser l&#x2019;&#xE9;ducation chr&#xE9;tienne des jeunes filles et des femmes, surtout les pauvres. </para><para>15*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, &#xE0; Saint-Paul-hors-les-murs sur la voie d&#x2019;Ostie, en 1915, le bienheureux Placide Riccardi, pr&#xEA;tre de l&#x2019;Ordre de Saint-Beno&#xEE;t. Malgr&#xE9; les fi&#xE8;vres continues, les maladies, la paralysie dont il fut atteint, il s&#x2019;attacha infatigablement &#xE0; l&#x2019;observance de la R&#xE8;gle et &#xE0; la pri&#xE8;re et il enseigna aux autres moines &#xE0; faire de m&#xEA;me. </para><para>16*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Krystinopil, pr&#xE8;s de Lvov en Ukraine, l&#x2019;an&#xA0;1919, la bienheureuse Josaphate (Micheline Hordashevska), vierge, qui fonda et dirigea la Congr&#xE9;gation des S&#x153;urs Servantes de Marie Immacul&#xE9;e et s&#x2019;employa partout o&#xF9; les besoins &#xE9;taient les plus grands. </para><para>17*. &#xA0; &#xA0; &#xA0; &#xA0; Au camp de concentration de Majdanek, pr&#xE8;s de Lublin en Pologne, l&#x2019;an&#xA0;1944, le bienheureux &#xC9;milien Kove, pr&#xEA;tre de Lvov en Ukraine et martyr, qui y fut d&#xE9;port&#xE9; au cours de la Seconde Guerre mondiale et y perdit la vie pour avoir lutt&#xE9; pour la foi. </para><para>18*. &#xA0; &#xA0; &#xA0; &#xA0; Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1945, le bienheureux Hilaire Januszewski, pr&#xEA;tre de l&#x2019;Ordre des Carmes d&#xE9;chaux et martyr. Atteint du typhus en d&#xE9;portation, en assistant d&#x2019;autres d&#xE9;port&#xE9;s contamin&#xE9;s, il succomba, rempli de foi et de charit&#xE9;. </para><para>**. &#xA0; &#xA0; &#xA0; &#xA0; En Allemagne, en 1906, la bienheureuse Margaret Flesch, religieuse, fondatrice des Franciscaines de Notre-Dame des anges (b&#xE9;atifi&#xE9;e par Benoit XVI le 4 mai 2008)</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En terre sainte, en 1927, la bienheureuse Marie-Alphonsine Danil Ghattas co-fondatrice de la Congr&#xE9;gation des S&#x153;urs du Rosaire (b&#xE9;atifi&#xE9;e le 22 novembre&#xA0;2009.par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

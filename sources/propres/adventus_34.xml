@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<liturgia>
+	<messe>
+		<IN id="IN_Rorate_caeli"/>
+		<LEC>
+			<impaire id="LEC_Is45,6-25"/>
+			<paire id="LEC_Is45,6-25"/>
+		</LEC>
+		<PS1 id="GR_Qui_sedes_Domine"/>
+		<PS2 id="AL_Excita_Domine"/>
+		<EV id="EV_Lc7,18-23"/>
+		<OF id="OF_Benedixisti"/>
+		<CO id="CO_Dicite_pusillanimes"/>
+		</messe>
+	</liturgia>

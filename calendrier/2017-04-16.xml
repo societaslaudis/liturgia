@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>1</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Infra octavam Paschae</la><fr>Dans l'octave de P&#xE2;ques</fr></hebdomada>
+<intitule><la>DOMINICA RESURRECTIONIS</la><fr>DIMANCHE DE LA RESURRECTION</fr></intitule>
+<rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+
+<HYMNUS_lectures>HY_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>HY_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Lignum_vitae_in</antL1>
+
+<psL1>ps1</psL1>
+
+<antL2>AN_Ego_constitui_Regem</antL2>
+
+<psL2>ps2</psL2>
+
+<antL3>AN_Tu_Domine_protector</antL3>
+
+<psL3>ps3</psL3>
+
+<LVers>VERS_Verbum_Christi</LVers>
+n<Llec1>L1_DOMINICA_RESURRECTIONIS</Llec1>
+
+<Lrep1>R1_DOMINICA_RESURRECTIONIS</Lrep1>
+
+<Llec2>L2_DOMINICA_RESURRECTIONIS</Llec2>
+
+<Lrep2>R2_DOMINICA_RESURRECTIONIS</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ 
+<ant1>AN_Surrexit_Christus_et</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Redemptor_noster_surrexit</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Alleluia_resurrexit_Dominus</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_ap10.40-43</LB_matin> 
+ 
+<RB_matin>RB_Haec_dies_quam_fecit_Dominus</RB_matin>  
+<benedictus>AN_Et_valde_mane</benedictus> 
+<laudes_preces>pascha_11</laudes_preces><oratio_laudes>COL_Deus_qui_hodierna_die_per_Unigenitum</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Christus_surrexit_a_mortuis</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Traditus_est_propter_delicta</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Si_consurrexistis_cum_Christo</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Cf.1Cor15,3b-5</LB_3>
+ 
+<RB_3>VERS_Haec_dies_quam_fecit_Dominus</RB_3>
+ 
+<LB_6>LB_Eph2,4-6</LB_6>
+ 
+<RB_6>VERS_Haec_dies_quam_fecit_Dominus</RB_6>
+ 
+<LB_9>LB_Rom6,4</LB_9>
+ 
+<RB_9>VERS_Haec_dies_quam_fecit_Dominus</RB_9>
+ 
+<oratio_3>COL_Deus_qui_hodierna_die_per_Unigenitum</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_hodierna_die_per_Unigenitum</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_hodierna_die_per_Unigenitum</oratio_9>
+ 
+<intitule_soir><la>DOMINICA RESURRECTIONIS</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+ 
+<ant7>AN_Venerunt_ad_monumentum</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Venite_et_videte</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Ait_Iesus_Nolite</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Hebr10,12-14</LB_soir>
+ 
+<RB_soir>RB_Haec_dies_quam_fecit_Dominus</RB_soir>
+ 
+<magnificat>AN_Cum_esset_sero</magnificat>
+ 
+<vepres_preces>pascha_11</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_hodierna_die_per_Unigenitum</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>HY_Iesu_redemptor</HYMNUS_complies>
+ 
+<comp_RB>RB_Haec_dies_quam_fecit_Dominus</comp_RB>
+ 
+<comp_ant1>AN_alleluia_alleluia_alleulia</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>Ad missam in vigilia
+</Intitule_messe>
+<PS2>AL_Confitemini_Domino</PS2>
+<OF>OF_Dextera_Domini</OF>
+<CO>CO_Alleluia</CO>
+</messe>
+<messe>
+<Intitule_messe>Ad missam in die
+</Intitule_messe>
+<IN>IN_Resurrexi</IN>
+<COL>COL_Deus_qui_hodierna_die_per_Unigenitum</COL>
+<LEC>LEC_Ac10,34a.37-43</LEC>
+<PS1>GR_Haec_dies</PS1><LEC2>LEC_Col3,1-4</LEC2>
+<PS2>AL_Pascha_nostrum</PS2>
+<SEQ>SEQ_Victimae_paschali_laudes</SEQ>
+<EV>EV_Jn20,1-9</EV>
+<OF>OF_Terra_tremuit</OF>
+<CO>CO_Pascha_nostrum</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Beno&#xEE;t-Joseph Labre</intitule>
+ <biographiecourte>P&#xE8;lerin perp&#xE9;tuel, homme de pri&#xE8;re et de charit&#xE9;, il mourut &#xE0; Rome en 1783</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Dimanche de P&#xE2;ques et de la R&#xE9;surrection du Seigneur</para><para>Ce jour, que fit le Seigneur, est la solennit&#xE9; des solennit&#xE9;s et notre P&#xE2;que&#xA0;: la R&#xE9;surrection de notre Sauveur J&#xE9;sus-Christ selon la chair.</para><para>
+            Le 16 avril</para><para>1. &#xC0; Corinthe, au IIIe ou au IVe si&#xE8;cle, les saints martyrs L&#xE9;onide et sept compagnes, qui, apr&#xE8;s avoir endur&#xE9; divers supplices, furent noy&#xE9;s dans la mer. </para><para>2. &#xC0; Saragosse en Espagne, comm&#xE9;moraison de saint martyr Optat et dix-sept compagnons, qui, au d&#xE9;but du IVe si&#xE8;cle, durant la pers&#xE9;cution de Diocl&#xE9;tien, furent cruellement tourment&#xE9;s, tous ensemble, et mis &#xE0; mort. Le po&#xE8;te Prudence a d&#xE9;crit en vers leur glorieux martyr.</para><para>3. &#xC0; Saragosse, en Espagne, Saint Engrace, vierge et martyr, subit des tourments cruels et vari&#xE9;s, mais surv&#xE9;cut, portant dans son corps les traces de ses plaies.</para><para>4. On comm&#xE9;more avec eux les saints martyrs Ca&#xEF;us et Cr&#xE9;mence, victimes de la m&#xEA;me pers&#xE9;cution, ainsi que sainte Engrace, vierge, qui subit des tourments cruels et vari&#xE9;s, mais surv&#xE9;cut, portant dans son corps les traces de ses plaies. </para><para>5. &#xC0; Astorga, au royaume des Su&#xE8;ves en Espagne, au Ve si&#xE8;cle, saint Turibio, &#xE9;v&#xEA;que, qui, avec l&#x2019;aide du pape saint L&#xE9;on le Grand, se mit en devoir de s&#x2019;opposer avec force &#xE0; la secte des priscillianistes qui se d&#xE9;veloppait en Espagne. </para><para>6. &#xC0; Braga au Portugal, vers 668, saint Fructueux, &#xE9;v&#xEA;que, qui fut d&#x2019;abord moine et fondateur de monast&#xE8;res, puis &#xE9;v&#xEA;que et abb&#xE9; de Dume, enfin &#xE9;tabli par les P&#xE8;res du dixi&#xE8;me Concile de Tol&#xE8;de &#xE9;v&#xEA;que m&#xE9;tropolitain de Braga&#xA0;; il gouverna avec prudence son &#xC9;glise en m&#xEA;me temps que ses monast&#xE8;res. </para><para>7*. En &#xC9;cosse, l&#x2019;an&#xA0;1116, saint Magnus, martyr. Fils d&#x2019;un viking, prince des Orcades, il fut d&#x2019;abord pirate, mais embrassa bient&#xF4;t la foi chr&#xE9;tienne. &#xC9;chappant &#xE0; l&#x2019;emprise du roi de Norv&#xE8;ge et &#xE0; ses raids sur les c&#xF4;tes, il v&#xE9;cut comme un p&#xE9;nitent, puis, devenu &#xE0; son tour prince des Orcades, il partagea le pouvoir avec son cousin Haakon, mais, celui-ci se saisit de lui, d&#xE9;sarm&#xE9;, dans une &#xE9;glise et le fit tra&#xEE;treusement assassiner. </para><para>8*. &#xC0; Sebourg dans le Hainaut, vers 1186, saint Druon (Drogon). &#xC0; la recherche d&#x2019;une vie simple et solitaire, comme berger de troupeaux puis comme p&#xE8;lerin, il v&#xE9;cut pour Dieu seul.</para><para>9*. &#xC0; Broni en Lombardie, l&#x2019;an&#xA0;1249, saint Contard, p&#xE8;lerin, qui choisit de vivre dans la plus grande pauvret&#xE9; et, faisant route vers Compostelle, fut arr&#xEA;t&#xE9; en ce lieu par la maladie et y mourut. </para><para>10*. &#xC0; Sienne en Toscane, l&#x2019;an&#xA0;1305, le bienheureux Joachim, religieux de l&#x2019;Ordre des Servites de Marie.</para><para>11. &#xC0; Rome, en 1783, saint Beno&#xEE;t-Joseph Labre. N&#xE9; &#xE0; Ameth au dioc&#xE8;se de Boulogne, attir&#xE9; d&#xE8;s son enfance par le d&#xE9;sir d&#x2019;une vie aust&#xE8;re, mais malheureux dans ses essais de vie monastique, il entreprit des p&#xE8;lerinages p&#xE9;nibles aux sanctuaires les plus r&#xE9;put&#xE9;s, v&#xEA;tu seulement d&#x2019;un habit grossier et en loques, se nourrissant de ce qu&#x2019;il mendiait et donnant partout des exemples de pi&#xE9;t&#xE9; et de p&#xE9;nitence. Il fit de Rome la derni&#xE8;re &#xE9;tape de son parcours et mourut, un mercredi saint, pr&#xE8;s de l&#x2019;&#xE9;glise Sainte-Marie des Monts, o&#xF9; il priait assid&#xFB;ment. </para><para>12*. &#xC0; Avrill&#xE9; pr&#xE8;s d&#x2019;Angers, en 1794, les bienheureux martyrs Pierre Del&#xE9;pine, Jean M&#xE9;nard et vingt-quatre compagnes. Presque tous de la campagne, ils furent fusill&#xE9;s, sous la R&#xE9;volution fran&#xE7;aise, pour leur attachement &#xE0; la foi catholique. </para><para>13. &#xC0; Nevers, en 1879, sainte Bernadette Soubirous, vierge. N&#xE9;e &#xE0; Lourdes d&#x2019;une famille tr&#xE8;s pauvre, elle ressentit, toute jeune fille, la pr&#xE9;sence de la Vierge Marie immacul&#xE9;e dans la grotte de Massabielle, et par la suite, ayant pris l&#x2019;habit de religieuse, elle mena &#xE0; Nevers une vie humble et cach&#xE9;e. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<liturgia>
+	
+	<annoA>
+		<IN id=""/>
+		<PS1 id=""/>
+		<PS2 id="AL_Confitemini_Domino"/>
+		<SEQ id=""/>
+		<OF id="OF_Dextera_Domini"/>
+		<CO id="CO_Alleluia"/>
+		<autre1 id="TR_Iubilate_Domino"/>
+		<autre2 id="TR_Qui_confidunt"/>
+		<autre3 id="TR_Cantemus_Domino"/>
+		<autre4 id="TR_Laudate_Dominum"/>
+		<autre5 id="CAN_Vinea_facta_est"/>
+		<autre6 id="TR_Attende_caelum"/>
+		<autre7 id="TR_Sicut_cervus"/>
+		<autre8 id="AN_Vidi_aquam"/>
+	</annoA>
+	
+	<annoB>
+		<IN id=""/>
+		<PS1 id=""/>
+		<PS2 id="AL_Confitemini_Domino"/>
+		<SEQ id=""/>
+		<OF id="OF_Dextera_Domini"/>
+		<CO id="CO_Alleluia"/>
+		<autre1 id="TR_Iubilate_Domino"/>
+		<autre2 id="TR_Qui_confidunt"/>
+		<autre3 id="TR_Cantemus_Domino"/>
+		<autre4 id="TR_Laudate_Dominum"/>
+		<autre5 id="CAN_Vinea_facta_est"/>
+		<autre6 id="TR_Attende_caelum"/>
+		<autre7 id="TR_Sicut_cervus"/>
+		<autre8 id="AN_Vidi_aquam"/>
+	</annoB>
+	
+	<annoC>
+		<IN id=""/>
+		<PS1 id=""/>
+		<PS2 id="AL_Confitemini_Domino"/>
+		<SEQ id=""/>
+		<OF id="OF_Dextera_Domini"/>
+		<CO id="CO_Alleluia"/>
+		<autre1 id="TR_Iubilate_Domino"/>
+		<autre2 id="TR_Qui_confidunt"/>
+		<autre3 id="TR_Cantemus_Domino"/>
+		<autre4 id="TR_Laudate_Dominum"/>
+		<autre5 id="CAN_Vinea_facta_est"/>
+		<autre6 id="TR_Attende_caelum"/>
+		<autre7 id="TR_Sicut_cervus"/>
+		<autre8 id="AN_Vidi_aquam"/>
+	</annoC>
+</liturgia>

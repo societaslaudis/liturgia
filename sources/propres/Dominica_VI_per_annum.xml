@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica VI per annum</la>
+<fr>VI&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+
+<HYMNUS_1V id="hy_Rerum_Deus_fons_omnium"/>
+<ps01 id="ps118XIV"/>
+<ps02 id="ps15"/>
+<ps03 id="NT5"/>
+<ant07 id="AN_Lucerna_pedibus_meis"/>
+<ant02 id="AN_Adimplebis_me_laetitia"/>
+<ant03 id="AN_In_nomine_Iesu"/>
+<LB_1V id="LB_Col_1_2b-6a"/>
+<RB_1V id="RB_A_solis_ortu"/>
+
+<magnificat1_A id="AN_Qui_fecerit_et"/>
+<magnificat1_B id="AN_Domine_si_vis"/>
+<magnificat1_C id="AN_Beati_pauperes_quia"/>
+<oratio id="COL_Deus_qui_te_in_rectis_et"/>
+<oratio_3 id="COL_Deus_qui_te_in_rectis_et"/>
+<oratio_6 id="COL_Deus_qui_te_in_rectis_et"/>
+<oratio_9 id="COL_Deus_qui_te_in_rectis_et"/>
+
+<benedictus_A id="AN_Nisi_abundaverit_iustitia"/>
+<benedictus_B id="AN_Iesus_misertus_extendens"/>
+<benedictus_C id="AN_Beati_qui_nunc"/>
+<magnificat_A id="AN_Si_offers_munus"/>
+<magnificat_B id="AN_Vide_nemini_quidquam"/>
+<magnificat_C id="AN_Beati_eritis_cum"/>
+<messe><IN id="IN_Esto_mihi"/><PS1 id="GR_Tu_es_Deus"/><PS2 id="AL_Cantate_Domino"/><OF id="OF_Benedictus_es_in_labiis_meis"/><CO id="CO_Manducaverunt"/></messe></liturgia>

@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>2</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Quadragesimae</la><fr>Temps du Car&#xEA;me</fr></tempus>
+<hebdomada><la>Hebdomada I Quadragesimae</la><fr>I&#xE8;re semaine de Car&#xEA;me</fr></hebdomada>
+<intitule><la>Dominica I Quadragesimae</la><fr>I er dimanche de Car&#xEA;me</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+
+<HYMNUS_lectures>HY_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>HY_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Lignum_vitae_in</antL1>
+
+<psL1>ps1</psL1>
+
+<antL2>AN_Ego_constitui_Regem</antL2>
+
+<psL2>ps2</psL2>
+
+<antL3>AN_Tu_Domine_protector</antL3>
+
+<psL3>ps3</psL3>
+
+<LVers>VERS_Verbum_Christi</LVers>
+n<Llec1>L1_Dominica_I_Quadragesimae</Llec1>
+
+<Lrep1>R1_Dominica_I_Quadragesimae</Lrep1>
+
+<Llec2>L2_Dominica_I_Quadragesimae</Llec2>
+
+<Lrep2>R2_Dominica_I_Quadragesimae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>quadragesima_11-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>quadragesima_11-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>quadragesima_11-NOCT3-A</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Precemur_omnes_cernui</HYMNUS_laudes>
+ 
+<ant1>AN_Benedicam_te_in</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Hymnum_dicite_et</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Beneplacitum_est_Domino</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Neh_8_9b._l0b</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi_</RB_matin>  
+<benedictus>AN_Non_in_solo_pane</benedictus> 
+<laudes_preces>quadragesima_11</laudes_preces><oratio_laudes>COL_Concede_nobis_omnipotens_Deus_ut_per</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+ 
+ 
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Vivo_ego_dicit</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Per_arma_iustitiae</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_1_Th_4_1._7</LB_3>
+ 
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+ 
+<LB_6>LB_Is_30_15._18</LB_6>
+ 
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+ 
+<LB_9>LB_Deut_4_29-31</LB_9>
+ 
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+ 
+<oratio_3/>
+ 
+<oratio_6>COL_Converte_nos_Deus_salutaris_noster_et</oratio_6>
+ 
+<oratio_9/>
+ 
+<intitule_soir><la>Dominica I Quadragesimae</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Audi_benigne_Conditor</HYMNUS_vepres>
+ 
+<ant7>AN_In_spiritu_humilitatis</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Tunc_invocabis_et</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Christus_pro_peccatis</ant9>
+ 
+<ps9>NT8</ps9>
+ 
+<LB_soir>LB_Cf._1_Cor_9_24-25</LB_soir>
+ 
+<RB_soir>RB_Attende_Domine_et_miserere_Quia</RB_soir>
+ 
+<magnificat>AN_Dicit_Iesus_Vade</magnificat>
+ 
+<vepres_preces>quadragesima_11</vepres_preces>
+ 
+<oratio_vepres>COL_Concede_nobis_omnipotens_Deus_ut_per</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Invocabit_me</IN>
+<COL>COL_Concede_nobis_omnipotens_Deus_ut_per</COL>
+<LEC>LEC_Gn2,7-9.3,1-7</LEC>
+<PS1>GR_Angelis_suis</PS1>
+<LEC2>LEC_Rm5,12-19</LEC2>
+
+<PS2>TR_Qui_habitat</PS2>
+<EV>EV_Mt4,1-11</EV>
+<OF>OF_Scapulis_suis</OF>
+<PRE>PRE_Pr&#xE9;facepropre</PRE>
+<CO>CO_Scapulis_suis</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule>Apparition &#xE9;clatante &#xE0; Zeitoun en 1970 </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Jean-Joseph de la Croix</intitule>
+ <biographiecourte>Franciscain, sup&#xE9;rieur de la branche des Alcatarins (&#x2020;1734) </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>1er dimanche de Car&#xEA;me</para><para>Premier dimanche du car&#xEA;me, o&#xF9; notre Seigneur J&#xE9;sus-Christ nous montrant l&#x2019;exemple, entame le v&#xE9;n&#xE9;rable myst&#xE8;re annuel de l&#x2019;observance du car&#xEA;me.</para><para>
+            Le 5 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Th&#xE9;ophile, &#xE9;v&#xEA;que de C&#xE9;sar&#xE9;e de Palestine, qui, sous l&#x2019;empereur Septime S&#xE9;v&#xE8;re, se rendit remarquable par sa sagesse et l&#x2019;int&#xE9;grit&#xE9; de sa vie, et mourut vers l&#x2019;an&#xA0;195.</para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; En Pamphylie, vers 250, saint Conon, jardinier, martyr. Sous l&#x2019;empereur D&#xE8;ce, il eut les pieds perc&#xE9;s de clous, re&#xE7;ut l&#x2019;ordre de courir devant un char, tomba sur les genoux et rendit l&#x2019;&#xE2;me en priant. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, au cimeti&#xE8;re de Calliste sur la voie Appienne, en 254, la mise au tombeau de saint Lucius, pape. Successeur de saint Corneille, il fut presque aussit&#xF4;t envoy&#xE9; en exil, sous l&#x2019;empereur Gallus, mais ensuite, par une disposition divine, il revint indemne dans son &#xC9;glise, confesseur invincible de la foi. Saint Cyprien l&#x2019;a c&#xE9;l&#xE9;br&#xE9; par de grandes louanges. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; Saint Phocae, &#xC0; Sinope sur la Mer Noire, au IVe si&#xE8;cle,, martyr. Jardinier, il souffrit de multiples outrages pour le nom du R&#xE9;dempteur</para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; C&#xE9;sar&#xE9;e de Palestine, en 309, saint Adrien, martyr. Durant la pers&#xE9;cution de Diocl&#xE9;tien, par ordre du pr&#xE9;fet Firmilien, le jour o&#xF9; l&#x2019;on avait coutume de f&#xEA;ter le jour natal de la Fortune des C&#xE9;sars, il fut, &#xE0; cause de la foi au Christ, expos&#xE9; d&#x2019;abord &#xE0; un lion, puis &#xE9;gorg&#xE9; par l&#x2019;&#xE9;p&#xE9;e. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; Sur la rive du Jourdain, &#xE9;galement en Palestine, l&#x2019;an&#xA0;475, saint G&#xE9;rasime, anachor&#xE8;te, qui, au temps de l&#x2019;empereur Z&#xE9;non, fut ramen&#xE9; par saint Euthyme &#xE0; la foi orthodoxe et accomplit de grandes &#x153;uvres de p&#xE9;nitence, offrant &#xE0; tous ceux qui s&#x2019;exer&#xE7;aient &#xE0; la vie monastique sous sa direction une m&#xE9;thode de discipline et de conduite parfaite. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Saighir dans la r&#xE9;gion d&#x2019;Ossory en Irlande, vers l&#x2019;an&#xA0;530, saint Ki&#xE9;ran, &#xE9;v&#xEA;que et abb&#xE9;.</para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Arles en Provence, vers l&#x2019;an&#xA0;618, saint Virgile, &#xE9;v&#xEA;que, qui donna l&#x2019;hospitalit&#xE9; &#xE0; saint Augustin et ses moines qui se rendaient en Angleterre, sur la recommandation du pape saint Gr&#xE9;goire le Grand. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Vigevano en Lombardie, l&#x2019;an&#xA0;1485, le bienheureux Christophe Macassoli, pr&#xEA;tre de l&#x2019;Ordre des Mineurs, remarquable par sa pr&#xE9;dication et sa charit&#xE9; envers les pauvres. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Naples, l&#x2019;an&#xA0;1625, le bienheureux J&#xE9;r&#xE9;mie de Valachie (Jean Kostistik), religieux de l&#x2019;Ordre des Mineurs capucins, qui assista les malades sans rel&#xE2;che, avec amour et joie, durant quarante ans. </para><para>11. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Naples &#xE9;galement, l&#x2019;an&#xA0;1734, saint Jean-Joseph de la Croix (Charles-Ga&#xE9;tan Calosinto), pr&#xEA;tre de l&#x2019;Ordre des Mineurs, qui suivit les traces de saint Pierre d&#x2019;Alcantara et r&#xE9;tablit la discipline r&#xE9;guli&#xE8;re dans beaucoup de couvents de la province de Naples.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

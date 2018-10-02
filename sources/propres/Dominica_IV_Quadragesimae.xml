@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica IV Quadragesimae</la>
+<fr>IV&#xB0; dimanche de Car&#xEA;me</fr>
+</intitule>
+<HYMNUS_1V id="hy_Audi_benigne_Conditor"/>
+<ant01 id="AN_In_domum_Domini_laetantes"/>
+<ant02 id="AN_Surge_qui_dormis"/>
+<ant03 id="AN_Propter_nimiam_caritatem"/>
+<LB_1V id="LB_2Cor6,1-4a"/>
+<RB_1V id="RB_Attende_Domine_et_miserere"/>
+<magnificat1_A id="AN_Rabbi_quis_peccavit_hic_aut"/>
+<magnificat1_B id="AN_Sicut_Moyses_exaltavit_serpentem_in_deserto"/>
+<magnificat1_C id="AN_Surgam_et_ibo_ad_patrem"/>
+
+<HYMNUS_vesperas id="hy_Audi_benigne_Conditor"/>
+<ant7 id="AN_Ipse_est_qui"/>
+<ant8 id="AN_Iucundus_homo_qui"/>
+<ant9 id="AN_Quae_praenuntiavit_Deus"/>
+<LB_soir id="LB_Cf.1Cor9,24-25"/>
+<RB_soir id="RB_Attende_Domine_et_miserere_Quia"/>
+<magnificat1_B id="AN_Sicut_Moyses_exaltavit"/>
+<magnificat1_C id="AN_Surgam_et_ibo"/>
+<oratio id="COL_Deus_qui_per_Verbum_tuum_humani"/>
+<oratio3 id="COL_Deus_qui_per_Verbum_tuum_humani"/>
+<oratio6 id="COL_Deus_qui_per_Verbum_tuum_humani"/>
+<oratio9 id="COL_Deus_qui_per_Verbum_tuum_humani"/>
+<benedictus_A id="AN_Homo_qui_dicitur"/>
+<benedictus_B id="AN_Sic_Deus_dilexit"/>
+<benedictus_C id="AN_Cito_proferte_stolam"/>
+<magnificat_A id="AN_A_saeculo_non"/>
+<magnificat_B id="AN_Qui_facit_veritatem"/>
+<magnificat_C id="AN_Fili_tu_semper"/>
+</liturgia>

@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<code>perannum_2-7</code>
+<propre/>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada II per annum</la><fr>II&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Sebastiani, martyris</la><fr>St S&#xE9;bastien, martyr.</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Audiamus_vocem_Domini</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps135I</psL1>
+
+<antL2/>
+
+<psL2>ps135II</psL2>
+
+<antL3/>
+
+<psL3>ps135III</psL3>
+
+<LVers/>
+n<Llec1>L1_perannum_2-7</Llec1>
+
+<Lrep1>R1_perannum_2-7</Lrep1>
+
+<Llec2>L2_perannum_2-7</Llec2>
+
+<Lrep2>R2_perannum_2-7</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_2-7-NOCT1-2</LEC_NOCT1>
+
+<LEC_NOCT2>perannum_2-7-NOCT2-2</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Diei_luce_reddita</HYMNUS_laudes>
+ 
+<ant1>AN_Annuntiamus_mane_misericordiam</ant1>
+ 
+<ps1>ps91</ps1>
+ 
+<ant2>AN_Date_magnificentiam_Deo</ant2>
+ 
+<ps2>AT2</ps2>
+ 
+<ant3>AN_Quam_admirabile_est</ant3>
+ 
+<ps3>ps8</ps3>
+ 
+<LB_matin>LB_Rom_12_14-16a</LB_matin> 
+ 
+<RB_matin>RB_Exsultabunt_labia_mea_Cum</RB_matin>  
+<benedictus>AN_Dirige_Domine_pedes</benedictus> 
+<laudes_preces>perannum_27</laudes_preces><oratio_laudes>COL_Laudent_te_Domine_ora_nostra_laudet</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Caelum_et_terra</ant4>
+ 
+<ps4>ps118XI</ps4>
+ 
+<ant5>AN_Tu_Domine_spes</ant5>
+ 
+<ps5>ps60</ps5>
+ 
+<ant6>AN_A_timore_inimici</ant6>
+ 
+<ps6>ps63</ps6>
+ 
+<LB_3>LB_Deut_8_5b-6</LB_3>
+ 
+<RB_3>VERS_Timor_Domini</RB_3>
+ 
+<LB_6>LB_1_Reg_2_2b-3</LB_6>
+ 
+<RB_6>VERS_Deduc_me</RB_6>
+ 
+<LB_9>LB_Ier_6_16</LB_9>
+ 
+<RB_9>VERS_Hereditas_mea</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica III per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_A_solis_ortu</ant7>
+ 
+<ps7>ps112</ps7>
+ 
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+ 
+<ps8>ps115</ps8>
+ 
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Hebr_13_20-21</LB_soir>
+ 
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+ 
+<magnificat>AN_Venit_Iesus_in</magnificat>
+ 
+<vepres_preces>perannum_27</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_dirige_actus_nostros</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Omnis_terra</IN>
+<IN_L>IN_L_perannum_2</IN_L>
+<COL>COL_perannum_2</COL>
+<LEC>LEC_2S1,1-27</LEC>
+<PS1>GR_Misit_Dominus</PS1>
+<PS2>AL_Laudate_Deum</PS2>
+<EV>EV_Mc3,20-21</EV>
+<OF>OF_Iubilate_Deo_universa_terra</OF>
+<SO>SO_perannum_2</SO>
+<CO>CO_Laetabimur</CO>
+<CO_L>CO_L_perannum_2</CO_L>
+<PC>PC_perannum_2</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule>Rome, Apparition de la M&#xE9;daille Miraculeuse &#xE0; Ratisbonne (1842) </intitule></viergemarie>
+
+<jerusalem>
+ <texte>St Euthyme,abb&#xE9;</texte></jerusalem>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>St Fabien, pape et martyr.</intitule>
+ <biographiecourte>Pape et martyr en 250</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St S&#xE9;bastien, martyr.</intitule>
+ <biographiecourte>Martyr IV&#xE8;me si&#xE8;cle</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 20 janvier</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de saint Fabien, pape et martyr, en 250. La&#xEF;c appel&#xE9; au pontificat par une disposition divine, il montra un exemple glorieux de foi et de courage en subissant le martyre lors de la pers&#xE9;cution de D&#xE8;ce, en 250. Saint Cyprien se r&#xE9;jouit de ce que son administration irr&#xE9;prochable de l&#x2019;&#xC9;glise ait eu un aussi digne couronnement. Son corps fut inhum&#xE9; dans le cimeti&#xE8;re de Calliste sur la voie Appienne.</para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de saint S&#xE9;bastien, martyr, en 305. Originaire de Milan, comme le rapporte saint Ambroise, il partit pour Rome quand les pers&#xE9;cutions bouillonnaient avec violence et c&#x2019;est l&#xE0; qu&#x2019;il a souffert. C&#x2019;est l&#xE0;, dans la ville o&#xF9; il &#xE9;tait venu en &#xE9;tranger, qu&#x2019;il &#xE9;tablit le domicile d&#xE9;finitif de son immortalit&#xE9;. Il fut inhum&#xE9; en ce jour aux Catacombes, sur la voie Appienne. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Antino&#xE9; en &#xC9;gypte, &#xE0; la fin du IIIe si&#xE8;cle, saint Asclas, martyr. Devant le gouverneur, il ne craignit pas les menaces, mais d&#xE9;clara qu&#x2019;il redoutait beaucoup plus de m&#xE9;priser le Christ, et apr&#xE8;s divers tourments il fut pr&#xE9;cipit&#xE9; dans le Nil. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nic&#xE9;e en Bithynie, saint N&#xE9;ophyte, martyr. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; En Palestine, l&#x2019;an&#xA0;473, saint Euthyme, abb&#xE9;. Arm&#xE9;nien d&#x2019;origine et consacr&#xE9; &#xE0; Dieu depuis l&#x2019;enfance, il gagna J&#xE9;rusalem et, apr&#xE8;s soixante-sept ans pass&#xE9;s dans la solitude, robuste et alerte jusqu&#x2019;&#xE0; la fin de sa vie, il mourut c&#xE9;l&#xE8;bre par son humilit&#xE9;, sa charit&#xE9; et son observance de la r&#xE8;gle monastique. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Worcester en Angleterre, l&#x2019;an&#xA0;1095, saint Wulstan, &#xE9;v&#xEA;que. Prieur du monast&#xE8;re de la cath&#xE9;drale, il fut &#xE9;lev&#xE9; sur le si&#xE8;ge &#xE9;piscopal et joignit les habitudes de vie monastique au z&#xE8;le du pasteur&#xA0;: il mit le plus grand soin &#xE0; visiter les paroisses, &#xE0; inciter &#xE0; la construction d&#x2019;&#xE9;glises, &#xE0; favoriser les lettres, ainsi qu&#x2019;&#xE0; condamner les marchands d&#x2019;esclaves. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Coltibono en Toscane, vers 1107, le bienheureux Beno&#xEE;t Ricasoli, ermite de la Congr&#xE9;gation de Vallombreuse. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; En Finlande, vers 1157, saint Henry, &#xE9;v&#xEA;que et martyr. N&#xE9; en Angleterre, il re&#xE7;ut &#xE0; diriger l&#x2019;&#xC9;glise d&#x2019;Upsal et employa le plus grand z&#xE8;le &#xE0; annoncer l&#x2019;&#xC9;vangile aux Finnois. Il fut enfin mis &#xE0; mort par un meurtrier qu&#x2019;il s&#x2019;&#xE9;tait efforc&#xE9; de redresser selon la discipline de l&#x2019;&#xC9;glise. </para><para>9. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Montevergine en Sicile, l&#x2019;an&#xA0;1494, sainte Eustochie Calafato, vierge, abbesse de l&#x2019;Ordre de sainte Claire, qui mit tout son z&#xE8;le &#xE0; restaurer la discipline ancienne de la vie r&#xE9;guli&#xE8;re et &#xE0; favoriser la vie &#xE0; la suite du Christ &#xE0; la mani&#xE8;re de saint Fran&#xE7;ois. </para><para>10. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; S&#xE9;oul en Cor&#xE9;e, l&#x2019;an&#xA0;1840, saint &#xC9;tienne Min Kuk-ka, cat&#xE9;chiste, martyr, &#xE9;trangl&#xE9; en prison pour la foi chr&#xE9;tienne. </para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Casoria pr&#xE8;s de Naples, en 1906, la bienheureuse Marie-Christine de l&#x2019;Immacul&#xE9;e (Ad&#xE9;la&#xEF;de Brado), vierge, qui consacra sa vie &#xE0; la formation chr&#xE9;tienne des enfants et fonda la Congr&#xE9;gation des S&#x153;urs Victimes de J&#xE9;sus Eucharistie, pour d&#xE9;velopper l&#x2019;adoration du Saint-Sacrement. </para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re du Mont-Saint-Bernard, pr&#xE8;s de Leicester en Angleterre, l&#x2019;an&#xA0;1964, le bienheureux Cyprien (Michel Iwene Tansi), pr&#xEA;tre cistercien. N&#xE9; sur le territoire d&#x2019;Onitsha au Nig&#xE9;ria, il fit profession de foi chr&#xE9;tienne, encore enfant, malgr&#xE9; sa famille. Ordonn&#xE9; pr&#xEA;tre, il s&#x2019;adonna avec le plus grand soin au minist&#xE8;re pastoral et, devenu moine, il m&#xE9;rita d&#x2019;achever une vie sainte par une sainte mort.</para><para>**&#xA0; &#xA0; &#xA0; &#xA0;  En Italie, en 1720, le bienheureux Angelo Paoli, carme, &#xA0;P&#xE8;re des pauvres (b&#xE9;atifi&#xE9; le 25 avril 2010 par Beno&#xEE;t XVI) &#xA0;</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; Au Mans, en 1873, le bienheureux Basile-Antoine Marie Moreau, pr&#xEA;tre fondateur de la famille religieuse de Sainte Croix (b&#xE9;atifi&#xE9; le 15 septembre&#xA0;2007 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

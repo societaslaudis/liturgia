@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XV per annum</la><fr>XV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Apollinaris, episcopi et martyris</la><fr>St Apollinaire, &#xE9;v&#xEA;que et martyr</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Domini_est_terra</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps106I</psL1>
+
+<antL2/>
+
+<psL2>ps106II</psL2>
+
+<antL3/>
+
+<psL3>ps106III</psL3>
+
+<LVers/>
+n<Llec1>L1_perannum_15-7</Llec1>
+
+<Lrep1>R1_perannum_15-7</Lrep1>
+
+<Llec2>L2_perannum_15-7</Llec2>
+
+<Lrep2>R2_perannum_15-7</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_iam_spargit_polum</HYMNUS_laudes>
+ 
+<ant1>AN_Prope_es_tu</ant1>
+ 
+<ps1>ps118XIX</ps1>
+ 
+<ant2>AN_Mecum_sit_Domine</ant2>
+ 
+<ps2>AT10</ps2>
+ 
+<ant3>AN_Veritas_Domini_manet</ant3>
+ 
+<ps3>ps116</ps3>
+ 
+<LB_matin>LB_Phil_2_14-15</LB_matin> 
+ 
+<RB_matin>RB_Clamavi_ad_te_Domine</RB_matin>  
+<benedictus>AN_Illumina_Domine_sedentes</benedictus> 
+<laudes_preces>perannum_37</laudes_preces><oratio_laudes>COL_Deus_nostrae_fons_et_origo_salutis</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Suscipe_Domine_servum</ant4>
+ 
+<ps4>ps118XVI</ps4>
+ 
+<ant5>AN_Respicite_ad_Dominum</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Iuxta_est_Dominus</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_1_Sam_15_22</LB_3>
+ 
+<RB_3>VERS_Sacrificium_laudis</RB_3>
+ 
+<LB_6>LB_Gal_5_26;_6_2</LB_6>
+ 
+<RB_6>VERS_Ecce_quam</RB_6>
+ 
+<LB_9>LB_Mic_6_8</LB_9>
+ 
+<RB_9>VERS_In_via</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica XVI per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Rerum_Deus_fons_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_Rogate_quae_ad</ant7>
+ 
+<ps7>ps121</ps7>
+ 
+<ant8>AN_A_custodia_matutina</ant8>
+ 
+<ps8>ps129</ps8>
+ 
+<ant9>AN_In_nomine_Iesu</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_2_Petr_1_19-21</LB_soir>
+ 
+<RB_soir>RB_A_solis_ortu</RB_soir>
+ 
+<magnificat>AN_Intravit_Iesus_in</magnificat>
+ 
+<vepres_preces>perannum_37</vepres_preces>
+ 
+<oratio_vepres>COL_Propitiare_Domine_famulis_tuis_et_clementer</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Ego_autem_cum_iustitia</IN>
+<IN_L>IN_L_perannum_15</IN_L>
+<COL>COL_perannum_15</COL>
+<LEC>LEC_Ex12,37-42</LEC>
+<PS1>GR_Custodi_me</PS1>
+<PS2>AL_Te_decet_hymnus</PS2>
+<EV>EV_Mt12,14-21</EV>
+<OF>OF_Ad_te_Domine_levavi</OF>
+<SO>SO_perannum_15</SO>
+<CO>CO_Qui_manducat</CO>
+<CO_L>CO_L_perannum_15</CO_L>
+<PC>PC_perannum_15</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>St &#xC9;lie, proph&#xE8;te</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Apollinaire, &#xE9;v&#xEA;que et martyr</intitule>
+ <biographiecourte>1er &#xC9;v&#xEA;que de Ravenne, martyr au 1er si&#xE8;cle</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 20 juillet.</para><para>M&#xE9;moire de saint Apollinaire, &#xE9;v&#xEA;que. Le premier, il annon&#xE7;a &#xE0; Ravenne la richesse insondable du Christ. En bon pasteur, il se tint au milieu de son troupeau et illustra son &#xC9;glise par le t&#xE9;moignage &#xE9;clatant de sa foi et de sa pi&#xE9;t&#xE9;, au point que ses travaux lui m&#xE9;rit&#xE8;rent le titre de martyr. Il serait mort un 23 juillet et enterr&#xE9; &#xE0; Classe, le port de Ravenne.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint &#xC9;lie de Thisb&#xE9; en Galaad. Proph&#xE8;te du Seigneur aux jours des rois d&#x2019;Isra&#xEB;l Achaz et Ochozias, il revendiqua contre un peuple infid&#xE8;le les droits du Dieu unique avec une telle force d&#x2019;&#xE2;me qu&#x2019;il pr&#xE9;figura non seulement saint Jean-Baptiste, mais le Christ lui-m&#xEA;me. Il n&#x2019;a pas laiss&#xE9; d&#x2019;oracles &#xE9;crits, mais son souvenir s&#x2019;est fid&#xE8;lement conserv&#xE9;, surtout au Mont Carmel.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Joseph Barsabbas, surnomm&#xE9; le Juste. Disciple du Seigneur, il fut pr&#xE9;sent&#xE9; &#xE0; l&#x2019;assembl&#xE9;e des fid&#xE8;les par les Ap&#xF4;tres avec saint Matthias pour que l&#x2019;un d&#x2019;eux prenne dans leur groupe la place de Judas le tra&#xEE;tre. Si le sort tomba sur Matthias, Joseph ne s&#x2019;employa pas moins au minist&#xE8;re de la pr&#xE9;dication et de la saintet&#xE9;.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Antioche de Pisidie, sans doute au d&#xE9;but du IVe si&#xE8;cle, sainte Marine ou Marguerite, dont on rapporte qu&#x2019;elle consacra son corps au Christ par sa virginit&#xE9; et son martyre.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; En &#xC9;thiopie, au IVe si&#xE8;cle, saint Fulgence, &#xE9;v&#xEA;que. D&#x2019;abord prisonnier dans ce pays, il fut ensuite ordonn&#xE9; &#xE9;v&#xEA;que par saint Athanase d&#x2019;Alexandrie et propagea l&#x2019;&#xC9;vangile dans la r&#xE9;gion.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Carthage, vers 427, saint Aur&#xE8;le, &#xE9;v&#xEA;que. Colonne tr&#xE8;s ferme de l&#x2019;&#xC9;glise en Afrique, il r&#xE9;unit fr&#xE9;quemment des conciles, lutta &#xE9;nergiquement pour extirper dans le peuple fid&#xE8;le les traces du paganisme et fit dresser son si&#xE8;ge &#xE9;piscopal &#xE0; l&#x2019;emplacement d&#x2019;une statue de la d&#xE9;esse Caelestis (ou Tanit).</para><para>7.&#xA0; &#xA0; &#xA0; &#xA0; Au pays de Boulogne, vers 700, saint Vulmar, pr&#xEA;tre. Moine &#xE0; Hautmont, apr&#xE8;s un mariage malheureux employ&#xE9; &#xE0; garder les b&#xEA;tes, il chercha &#xE0; s&#x2019;instruire et son z&#xE8;le le conduisit jusqu&#x2019;&#xE0; l&#x2019;ordination presbyt&#xE9;rale. Il obtint de vivre en ermite &#xE0; la mani&#xE8;re des p&#xE8;res du d&#xE9;sert, puis fonda, dans les bois de sa patrie, un double monast&#xE8;re, l&#x2019;un pour les hommes, l&#x2019;autre pour les vierges.</para><para>8.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cordoue en Andalousie, l&#x2019;an&#xA0;851, saint Paul, diacre et martyr. Form&#xE9; par l&#x2019;exemple et la parole de saint Sisenand, il ne craignit pas de se pr&#xE9;senter devant les princes et les consuls musulmans pour les convaincre de la vanit&#xE9; de leur culte et, tandis qu&#x2019;il confessait la divinit&#xE9; du Christ, il fut ex&#xE9;cut&#xE9;.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Hildesheim en Saxe, l&#x2019;an&#xA0;1153, le bienheureux Bernard, &#xE9;v&#xEA;que, qui gouverna son &#xC9;glise dans la paix pendant vingt-quatre ans, m&#xEA;me lorsqu&#x2019;il fut devenu aveugle.</para><para>10.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; S&#xE9;oul en Cor&#xE9;e, l&#x2019;an&#xA0;1809, les saints martyrs Madeleine Yi Yong-hui, fille de sainte Marguerite Ho, Th&#xE9;r&#xE8;se Yi Mae-im, de la m&#xEA;me famille, Marthe Kim Song-im, Lucie Kim, Rose Kim, Anne Kim Chang-gum, Marie Won Kwi-im, vierge et Jean-Baptiste Yi Kwang-nyol, fr&#xE8;re de saint Augustin Yi et cat&#xE9;chiste. Tous donn&#xE8;rent ensemble leur vie pour le Christ.</para><para>11.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nam Dinh au Tonkin, en 1857, saint Joseph-Marie Diaz Sanjurjo, &#xE9;v&#xEA;que, dominicain et martyr. Condamn&#xE9; &#xE0; mort en haine de la foi, dans la pers&#xE9;cution de l&#x2019;empereur Tu Duc.</para><para>12.&#xA0; &#xA0; &#xA0; &#xA0; Dans la province chinoise d&#x2019;Hebei, en 1900, neuf martyrs de la pers&#xE9;cution de la secte de Yihetuan, &#xE0; Zhoujiahe pr&#xE8;s de la ville de Yingxian, les saints L&#xE9;on-Ignace Mangin et Paul Denn pr&#xEA;tres j&#xE9;suites. Alors qu&#x2019;ils encourageaient de leur mieux les fid&#xE8;les rassembl&#xE9;s dans l&#x2019;&#xE9;glise du village, les ennemis firent irruption et les transperc&#xE8;rent devant l&#x2019;autel. Avec eux succomba sainte Marie Zhou Wuzhi, qui voulut prot&#xE9;ger de son corps saint L&#xE9;on, alors qu&#x2019;il donnait la communion, et qui p&#xE9;rit, couverte de blessures.</para><para>13.&#xA0; &#xA0; &#xA0; &#xA0; Dans la province chinoise d&#x2019;Hebei, en 1900, saint Pierre Zhou Rixin, qui d&#xE9;clara devant le pr&#xE9;fet qu&#x2019;il ne pouvait abjurer Dieu cr&#xE9;ateur du monde et fut d&#xE9;capit&#xE9;&#xA0;</para><para>14.&#xA0; &#xA0; &#xA0; &#xA0; Dans la province chinoise d&#x2019;Hebei, en 1900, &#xE0; Daliucun, pr&#xE8;s de Wuyi, sainte Marie Fu Guilin, ma&#xEE;tresse d&#x2019;&#xE9;cole, livr&#xE9;e aux mains des assassins et d&#xE9;capit&#xE9;e, tandis qu&#x2019;elle invoquait le Christ Sauveur.</para><para>15.&#xA0; &#xA0; &#xA0; &#xA0; Dans la province chinoise de Hebei, en 1900, au village de Wuquiao Zhaojia, sainte Marie Zhao Guozhi et ses filles Rose et Marie Zhao, qui se pr&#xE9;cipit&#xE8;rent dans un puits pour ne pas &#xEA;tre viol&#xE9;es, mais en furent retir&#xE9;es et massacr&#xE9;es.&#xA0;</para><para>16.&#xA0; &#xA0; &#xA0; &#xA0; Dans la province chinoise d&#x2019;Hebei, en 1900, au bourg de Dechao, saint Xi Guizi, encore cat&#xE9;chum&#xE8;ne, qui se d&#xE9;clara chr&#xE9;tien quand commen&#xE7;a le tumulte et, couvert de blessures, fut baptis&#xE9; dans son propre sang.</para><para>17*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Madrid, en 1936, les bienheureuses Rita de la Vierge des Douleurs du C&#x153;ur de J&#xE9;sus (Fran&#xE7;oise Pujalda y Sanchez) et Fran&#xE7;oise du C&#x153;ur de J&#xE9;sus (Fran&#xE7;oise Aldea y Aranjo), vierges, s&#x153;urs de la Charit&#xE9; du Sacr&#xE9;-C&#x153;ur de J&#xE9;sus et martyres. Quand la pers&#xE9;cution religieuse se d&#xE9;cha&#xEE;na au cours de la guerre civile, elles furent arr&#xEA;t&#xE9;es dans la chapelle de leur coll&#xE8;ge et, peu apr&#xE8;s, fusill&#xE9;es dans la rue.</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Italie en 1984 le bienheureux Luigi Novarese , fondateur des Ouvriers silencieux de la Croix et du Centre des volontaires de la souffrance, ( b&#xE9;atifi&#xE9; le 11 mai 2013, &#xE0; Rome.par le Pape Fran&#xE7;ois)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

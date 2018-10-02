@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<code>perannum_15-1</code>
+<propre>Dominica_XV_per_annum</propre>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XV per annum</la><fr>XV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XV per annum</la><fr>XV&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_XV_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XV_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XV_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XV_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_15-1-NOCT1-2</LEC_NOCT1>
+
+<LEC_NOCT2>perannum_15-1-NOCT2-2</LEC_NOCT2>
+
+<LEC_NOCT3>perannum_15-1-NOCT3-B</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ 
+<ant1>AN_Mirabilis_in_altis</ant1>
+ 
+<ps1>ps92</ps1>
+ 
+<ant2>AN_Laudabilis_es_Domine</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Laudate_Dominum_de</ant3>
+ 
+<ps3>ps148</ps3>
+ 
+<LB_matin>LB_Ez_37,12b-14</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin>  
+<benedictus>AN_Exeuntes_discipuli_praedicaverunt</benedictus> 
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Deus_qui_errantibus_ut_in_viam</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_De_tribulatione_invocavi</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Dextera_Domini_fecit</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Rom_8_15-16</LB_3>
+ 
+<RB_3>VERS_Apud_te_Domine</RB_3>
+ 
+<LB_6>LB_Rom_8,_22-23</LB_6>
+ 
+<RB_6>VERS_Benedic_anima</RB_6>
+ 
+<LB_9>LB_2Tim1,9</LB_9>
+ 
+<RB_9>VERS_Deduxit_eos_Dominus</RB_9>
+ 
+<oratio_3>COL_Deus_qui_errantibus_ut_in_viam</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_errantibus_ut_in_viam</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_errantibus_ut_in_viam</oratio_9>
+ 
+<intitule_soir><la>Dominica XV per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+ 
+<ant7>AN_Dixit_Dominus_Domino</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Memoriam_fecit_mirabilium</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_1_Petr1,3-5</LB_soir>
+ 
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+ 
+<magnificat>AN_Daemonia_multa_eiciebant</magnificat>
+ 
+<vepres_preces>perannum_31</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_errantibus_ut_in_viam</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Ego_autem_cum_iustitia</IN>
+<IN_L>IN_L_perannum_15</IN_L>
+<COL>COL_perannum_15</COL>
+<LEC>LEC_Am7,12-15</LEC>
+<PS1>GR_Custodi_me</PS1>
+<LEC2>LEC_Ep1,3-14</LEC2>
+
+<PS2>AL_Te_decet_hymnus</PS2>
+<EV>EV_Mc6,7-13</EV>
+<OF>OF_Ad_te_Domine_levavi</OF>
+<SO>SO_perannum_15</SO>
+<CO>CO_Qui_manducat</CO>
+<CO_L>CO_L_perannum_15</CO_L>
+<PC>PC_perannum_15</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>D&#xE9;dicace de la Basilique du Saint S&#xE9;pulcre</texte></jerusalem>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>St Bonaventure, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>Franciscain, ma&#xEE;tre de l'Ordre, &#xE9;v&#xEA;que et docteur (s&#xE9;raphique) de l&#x2019;&#xC9;glise (&#x2020;1274)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Bse Anne-Marie Jahouvey, religieuse</intitule>
+ <biographiecourte>Fondatrice du premier Ordre f&#xE9;minin missionnaire (1851)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 15 juillet.</para><para>M&#xE9;moire de saint Bonaventure, &#xE9;v&#xEA;que d&#x2019;Albano et docteur de l&#x2019;&#xC9;glise, c&#xE9;l&#xE8;bre par sa doctrine, sa saintet&#xE9; et ses actions remarquables au service de l&#x2019;&#xC9;glise. Ministre g&#xE9;n&#xE9;ral de l&#x2019;Ordre des Mineurs, il le dirigea avec prudence dans l&#x2019;esprit de saint Fran&#xE7;ois. Dans ses nombreux &#xE9;crits, il r&#xE9;unit la plus grande &#xE9;rudition et la pi&#xE9;t&#xE9; la plus ardente. Alors qu&#x2019;il travaillait avec une belle ardeur au d&#xE9;roulement du deuxi&#xE8;me Concile &#x152;cum&#xE9;nique de Lyon, en 1274, il m&#xE9;rita de parvenir &#xE0; la vision bienheureuse de Dieu.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Porto pr&#xE8;s de Rome, les saints martyrs Eutrope, Zosime et Bonose.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0;  &#xC0; Carthage, sur la voie dite des Scillitains, dans la basilique de Fauste, en 303, la mise au tombeau de saint F&#xE9;lix, &#xE9;v&#xEA;que de Thibiuca et martyr. Le curateur Magnalien lui ayant ordonn&#xE9; de livrer au feu le livre des &#xC9;critures, il r&#xE9;pondit qu&#x2019;il pr&#xE9;f&#xE9;rait br&#xFB;ler lui-m&#xEA;me sur un b&#xFB;cher plut&#xF4;t que les divines &#xC9;critures. Pour cela, le proconsul Anulinus donna l&#x2019;ordre de le d&#xE9;capiter.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moration de saint Catulin, diacre de Carthage et martyr, dont saint Augustin&#xA0;pronon&#xE7;a un pan&#xE9;gyrique devant le peuple, ainsi que les autres saints martyrs qui reposent dans la basilique de Fauste</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Alexandrie, au IVe si&#xE8;cle, les saints martyrs Philippe et dix enfants.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; Dans l&#x2019;&#xEE;le de T&#xE9;n&#xE9;das dans l&#x2019;Hellespont, au IVe si&#xE8;cle, saint Abud&#xE8;me, martyr.</para><para>7.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nisibe en M&#xE9;sopotamie, l&#x2019;an&#xA0;338, saint Jacques, premier &#xE9;v&#xEA;que de cette ville. Pr&#xE9;sent au Concile de Nic&#xE9;e, il dirigea son peuple dans la paix, l&#x2019;enseigna et le d&#xE9;fendit contre l&#x2019;assaut des ennemis de la foi.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Ruremonde sur la Meuse, dans le Brabant, vers 717, saint Pl&#xE9;chelme, &#xE9;v&#xEA;que. Venu de Northumbrie d&#x2019;Angleterre, il annon&#xE7;a &#xE0; beaucoup de gens les richesses du Christ.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re d&#x2019;Ansbach en Franconie, au VIIIe si&#xE8;cle, saint Gombert, chor&#xE9;v&#xEA;que, qui &#xE9;tablit cette maison religieuse dans sa propri&#xE9;t&#xE9;.</para><para>10.&#xA0; &#xA0; &#xA0; &#xA0; En Thessalie, l&#x2019;an&#xA0;832, le tr&#xE9;pas de saint Joseph, &#xE9;v&#xEA;que de Thessalonique. Fr&#xE8;re de saint Th&#xE9;odore Studite, il fut d&#x2019;abord moine et composa de nombreuses hymnes. Promu ensuite, sans tarder, &#xE0; l&#x2019;&#xE9;piscopat, il supporta des peines nombreuses et s&#xE9;v&#xE8;res pour la d&#xE9;fense de la discipline eccl&#xE9;siastique et celle des saintes images, et, rel&#xE9;gu&#xE9; en Thessalie, il y mourut de faim.</para><para>11.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; V&#xE9;roli dans le Latium, en 872, le tr&#xE9;pas de saint Athanase, &#xE9;v&#xEA;que de Naples. Il eut beaucoup &#xE0; souffrir de son neveu impie, Serge, qui le chassa de son si&#xE8;ge. Accabl&#xE9; de chagrin, il passa de la terre au ciel durant son exil.</para><para>12.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Kiev dans la Rus, l&#x2019;an&#xA0;1015, saint Vladimir, prince qui re&#xE7;ut au bapt&#xEA;me le nom de Basile et mit tous ses soins &#xE0; la diffusion de la foi orthodoxe dans les peuples qui lui &#xE9;taient soumis.</para><para>13*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ratzebourg en Germanie, l&#x2019;an&#xA0;1066, saint Ansu&#xE8;re, abb&#xE9; et martyr, emmen&#xE9; avec vingt-huit moines par les Wendes en r&#xE9;volte contre les pr&#xE9;dicateurs de la foi chr&#xE9;tienne, et lapid&#xE9;.</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; V&#xE4;ster&#xE4;s en Su&#xE8;de, vers 1082, saint David, &#xE9;v&#xEA;que. Originaire d&#x2019;Angleterre, devenu moine de Cluny, il partit pour convertir au Christ les Su&#xE9;dois et mourut pieusement, &#xE0; un &#xE2;ge avanc&#xE9;, dans le monast&#xE8;re qu&#x2019;il avait construit.</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Breslau en Sil&#xE9;sie, l&#x2019;an&#xA0;1242, le bienheureux Ceslas, pr&#xEA;tre, un des premiers fr&#xE8;res de l&#x2019;Ordre des Pr&#xEA;cheurs, qui travailla pour le royaume de Dieu en Sil&#xE9;sie et en d&#x2019;autres r&#xE9;gions de Pologne</para><para>16*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Moncalieri dans le Pi&#xE9;mont, en 1458, le bienheureux Bernard. Marquis de Bade, il faisait route vers l&#x2019;Orient pour la d&#xE9;fense des peuples chr&#xE9;tiens apr&#xE8;s la prise de Constantinople par les Turcs, quand il fut saisi par la mort.</para><para>17*.&#xA0; &#xA0; &#xA0; &#xA0; En 1570, la passion des bienheureux Ignace de Azevedo, pr&#xEA;tre, et de trente-huit compagnons gagn&#xE8;rent les missions du Br&#xE9;sil sur un vaisseau appel&#xE9; le Saint-Jacques, lorsqu&#x2019;ils furent abord&#xE9;s par un navire-corsaire, command&#xE9; par un huguenot. En haine de la religion catholique, les seuls j&#xE9;suites furent &#xE9;gorg&#xE9;s par l&#x2019;&#xE9;p&#xE9;e ou la lance.&#xA0;</para><para>18&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Campi Salentina dans les Pouilles, en 1766, saint Pompilius-Marie Pirrotti, pr&#xEA;tre de l&#x2019;Ordre des Clercs R&#xE9;guliers des &#xC9;coles religieuses, remarquable par l&#x2019;aust&#xE9;rit&#xE9; de sa vie.</para><para>19*&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, le bienheureux Michel-Bernard Marchand, pr&#xEA;tre de Rouen et martyr. Pendant la R&#xE9;volution fran&#xE7;aise, &#xE0; cause de son sacerdoce, il fut d&#xE9;tenu sur un bateau n&#xE9;grier et mourut de maladie.</para><para>20.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nam Dinh au Tonkin, en 1838, saint Pierre Nguy&#xEA;n Ba Tuan, pr&#xEA;tre et martyr, qui fut d&#xE9;tenu en prison pour le Christ sous l&#x2019;empereur Minh Mang et y mourut de faim</para><para>21*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Paris, en 1851, la bienheureuse Anne-Marie Javouhey, vierge, qui fonda la Congr&#xE9;gation des S&#x153;urs de Saint-Joseph de Cluny pour le soin des malades et la formation chr&#xE9;tienne des jeunes filles, et la r&#xE9;pandit dans les terres de mission.</para><para>22.&#xA0; &#xA0; &#xA0; &#xA0; Dans la province de My Tho en Cochinchine, l&#x2019;an 1855, saint Andr&#xE9; Nguy&#xEA;n Kim Thong Nam (Nam Thu&#xF4;ng) martyr. Cat&#xE9;chiste, il fut, apr&#xE8;s un emprisonnement, condamn&#xE9; &#xE0; l&#x2019;exil sous l&#x2019;empereur Tu Duc. Entrav&#xE9; par des cha&#xEE;nes et &#xE9;cras&#xE9; sous le poids d&#x2019;une poutre, il acheva son martyre en cours de route.</para><para>23*.&#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s du bourg de Bielsk Podlaski en Pologne, l&#x2019;an&#xA0;1943, le bienheureux Antoine Beszta-Borowski, pr&#xEA;tre et martyr. Vicaire g&#xE9;n&#xE9;ral du dioc&#xE8;se de Drohiczyn, il fut arr&#xEA;t&#xE9; par la Gestapo et fusill&#xE9; dans un bois avec cinquante autres personnes.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

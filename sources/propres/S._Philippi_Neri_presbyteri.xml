@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 26 maii</la>
+<fr>Le 26 mai</fr>
+</jour>
+<intitule>
+<la>S. PHILIPPI NERI, PRESBYTERI</la>
+<fr>S. PHILIPPE NERI, PRETRE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Christum_pastorum_principem"/>
+<HYMNUS_laudes id="hy_Inclitus_rector_pater_atque_prudens"/>
+<LB_matin id="LB_Hebr_13_7-9a"/>
+<RB_matin id="RB_Super_te_Ierusalem_Constitui"/>
+<benedictus id="AN_Non_vos_estis"/>
+
+<oratio id="COL_Deus_qui_fideles_tibi_servos_sanctitatis"/>
+<HYMNUS_vesperas id="hy_Vir_celse_forma_fulgida"/>
+<LB_soir id="LB_1_Petr_5_1-4"/>
+<RB_soir id="RB_Hic_est_fratrum_amator_"/>
+<magnificat id="AN_Iste_est_fidelis"/>
+<messe> 
+		<EV id="EV_Jn17,20-26"/><LEC id="LEC_Ph4,4-9"/>
+		<IN id="IN_Caritas_Dei"/>
+		<COL id="COL_Deus_qui_fideles_tibi_servos_sanctitatis"/>
+
+		<PS2 id="AL_O_quam_bonus"/>
+		<OF id="OF_Benedic_anima_mea"/>
+		<CO id="CO_Magna_est_gloria_eius"/>
+	</messe>
+</liturgia>

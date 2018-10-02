@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XIX per annum</la><fr>XIX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XIX per annum</la><fr>XIX&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_XIX_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XIX_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XIX_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XIX_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ 
+<ant1>AN_Mirabilis_in_altis</ant1>
+ 
+<ps1>ps92</ps1>
+ 
+<ant2>AN_Laudabilis_es_Domine</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Laudate_Dominum_de</ant3>
+ 
+<ps3>ps148</ps3>
+ 
+<LB_matin>LB_Ez_37,12b-14</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin>  
+<benedictus>AN_Beati_illi_servi</benedictus> 
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_De_tribulatione_invocavi</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Dextera_Domini_fecit</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Rom_8_15-16</LB_3>
+ 
+<RB_3>VERS_Apud_te_Domine</RB_3>
+ 
+<LB_6>LB_Rom_8,_22-23</LB_6>
+ 
+<RB_6>VERS_Benedic_anima</RB_6>
+ 
+<LB_9>LB_2Tim1,9</LB_9>
+ 
+<RB_9>VERS_Deduxit_eos_Dominus</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_6>
+ 
+<oratio_9>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_9>
+ 
+<intitule_soir><la>Dominica XIX per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+ 
+<ant7>AN_Dixit_Dominus_Domino</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Memoriam_fecit_mirabilium</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_1_Petr1,3-5</LB_soir>
+ 
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+ 
+<magnificat>AN_Sint_lumbi_vestri</magnificat>
+ 
+<vepres_preces>perannum_31</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Respice_Domine</IN>
+<IN_L>IN_L_perannum_19</IN_L>
+<COL>COL_perannum_19</COL>
+<LEC>LEC_Sg18,6-9</LEC>
+<PS1>GR_Ostende_nobis</PS1>
+<LEC2>LEC_He11,1-2.8-19</LEC2>
+
+<PS2>AL_Domine_refugium</PS2>
+<EV>EV_Lc12,32-48</EV>
+<OF>OF_In_te_speravi</OF>
+<SO>SO_perannum_19</SO>
+<CO>CO_Panis_quem_ego_dedero</CO>
+<CO_L>CO_L_perannum_19</CO_L>
+<PC>PC_perannum_19</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Claire, vierge</intitule>
+ <biographiecourte>Disciple de St Fran&#xE7;ois, elle choisit comme lui la pauvret&#xE9;. Fondatrice de l'Ordre dit des Clarisses (&#x2020;1253)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 11 ao&#xFB;t.</para><para>M&#xE9;moire de sainte Claire, endormie dans le Seigneur en 1253. &#xC9;prise de l&#x2019;id&#xE9;al de saint Fran&#xE7;ois, elle d&#xE9;laissa la s&#xE9;curit&#xE9; familiale pour suivre Dame pauvret&#xE9;. Elle obtint &#xE9;galement, pour l&#x2019;Ordre qu&#x2019;elle fondait au couvent de Saint-Damien d&#x2019;Assise, le privil&#xE8;ge de ne rien poss&#xE9;der, pour se suffire de l&#x2019;Unique N&#xE9;cessaire.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Comane dans le Pont, au IIIe si&#xE8;cle, saint Alexandre, &#xE9;v&#xEA;que, surnomm&#xE9; le Charbonnier. De philosophe, il devint habile dans la science &#xE9;minente de l&#x2019;humilit&#xE9; chr&#xE9;tienne. &#xC9;lev&#xE9; par saint Gr&#xE9;goire le Thaumaturge sur le si&#xE8;ge de cette &#xC9;glise, il s&#x2019;y rendit c&#xE9;l&#xE8;bre non seulement par sa pr&#xE9;dication, mais encore par son martyre accompli dans les flammes.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; Martyr &#xE0; Rome, au cimeti&#xE8;re &#x201C;Aux deux lauriers&#x201D;, sur la voie Labicana, saint Tirbutii. Le pape  a c&#xE9;l&#xE9;br&#xE9; ses louanges.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, comm&#xE9;moraison de sainte Suzanne. Sous son nom, c&#xE9;l&#xE9;br&#xE9; dans les fastes antiques comme celui d&#x2019;une martyre, fut d&#xE9;di&#xE9;e &#xE0; Dieu, au VIe si&#xE8;cle, la basilique du titre de Gaius, pr&#xE8;s des thermes de Diocl&#xE9;tien</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; . &#xC0; Assise en Ombrie, saint Rufin, consid&#xE9;r&#xE9; comme le premier &#xE9;v&#xEA;que de la cit&#xE9;.</para><para>6*&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; B&#xE9;n&#xE9;vent en Campanie, au IVe si&#xE8;cle, saint Cassien, &#xE9;v&#xEA;que.</para><para>7.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; &#xC9;vreux, peut-&#xEA;tre au Ve si&#xE8;cle, saint Taurin, v&#xE9;n&#xE9;r&#xE9; comme premier &#xE9;v&#xEA;que de la cit&#xE9;.</para><para>8*&#xA0; &#xA0; &#xA0; &#xA0; En Irlande, au Ve si&#xE8;cle, sainte Attracta, abbesse, dont on dit qu&#x2019;elle re&#xE7;ut la voile des vierges des mains de saint Patrice.</para><para>9.&#xA0; &#xA0; &#xA0; &#xA0; Dans le district de Val&#xE9;ria pr&#xE8;s de Rome, avant 571, saint Equitius, abb&#xE9;. Comme l&#x2019;&#xE9;crit le pape saint Gr&#xE9;goire le Grand, sa grande saintet&#xE9; lui valut de devenir le p&#xE8;re de plusieurs monast&#xE8;res et, partout o&#xF9; il allait, il ouvrait &#xE0; tous la source des saintes &#xC9;critures.</para><para>10.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cambrai, vers 625, saint G&#xE9;ry, &#xE9;v&#xEA;que, remarquable par sa pi&#xE9;t&#xE9; et sa charit&#xE9; envers les pauvres. Il avait &#xE9;t&#xE9; ordonn&#xE9; diacre par l&#x2019;&#xE9;v&#xEA;que de Tr&#xE8;ves Magn&#xE9;ric et, &#xE9;lu &#xE9;v&#xEA;que de Cambrai, il eut un &#xE9;piscopat de trente-neuf ans.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Arles en Provence, l&#x2019;an&#xA0;632, sainte Rusticole, abbesse, qui dirigea saintement ses moniales pendant pr&#xE8;s de soixante ans.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison des bienheureux martyrs Jean Sandys et &#xC9;tienne Rowsham, pr&#xEA;tres, ainsi que Guillaume Lampley, tailleur, qui subirent les m&#xEA;mes supplices pour la foi catholique &#xE0; Gloucester en 1586, &#xE0; des jours divers, mais inconnus, sous la reine &#xC9;lisabeth I&#xE8;re.</para><para>13*.&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, le bienheureux Jean-Georges Rehm, pr&#xEA;tre dominicain (P&#xE8;re Thomas). Sous la R&#xE9;volution fran&#xE7;aise, d&#xE9;tenu &#xE0; cause de son sacerdoce, dans des conditions inhumaines, sur un bateau n&#xE9;grier, il ranima la confiance de ses compagnons de captivit&#xE9; &#xE9;cras&#xE9;s par le malheur, jusqu&#x2019;&#xE0; ce qu&#x2019;il f&#xFB;t emport&#xE9; par le typhus.</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936,&#xA0;les bienheureux martyrs&#xA0;: &#xE0; Agullent, dans la r&#xE9;gion de Valence, Rapha&#xEB;l Alonso Gutierrez et Charles Diaz Gandia, p&#xE8;res de famille.</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, &#xE0; Prat de Compte pr&#xE8;s de Tarragone, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, le bienheureux martyr&#xA0;: Michel Domingo Cendra, religieux sal&#xE9;sien.</para><para>16*.&#xA0; &#xA0; &#xA0; &#xA0; Aux confins du Tibet, en 1949, le bienheureux Maurice Tornay, pr&#xEA;tre et martyr. Chanoine r&#xE9;gulier du Grand Saint-Bernard, il alla annoncer l&#x2019;&#xC9;vangile en Chine et au Tibet, et fut massacr&#xE9; par des ennemis du nom chr&#xE9;tien.</para><para>**&#xA0; &#xA0; &#xA0; &#xA0;  &#xC0; Milan, en 1879, le bienheureux Luigi Biraghi, pr&#xEA;tre, fondateur de l&#x2019;Institut des S&#x153;urs Marcellines. (b&#xE9;atifi&#xE9; le 30 avril 2006 par Beno&#xEE;t XVI) </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

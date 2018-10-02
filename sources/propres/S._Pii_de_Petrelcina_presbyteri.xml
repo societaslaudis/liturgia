@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 23 septembris</la>
+<fr>Le 23 septembre</fr>
+</jour>
+<intitule>
+<la>S. PII DE PIETRELCINA, PRESBYTERI</la>
+<fr>S. PIO DE PIETRELCINA, PRETRE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<preces id="pastorum"/>
+<ant_invit id="INV_Christum_pastorum_principem"/>
+<HYMNUS_laudes id="hy_Inclitus_rector_pater_atque_prudens"/>
+<LB_matin id="LB_Hebr_13_7-9a"/>
+<RB_matin id="RB_Super_te_Ierusalem_Constitui"/>
+<benedictus id="AN_Non_vos_estis"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_qui_sanctum_Pium_presbyterum"/>
+<HYMNUS_vesperas id="hy_Vir_celse_forma_fulgida"/>
+<LB_soir id="LB_1_Petr_5_1-4"/>
+<RB_soir id="RB_Hic_est_fratrum_amator_"/>
+<magnificat id="AN_Gratias_tibi_ago"/>
+<messe>
+	<COL id="COL_Omnipotens_sempiterne_Deus_qui_sanctum_Pium_presbyterum"/>
+	<LEC id="LEC_Gal2,19-20"/>
+	<PR id="PR_Ps127,1-2.3.4-5"/>
+	<EV id="EV_Mt16,24-27"/>
+</messe>
+</liturgia>

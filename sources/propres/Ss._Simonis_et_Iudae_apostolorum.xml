@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 28 octobris</la>
+<fr>Le 28 octobre.</fr>
+</jour>
+<intitule>
+<la>SS. SIMONIS ET IUDAE, APOSTOLORUM.</la> 
+<fr>Ss. SIMON ET JUDAS, APOTRES.</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<preces id="apostolorum"/>
+<ant_invit id="INV_Regem_Apostolorum_Dominum"/>
+<HYMNUS_laudes id="HY_Commune_vos_apostoli"/>
+<ant1 id="AN_Hoc_est_praeceptum"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Maiorem_caritatem_nemo"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Vos_amici_mei"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Eph_2_19-22"/>
+<RB_matin id="RB_Constitues_eos_principes_Super"/>
+<benedictus id="AN_In_fundamentis_civitatis"/>
+
+<ant4 id="AN_Euntes_praedicate_Evangelium"/>
+<LB_3 id="LB_2_Cor_5_19_b-20"/>
+<RB_3 id="VERS_In_omnem_terram_exivit_sonus"/>
+<ant5 id="AN_Ecce_ego_vobiscum"/>
+<LB_6 id="LB_Act_5_12_a._14"/>
+<RB_6 id="VERS_Custodiebant_testimonia_Dei_Et_praecepta"/>
+<ant6 id="AN_In_patientia_vestra"/>
+<LB_9 id="LB_Act_5_41-42"/>
+<RB_9 id="VERS_Gaudete_et_exsultate_dicit_Dominus"/>
+<HYMNUS_vesperas id="hy_Exsultet_caelum_laudibus"/>
+<ant7 id="AN_Vos_estis_qui"/>
+<ps7 id="ps115"/>
+<ant8 id="AN_Ego_in_medio"/>
+<ps8 id="ps125"/>
+<ant9 id="AN_Iam_non_dicam"/>
+<ps9 id="NT4"/>
+<LB_soir id="LB_Eph4,11-13"/>
+<RB_soir id="RB_Annuntiate_inter_gentes_gloriam_Domini"/>
+<magnificat id="AN_In_regeneratione_cum"/>
+
+
+<oratio id="COL_Deus_qui_nos_per_beatos"/>
+<messe>
+
+<EV id="EV_Lc6,12-19"/>
+<LEC id="LEC_Ep2,19-22"/>
+<IN id="IN_Iudicant_sancti"/>
+<COL id="COL_Deus_qui_nos_per_beatos"/>
+<PS1 id="GR_Constitues_eos"/>
+<PS2 id="AL_Nimis_honorati_sunt"/>
+<OF id="OF_In_omnem_terram"/>
+<CO id="CO_Ego_vos_elegi"/>
+</messe>
+</liturgia>

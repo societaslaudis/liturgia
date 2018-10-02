@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<liturgia>
+	<COL id="COL_Vota_quaesumus_Domine_supplicantis_populi_caelesti"/>
+	<LEC_1_impaire id="He1,1-6"/>
+	<PR_impaire id="Ps97,1"/>
+	<LEC_1_paire id="1S1,1-8"/>
+	<PR_paire id="Ps16,12"/>
+	<EV id="Mc1,4-20"/>
+	
+	
+		<IN id="IN_In_excelso_throno"/>
+		<PS1 id="GR_Benedictus_Dominus"/>
+		<PS2 id="AL_Iubilate_Deo"/>
+		<SEQ id=""/>
+		<OF id="OF_Iubilate_Deo_omnis_terra"/>
+		<CO id="CO_Venite_post_me"/>
+		<CO id="CO_Notas_mihi_fecisti"/>
+	
+<messe><IN id="IN_In_excelso_throno"/><COL id="COL_perannum_1"/><LEC><impaire id="LEC_He1,1-6"/><paire id="LEC_1S1,1-8"/></LEC><PS1 id="GR_Benedictus_Dominus"/><PS2 id="AL_Iubilate_Deo"/><EV id="EV_Mc1,4-20"/><OF id="OF_Iubilate_Deo_omnis_terra"/><SO id="SO_perannum_1"/><CO id="CO_Venite_post_me"/><PC id="PC_perannum_1"/><IN_L id="IN_L_perannum_1"/><CO_L id="CO_L_perannum_1"/></messe></liturgia>

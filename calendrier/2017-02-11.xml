@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada VI per annum</la><fr>VI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>B. Mariae Virginis de Lourdes</la><fr>Bienheureuse Marie, vierge de Lourdes </fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Audiamus_vocem_Domini</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps135I</psL1>
+
+<antL2/>
+
+<psL2>ps135II</psL2>
+
+<antL3/>
+
+<psL3>ps135III</psL3>
+
+<LVers/>
+n<Llec1>L1_perannum_6-7</Llec1>
+
+<Lrep1>R1_perannum_6-7</Lrep1>
+
+<Llec2>L2_perannum_6-7</Llec2>
+
+<Lrep2>R2_perannum_6-7</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_6-7-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>perannum_6-7-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Diei_luce_reddita</HYMNUS_laudes>
+ 
+<ant1>AN_Annuntiamus_mane_misericordiam</ant1>
+ 
+<ps1>ps91</ps1>
+ 
+<ant2>AN_Date_magnificentiam_Deo</ant2>
+ 
+<ps2>AT2</ps2>
+ 
+<ant3>AN_Quam_admirabile_est</ant3>
+ 
+<ps3>ps8</ps3>
+ 
+<LB_matin>LB_Rom_12_14-16a</LB_matin> 
+ 
+<RB_matin>RB_Exsultabunt_labia_mea_Cum</RB_matin>  
+<benedictus>AN_Dirige_Domine_pedes</benedictus> 
+<laudes_preces>perannum_27</laudes_preces><oratio_laudes>COL_Laudent_te_Domine_ora_nostra_laudet</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Caelum_et_terra</ant4>
+ 
+<ps4>ps118XI</ps4>
+ 
+<ant5>AN_Tu_Domine_spes</ant5>
+ 
+<ps5>ps60</ps5>
+ 
+<ant6>AN_A_timore_inimici</ant6>
+ 
+<ps6>ps63</ps6>
+ 
+<LB_3>LB_Deut_8_5b-6</LB_3>
+ 
+<RB_3>VERS_Timor_Domini</RB_3>
+ 
+<LB_6>LB_1_Reg_2_2b-3</LB_6>
+ 
+<RB_6>VERS_Deduc_me</RB_6>
+ 
+<LB_9>LB_Ier_6_16</LB_9>
+ 
+<RB_9>VERS_Hereditas_mea</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica VII per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_A_solis_ortu</ant7>
+ 
+<ps7>ps112</ps7>
+ 
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+ 
+<ps8>ps115</ps8>
+ 
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Hebr_13_20-21</LB_soir>
+ 
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+ 
+<magnificat>AN_Diligite_inimicos_vestros</magnificat>
+ 
+<vepres_preces>perannum_27</vepres_preces>
+ 
+<oratio_vepres>COL_Praesta_quaesumus_omnipotens_Deus_ut_semper</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Esto_mihi</IN>
+<IN_L>IN_L_perannum_6</IN_L>
+<COL>COL_perannum_6</COL>
+<LEC>LEC_He11,1-7</LEC>
+<PS1>GR_Tu_es_Deus</PS1>
+<PS2>AL_Cantate_Domino</PS2>
+<EV>EV_Mc9,2-13</EV>
+<OF>OF_Benedictus_es_in_labiis_meis</OF>
+<SO>SO_perannum_6</SO>
+<CO>CO_Visionem</CO>
+<CO_L>CO_L_perannum_6</CO_L>
+<PC>PC_perannum_6</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Anniversaire de la d&#xE9;dicace de l'&#xE9;glise cocath&#xE9;drale du Saint Nom de J&#xE9;sus</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule>Journ&#xE9;e mondiale du malade</intitule></journeesdediees>
+
+<biographie>
+ <intitule>Bienheureuse Marie, vierge de Lourdes </intitule>
+ <biographiecourte>Anniversaire de la 1&#xE8;re apparition de la Vierge &#xE0; la grotte de Massiabelle en 1858</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 11 f&#xE9;vrier</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de Notre-Dame de Lourdes. En 1858, trois ans apr&#xE8;s la proclamation du dogme de l&#x2019;Immacul&#xE9;e Conception, une toute jeune fille, sainte Bernadette Soubirous, contempla &#xE0; plusieurs reprises la Vierge Marie dans la grotte de Massabielle au bord du Gave, pr&#xE8;s de Lourdes, devenue d&#xE8;s lors un lieu v&#xE9;n&#xE9;r&#xE9; par des foules innombrables de fid&#xE8;les. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, sur la voie Appienne, dans le cimeti&#xE8;re qui porte son nom, en 304, sainte Sot&#xE8;re, vierge et martyre. Comme le rapporte saint Ambroise, noble par sa naissance, elle m&#xE9;prisa &#xE0; cause du Christ les consulats et les pr&#xE9;fectures de ses parents et, sous Diocl&#xE9;tien, somm&#xE9;e de sacrifier aux idoles, elle refusa et, meurtrie par les outrages r&#xE9;serv&#xE9;s aux esclaves, elle ne changea pas de visage&#xA0;; condamn&#xE9;e &#xE0; l&#x2019;&#xE9;p&#xE9;e, elle ne r&#xE9;pugna pas &#xE0; la mort. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison d&#x2019;un tr&#xE8;s grand nombre de saints martyrs, qui en Numidie, l&#x2019;an&#xA0;304, durant la pers&#xE9;cution de Diocl&#xE9;tien, furent arr&#xEA;t&#xE9;s&#xA0;; comme ils refusaient de livrer les Saintes &#xC9;critures, conform&#xE9;ment &#xE0; l&#x2019;&#xE9;dit de l&#x2019;empereur, ils furent assujettis aux plus cruels supplices et enfin mis &#xE0; mort. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Volturne en Campanie, saint Castrense, martyr.</para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; En Apulie, saint Secondin, &#xE9;v&#xEA;que.</para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ch&#xE2;teau-Landon du G&#xE2;tinais, au VIe si&#xE8;cle, le tr&#xE9;pas de saint S&#xE8;verin, que l&#x2019;on dit abb&#xE9; d&#x2019;Agaune au temps du roi Clovis. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, aupr&#xE8;s de saint Pierre, en 731, la mise au tombeau du pape saint Gr&#xE9;goire II. Dans un temps d&#xE9;sastreux, il r&#xE9;para des &#xE9;glises en ruines, d&#xE9;fendit le culte des saintes images contre l&#x2019;empereur L&#xE9;on l&#x2019;Isaurien et envoya saint Boniface annoncer l&#x2019;&#xC9;vangile en Germanie. </para><para>8. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome encore, en 824, la mise au tombeau du pape Pascal Ier, qui retira des cryptes des cimeti&#xE8;res les corps d&#x2019;un grand nombre de saints martyrs, qu&#x2019;il voulut transf&#xE9;rer par s&#xE9;curit&#xE9; et avec un sentiment de v&#xE9;n&#xE9;ration, pour les placer avec honneur dans les diverses &#xE9;glises de la ville. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tournus en Bourgogne, l&#x2019;an&#xA0;1050, saint Ardaing, abb&#xE9;.</para><para>10. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Chihuahua au Mexique, en 1927, saint Pierre Maldonado, pr&#xEA;tre et martyr. Quand s&#xE9;vit la pers&#xE9;cution, il fut arr&#xEA;t&#xE9; alors qu&#x2019;il s&#x2019;adonnait au minist&#xE8;re de la p&#xE9;nitence et, cruellement tortur&#xE9;, m&#xE9;rita d&#x2019;obtenir le triomphe. </para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Vinaroz en Castille, l&#x2019;an&#xA0;1937, le bienheureux Tobie (Fran&#xE7;ois Borras Romeu), religieux de l&#x2019;Ordre hospitalier de Saint Jean de Dieu et martyr. Dans la pers&#xE9;cution religieuse d&#xE9;cha&#xEE;n&#xE9;e au cours de la guerre civile espagnole, il fut mis &#xE0; mort en haine de la foi. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<liturgia>
+	<LEC_II>
+		<B id="2Co5,6-10"/>
+		<C id="Ga2,16.19-21"/>
+		</LEC_II>
+		
+		<EV>
+			<B id="Mc4,26-34"/>
+			<C id="Lc7,36-8,3"/>
+			</EV>
+			<LEC>
+				<B id="Ez17,22-24"/>
+				<C id="2R12,7-10.13"/>
+			</LEC>
+			
+			<annoA>
+				<IN id="IN_Exaudi_Domine_adiutor"/>
+				<PS1 id="GR_Protector_noster"/>
+				<PS2 id="AL_Domine_in_virtute_tua"/>
+				<SEQ id=""/>
+				<OF id="OF_Benedicam_Dominum"/>
+				<CO id="CO_Unam_petii"/>
+				<autre1 id=""/>
+				<autre2 id=""/>
+				<autre3 id=""/>
+				<autre4 id=""/>
+				<autre5 id=""/>
+				<autre6 id=""/>
+				<autre7 id=""/>
+				<autre8 id=""/>
+				</annoA>
+				
+				<annoB>
+					<IN id="IN_Exaudi_Domine_adiutor"/>
+					<PS1 id="GR_Protector_noster"/>
+					<PS2 id="AL_Domine_in_virtute_tua"/>
+					<SEQ id=""/>
+					<OF id="OF_Benedicam_Dominum"/>
+					<CO id="CO_Unam_petii"/>
+					<autre1 id=""/>
+					<autre2 id=""/>
+					<autre3 id=""/>
+					<autre4 id=""/>
+					<autre5 id=""/>
+					<autre6 id=""/>
+					<autre7 id=""/>
+					<autre8 id=""/>
+					</annoB>
+					
+					<annoC>
+						<IN id="IN_Exaudi_Domine_adiutor"/>
+						<PS1 id="GR_Protector_noster"/>
+						<PS2 id="AL_Domine_in_virtute_tua"/>
+						<SEQ id=""/><OF id="OF_Benedicam_Dominum"/>
+						<CO id="CO_Unam_petii"/><autre1 id=""/>
+						<autre2 id=""/><autre3 id=""/>
+						<autre4 id=""/><autre5 id=""/>
+						<autre6 id=""/><autre7 id=""/>
+						<autre8 id=""/></annoC>
+						<collecte_temporal id="COL_Deus_in_te_sperantium_fortitudo_invocationibus"/>
+					<messe><IN id="IN_Exaudi_Domine_adiutor"/><COL id="COL_perannum_11"/><PS1 id="GR_Protector_noster"/><PS2 id="AL_Domine_in_virtute_tua"/><EV id="EV_            "><A id="EV_Mt9,36-10,8"/><B id="EV_Mc4,26-34"/><C id="EV_Lc7,36-8,3.36-50"/></EV><OF id="OF_Benedicam_Dominum"/><SO id="SO_perannum_11"/><CO id="CO_Unam_petii"/><PC id="PC_perannum_11"/><PR><A id="PR_Ps100,1"/><B id="PR_Ps92,2"/><C id="PR_Ps32,1"/></PR><LEC2><A id="LEC_Rm5,6-11"/><B id="LEC_2Co5,6-10"/><C id="LEC_Ga2,16.19-21"/></LEC2><LEC><B id="LEC_Ez17,22-24"/><C id="LEC_2S12,7-10.13"/><A id="LEC_Jr20,10-13"/></LEC><IN_L id="IN_L_perannum_11"/><CO_L id="CO_L_perannum_11"/></messe></liturgia>

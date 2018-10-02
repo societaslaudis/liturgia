@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>1</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus passionis</la><fr>Temps de la Passion</fr></tempus>
+<hebdomada><la>Sacrum Triduum Paschale</la><fr>Triduum pascal sacr&#xE9;</fr></hebdomada>
+<intitule><la>Feria V hebdomadae sanctae</la><fr>Jeudi de la semaine sainte</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Introite_in_conspectu</invitatoire>
+
+<HYMNUS_lectures>hy_Ales_diei_nuntius</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Amoris_sensus_erige</HYMNUS_lec_jour>
+
+<antL1>AN_Salvasti_nos_Domine</antL1>
+
+<psL1>ps43I</psL1>
+
+<antL2>AN_Parce_Domine_et</antL2>
+
+<psL2>ps43II</psL2>
+
+<antL3>AN_Exsurge_Domine_et</antL3>
+
+<psL3>ps43III</psL3>
+
+<LVers>VERS_Domine_ad</LVers>
+n<Llec1>L1_Feria_V_hebdomadae_sanctae</Llec1>
+
+<Lrep1>R1_Feria_V_hebdomadae_sanctae</Lrep1>
+
+<Llec2>L2_Feria_V_hebdomadae_sanctae</Llec2>
+
+<Lrep2>R2_Feria_V_hebdomadae_sanctae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>HS_5-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>HS_5-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_En_acetum_fel_arundo</HYMNUS_laudes>
+ 
+<ant1>AN_Vide_Domine_et</ant1>
+ 
+<ps1>ps79</ps1>
+ 
+<ant2>AN_Ecce_Deus_salvator</ant2>
+ 
+<ps2>AT19</ps2>
+ 
+<ant3>AN_Cibavit_nos_Dominus</ant3>
+ 
+<ps3>ps80</ps3>
+ 
+<LB_matin>LB_Hebr_2_9b-10</LB_matin> 
+ 
+<RB_matin>RB_Redemisti_nos_Domine_In</RB_matin>  
+<benedictus>AN_Desiderio_desideravi_hoc</benedictus> 
+<laudes_preces>perannum_25</laudes_preces><oratio_laudes>COL_Deus_quem_diligere_et_amare_iustitia</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Celsae_salutis_gaudia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Celsae_salutis_gaudia</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Celsae_salutis_gaudia</HYMNUS_9>
+ 
+ 
+<ant4>AN_Ante_diem_festum</ant4>
+ 
+<ps4>ps118IX</ps4>
+ 
+<ant5>AN_Sicut_novit_me</ant5>
+ 
+<ps5>ps55</ps5>
+ 
+<ant6>AN_Mihi_vivere_Christus</ant6>
+ 
+<ps6>ps56</ps6>
+ 
+<LB_3>LB_Hebr_4_14-15</LB_3>
+ 
+<RB_3>VERS_Oblatus_est_quia_ipse_voluit</RB_3>
+ 
+<LB_6>LB_Hebr_7_26-27</LB_6>
+ 
+<RB_6>VERS_Vere_languores_nostros_ipse_tulit</RB_6>
+ 
+<LB_9>LB_Hebr_9_11-12</LB_9>
+ 
+<RB_9>VERS_Adoremus_crucis_signaculum_Per</RB_9>
+ 
+<oratio_3>COL_Deus_quem_diligere_et_amare_iustitia</oratio_3>
+ 
+<oratio_6>COL_Deus_quem_diligere_et_amare_iustitia</oratio_6>
+ 
+<oratio_9>COL_Deus_quem_diligere_et_amare_iustitia</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_O_memoriale_mortis_Domini</HYMNUS_vepres>
+ 
+<ant7>AN_Fecit_nos_Deo</ant7>
+ 
+<ps7>ps71I</ps7>
+ 
+<ant8>AN_Liberabit_Dominus_pauperem</ant8>
+ 
+<ps8>ps71II</ps8>
+ 
+<ant9>AN_Sancti_vicerunt_propter</ant9>
+ 
+<ps9>NT10</ps9>
+ 
+<LB_soir>LB_Hebr_13_12-15</LB_soir>
+ 
+<RB_soir>RB_Christus_factus_est_pro_nobis</RB_soir>
+ 
+<magnificat>AN_Cenantibus_illis_accepit</magnificat>
+ 
+<vepres_preces>perannum_25</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_ad_gloriam_tuam_et</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Caro_mea</comp_ant1>
+ 
+<comp_ps1>ps15</comp_ps1> 
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+ 
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>Ad missam chrismatis
+</Intitule_messe>
+<IN>IN_Dilexisti</IN>
+<LEC>LEC_Is61,1-9</LEC>
+<PR>PR_Ps89,20</PR>
+<PS1>GR_Inveni_David</PS1><LEC2>LEC_Ap1,5-8</LEC2>
+<PS2>TR_Confitemini</PS2>
+<EV>EV_Lc4,16-21</EV>
+<OF>HY_O_Redemptor</OF>
+<CO>CO_Dilexisti_iustitiam</CO>
+</messe>
+<messe>
+<Intitule_messe>Ad missam vespertinam in Coena Domini
+</Intitule_messe>
+<IN>IN_Nos_autem_gloriari</IN>
+<LEC>LEC_Ex12,1-14</LEC>
+<PR>PR_Ps116,12</PR>
+<PS1>GR_Oculi_omnium</PS1><LEC2>LEC_1Co11,23-26</LEC2>
+<PS2>TR_Ab_ortu_solis</PS2>
+<EV>EV_Jn13,1-15</EV>
+<OF>OF_Ubi_caritas</OF>
+<CO>CO_Hoc_corpus</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bse Marie de l'Incarnation</intitule>
+ <biographiecourte>Madame Acarie, m&#xE8;re de famille, esprit des plus brillants, religieuse (&#x2020;1618)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Jeudi de la Semaine Sainte</para><para>La C&#xE8;ne du Seigneur, lorsque le Christ J&#xE9;sus, avant Son crucifiement pour notre salut, institua la c&#xE9;l&#xE9;bration des myst&#xE8;res du Corps et du Sang &#xE0; Ses disciples.</para><para>
+            Le 18 avril</para><para>1. &#xC0; M&#xE9;lit&#xE8;ne en Arm&#xE9;nie, les saints martyrs Hermog&#xE8;ne et Elpide. </para><para>2. En Perse, l&#x2019;an&#xA0;341, saint Pusice, martyr. Surintendant des ouvriers du roi Sapor II, parce qu&#x2019;il avait relev&#xE9; le courage du pr&#xEA;tre Ananie qui tremblait, il eut lui-m&#xEA;me, sur l&#x2019;ordre du roi, le cou perc&#xE9; et la langue arrach&#xE9;e, et p&#xE9;rit de ce supplice cruel le Samedi saint, lendemain de la mort de saint Sim&#xE9;on. </para><para>3*. Comm&#xE9;moraison de saint Eus&#xE8;be, &#xE9;v&#xEA;que de Fano dans les Marches, qui accompagna le pape saint Jean Ier envoy&#xE9; &#xE0; Constantinople par le roi Th&#xE9;odoric, et, au retour, fut emprisonn&#xE9; &#xE0; Ravenne comme lui, et y mourut vers 526. </para><para>4*. &#xC0; Leighlin en Irlande, l&#x2019;an&#xA0;639, saint Las&#xE9;rian ou Molaise, qui fit accepter pacifiquement dans l&#x2019;&#xEE;le la mani&#xE8;re romaine de calculer la date de P&#xE2;ques. </para><para>5. Au monast&#xE8;re de Lobbes dans le Hainaut, en 713, saint Ursmer, &#xE9;v&#xEA;que et abb&#xE9;, qui propagea la R&#xE8;gle de saint Beno&#xEE;t et amena &#xE0; la foi chr&#xE9;tienne les habitants de la Thi&#xE9;rache. </para><para>6. &#xC0; Constantinople, en 811, sainte Anthuse, vierge. Fille de l&#x2019;empereur Constantin Copronyme, elle apporta tous ses soins &#xE0; aider les pauvres, &#xE0; racheter les esclaves, &#xE0; r&#xE9;parer les &#xE9;glises, &#xE0; construire des monast&#xE8;res, et re&#xE7;ut elle-m&#xEA;me, des mains de l&#x2019;&#xE9;v&#xEA;que saint Taraise, le voile des vierges. </para><para>7. Dans l&#x2019;&#xEE;le d&#x2019;&#xC9;gine en Gr&#xE8;ce, au IXe si&#xE8;cle, sainte Athanasie, qui fut deux fois veuve, puis higoum&#xE8;ne, c&#xE9;l&#xE8;bre par sa fid&#xE9;lit&#xE9; aux observances monastiques et par ses vertus. </para><para>8. &#xC0; Constantinople, apr&#xE8;s 842, saint Jean l&#x2019;Isaurien, moine. Disciple de saint Gr&#xE9;goire le D&#xE9;capolite et ami de saint Joseph l&#x2019;Hymnographe, il fut un champion de la d&#xE9;fense des saintes images sous l&#x2019;empereur L&#xE9;on l&#x2019;Arm&#xE9;nien. </para><para>9. &#xC0; Cordoue en Andalousie, l&#x2019;an&#xA0;850, saint Parfait, moine et martyr. Parce qu&#x2019;il s&#x2019;en &#xE9;tait pris &#xE0; la doctrine de Mahomet et avait confess&#xE9; fermement sa foi dans le Christ Fils de Dieu, il fut mis en prison par les Maures et ensuite tu&#xE9; d&#x2019;un coup d&#x2019;&#xE9;p&#xE9;e. </para><para>10*. &#xC0; Bruges dans les Flandres, en 1167, le bienheureux Idesbald, abb&#xE9;. Il v&#xE9;cut d&#x2019;abord dans le monde, et devenu bient&#xF4;t veuf, il s&#x2019;acquitta pendant trente ans de diverses fonctions &#xE0; la cour des comtes, puis, &#xE0; l&#x2019;&#xE2;ge m&#xFB;r, il entra au monast&#xE8;re de Dune, dont il fut le troisi&#xE8;me abb&#xE9; et qu&#x2019;il gouverna saintement. </para><para>11. &#xC0; Milan, en 1176, saint Galdin, &#xE9;v&#xEA;que, qui s&#x2019;employa &#xE0; restaurer la cit&#xE9; d&#xE9;truite &#xE0; cause des guerres de l&#x2019;empire et rendit son &#xE2;me &#xE0; Dieu en achevant de pr&#xEA;cher un sermon contre les h&#xE9;r&#xE9;tiques. </para><para>12*. &#xC0; Monte Reale dans les Abruzzes, en 1479, le bienheureux Andr&#xE9;, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin, qui se d&#xE9;pensa a pr&#xEA;cher en Italie et en France.</para><para>13*. &#xC0; Gandie, dans la r&#xE9;gion de Valence en Espagne, l&#x2019;an&#xA0;1602, le bienheureux Andr&#xE9; Hibernon, religieux de l&#x2019;Ordre des Mineurs. D&#xE9;valis&#xE9; par des voleurs quand il avait vingt ans, &#xE0; partir de l&#xE0;, il pratiqua de mani&#xE8;re admirable la pauvret&#xE9;. </para><para>14*. &#xC0; Pontoise, en 1618, la bienheureuse Marie de l&#x2019;Incarnation (Barbe Avrillot). &#xC9;pouse de Pierre Acarie, m&#xE8;re de famille exp&#xE9;riment&#xE9;e, femme tr&#xE8;s pieuse, elle introduisit en France la branche f&#xE9;minine du Carmel r&#xE9;form&#xE9; par sainte Th&#xE9;r&#xE8;se en fondant cinq monast&#xE8;res et, &#xE0; la mort de son mari, elle-m&#xEA;me fit profession de vie monastique dans le carmel d&#x2019;Amiens, puis fut assign&#xE9;e &#xE0; celui de Pontoise, o&#xF9; elle finit ses jours. </para><para>15*. &#xC0; Angers, en 1794, le bienheureux Joseph Moreau, pr&#xEA;tre et martyr, qui durant la R&#xE9;volution fran&#xE7;aise, fut guillotin&#xE9; en haine de la foi chr&#xE9;tienne, le vendredi de la Passion du Seigneur.</para><para>16*. &#xC0; Sienne en Toscane, l&#x2019;an&#xA0;1923, la bienheureuse Sabine Petrilli, vierge, qui fonda la Congr&#xE9;gation des S&#x153;urs de Sainte-Catherine de Sienne, pour subvenir aux besoins des jeunes filles pauvres. </para><para>17*. &#xC0; Majdanek, pr&#xE8;s de Lublin en Pologne, l&#x2019;an&#xA0;1943, le bienheureux Romain Archutowski, pr&#xEA;tre de Varsovie et martyr. Jet&#xE9; en prison par des soldats du r&#xE9;gime nazi d&#x2019;occupation, &#xE0; cause de son sacerdoce, il y souffrit les s&#xE9;vices, la faim, la maladie et succomba le dimanche des Rameaux. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

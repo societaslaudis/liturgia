@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada III Paschae</la><fr>III&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la>S. Athanasii, episcopi et Ecclesiae doctoris</la><fr>St Athanase, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr></intitule>
+<rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Fontem_sapientiae_Dominum</invitatoire>
+
+<HYMNUS_lectures>hy_Consors_paterni_luminis</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
+
+<antL1>AN_Exsurgit_Deus_et</antL1>
+
+<psL1>ps67I</psL1>
+
+<antL2>AN_Deus_noster_Deus</antL2>
+
+<psL2>ps67II</psL2>
+
+<antL3>AN_Regna_terrae_cantate</antL3>
+
+<psL3>ps67III</psL3>
+
+<LVers>VERS_Audiam_quid</LVers>
+n<Llec1>L1_S._Athanasii_episcopi_et_Ecclesiae_doctoris</Llec1>
+
+<Lrep1>R1_S._Athanasii_episcopi_et_Ecclesiae_doctoris</Lrep1>
+
+<Llec2>L2_S._Athanasii_episcopi_et_Ecclesiae_doctoris</Llec2>
+
+<Lrep2>R2_S._Athanasii_episcopi_et_Ecclesiae_doctoris</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Inclitus_rector_pater_atque_prudens</HYMNUS_laudes>
+ 
+<ant1>AN_Deus_tu_conversus</ant1>
+ 
+<ps1>ps84</ps1>
+ 
+<ant2>AN_Speravimus_in_Domino;</ant2>
+ 
+<ps2>AT20</ps2>
+ 
+<ant3>AN_Terra_dedit_fructum</ant3>
+ 
+<ps3>ps66</ps3>
+ 
+<LB_matin>LB_Hebr_13_7-9a</LB_matin> 
+ 
+<RB_matin>RB_Super_te_Ierusalem_constitui_custodes</RB_matin>  
+<benedictus>AN_Non_vos_estis</benedictus> 
+<laudes_preces>perannum_33</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_beatum_Athanasium</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps118XIII</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps73I</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps73II</ps6>
+ 
+<LB_3>LB_Act_4_11-12</LB_3>
+ 
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+ 
+<LB_6>LB_1_Petr_3_21-22a</LB_6>
+ 
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+ 
+<LB_9>LB_Col_3_1-2</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3>COL_Deus_qui_renatis_ex_aqua_et</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_renatis_ex_aqua_et</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_renatis_ex_aqua_et</oratio_9>
+ 
+<intitule_soir><la>S. ATHANASII, EPISCOPI ET ECCLESI&#xC6; DOCTORIS</la></intitule_soir>
+ 
+<rang_soir><la>Memoria</la></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Vir_celse_forma_fulgida</HYMNUS_vepres>
+ 
+<ant7>AN_Pax_vobis_ego</ant7>
+ 
+<ps7>ps124</ps7>
+ 
+<ant8>AN_Speret_Israel_in</ant8>
+ 
+<ps8>ps130</ps8>
+ 
+<ant9>AN_Tibi_serviat_omnis</ant9>
+ 
+<ps9>NT9</ps9>
+ 
+<LB_soir>LB_1_Petr_5_1-4</LB_soir>
+ 
+<RB_soir>RB_Hic_est_fratrum_amator_qui</RB_soir>
+ 
+<magnificat>AN_Iste_est_fidelis</magnificat>
+ 
+<vepres_preces>perannum_33</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_beatum_Athanasium</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_non_abscondas_faciem</comp_ant1>
+ 
+<comp_ps1>ps142</comp_ps1> 
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+ 
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Iubilate_Deo</IN>
+<LEC>LEC_Ac7,51-8,1</LEC>
+<PS1>AL_In_te_Domine_speravi</PS1>
+<PS2/>
+<EV>EV_Jn6,30-35</EV>
+<OF>OF_Lauda_anima_mea</OF>
+<CO>CO_Video_caelos_apertos</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Athanase, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que d'Alexandrie, d&#xE9;fenseur de la foi, docteur de l&#x2019;&#xC9;glise, il lutta toute sa vie contre les ariens (&#x2020;373)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 2 mai</para><para>1. M&#xE9;moire de saint Athanase, &#xE9;v&#xEA;que et docteur de l&#x2019;&#xC9;glise. Homme tr&#xE8;s &#xE9;minent en saintet&#xE9; et en doctrine, plac&#xE9; sur le si&#xE8;ge d&#x2019;Alexandrie, il d&#xE9;fendit la foi orthodoxe avec une vigueur intr&#xE9;pide, depuis le temps de Constantin jusqu&#x2019;&#xE0; celui de Valens, contre les empereurs, les gouverneurs de province, contre un nombre infini d&#x2019;&#xE9;v&#xEA;ques ariens, qui lui tendirent toutes sortes de pi&#xE8;ges et le forc&#xE8;rent plusieurs fois &#xE0; l&#x2019;exil&#xA0;; enfin, apr&#xE8;s bien des combats et des triomphes qu&#x2019;il remporta par sa patience, il rentra dans son &#xC9;glise et s&#x2019;endormit dans la paix du Christ la quarante-neuvi&#xE8;me ann&#xE9;e de son &#xE9;piscopat, en 373. </para><para>2. &#xC0; Attalia en Pamphylie, au IIe si&#xE8;cle, les saints martyrs Hesper et Zo&#xE9;, &#xE9;poux, et leurs enfants Cyriaque et Th&#xE9;odule. Sous l&#x2019;empereur Adrien, dit-on, ils &#xE9;taient au service d&#x2019;un pa&#xEF;en, mais, pour avoir profess&#xE9; ouvertement la foi chr&#xE9;tienne, ils furent, par ordre de leur ma&#xEE;tre, d&#x2019;abord flagell&#xE9;s et cruellement tortur&#xE9;s, puis jet&#xE9;s dans une fournaise ardente o&#xF9; ils rendirent leurs &#xE2;mes &#xE0; Dieu. </para><para>3. &#xC0; S&#xE9;ville en Espagne, au IVe si&#xE8;cle, saint F&#xE9;lix, diacre et martyr. </para><para>4. Comm&#xE9;moraison des saints &#xE9;v&#xEA;ques et martyrs Vind&#xE9;mial, de Capsa en Numidie, et Longin, de Pamaria en Maur&#xE9;tanie, qui combattirent les ariens au Concile de Carthage et en 483, sur l&#x2019;ordre d&#x2019;Hun&#xE9;ric, roi des Vandales, furent d&#xE9;capit&#xE9;s. </para><para>5*. &#xC0; Luxeuil en Bourgogne, vers&#xA0;665, saint Gaubert (Waldebert), abb&#xE9;. De soldat, il se fit moine sous la direction de saint Eustase, &#xE0; qui il succ&#xE9;da, et au cours des quarante ann&#xE9;es de sa charge, il introduisit doucement dans son monast&#xE8;re la R&#xE8;gle de saint Beno&#xEE;t. </para><para>6*. &#xC0; Saint-Gall en Suisse, l&#x2019;an&#xA0;926, sainte Wiborade, vierge et martyre, qui, recluse dans une cellule attenant &#xE0; l&#x2019;&#xE9;glise de Saint-Magne, prit soin du peuple et, lors d&#x2019;une invasion des Hongrois, fut bless&#xE9;e &#xE0; mort par eux pour sa foi et son v&#x153;u religieux. </para><para>7*. &#xC0; Link&#xF6;ping en Su&#xE8;de, l&#x2019;an&#xA0;1391, le bienheureux Nicolas Hermansson, &#xE9;v&#xEA;que, qui, s&#xE9;v&#xE8;re pour lui-m&#xEA;me, se d&#xE9;voua tout entier &#xE0; son &#xC9;glise et aux pauvres, et re&#xE7;ut avec honneur les reliques de sainte Brigitte. </para><para>8. &#xC0; Florence en Toscane, l&#x2019;an&#xA0;1459, saint Antonin, &#xE9;v&#xEA;que. Apr&#xE8;s avoir travaill&#xE9; &#xE0; la r&#xE9;forme de l&#x2019;Ordre des Pr&#xEA;cheurs, il se d&#xE9;voua &#xE0; sa charge pastorale avec vigilance et se distingua par sa saintet&#xE9;, l&#x2019;ordre et l&#x2019;utilit&#xE9; de sa Somme de th&#xE9;ologie morale. </para><para>9*. &#xC0; Cloyne en Irlande, l&#x2019;an&#xA0;1654, le bienheureux Guillaume Tirry, pr&#xEA;tre de l&#x2019;Ordre des Fr&#xE8;res de Saint-Augustin et martyr, sous le protectorat d&#x2019;Olivier Cromwell, &#xE0; cause de sa fid&#xE9;lit&#xE9; &#xE0; l&#x2019;&#xC9;glise romaine. </para><para>10. &#xC0; Vinh Long en Cochinchine, l&#x2019;an&#xA0;1854, saint Joseph Nguyen Van Luu, martyr. Paysan et cat&#xE9;chiste, il se livra spontan&#xE9;ment &#xE0; la place du pr&#xEA;tre Luu qui &#xE9;tait recherch&#xE9;, et il mourut en prison, sous l&#x2019;empereur Tu Duc. </para><para>11. &#xC0; Aranjuez en Nouvelle Castille, l&#x2019;an&#xA0;1929, saint Joseph-Marie Rubio Peralta, pr&#xEA;tre de la Compagnie de J&#xE9;sus. Apr&#xE8;s avoir &#xE9;t&#xE9; cur&#xE9; de paroisse, il fut un pr&#xE9;dicateur r&#xE9;put&#xE9; et un confesseur recherch&#xE9;, en m&#xEA;me temps qu&#x2019;un ap&#xF4;tre engag&#xE9; socialement dans les faubourgs pauvres de Madrid.</para><para>12*. Au camp de concentration d&#x2019;Auschwitz (Oswiecim), pr&#xE8;s de Cracovie en Pologne, l&#x2019;an&#xA0;1941, le bienheureux Boleslas Strzelecki, pr&#xEA;tre de Sandomierz et martyr. Pendant la Seconde Guerre mondiale, cur&#xE9; &#xE0; Redom Glinice, il fut arr&#xEA;t&#xE9; par des soldats du r&#xE9;gime nazi, intern&#xE9; en raison de sa foi, et r&#xE9;duit &#xE0; la mort par les s&#xE9;vices subis. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

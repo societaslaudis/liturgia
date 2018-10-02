@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>9</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Adventus</la><fr>Temps de l'Avent</fr></tempus>
+<hebdomada><la>Hebdomada III Adventus</la><fr>III&#xE8;me semaine de l'Avent</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Prope_est_iam</invitatoire>
+
+<HYMNUS_lectures>hy_Consors_paterni_luminis</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
+
+<antL1>AN_Exsurgit_Deus_et</antL1>
+
+<psL1>ps67I</psL1>
+
+<antL2>AN_Deus_noster_Deus</antL2>
+
+<psL2>ps67II</psL2>
+
+<antL3>AN_Regna_terrae_cantate</antL3>
+
+<psL3>ps67III</psL3>
+
+<LVers>VERS_Audiam_quid</LVers>
+
+<osb_vig_ant_attente id=""/>
+
+<osb_vig_ps_attente id=""/>
+
+<Llec1>L1_adventus_33</Llec1>
+
+<Lrep1>R1_adventus_33</Lrep1>
+
+<Llec2>L2_adventus_33</Llec2>
+
+<Lrep2>R2_adventus_33</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Magnis_prophetae_vocibus</HYMNUS_laudes>
+ 
+<ant1>AN_Egredietur_Dominus_de</ant1>
+ 
+<ps1>ps84</ps1>
+ 
+<ant2>AN_Urbs_fortitudinis_nostrae</ant2>
+ 
+<ps2>AT20</ps2>
+ 
+<ant3>AN_Ut_cognoscamus_Domine</ant3>
+ 
+<ps3>ps66</ps3>
+ 
+<LB_matin>LB_Is_2_3</LB_matin> 
+ 
+<RB_matin>RB_Super_te_Ierusalem_Orietur</RB_matin>  
+<benedictus>AN_Orietur_sicut_sol</benedictus> 
+<laudes_preces>perannum_33</laudes_preces><oratio_laudes>COL_Deus_qui_splendorem_gloriae_tuae_per</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Prophetae_praedicaverunt_nasci</ant4>
+ 
+<ps4>ps118XIII</ps4>
+ 
+<ant5>AN_Gabriel_angelus_locutus</ant5>
+ 
+<ps5>ps73I</ps5>
+ 
+<ant6>AN_Maria_dixit_Qualis</ant6>
+ 
+<ps6>ps73II</ps6>
+ 
+<LB_3>LB_Cf._Is_10_20-21</LB_3>
+ 
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+ 
+<LB_6>LB_Cf._Is_10_24._27</LB_6>
+ 
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+ 
+<LB_9>LB_Cf._Is_13_22_-14_1</LB_9>
+ 
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super </oratio_6>
+ 
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Verbum_salutis_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_Egredietur_Dominus_de</ant7>
+ 
+<ps7>ps124</ps7>
+ 
+<ant8>AN_Urbs_fortitudinis_nostrae</ant8>
+ 
+<ps8>ps130</ps8>
+ 
+<ant9>AN_Ut_cognoscamus_Domine</ant9>
+ 
+<ps9>NT9</ps9>
+ 
+<LB_soir>LB_Phil_3_20b-21</LB_soir>
+ 
+<RB_soir>RB_Veni_ad_liberandum_nos_</RB_soir>
+ 
+<magnificat>AN_O_radix_Iesse</magnificat>
+ 
+<vepres_preces>perannum_33</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_splendorem_gloriae_tuae_per</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_non_abscondas_faciem</comp_ant1>
+ 
+<comp_ps1>ps142</comp_ps1> 
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+ 
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Veni_et_ostende_nobis</IN>
+<LEC>LEC_Jg13,2-7</LEC>
+<PR>PR_Ps71,1</PR>
+<PS1>GR_A_summo_caleo</PS1>
+<EV>EV_Lc1,5-25</EV>
+<OF>OF_Exsulta_satis</OF>
+<CO>CO_Exsultavit_ut_gigas</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx  Urbain V, pape</intitule>
+ <biographiecourte>Un des sept papes d'Avignon, il ramena le si&#xE8;ge de la papaut&#xE9; &#xE0; Rome (&#x2020;1370)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 19 d&#xE9;cembre</para><para>1. &#xC0; Rome, au cimeti&#xE8;re de Pontien sur la voie de Porto, en 401, la mise au tombeau de saint Anastase Ier, pape, homme de tr&#xE8;s riche pauvret&#xE9;, dit saint J&#xE9;r&#xF4;me, et d&#x2019;ardeur apostolique, qui, dans un bref pontificat, s&#x2019;opposa fermement aux doctrines h&#xE9;r&#xE9;tiques. </para><para>2. &#xC0; Auxerre, au VIe si&#xE8;cle, saint Gr&#xE9;goire, &#xE9;v&#xEA;que. </para><para>3*. Dans la chartreuse de Casotto dans la Pi&#xE9;mont, en 1205, le bienheureux Guillaume de Fenoglio, religieux, qui avait auparavant v&#xE9;cu en ermite sur une montagne du voisinage. </para><para>4*. &#xC0; Avignon, en 1370, le bienheureux Urbain V, pape, qui &#xE9;tait abb&#xE9; de Saint-Victor de Marseille quand il fut &#xE9;lev&#xE9; sur la chaire de Pierre. Sans rien changer &#xE0; ses habitudes monastiques, il tourna aussit&#xF4;t son esprit en premier lieu vers le retour du Si&#xE8;ge apostolique &#xE0; Rome et le r&#xE9;tablissement de l&#x2019;unit&#xE9; de l&#x2019;&#xC9;glise. </para><para>5. &#xC0; Bac Ninh au Tonkin, en 1839, les saints martyrs Fran&#xE7;ois-Xavier Ha Trong M&#xE2;u, Dominique Bai Van Uy, cat&#xE9;chistes, Thomas Nguy&#xEA;n Van D&#xEA;, tailleur, Augustin Nguy&#xEA;n Van Moi et &#xC9;tienne Nguy&#xEA;n Van Vinh, agriculteurs, l&#x2019;un n&#xE9;ophyte, l&#x2019;autre encore cat&#xE9;chum&#xE8;ne. Tous ayant refus&#xE9; de pi&#xE9;tiner la croix, furent soumis &#xE0; des supplices, enfin &#xE9;trangl&#xE9;s sur l&#x2019;ordre de l&#x2019;empereur Minh Mang. </para><para>6*. &#xC0; Slonim en Pologne, l&#x2019;an&#xA0;1942, les bienheureuses martyres Marie-&#xC9;ve de la Providence (Bogomila Noiszewska) et Marie-Marthe de J&#xE9;sus (Casimira Wolowska), vierges, S&#x153;urs de l&#x2019;Immacul&#xE9;e Conception. Pendant l&#x2019;occupation nazie de la Pologne, elles furent arr&#xEA;t&#xE9;es par la Gestapo &#xE0; l&#x2019;h&#xF4;pital de cette ville, o&#xF9; elles soignaient les malades, et fusill&#xE9;es le jour m&#xEA;me sur une colline voisine, pour l&#x2019;aide apport&#xE9;e &#xE0; une famille juive. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 31 iulii</la>
+<fr>Le 31 juillet</fr>
+</jour>
+<intitule>
+<la>S. IGNATII DE LOYOLA, PRESBYTERI</la>
+<fr>S. IGNACE DE LOYOLA, PRETRE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<preces id="pastorum"/>
+<ant_invit id="INV_Mirabilem_Deum_in"/>
+<HYMNUS_laudes id="hy_Magnae_cohortis_principem"/>
+<LB_matin id="LB_Rom_12_1-2"/>
+<RB_matin id="RB_Lex_Dei_eius_In"/>
+<benedictus id="AN_Utinam_possim_cognoscere"/>
+<oratio id="COL_Deus_qui_ad_maiorem_tui_nominis"/>
+<HYMNUS_vesperas id="hy_Magnae_cohortis_principem"/>
+<LB_soir id="LB_Rom_8_28-30"/>
+<RB_soir id="RB_Iustus_Dominus_Et_iustitiam"/>
+<magnificat id="AN_Quid_prodest_homini"/>
+<messe>
+<IN id="IN_In_nomine_Iesu"/>
+<COL id="COL_Deus_qui_ad_maiorem_tui_nominis"/>
+<PS1 id="GR_Iustus_ut_palma"/>
+<PS2 id="AL_Beatus_vir_qui_suffert"/>
+<LEC id="LEC_1Cor10,31-11,1"></LEC>
+<EV id="EV_Lc14,25-33"></EV>
+<OF id="OF_Veritas_mea"/>
+<CO id="CO_Qui_meditabitur"/>
+
+<SO id="SO_S._IGNATII_DE_LOYOLA_PRESBYTERI"/>
+<PRE id="PRE_I_DE_SANCTIS"/>
+<PRE id="PRE_II_DE_SANCTIS"/>
+<PC id="PC_S._IGNATII_DE_LOYOLA_PRESBYTERI"/>
+<IN_L id="IN_L_S._IGNATII_DE_LOYOLA_PRESBYTERI"/>
+<PR id="PR_Ps33,2-3.4-5.6-7.8-9.10-11_R.9a"/>
+<PS2_L id="AL_L_Mt5,3"/>
+<CO_L id="CO_L_S._IGNATII_DE_LOYOLA_PRESBYTERI"/>
+
+ </messe>
+</liturgia>

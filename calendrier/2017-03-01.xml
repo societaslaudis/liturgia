@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>2</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Quadragesimae</la><fr>Temps du Car&#xEA;me</fr></tempus>
+<hebdomada><la>Dies post Cineres</la><fr>Jours apr&#xE8;s les Cendres</fr></hebdomada>
+<intitule><la>Feria IV Cinerum</la><fr>Mercredi des Cendres</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+
+<HYMNUS_lectures>hy_Rerum_creator_optime</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Scientiarum_Domino</HYMNUS_lec_jour>
+
+<antL1/>
+
+<psL1>ps17I</psL1>
+
+<antL2/>
+
+<psL2>ps17II</psL2>
+
+<antL3/>
+
+<psL3>ps17III</psL3>
+
+<LVers>VERS_Omnes_mirabantur</LVers>
+n<Llec1>L1_Feria_IV_Cinerum</Llec1>
+
+<Lrep1>R1_Feria_IV_Cinerum</Lrep1>
+
+<Llec2>L2_Feria_IV_Cinerum</Llec2>
+
+<Lrep2>R2_Feria_IV_Cinerum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>Feria_IV_Cinerum-NOCT1</LEC_NOCT1>
+
+<LEC_NOCT2>Feria_IV_Cinerum-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Iam_Christe_sol_iustitiae</HYMNUS_laudes>
+ 
+<ant1>AN_Tibi_soli_peccavi</ant1>
+ 
+<ps1>ps50</ps1>
+ 
+<ant2>AN_Non_nos_derelinquas;</ant2>
+ 
+<ps2>AT34</ps2>
+ 
+<ant3>AN_Servite_Domino_in</ant3>
+ 
+<ps3>ps99</ps3>
+ 
+<LB_matin>LB_Deut_7_6b._8-9</LB_matin> 
+ 
+<RB_matin>RB_Ipse_liberabit_me_De</RB_matin>  
+<benedictus>AN_Cum_facis_eleemosynam</benedictus> 
+<laudes_preces>quadragesima_04</laudes_preces><oratio_laudes>COL_Concede_nobis_Domine_praesidia_militiae_christianae</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+ 
+ 
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+ 
+<ps4>ps118II</ps4>
+ 
+<ant5>AN_Vivo_ego_dicit</ant5>
+ 
+<ps5>ps16I</ps5>
+ 
+<ant6>AN_Per_arma_iustitiae</ant6>
+ 
+<ps6>ps16II</ps6>
+ 
+<LB_3>LB_Ez_18_30b-32</LB_3>
+ 
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+ 
+<LB_6>LB_1_Tim_1_14-15</LB_6>
+ 
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+ 
+<LB_9>LB_1_Tim_1_16</LB_9>
+ 
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum</oratio_9>
+ 
+<intitule_soir><la>FERIA QUARTA CINERUM</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Iesu_quadragenariae</HYMNUS_vepres>
+ 
+<ant7>AN_Domine_probasti_me</ant7>
+ 
+<ps7>ps138I</ps7>
+ 
+<ant8>AN_Deduc_me_in</ant8>
+ 
+<ps8>ps138II</ps8>
+ 
+<ant9>AN_Candor_est_lucis</ant9>
+ 
+<ps9>NT10</ps9>
+ 
+<LB_soir>LB_Phil_2_12b-15a</LB_soir>
+ 
+<RB_soir>RB_Ego_dixi_Domine_Miserere</RB_soir>
+ 
+<magnificat>AN_Cum_facis_eleemosynam</magnificat>
+ 
+<vepres_preces>quadragesima_04</vepres_preces>
+ 
+<oratio_vepres>COL_Concede_nobis_Domine_praesidia_militiae_christianae</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+ 
+<comp_ps1>ps30</comp_ps1> 
+<comp_ant2>AN_De_profundis</comp_ant2> 
+<comp_ps2>ps129</comp_ps2> 
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+ 
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Misereris_omnium</IN>
+<LEC>LEC_Jl2,12-18</LEC>
+<PR>PR_Ps51,3</PR>
+<PS1>GR_Miserere_mei_Deus</PS1><LEC2>LEC_2Co5,20-6,2</LEC2>
+<PS2>TR_Domine_non_secundum_peccata_nostra</PS2>
+<EV>EV_Mt6,1-18</EV>
+<OF>OF_Exaltabo_te</OF>
+<PRE>PRE_Pr&#xE9;faceduCar&#xEA;me3ou4</PRE>
+<CO>CO_Qui_meditabitur</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Aubin, &#xE9;v&#xEA;que</intitule>
+ <biographiecourte>Originaire de Vannes, &#xE9;v&#xEA;que d&#x2019;Angers, d&#xE9;fenseur de la morale (&#x2020;550)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Mercredi des &#xA0;Cendres</para><para>Jour des cendres et commencement du Car&#xEA;me tr&#xE8;s sacr&#xE9;&#xA0;: voici qu&#x2019;adviennent les jours de p&#xE9;nitence pour la r&#xE9;mission des p&#xE9;ch&#xE9;s, pour le salut des &#xE2;mes&#xA0;; voici le temps favorable, au cours duquel l&#x2019;on monte &#xE0; la montagne sainte pour la P&#xE2;que.</para><para>
+            Le 1er mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, pr&#xE8;s de saint Paul sur la voie d&#x2019;Ostie, en 492, la mise au tombeau du pape saint F&#xE9;lix III, qui fut l&#x2019;a&#xEF;eul du pape saint Gr&#xE9;goire le Grand.</para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Angers, vers 550, saint Aubin, &#xE9;v&#xEA;que. D&#x2019;une grande aust&#xE9;rit&#xE9;, il stigmatisa avec &#xE9;nergie les mariages incestueux, fr&#xE9;quents chez les nobles, et promut le troisi&#xE8;me concile d&#x2019;Orl&#xE9;ans pour la r&#xE9;novation d&#x2019; l&#x2019;&#xC9;glise en Gaule.</para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; M&#xE9;n&#xE9;vie au pays de Galles, vers 601, saint David, &#xE9;v&#xEA;que. &#xC0; l&#x2019;imitation des exemples et des coutumes des P&#xE8;res orientaux, il fonda un monast&#xE8;re, d&#x2019;o&#xF9; sortirent un grand nombre de moines, qui &#xE9;vang&#xE9;lis&#xE8;rent le pays de Galles, l&#x2019;Irlande, les Cornouailles et l&#x2019;Armorique. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; Dans le Maine, vers 680, saint Siviard, abb&#xE9; d&#x2019;Anisole. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; Dans une &#xEE;le du Rhin en Saxe, l&#x2019;an&#xA0;713, saint Switbert, &#xE9;v&#xEA;que. D&#x2019;abord moine en Northumbrie d&#x2019;Angleterre, il devint le compagnon de mission de saint Willibrord, puis, ordonn&#xE9; &#xE9;v&#xEA;que par saint Wilfrid, il revint sur le continent pr&#xEA;cher l&#x2019;&#xC9;vangile aux Bataves, aux Frisons et &#xE0; d&#x2019;autres peuples germains et mourut pieusement dans le monast&#xE8;re qu&#x2019;il avait fond&#xE9; dans sa vieillesse. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; Au Pays basque, au IXe si&#xE8;cle, saint L&#xE9;on, &#xE9;v&#xEA;que et martyr. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; En Sicile, vers 900, saint L&#xE9;on Luc, abb&#xE9; de Corl&#xE9;on, qui suivit la R&#xE8;gle de saint Basile et brilla par sa vie &#xE9;r&#xE9;mitique et c&#xE9;nobitique. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; la Celle Neuve en Galice, l&#x2019;an&#xA0;977, saint Rudesinde, &#xE9;v&#xEA;que et abb&#xE9;. &#xC0; la t&#xEA;te de l&#x2019;&#xC9;glise de Dume, il eut soin de promouvoir ou de restaurer la vie monastique dans la province, puis, s&#x2019;&#xE9;tant d&#xE9;mis de sa charge &#xE9;piscopale, il prit l&#x2019;habit monastique dans le monast&#xE8;re de la Celle Neuve, dont il devint ensuite l&#x2019;abb&#xE9;. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Taggia en Ligurie, l&#x2019;an&#xA0;1484, comm&#xE9;moraison du bienheureux Christophe de Milan, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, appliqu&#xE9; au culte divin et &#xE0; la sainte th&#xE9;ologie. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; l&#x2019;abbaye de Bassano en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1670, la bienheureuse Jeanne-Marie Bonomo, abbesse de l&#x2019;Ordre de saint Beno&#xEE;t, remplie de dons mystiques, qui participa dans son &#xE2;me et dans son corps aux douleurs de la passion du Seigneur. </para><para>11. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Xilinxian dans la province chinoise de Guangxi, en 1856, sainte Agn&#xE8;s Cao Kuiying, veuve et martyre. Mari&#xE9;e d&#x2019;abord &#xE0; un paysan violent, &#xE0; la mort de celui-ci, elle se consacra, sur mandat de l&#x2019;&#xE9;v&#xEA;que, &#xE0; enseigner la doctrine chr&#xE9;tienne, ce qui lui valut d&#x2019;&#xEA;tre arr&#xEA;t&#xE9;e, condamn&#xE9;e au supplice de la cage et finalement fusill&#xE9;e.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>1</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus passionis</la><fr>Temps de la Passion</fr></tempus>
+<hebdomada><la>Sacrum Triduum Paschale</la><fr>Triduum pascal sacr&#xE9;</fr></hebdomada>
+<intitule><la>Feria VI hebdomadae sanctae</la><fr>Vendredi Saint</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Suavis_est_Dominus</invitatoire>
+
+<HYMNUS_lectures>hy_Galli_cantu_mediante</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Adesto_rerum_conditor</HYMNUS_lec_jour>
+
+<antL1>AN_Ne_in_ira</antL1>
+
+<psL1>ps37I</psL1>
+
+<antL2>AN_Domine_ante_te</antL2>
+
+<psL2>ps37II</psL2>
+
+<antL3>AN_Iniquitatem_meam_annuntiabo</antL3>
+
+<psL3>ps37III</psL3>
+
+<LVers>VERS_Oculi_mei</LVers>
+n<Llec1>L1_Feria_VI_hebdomadae_sanctae</Llec1>
+
+<Lrep1>R1_Feria_VI_hebdomadae_sanctae</Lrep1>
+
+<Llec2>L2_Feria_VI_hebdomadae_sanctae</Llec2>
+
+<Lrep2>R2_Feria_VI_hebdomadae_sanctae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>HS_6-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>HS_6-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_En_acetum_fel_arundo</HYMNUS_laudes>
+ 
+<ant1>AN_Proprio_Filio_suo</ant1>
+ 
+<ps1>ps50</ps1>
+ 
+<ant2>AN_Iesus_Christus_dilexit</ant2>
+ 
+<ps2>Canticum_Hab_3_2-4._13a._15-19</ps2>
+ 
+<ant3>AN_Crucem_tuam_adoramus</ant3>
+ 
+<ps3>ps147</ps3>
+ 
+<LB_matin>LB_Is_52_13-15</LB_matin> 
+ 
+<RB_matin>RB_Christus_factus_est_pro_nobis</RB_matin>  
+<benedictus>AN_Posuerunt_super_caput</benedictus> 
+<laudes_preces>perannum_26</laudes_preces><oratio_laudes>COL_Respice_quaesumus_Domine_super_hanc_familiam</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Salva_Redemptor_plasma_tuum_nobile</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Crux_mundi_benedictio</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Per_crucem_Christe_quaesumus</HYMNUS_9>
+ 
+ 
+<ant4>AN_Erat_hora_tertia</ant4>
+ 
+<ps4>ps118X</ps4>
+ 
+<ant5>AN_Hora_sexta_tenebrae</ant5>
+ 
+<ps5>ps58</ps5>
+ 
+<ant6>AN_Hora_nona_exclamavit</ant6>
+ 
+<ps6>ps59</ps6>
+ 
+<LB_3>LB_Is_53_2-3</LB_3>
+ 
+<RB_3>VERS_Adoramus_te_Christe_et_benedicimus</RB_3>
+ 
+<LB_6>LB_Is_53_4-5</LB_6>
+ 
+<RB_6>VERS_Memento_mei_Domine_Dum_veneris</RB_6>
+ 
+<LB_9>LB_Is_53_6-7</LB_9>
+ 
+<RB_9>VERS_Collocavit_me_in_obscuris</RB_9>
+ 
+<oratio_3>COL_Respice_quaesumus_Domine_super_hanc_familiam</oratio_3>
+ 
+<oratio_6>COL_Respice_quaesumus_Domine_super_hanc_familiam</oratio_6>
+ 
+<oratio_9>COL_Respice_quaesumus_Domine_super_hanc_familiam</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_O_memoriale_mortis_Domini</HYMNUS_vepres>
+ 
+<ant7>AN_Attendite_universi_populi</ant7>
+ 
+<ps7>ps114</ps7>
+ 
+<ant8>AN_Iesus_Christus_dilexit</ant8>
+ 
+<ps8>ps120</ps8>
+ 
+<ant9>AN_Crucem_tuam_adoramus</ant9>
+ 
+<ps9>NT11</ps9>
+ 
+<LB_soir>LB_1_Petr_2_21b-24</LB_soir>
+ 
+<RB_soir>RB_Christus_factus_est_pro_nobis</RB_soir>
+ 
+<magnificat>AN_Cum_inimici_essemus</magnificat>
+ 
+<vepres_preces>perannum_26</vepres_preces>
+ 
+<oratio_vepres>COL_Respice_quaesumus_Domine_super_hanc_familiam</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_Christus_factus_est_pro_nobis</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<LEC>LEC_Is52,13-53,12</LEC>
+<PR>PR_Ps30Ps2</PR><LEC2>LEC_He4,14-5,9</LEC2>
+<EV>EV_Jn18,1-19,42</EV>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Lidwine</intitule>
+ <biographiecourte>Mystique hollandaise, elle s'unit &#xE0; la Passion du Christ (&#x2020;1433)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Vendredi Saint et Samedi Saint </para><para>La lecture du Martyrologe est supprim&#xE9;e (est omise)</para><para>
+            Le 14 avril</para><para>1. &#xC0; Rome, au cimeti&#xE8;re de Pr&#xE9;textat sur la voie Appienne, les saints martyrs Tiburce, Val&#xE9;rien et Maxime. </para><para>2. &#xC0; Antioche de Syrie, au IVe si&#xE8;cle, les saintes martyres Bernice et Prosdoc&#xE9;, vierges, avec leur m&#xE8;re Domine. Au temps de la pers&#xE9;cution, pour &#xE9;chapper &#xE0; leurs poursuivants qui en voulaient &#xE0; leur pudeur, elles cherch&#xE8;rent leur salut dans la fuite et trouv&#xE8;rent enfin leur martyre dans le fleuve.</para><para>3. Dans le d&#xE9;sert de Nitrie en &#xC9;gypte, au IVe si&#xE8;cle, saint Fronton, abb&#xE9;, qui se retira dans ce d&#xE9;sert avec environ soixante-dix compagnons. </para><para>4*. &#xC0; Elphin en Irlande, au Ve si&#xE8;cle, saint Asicus, &#xE9;v&#xEA;que, dont on dit qu&#x2019;il fut disciple de saint Patrice et premier &#xE9;v&#xEA;que de cette &#xC9;glise. </para><para>5. &#xC0; Alexandrie, en 476, sainte Thoma&#xEF;de, martyre de la chastet&#xE9;. </para><para>6*. &#xC0; Lyon, vers 688, saint Lambert, &#xE9;v&#xEA;que, qui fut auparavant moine puis abb&#xE9; de Fontenelle. </para><para>7*. &#xC0; Montemarano en Campanie, au XIe ou XIIe si&#xE8;cle, saint Jean, &#xE9;v&#xEA;que, qui, dit-on, travaillait lui-m&#xEA;me &#xE0; d&#xE9;fricher la terre pour nourrir les pauvres et montrer aux clercs un moyen de se sanctifier. </para><para>8*. Au monast&#xE8;re de Tiron pr&#xE8;s de Chartres, en 1117, saint Bernard, abb&#xE9;, qui mena d&#x2019;abord une vie d&#x2019;ermite en divers endroits, en for&#xEA;t et &#xE0; l&#x2019;&#xEE;le Chausey, mais, des disciples venant &#xE0; lui en foule, il se fixa avec eux dans la for&#xEA;t de Tiron, les forma et les conduisit &#xE0; la perfection selon l&#x2019;&#xC9;vangile. </para><para>9*. &#xC0; Avignon, en 1184, saint B&#xE9;nezet (Beno&#xEE;t), jeune berger, gr&#xE2;ce &#xE0; qui, avec l&#x2019;aide du Seigneur, fut construit sur le Rh&#xF4;ne un pont tr&#xE8;s utile aux habitants de la ville. Il mourut &#xE0; dix-neuf ans et son corps fut d&#xE9;pos&#xE9; sur le pont. </para><para>10*. &#xC0; Tuy en Galice, l&#x2019;an&#xA0;1246, le bienheureux Pierre Gonzalez, appel&#xE9; Telme par les marins, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs. Il devint aussi humble qu&#x2019;il avait recherch&#xE9; la gloire et se d&#xE9;pensa pour venir en aide aux mis&#xE9;reux, surtout aux marins et p&#xEA;cheurs. </para><para>11*. &#xC0; Schiedam en Hollande, l&#x2019;an&#xA0;1453, sainte Lidwine, vierge, qui supporta avec patience pendant presque toute sa vie les infirmit&#xE9;s corporelles pour la conversion des p&#xE9;cheurs et la lib&#xE9;ration des &#xE2;mes. </para><para>12*. &#xC0; Cuevas de Vinroma en Espagne, l&#x2019;an&#xA0;1937, la bienheureuse Isabelle Calduch Rovira, vierge, clarisse capucine et martyre, victime de la pers&#xE9;cution religieuse au cours de la guerre civile. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

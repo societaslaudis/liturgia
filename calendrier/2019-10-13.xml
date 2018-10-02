@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXVIII per annum</la><fr>XXVIII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XXVIII per annum</la><fr>XXVIII&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Populus_Domini_et</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1/>
+
+<antL2/>
+
+<psL2/>
+
+<antL3/>
+
+<psL3/>
+
+<LVers/>
+n<Llec1>L1_Dominica_XXVIII_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XXVIII_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XXVIII_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XXVIII_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Ecce_iam_noctis_tenuatur_umbra</HYMNUS_laudes>
+ 
+<ant1>AN_Confitemini_Domino_quoniam</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Alleluia_benedicite_omnia</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Omnis_spiritus_laudet</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_2_Tim_2_8._11-13</LB_matin> 
+ 
+<RB_matin>RB_Confitebimur_tibi_Deus_Et</RB_matin>  
+<benedictus>AN_Unus_ex_illis</benedictus> 
+<laudes_preces>perannum_41</laudes_preces><oratio_laudes>COL_Tua_nos_quaesumus_Domine_gratia_semper</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Qui_manducat_ex_hoc</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_Veniet_Dominus_glorificari</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Vovete_et_munera</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_1_Cor_6_19-20</LB_3>
+ 
+<RB_3>VERS_Concupiscit_et_deficit</RB_3>
+ 
+<LB_6>LB_Deut_10_12</LB_6>
+ 
+<RB_6>VERS_Domine_quis_habitabit</RB_6>
+ 
+<LB_9>LB_Cant_8_6b-7a</LB_9>
+ 
+<RB_9>VERS_Diligam te, Domine</RB_9>
+ 
+<oratio_3>COL_Tua_nos_quaesumus_Domine_gratia_semper</oratio_3>
+ 
+<oratio_6>COL_Tua_nos_quaesumus_Domine_gratia_semper</oratio_6>
+ 
+<oratio_9>COL_Tua_nos_quaesumus_Domine_gratia_semper</oratio_9>
+ 
+<intitule_soir><la>Dominica XXVIII per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_O_lux_beata_Trinitas</HYMNUS_vepres>
+ 
+<ant7>AN_In_splendoribus_sanctis</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Beati_qui_esuriunt_et</ant8>
+ 
+<ps8>ps111</ps8>
+ 
+<ant9>AN_Laudem_dicite_Deo</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Hebr_12_22-24</LB_soir>
+ 
+<RB_soir>RB_Magnus_Dominus_noster</RB_soir>
+ 
+<magnificat>AN_Non_sunt_inventi</magnificat>
+ 
+<vepres_preces>perannum_41</vepres_preces>
+ 
+<oratio_vepres>COL_Tua_nos_quaesumus_Domine_gratia_semper</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Si_iniquitates</IN>
+<IN_L>IN_L_perannum_28</IN_L>
+<COL>COL_perannum_28</COL>
+<LEC>LEC_2R5,14-17</LEC>
+<PS1>GR_Si_ambulem</PS1>
+<LEC2>LEC_2Tm2,8-13</LEC2>
+
+<PS2>AL_Qui_timent_Dominum</PS2>
+<EV>EV_Lc17,11-19</EV>
+<OF>OF_Recordare_mei</OF>
+<SO>SO_perannum_28</SO>
+<CO>CO_Aufer_a_me</CO>
+<CO_L>CO_L_perannum_28</CO_L>
+<PC>PC_perannum_28</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule>Derni&#xE8;re apparition de Notre Dame de Fatima 1917 </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Th&#xE9;ophile d'Antioche, &#xE9;v&#xEA;que</intitule>
+ <biographiecourte> &#xC9;v&#xEA;que, homme cultiv&#xE9;, &#xE9;crivain apologiste, il d&#xE9;fendit, face &#xE0; la culture pa&#xEF;enne, la doctrine chr&#xE9;tienne (&#x2020; vers 180)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 13 octobre</para><para>1. Comm&#xE9;moraison de saint Th&#xE9;ophile, &#xE9;v&#xEA;que d&#x2019;Antioche au IIe si&#xE8;cle, homme de tr&#xE8;s grande &#xE9;rudition, qui fut le sixi&#xE8;me apr&#xE8;s l&#x2019;Ap&#xF4;tre saint Pierre &#xE0; tenir le si&#xE8;ge de cette &#xC9;glise, et qui composa un ouvrage contre Marcion pour d&#xE9;fendre la foi orthodoxe. </para><para>2. &#xC0; Cordoue en Espagne, au IIIe ou IVe si&#xE8;cle, les saints Fauste, Janvier et Martial, martyrs, qui d&#xE9;cor&#xE8;rent la ville comme d&#x2019;une triple couronne. </para><para>3. &#xC0; Thessalonique en Mac&#xE9;doine, au IIIe ou IVe si&#xE8;cle, saint Florent, martyr, qui, selon la tradition, fut br&#xFB;l&#xE9; vif apr&#xE8;s diverses tortures. </para><para>4*. &#xC0; Cubrin sur la Moselle, au pays de Tr&#xE8;ves, vers 584, saint Louvent, pr&#xEA;tre, abb&#xE9; de Saint-Privat, pr&#xE8;s de Mende, sauvagement assassin&#xE9; &#xE0; cet endroit. </para><para>5*. Dans la villa Matutiana sur la c&#xF4;te ligure, au Ve si&#xE8;cle, la mise au tombeau de saint Romulus, &#xE9;v&#xEA;que de G&#xEA;nes, qui, rempli de z&#xE8;le apostolique, mourut en visitant les populations des campagnes. </para><para>6. &#xC0; Tours, au Ve si&#xE8;cle, saint Venant, abb&#xE9;. Mari&#xE9; tout jeune, il fut conduit jusqu&#x2019;&#xE0; la basilique de Saint-Martin et, touch&#xE9; par la vie des moines, choisit de vivre dans le Christ parmi eux, avec le consentement de son &#xE9;pouse. </para><para>7*. &#xC0; Salagnac dans le pays Limousin, peut-&#xEA;tre au VIe si&#xE8;cle, saint L&#xE9;obon, solitaire et missionnaire. </para><para>8*. Dans l&#x2019;&#xEE;le d&#x2019;Iona en &#xC9;cosse, au VIIIe si&#xE8;cle, saint Comgan, abb&#xE9;. Prince de Leister en Irlande, battu par des tribus voisines, il trouva refuge dans cette r&#xE9;gion avec sa s&#x153;ur et ses neveux. Il y fonda un petit monast&#xE8;re et y v&#xE9;cut en grande pi&#xE9;t&#xE9;. </para><para>9*. &#xC0; Augsbourg en Bavi&#xE8;re, vers 807, saint Simbert qui fut &#xE9;v&#xEA;que et abb&#xE9; de Morbach. </para><para>10*. En Auvergne, l&#x2019;an&#xA0;909, saint G&#xE9;raud, comte d&#x2019;Aurillac. Attentif aux indigents qu&#x2019;il invitait &#xE0; sa table et qu&#x2019;il servait lui-m&#xEA;me, habile guerrier, qui sut faire des vaincus ses amis, il v&#xE9;cut dans le monde une v&#xE9;ritable cons&#xE9;cration religieuse et accepta g&#xE9;n&#xE9;reusement la c&#xE9;cit&#xE9; qui le frappa &#xE0; la fin de sa vie. </para><para>11. Pr&#xE8;s de Subiaco dans le Latium, en 1152, sainte Ch&#xE9;lidoine, vierge, qui mena, assure-t-on, une vie solitaire tr&#xE8;s aust&#xE8;re pendant quarante-deux ans, au service de Dieu seul. </para><para>12*. &#xC0; Trino dans le Pi&#xE9;mont en 1503, la bienheureuse Madeleine Panatieri, vierge, s&#x153;ur de la P&#xE9;nitence de Saint-Dominique. </para><para>13*. &#xC0; Balasar, pr&#xE8;s de Braga au Portugal, en 1956, la bienheureuse Alexandrine-Marie da Costa. Priv&#xE9;e de l&#x2019;usage de ses membres pour fuir la volont&#xE9; mauvaise de quelqu&#x2019;un envers elle, elle offrit au Seigneur toutes ses douleurs dans la contemplation de l&#x2019;Eucharistie pour l&#x2019;amour de Dieu et de ses fr&#xE8;res indigents. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; A Coutances, en 1793, le bienheureux Pierre-Adrien Toulorge &#xA0;religieux de l'Ordre des Pr&#xE9;montr&#xE9;s, guillotin&#xE9; sous la R&#xE9;volution en haine de la foi. (b&#xE9;atifi&#xE9; le 29 avril 2012 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

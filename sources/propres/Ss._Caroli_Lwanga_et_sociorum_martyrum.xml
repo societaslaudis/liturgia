@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 3 iunii</la>
+<fr>Le 3 juin</fr>
+</jour>
+<intitule>
+<la>SS. CAROLI LWANGA ET SOCIORUM, MARTYRUM</la>
+<fr>Sts CHARLES LWANGA ET SES COMPAGNONS, MARTYRS</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_martyrum_Dominum"/>
+<HYMNUS_laudes id="hy_Aterna_Christi_munera"/>
+<LB_matin id="LB_2_Cor_1_3-5"/>
+<RB_matin id="RB_Iusti_autem_In_perpetuum"/>
+<benedictus id="AN_Beati_qui_persecutionem"/>
+
+<oratio id="COL_Deus_qui_sanguinem_martyrum_semen_christianorum"/>
+<HYMNUS_vesperas id="hy_Sanctorum_meritis_inclita_gaudia"/>
+<LB_soir id="LB_1_Petr_4_13-14"/>
+<RB_soir id="RB_Laetamini_in_Domino_Et"/>
+<magnificat id="AN_Gaudent_in_caelis"/>
+<messe>
+<EV id="EV_Mt5,1-12a"/>
+<LEC id="LEC_2Mac7,1-2.9-14"/>
+<IN id="IN_Sancti_tui"/>
+<COL id="COL_Deus_qui_sanguinem_martyrum_semen_christianorum"/>
+<PS1 id=""/>
+<PS2 id="AL_Ego_vos_elegi"/>
+<OF id="OF_Laetamini"/>
+<CO id="CO_Gaudete_iusti"/>
+</messe>
+</liturgia>

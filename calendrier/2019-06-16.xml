@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>3</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XI per annum</la><fr>XI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>SANCTISSIMAE TRINITATIS</la><fr>TRES SAINTE TRINITE</fr></intitule>
+<rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Deum_verum_unum</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_SANCTISSIMAE_TRINITATIS</Llec1>
+
+<Lrep1>R1_SANCTISSIMAE_TRINITATIS</Lrep1>
+
+<Llec2>L2_SANCTISSIMAE_TRINITATIS</Llec2>
+
+<Lrep2>R2_SANCTISSIMAE_TRINITATIS</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>SANCTISSIMAE_TRINITATIS-NOCT1</LEC_NOCT1>
+
+<LEC_NOCT2>SANCTISSIMAE_TRINITATIS-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>SANCTISSIMAE_TRINITATIS-NOCT3-C</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Trinitas_summo_solio_coruscans</HYMNUS_laudes>
+ 
+<ant1>AN_Tibi_decus_et</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Te_iure_laudant</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Ex_quo_omnia</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_1_Cor_12_4-6</LB_matin> 
+ 
+<RB_matin>RB_Tibi_laus_tibi_gloria&#xA0;_O</RB_matin>  
+<benedictus>AN_Benedicta_sit_creatrix</benedictus> 
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Deus_Pater_qui_Verbum_veritatis_et</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Te_invocamus_te</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Spes_nostra_salus</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Te_semper_idem</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_2_Cor_1_21-22</LB_3>
+ 
+<RB_3>VERS_Intrate_portas_eius_in_confessione</RB_3>
+ 
+<LB_6>LB_Cf._Gal_4_4._5-6</LB_6>
+ 
+<RB_6>VERS_O_beata_et_benedicta_et</RB_6>
+ 
+<LB_9>LB_Ap_7_12</LB_9>
+ 
+<RB_9>VERS_Benedictus_es_Domine_in_firmamento</RB_9>
+ 
+<oratio_3/>
+ 
+<oratio_6/>
+ 
+<oratio_9/>
+ 
+<intitule_soir><la>SANCTISSIMAE TRINITATIS</la></intitule_soir>
+ 
+<rang_soir><la>Sollemnitas</la></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+ 
+<ant7>AN_O_vera_summa</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Libera_nos_salva</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Sanctus_sanctus_sanctus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Eph_4_3-6</LB_soir>
+ 
+<RB_soir>RB_Benedicamus_Patrem_et_Filium_cum</RB_soir>
+ 
+<magnificat>AN_Te_Deum_Patrem</magnificat>
+ 
+<vepres_preces>perannum_31</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_Pater_qui_Verbum_veritatis_et</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	 
+<comp_ps1>ps90</comp_ps1>
+	 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Benedicta_sit</IN>
+<LEC>LEC_Pr8,22-31</LEC>
+<PS1>GR_Benedictus_es_Domine</PS1>
+<LEC2>LEC_Rm5,1-5</LEC2>
+
+<PS2>AL_Benedictus_es_Domine</PS2>
+<EV>EV_Jn16,12-15</EV>
+<OF>OF_Benedictus_sit</OF>
+<CO>CO_Benedicimus_Deum</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Jean-Fran&#xE7;ois R&#xE9;gis, pr&#xEA;tre</intitule>
+ <biographiecourte>Pr&#xEA;tre j&#xE9;suite, envoy&#xE9; en mission dans  le Velay, mort d'&#xE9;puisement et de froid &#xE0; La Louvesc (&#x2020;1640)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Dimanche de la Sainte Trinit&#xE9;</para><para>Solennit&#xE9; de la tr&#xE8;s Sainte et indivisible Trinit&#xE9;, en laquelle est v&#xE9;n&#xE9;r&#xE9;e et confess&#xE9;e un seul Dieu en trois personnes et l&#x2019;unit&#xE9; trinitaire.</para><para>
+            Le 16 juin</para><para>1. Dans la r&#xE9;gion d&#x2019;Asie mineure, les saints Cyr et Julitte, martyrs. </para><para>2. &#xC0; Besan&#xE7;on, les saints martyrs Ferr&#xE9;ol et Ferjeux. </para><para>3. &#xC0; Nantes, au IVe si&#xE8;cle, saint Similien, &#xE9;v&#xEA;que, &#xE0; qui saint Gr&#xE9;goire de Tours donne le titre de grand confesseur. </para><para>4. &#xC0; Amathonte dans l&#x2019;&#xEE;le de Chypre, au Ve si&#xE8;cle, saint Tykon, &#xE9;v&#xEA;que, au temps de l&#x2019;empereur Th&#xE9;odose le Jeune. </para><para>5. &#xC0; Mayence, au Ve si&#xE8;cle, les saints martyrs Aur&#xE9;, &#xE9;v&#xEA;que, Justine, sa s&#x153;ur, et d&#x2019;autres chr&#xE9;tiens, qui furent, dit-on, massacr&#xE9;s par les Huns, alors qu&#x2019;ils c&#xE9;l&#xE9;braient l&#x2019;Eucharistie. </para><para>6. &#xC0; Lyon, en 551, la mise au tombeau de saint Aur&#xE9;lien, &#xE9;v&#xEA;que d&#x2019;Arles. Nomm&#xE9; par le pape Vigile son vicaire en Gaule, il fonda &#xE0; Arles un monast&#xE8;re d&#x2019;hommes, et un autre de femmes, en les dotant d&#x2019;une R&#xE8;gle propre &#xE0; chacun. </para><para>7*. &#xC0; Carrare en Toscane, vers 860, le tr&#xE9;pas de saint C&#xE9;card, &#xE9;v&#xEA;que de Luni et Sarzano. Assassin&#xE9; pr&#xE8;s des carri&#xE8;res de marbre par quelques ouvriers auxquels il avait reproch&#xE9; leurs vices, il fut consid&#xE9;r&#xE9; comme martyr. </para><para>8. &#xC0; Meissen en Saxe, vers&#xA0;1106, saint Bennon, &#xE9;v&#xEA;que. Pour avoir voulu conserver l&#x2019;unit&#xE9; de l&#x2019;&#xC9;glise et la fid&#xE9;lit&#xE9; au pape saint Gr&#xE9;goire VII, il fut chass&#xE9; de son si&#xE8;ge et contraint &#xE0; l&#x2019;exil. </para><para>9. Au monast&#xE8;re des cisterciennes d&#x2019;Aywi&#xE8;res dans le Brabant, en 1246, sainte Lutgarde, vierge, remarquable par sa d&#xE9;votion envers le C&#x153;ur du Seigneur. </para><para>10*. &#xC0; Londres, en 1537, le bienheureux Thomas Reding, martyr. Moine de la Chartreuse de la ville, il demeura fermement attach&#xE9; &#xE0; l&#x2019;unit&#xE9; de l&#x2019;&#xC9;glise sous le roi Henri VIII, ce qui lui valut d&#x2019;&#xEA;tre encha&#xEE;n&#xE9; immobile dans un cachot infect, o&#xF9; il mourut de faim et de maladie. </para><para>11*. Dans la baie devant le port de Rochefort, en 1794, le bienheureux Antoine-Constant Auriel, pr&#xEA;tre et martyr. Vicaire &#xE0; Cahors &#xE0; l&#x2019;&#xE9;poque de la R&#xE9;volution fran&#xE7;aise, il fut arr&#xEA;t&#xE9; en raison de son sacerdoce et intern&#xE9; sur un bateau n&#xE9;grier, o&#xF9; il se sacrifia pour ses confr&#xE8;res dans le p&#xE9;rilleux emploi d&#x2019;infirmier. </para><para>12. Dans la ville de Lang Coc au Tonkin, en 1862, les saints martyrs Dominique Nguyen, m&#xE9;decin, Dominique Nhi, Dominique Mao, Vincent et Andr&#xE9; Tuong, paysans. Captur&#xE9;s ensemble &#xE0; cause de la foi chr&#xE9;tienne, ils subirent en prison toutes sortes de tourments et furent enfin d&#xE9;capit&#xE9;s, sous l&#x2019;empereur Tu Duc. </para><para>13*. &#xC0; Ingenbohl, pr&#xE8;s de Schwyz en Suisse, l&#x2019;an&#xA0;1888, la bienheureuse Marie-Th&#xE9;r&#xE8;se (Anne-Marie-Catherine Scherer), vierge, co-fondatrice des S&#x153;urs de la Charit&#xE9; de la Sainte-Croix.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

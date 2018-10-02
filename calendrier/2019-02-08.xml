@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada V per annum</la><fr>V&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Iosephinae Bakhita, virginis</la><fr>Ste Jos&#xE9;phine Bakhita, vierge</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Confitemini_Domino_quia</invitatoire>
+
+<HYMNUS_lectures>hy_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+
+<antL1>AN_Exsurge_Domine_in</antL1>
+
+<psL1>ps34I</psL1>
+
+<antL2>AN_Iudica_causam_meam;</antL2>
+
+<psL2>ps34II</psL2>
+
+<antL3>AN_Lingua_mea_tota</antL3>
+
+<psL3>ps34III</psL3>
+
+<LVers>VERS_Fili_mi</LVers>
+n<Llec1>L1_perannum_5-6</Llec1>
+
+<Lrep1>R1_perannum_5-6</Lrep1>
+
+<Llec2>L2_perannum_5-6</Llec2>
+
+<Lrep2>R2_perannum_5-6</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_5-6-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>perannum_5-6-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Aterna_caeli_gloria</HYMNUS_laudes>
+ 
+<ant1>AN_Acceptabis_sacrificium_iustitiae</ant1>
+ 
+<ps1>ps50</ps1>
+ 
+<ant2>AN_In_Domino_iustificabitur</ant2>
+ 
+<ps2>AT27</ps2>
+ 
+<ant3>AN_Introite_in_conspectu</ant3>
+ 
+<ps3>ps99</ps3>
+ 
+<LB_matin>LB_Eph_4_29-32</LB_matin> 
+ 
+<RB_matin>RB_Auditam_fac_mihi_mane_</RB_matin>  
+<benedictus>AN_Visitavit_et_fecit</benedictus> 
+<laudes_preces>perannum_16</laudes_preces><oratio_laudes>COL_Deus_qui_tenebras_ignorantiae_Verbi_tui</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Viam_mandatorum_tuorum</ant4>
+ 
+<ps4>ps118IV</ps4>
+ 
+<ant5>AN_In_Domino_sperans</ant5>
+ 
+<ps5>ps25</ps5>
+ 
+<ant6>AN_In_Domino_speravit</ant6>
+ 
+<ps6>ps27</ps6>
+ 
+<LB_3>LB_Phil_2_2b-4</LB_3>
+ 
+<RB_3>VERS_Universae_viae</RB_3>
+ 
+<LB_6>LB_2_Cor_13_4</LB_6>
+ 
+<RB_6>VERS_Adhaesit_pulveri</RB_6>
+ 
+<LB_9>LB_Col_3_12-13</LB_9>
+ 
+<RB_9>VERS_Miserator_et</RB_9>
+ 
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+ 
+<oratio_6>COL_Domine_Iesu_Christe_qui_hora_sexta</oratio_6>
+ 
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Plasmator_hominis_Deus</HYMNUS_vepres>
+ 
+<ant7>AN_Sana_Domine_animam</ant7>
+ 
+<ps7>ps40</ps7>
+ 
+<ant8>AN_Dominus_virtutum_nobiscum</ant8>
+ 
+<ps8>ps45</ps8>
+ 
+<ant9>AN_Omnes_gentes_venient</ant9>
+ 
+<ps9>NT11</ps9>
+ 
+<LB_soir>LB_Rom_15_1-3</LB_soir>
+ 
+<RB_soir>RB_Christus_dilexit_nos</RB_soir>
+ 
+<magnificat>AN_Suscepit_nos_Dominus</magnificat>
+ 
+<vepres_preces>perannum_16</vepres_preces>
+ 
+<oratio_vepres>COL_Concede_nobis_famulis_tuis_quaesumus_Domine</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+ 
+<comp_ps1>ps87</comp_ps1> 
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+ 
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Venite_adoremus</IN>
+<IN_L>IN_L_perannum_5</IN_L>
+<COL>COL_perannum_5</COL>
+<LEC>LEC_Gn3,1-8</LEC>
+<PS1>GR_Tollite_hostias</PS1>
+<PS2>AL_Laudate_Dominum</PS2>
+<EV>EV_Mc7,31-37</EV>
+<OF>OF_Perfice_gressus_meos</OF>
+<SO>SO_perannum_5</SO>
+<CO>CO_Introibo</CO>
+<CO_L>CO_L_perannum_5</CO_L>
+<PC>PC_perannum_5</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St J&#xE9;r&#xF4;me &#xC9;milien</intitule>
+ <biographiecourte>Pr&#xEA;tre, &#xE9;ducateur, fondateur des "P&#xE8;res somasques&#xA0;" (&#x2020;1537)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Ste Jos&#xE9;phine Bakhita, vierge</intitule>
+ <biographiecourte>Religieuse canossienne, n&#xE9;e au Soudan, esclave dans son enfance, morte &#xE0; Schio en Italie en 1947                             </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 8 f&#xE9;vrier</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de saint J&#xE9;r&#xF4;me &#xC9;milien. Apr&#xE8;s une jeunesse violente et dissolue, il fut captur&#xE9; par l&#x2019;ennemi et, d&#xE9;tenu en prison se convertit &#xE0; Dieu, puis se livra tout entier, avec des compagnons qu&#x2019;il avait rassembl&#xE9;s, &#xE0; soulager tous ceux qui &#xE9;taient tomb&#xE9;s dans la mis&#xE8;re, en particulier les orphelins et les malades, ce qui fut le point de d&#xE9;part de la Congr&#xE9;gation des Clercs r&#xE9;guliers de Somasque. Atteint de la peste en soignant les pestif&#xE9;r&#xE9;s, il mourut &#xE0; Somasque, pr&#xE8;s de Bergame en Lombardie, en 1537. </para><para>2&#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de sainte Jos&#xE9;phine Bakhita, vierge. N&#xE9;e au Soudan dans la r&#xE9;gion de Darfur, elle fut enlev&#xE9;e toute jeune, vendue plusieurs fois &#xE0; des marchands d&#x2019;esclaves africains et subit une servitude cruelle. Enfin lib&#xE9;r&#xE9;e, elle devint chr&#xE9;tienne puis religieuse &#xE0; Venise chez les Filles de la Charit&#xE9;, passa le reste de sa vie dans le Christ &#xE0; Schio, au pays de Vicence, en subvenant aux besoins de tous, et mourut en 1947. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de sainte Co&#xEF;nte, martyre &#xE0; Alexandrie. La derni&#xE8;re ann&#xE9;e de l&#x2019;empereur Philippe, en 249, les pa&#xEF;ens la conduisirent vers le temple des idoles et l&#x2019;oblig&#xE8;rent &#xE0; adorer. Elle se d&#xE9;tourna et manifesta son d&#xE9;go&#xFB;t. Ils la li&#xE8;rent alors par les pieds et la tra&#xEE;n&#xE8;rent par toute la ville sur le rude pav&#xE9; et la mirent en pi&#xE8;ces par cet horrible supplice. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ticinum [Pavie] en Ligurie, l&#x2019;an&#xA0;397, saint Juvence, &#xE9;v&#xEA;que, qui travailla avec vigueur &#xE0; la pr&#xE9;dication de l&#x2019;&#xC9;vangile. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison des saints martyrs, moines du monast&#xE8;re de Die &#xE0; Constantinople. On les trouva porteurs des lettres du pape saint F&#xE9;lix III contre Acace et on les mit cruellement &#xE0; mort pour la d&#xE9;fense de la foi catholique, vers 485.</para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; En Bretagne, au VIe si&#xE8;cle, saint Jacut, abb&#xE9;. Tenu pour le fr&#xE8;re des saints Gu&#xE9;nol&#xE9; et Gu&#xE9;thenoc, il construisit un monast&#xE8;re au bord de la mer, qui prit ensuite son nom. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Milan, vers 570, la mise au tombeau de saint Honorat, &#xE9;v&#xEA;que. Devant l&#x2019;imminence de l&#x2019;arriv&#xE9;e des Lombards, il se r&#xE9;fugia &#xE0; G&#xEA;nes avec une grande partie de la population. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Besan&#xE7;on en Bourgogne, au VIIe si&#xE8;cle, saint Nizier, &#xE9;v&#xEA;que. </para><para>9. &#xC0; Verdun, vers 647, saint Paul, &#xE9;v&#xEA;que. Apr&#xE8;s un s&#xE9;jour &#xE0; la cour du roi des Francs, il se fit moine, puis plac&#xE9; &#xE0; la t&#xEA;te de l&#x2019;&#xC9;glise de Verdun, il promut la dignit&#xE9; du culte divin et la vie r&#xE9;guli&#xE8;re des chanoines. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Albano dans le Latium, en 1089, le bienheureux Pierre, surnomm&#xE9; Ign&#xE9;, parce qu&#x2019;il passa indemne &#xE0; travers les flammes. Moine de Vallombreuse, il se soumit &#xE0; l&#x2019;&#xE9;preuve du feu et, devenu bient&#xF4;t &#xE9;v&#xEA;que d&#x2019;Albano, il s&#x2019;employa sans rel&#xE2;che &#xE0; restaurer la discipline eccl&#xE9;siastique. </para><para>11. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Muret dans le Limousin, en 1124, saint &#xC9;tienne, abb&#xE9;, fondateur de l&#x2019;Ordre de Grandmont, o&#xF9; il confia aux clercs la louange divine et la contemplation, et aux seuls fr&#xE8;res la&#xEF;cs le temporel &#xE0; g&#xE9;rer non par domination, mais par charit&#xE9;. </para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Savone en Ligurie, l&#x2019;an&#xA0;1906, la bienheureuse Jos&#xE9;phine-Gabrielle Bonino, vierge, qui, &#xE0; la lumi&#xE8;re de la Sainte Famille de Nazareth fonda une Congr&#xE9;gation religieuse pour l&#x2019;&#xE9;ducation des orphelins et l&#x2019;assistance des malades pauvres. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Italie, en 1983, la bienheureuse Madre Speranza di Ges&#xF9;, "ap&#xF4;tre de l&#x2019;amour mis&#xE9;ricordieux de J&#xE9;sus", &#xA0;religieuse chez les Clar&#xE9;tines, elle fonde &#xA0;&#xE0; Madrid, en 1930, les Servantes de l'Amour mis&#xE9;ricordieux et &#xE0; Rome, en 1951, les Fils de l'Amour mis&#xE9;ricordieux. Grande mystique, elle &#xE9;tait favoris&#xE9;e d'extases ,et elle portait dans son corps les stigmates de la Passion du Christ &#xA0;(b&#xE9;atifi&#xE9;e le 31 mai 2014 par le pape Fran&#xE7;ois)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

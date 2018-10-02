@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<liturgia>
+	<messe>
+		<IN id=""/>
+		<PS1 id="TR_Domine_exaudi"/>
+		<PS2 id="GR_Christus_factus_est"/>
+		<SEQ id=""/>
+		<OF id=""/>
+		<CO id=""/>
+		<autre1 id="AN_Ecce_lignum_crucis"/>
+		<autre2 id="IMP_Popule_meus"/>
+		<autre3 id="HY_Crux_fidelis"/>
+		
+</messe>
+</liturgia>

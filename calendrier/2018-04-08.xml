@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>1</priorite>
+<couleur>Blanc</couleur>
+<code>pascha_21</code>
+<propre>DOMINICA_IN_OCTAVA_PASCHA_SEU_DE_SACRA_MISERICORDIA</propre>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Dominica II Paschae </la><fr>Dominica II Paschae </fr></hebdomada>
+<intitule><la>DOMINICA IN OCTAVA PASCH&#xC6; SEU DE SACRA MISERICORDIA</la><fr>DIMANCHE DANS L'OCTAVE DE P&#xC2;QUES OU DE LA DIVINE MISERICORDE</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+
+<antL1>AN_Domine_Deus_meus</antL1>
+
+<psL1>ps103I</psL1>
+
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+
+<psL2>ps103II</psL2>
+
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+
+<psL3>ps103III</psL3>
+
+<LVers/>
+n<Llec1>L1_DOMINICA_IN_OCTAVA_PASCHA_SEU_DE_SACRA_MISERICORDIA</Llec1>
+
+<Lrep1>R1_DOMINICA_IN_OCTAVA_PASCHA_SEU_DE_SACRA_MISERICORDIA</Lrep1>
+
+<Llec2>L2_DOMINICA_IN_OCTAVA_PASCHA_SEU_DE_SACRA_MISERICORDIA</Llec2>
+
+<Lrep2>R2_DOMINICA_IN_OCTAVA_PASCHA_SEU_DE_SACRA_MISERICORDIA</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ 
+<ant1>AN_Surrexit_Christus_et</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Redemptor_noster_surrexit</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Alleluia_resurrexit_Dominus</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_ap10.40-43</LB_matin> 
+ 
+<RB_matin>RB_Haec_dies_quam_fecit_Dominus</RB_matin>  
+<benedictus>AN_Mitte_manum</benedictus> 
+<laudes_preces>pascha_21</laudes_preces><oratio_laudes>COL_Deus_misericordiae_sempiternae_qui_in_ipso</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Christus_surrexit_a</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_Traditus_est_propter</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Si_consurrexistis_cum</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_1_Cor_15_3b-5</LB_3>
+ 
+<RB_3>VERS_Haec_dies_quam_fecit_Dominus</RB_3>
+ 
+<LB_6>LB_Eph_2_4-6</LB_6>
+ 
+<RB_6>VERS_Haec_dies_quam_fecit_Dominus</RB_6>
+ 
+<LB_9>LB_Rom_6_4</LB_9>
+ 
+<RB_9>VERS_Haec_dies_quam_fecit_Dominus</RB_9>
+ 
+<oratio_3>COL_Deus_misericordiae_sempiternae_qui_in_ipso</oratio_3>
+ 
+<oratio_6>COL_Deus_misericordiae_sempiternae_qui_in_ipso</oratio_6>
+ 
+<oratio_9>COL_Deus_misericordiae_sempiternae_qui_in_ipso</oratio_9>
+ 
+<intitule_soir><la>DOMINICA IN OCTAVA PASCH&#xC6; SEU DE SACRA MISERICORDIA</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+ 
+<ant7>AN_Venerunt_ad_monumentum</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Venite_et_videte</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Ait_Iesus_Nolite</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Hebr_10_12-14</LB_soir>
+ 
+<RB_soir>RB_Haec_dies_quam_fecit_Dominus</RB_soir>
+ 
+<magnificat>AN_Quia_vidisti_me</magnificat>
+ 
+<vepres_preces>pascha_21</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_misericordiae_sempiternae_qui_in_ipso</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>HY_Iesu_redemptor</HYMNUS_complies>
+ 
+<comp_RB>RB_Haec_dies_quam_fecit_Dominus</comp_RB>
+ 
+<comp_ant1>AN_alleluia_alleluia_alleulia</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Quasi_modo</IN>
+<COL>COL_Deus_misericordiae_sempiternae_qui_in_ipso</COL>
+<LEC>LEC_Ac4,32-35</LEC>
+<PS1>AL_In_die_resurrectionis</PS1>
+<LEC2>LEC_1Jn5,1-6</LEC2>
+
+<PS2>AL_Post_dies_octo</PS2>
+<SEQ>SEQ_Victimae_paschali_laudes</SEQ>
+<EV>EV_Jn20,19-31</EV>
+<OF>OF_Angelus_Domini</OF>
+<PRE>PRE_Pr&#xE9;facedutempspascal,nn.1-5</PRE>
+<CO>CO_Mitte_manum_tuam_et_cognosce</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>Ste Julie Billiart ,religieuse</intitule>
+ <biographiecourte>Fondatrice d'un ordre enseignant&#xA0;: les S&#x153;urs de Notre Dame (&#x2020;1816)</biographiecourte>
+ <canonisebeatifie>Paul VI</canonisebeatifie>
+ <patronage/>
+ <intitule>Bse Constance</intitule>
+ <biographiecourte>M&#xE8;re de Saint &#xC9;lisabeth du Portuga ; mena une vie de pri&#xE8;res et s'occupa d'oeuv&#xE9;s charitables. Elle mourut &#xE0; Barcelone. (&#x2020;1302)   </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 8 avril</para><para>1. Comm&#xE9;moraison de saint Agabus, proph&#xE8;te, qui, au t&#xE9;moignage des Actes des Ap&#xF4;tres, annon&#xE7;a qu&#x2019;il y aurait une grande famine sur toute la terre et, inspir&#xE9; par l&#x2019;Esprit, pr&#xE9;dit &#xE0; saint Paul, par une action symbolique, les tourments qui l&#x2019;attendaient de la part des pa&#xEF;ens. </para><para>2. Comm&#xE9;moraison des saints H&#xE9;rodion, Asyncrite et Phl&#xE9;gon, que saint Paul salue dans sa lettre aux Romains. </para><para>3. Comm&#xE9;moraison de saint Denis, &#xE9;v&#xEA;que de Corinthe, vers 180. Par sa connaissance admirable de la parole de Dieu, il instruisit non seulement les fid&#xE8;les de sa cit&#xE9;, mais encore, par ses lettres, les &#xE9;v&#xEA;ques des autres villes et des autres provinces. </para><para>4. &#xC0; Antioche de Syrie, les saints martyrs Timoth&#xE9;e, Diog&#xE8;ne, Macaire et Maxime. </para><para>5. &#xC0; Alexandrie, vers 265, saint Denis, &#xE9;v&#xEA;que, personnage d&#x2019;une profonde &#xE9;rudition. C&#xE9;l&#xE8;bre pour avoir souvent confess&#xE9; la foi, riche en m&#xE9;rites &#xE0; cause de la diversit&#xE9; de ses souffrances et de ses tourments, il s&#x2019;endormit, plein de jours, en confesseur de la foi, au temps des empereurs Val&#xE9;rien et Gallien. </para><para>6. &#xC0; C&#xF4;me en Ligurie, l&#x2019;an&#xA0;449, saint Amance, &#xE9;v&#xEA;que, qui fut le troisi&#xE8;me &#xE0; si&#xE9;ger sur la cath&#xE8;dre de cette &#xC9;glise et &#xE9;difia la basilique des Ap&#xF4;tres. </para><para>7*. &#xC0; Orvieto en Toscane, l&#x2019;an&#xA0;1291, le bienheureux Cl&#xE9;ment d&#x2019;Osimo, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin, qui gouverna et d&#xE9;veloppa efficacement l&#x2019;Ordre et adapta avec sagesse sa l&#xE9;gislation. </para><para>8*. &#xC0; Alcala en Espagne, l&#x2019;an&#xA0;1606, le bienheureux Julien de Saint-Augustin, religieux. Repouss&#xE9; apr&#xE8;s plusieurs essais de vie religieuse, il fut enfin accept&#xE9; chez les Fr&#xE8;res Mineurs et, tenu pour fou pour Dieu &#xE0; cause de sa recherche excessive de p&#xE9;nitence, il pr&#xEA;cha le Christ davantage par l&#x2019;exemple de ses vertus que par ses discours. </para><para>9. &#xC0; Namur en Belgique, l&#x2019;an&#xA0;1816, sainte Julie Billiart, vierge, qui suscita l&#x2019;Institut des S&#x153;urs de Notre-Dame, pour l&#x2019;&#xE9;ducation chr&#xE9;tienne des jeunes filles et propagea beaucoup la d&#xE9;votion au Sacr&#xE9;-C&#x153;ur de J&#xE9;sus. </para><para>10*. &#xC0; Alassio en Ligurie, l&#x2019;an&#xA0;1893, le bienheureux Auguste Czartoryski, pr&#xEA;tre sal&#xE9;sien, que sa mauvaise sant&#xE9; n&#x2019;emp&#xEA;cha nullement de suivre avec courage l&#x2019;appel de Dieu. </para><para>11*. &#xC0; Belmonte pr&#xE8;s de Cuenca en Espagne, l&#x2019;an&#xA0;1927, le bienheureux Dominique du Saint-Sacrement (Dominique Iturrate), pr&#xEA;tre de l&#x2019;Ordre de la Sainte Trinit&#xE9;, qui veilla de toutes ses forces &#xE0; faire progresser le salut des &#xE2;mes et &#xE0; &#xE9;tendre la gloire de la Trinit&#xE9;. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

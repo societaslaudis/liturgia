@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ps02 id="ps146"/>
+<ps03 id="NT4"/>
+<ant_invit id="INV_Alleluia_Spiritus_Domini"/>
+<intitule>
+<la>Dominica Pentecostes</la>
+<fr>Dimanche de la Pentec&#xF4;te</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<martyrologe>Le jour de la Pentec&#xF4;te, qui conclut les cinquante jours de P&#xE2;ques, est aujourd'hui comm&#xE9;mor&#xE9;e, ainsi que l'effusion de l'Esprit Saint sur les disciples &#xE0; J&#xE9;rusalem, 
+d'abord sur l'Eglise et les premi&#xE8;res missions apostoliques, puis sur toutes les tribus, langues peuples et nations.</martyrologe>
+<HYMNUS_laudes id="hy_Beata_nobis_gaudia"/>
+<ps1 id="ps62"/>
+<ps2 id="AT41"/>
+<ps3 id="ps149"/>
+<ant4 id="AN_Spiritus_Sanctus_procedens"/>
+<ps4 id="ps117I"/>
+<ant5 id="AN_Auge_in_nobis"/>
+<ps5 id="ps117II"/>
+<ant6 id="AN_Non_enim_vos"/>
+<ps6 id="ps117III"/>
+<ps8 id="ps113A"/>
+<HYMNUS_tertiam id="hy_Iam_Christus_astra_ascenderat"/>
+<LB_3 id="LB_1_Cor_12_13"/>
+<RB_3 id="VERS_Spiritus_Paraclitus_alleluia_Docebit"/>
+<oratio_3 id="COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis"/>
+
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<LB_6 id="LB_Tit_3_5b-7"/>
+<RB_6 id="VERS_Spiritus_Sanctus_docebit_vos_alleluia"/>
+<oratio_6 id="COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis"/>
+
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<LB_9 id="LB_2_Cor_1_21-22"/>
+<RB_9 id="VERS_Loquebantur_variis_linguis_Apostoli_alleluia"/>
+<oratio_9 id="COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis"/>
+
+<magnificat1V id="AN_Veni_Sancte_Spiritus"/>
+<oratio_1V id="COL_Omnipotens_sempiterne_Deus_qui_paschale_sacramentum"/>
+<oratio3 id="COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis"/>
+<oratio6 id="COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis"/>
+<oratio9 id="COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis"/>
+<oratio id="COL_Deus_qui_sacramento_festivitatis_hodiernae_universam"/>
+<benedictus id="AN_Accipite_Spiritum_Sanctum"/>
+<magnificat id="AN_Hodie_completi_sunt"/>
+<ant7 id="AN_Spiritus_Domini_replevit"/>
+<ant8 id="AN_Confirma_hoc_Deus"/>
+<ant9 id="AN_Repleti_sunt_omnes"/>
+<LB_matin id="LB_Act_5_30-32"/>
+<RB_matin id="RB_Repleti_sunt_omnes_Spiritu_Sancto"/>
+<LB_soir id="LB_Eph_4_3-6"/>
+<RB_soir id="RB_Spiritus_Domini_replevit_orbem_terrarum"/>
+<messe>
+	<intitule>Ad missam in vigilia</intitule>
+	<IN id="IN_Dum_sanctificatus_fuero"/>
+	<PS1 id="AL_Emitte_Spiritum_tuum"/>
+	<PS2 id="AL_Dum complerentur"/>
+	<OF id="OF_Emitte_Spiritum_tuum"/>
+	<CO id="CO_Ultimo_festivitatis"/>
+</messe>
+<messe>
+	<intitule>Ad missam in die</intitule>
+	<LEC2>
+		<A id="LEC_1Co12,3b-7.12-13"/>
+		<B id="LEC_Ga5,16-25"/>
+		<C id="LEC_Rm8,8-17"/>
+	</LEC2>
+	<EV>
+		<A id="EV_Jn20,19-23"/>
+		<B id="EV_Jn15,26-27;16,12-15"/>
+		<C id="EV_Jn14,15-16.23b-26"/>
+	</EV>
+	
+		<IN id="IN_Spiritus_Domini"/>
+		<COL id="COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis"/>
+		<PS1 id="AL_Emitte_Spiritum_tuum"/>
+		<PS2 id="AL_Veni_Sancte_Spiritus"/>
+		<SEQ id="SEQ_Veni_Sancte_Spiritus"/>
+		<OF id="OF_Confirma_hoc_Deus"/>
+		<CO id="CO_Factus_est_repente"/>
+</messe>
+</liturgia>

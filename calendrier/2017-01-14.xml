@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada II per annum</la><fr>II&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Audiamus_vocem_Domini</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps135I</psL1>
+
+<antL2/>
+
+<psL2>ps135II</psL2>
+
+<antL3/>
+
+<psL3>ps135III</psL3>
+
+<LVers/>
+n<Llec1>L1_perannum_2-7</Llec1>
+
+<Lrep1>R1_perannum_2-7</Lrep1>
+
+<Llec2>L2_perannum_2-7</Llec2>
+
+<Lrep2>R2_perannum_2-7</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_2-7-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>perannum_2-7-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Diei_luce_reddita</HYMNUS_laudes>
+ 
+<ant1>AN_Annuntiamus_mane_misericordiam</ant1>
+ 
+<ps1>ps91</ps1>
+ 
+<ant2>AN_Date_magnificentiam_Deo</ant2>
+ 
+<ps2>AT2</ps2>
+ 
+<ant3>AN_Quam_admirabile_est</ant3>
+ 
+<ps3>ps8</ps3>
+ 
+<LB_matin>LB_Rom_12_14-16a</LB_matin> 
+ 
+<RB_matin>RB_Exsultabunt_labia_mea_Cum</RB_matin>  
+<benedictus>AN_Dirige_Domine_pedes</benedictus> 
+<laudes_preces>perannum_27</laudes_preces><oratio_laudes>COL_Laudent_te_Domine_ora_nostra_laudet</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Caelum_et_terra</ant4>
+ 
+<ps4>ps118XI</ps4>
+ 
+<ant5>AN_Tu_Domine_spes</ant5>
+ 
+<ps5>ps60</ps5>
+ 
+<ant6>AN_A_timore_inimici</ant6>
+ 
+<ps6>ps63</ps6>
+ 
+<LB_3>LB_Deut_8_5b-6</LB_3>
+ 
+<RB_3>VERS_Timor_Domini</RB_3>
+ 
+<LB_6>LB_1_Reg_2_2b-3</LB_6>
+ 
+<RB_6>VERS_Deduc_me</RB_6>
+ 
+<LB_9>LB_Ier_6_16</LB_9>
+ 
+<RB_9>VERS_Hereditas_mea</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica III per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_A_solis_ortu</ant7>
+ 
+<ps7>ps112</ps7>
+ 
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+ 
+<ps8>ps115</ps8>
+ 
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Hebr_13_20-21</LB_soir>
+ 
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+ 
+<magnificat>AN_Dicit_Dominus_Paenitentiam</magnificat>
+ 
+<vepres_preces>perannum_27</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_dirige_actus_nostros</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Omnis_terra</IN>
+<IN_L>IN_L_perannum_2</IN_L>
+<COL>COL_perannum_2</COL>
+<LEC>LEC_He9,2-14</LEC>
+<PS1>GR_Misit_Dominus</PS1>
+<PS2>AL_Laudate_Deum</PS2>
+<EV>EV_Mc3,20-21</EV>
+<OF>OF_Iubilate_Deo_universa_terra</OF>
+<SO>SO_perannum_2</SO>
+<CO>CO_Laetabimur</CO>
+<CO_L>CO_L_perannum_2</CO_L>
+<PC>PC_perannum_2</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx Pierre Donders</intitule>
+ <biographiecourte>Pr&#xEA;tre en Guyane hollandaise, ap&#xF4;tre des esclaves et des l&#xE9;preux (&#x2020;1887)                     </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 14 janvier</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Potit, martyr, dont on rapporte qu&#x2019;il eut beaucoup &#xE0; souffrir &#xE0; Sardique, en Dacie, et qu&#x2019;il termina son martyre par l&#x2019;&#xE9;p&#xE9;e. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Antioche en Syrie, saint Glycerius, diacre et martyr. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nole en Campanie, vers 260, saint F&#xE9;lix, pr&#xEA;tre. Comme le rapporte saint Paulin, quand la pers&#xE9;cution fit rage, il fut jet&#xE9; en prison, supporta d&#x2019;affreuses tortures et, quand la paix fut enfin procur&#xE9;e, il revint parmi les siens, vivant dans la pauvret&#xE9; volontaire jusqu&#x2019;&#xE0; sa vieillesse, invincible confesseur de la foi. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison des saints moines qui, au IVe si&#xE8;cle, furent massacr&#xE9;s &#xE0; cause de la foi du Christ &#xE0; Ra&#xEF;the et au Mont Sina&#xEF;.</para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; Au pays des Ib&#xE8;res au-del&#xE0; du Pont-Euxin, au IVe si&#xE8;cle, sainte Ninon. Captive chr&#xE9;tienne, elle acquit, par la saintet&#xE9; de sa vie, un tel respect et admiration de tous qu&#x2019;elle attira la reine elle-m&#xEA;me, dont le fils en bas &#xE2;ge avait retrouv&#xE9; la sant&#xE9; gr&#xE2;ce &#xE0; ses pri&#xE8;res, le roi et tout le peuple, &#xE0; la foi du Christ. </para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; Dans le G&#xE9;vaudan, au Ve si&#xE8;cle, saint Firmin, &#xE9;v&#xEA;que. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; En Auvergne, l&#x2019;an&#xA0;575, saint Euphrase, &#xE9;v&#xEA;que, dont saint Gr&#xE9;goire de Tours loue l&#x2019;hospitalit&#xE9;. </para><para>8. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Milan, en 552, la mise au tombeau de saint Dace, &#xE9;v&#xEA;que, qui d&#xE9;fendit, dans le d&#xE9;bat sur les Trois Chapitres, la d&#xE9;cision du pape Vigile, qu&#x2019;il rencontra &#xE0; Constantinople, o&#xF9; il quitta cette vie. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Astigis en Espagne B&#xE9;tique, vers 632, saint Fulgence, &#xE9;v&#xEA;que, fr&#xE8;re des saints L&#xE9;andre, Isidore et Florentin. Son fr&#xE8;re Isidore lui d&#xE9;dia le trait&#xE9; des Offices eccl&#xE9;siastiques </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tagliacozzo dans les Abruzzes, vers l&#x2019;an&#xA0;1200, le bienheureux Odon de Novare, pr&#xEA;tre chartreux, qui v&#xE9;cut dans les je&#xFB;nes, les veilles prolong&#xE9;es et les mac&#xE9;rations au service de religieuses. </para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Udine en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1331, le bienheureux Odoric Mattiuzzi de Pordenone, pr&#xEA;tre franciscain, qui traversa les r&#xE9;gions des Tartares, des Indes et de la Chine et s&#x2019;avan&#xE7;a jusqu&#x2019;&#xE0; Kambalik (P&#xE9;kin), la capitale&#xA0;; il parcourut ces pays de long en large, pr&#xEA;chant l&#x2019;&#xC9;vangile et amenant bien des gens &#xE0; la foi du Christ. </para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Batavia en Surinam, l&#x2019;an&#xA0;1887, le bienheureux Pierre Donders, pr&#xEA;tre de la Congr&#xE9;gation du Tr&#xE8;s-Saint-R&#xE9;dempteur, qui prit soin avec une charit&#xE9; infatigable des corps et des &#xE2;mes des l&#xE9;preux. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Inde, en 1752, le bienheureux Devasa
+            hayam Pillai la&#xEF;c. converti de l&#x2019;hindou&#xEF;sme au catholicisme, mort martyr. (b&#xE9;atifi&#xE9; le 2 d&#xE9;cembre 2012 par Beno&#xEE;t XVI)</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Italie, en 1930, la bienheureuse Alfonsa Clerici, religieuse, directrice d&#x2019;une maison d&#x2019;&#xE9;ducation pour jeunes filles pauvres. (b&#xE9;atifi&#xE9;e le 23 octobre 2010 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

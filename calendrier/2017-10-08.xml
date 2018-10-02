@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXVII per annum</la><fr>XXVII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XXVII per annum</la><fr>XXVII&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_XXVII_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XXVII_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XXVII_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XXVII_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ 
+<ant1>AN_Mirabilis_in_altis</ant1>
+ 
+<ps1>ps92</ps1>
+ 
+<ant2>AN_Laudabilis_es_Domine</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Laudate_Dominum_de</ant3>
+ 
+<ps3>ps148</ps3>
+ 
+<LB_matin>LB_Ez_37,12b-14</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin>  
+<benedictus>AN_Dominus_vineae_malos</benedictus> 
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_abundantia_pietatis</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_De_tribulatione_invocavi</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Dextera_Domini_fecit</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Rom_8_15-16</LB_3>
+ 
+<RB_3>VERS_Apud_te_Domine</RB_3>
+ 
+<LB_6>LB_Rom_8,_22-23</LB_6>
+ 
+<RB_6>VERS_Benedic_anima</RB_6>
+ 
+<LB_9>LB_2Tim1,9</LB_9>
+ 
+<RB_9>VERS_Deduxit_eos_Dominus</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_abundantia_pietatis</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_sempiterne_Deus_qui_abundantia_pietatis</oratio_6>
+ 
+<oratio_9>COL_Omnipotens_sempiterne_Deus_qui_abundantia_pietatis</oratio_9>
+ 
+<intitule_soir><la>Dominica XXVII per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+ 
+<ant7>AN_Dixit_Dominus_Domino</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Memoriam_fecit_mirabilium</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_1_Petr1,3-5</LB_soir>
+ 
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+ 
+<magnificat>AN_Lapidem_quem_reprobaverunt</magnificat>
+ 
+<vepres_preces>perannum_31</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_abundantia_pietatis</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_In_voluntate_tua</IN>
+<IN_L>IN_L_perannum_27</IN_L>
+<COL>COL_perannum_27</COL>
+<LEC>LEC_Is25,6-10a</LEC>
+<PS1>GR_Domine_refugium</PS1>
+<LEC2>LEC_Ph4,6-9</LEC2>
+
+<PS2>AL_In_exitu_Israel</PS2>
+<EV>EV_Mt21,33-43</EV>
+<OF>OF_Vir_erat</OF>
+<SO>SO_perannum_27</SO>
+<CO>CO_In_salutari_tuo</CO>
+<CO_L>CO_L_perannum_27</CO_L>
+<PC>PC_perannum_27</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste P&#xE9;lagie, martyre</intitule>
+ <biographiecourte>Martyre d'Antioche au IVe si&#xE8;cle, pour garder sa puret&#xE9;, elle pr&#xE9;f&#xE9;ra la mort</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 8 octobre</para><para>1. &#xC0; Antioche de Syrie, vers&#xA0;302, sainte P&#xE9;lagie, vierge et martyre, dont saint Jean Chrysostome a chant&#xE9; hautement les louanges. </para><para>2. Comm&#xE9;moraison de sainte R&#xE9;parate, v&#xE9;n&#xE9;r&#xE9;e en divers lieux autour de la M&#xE9;diterran&#xE9;e comme vierge et martyre. </para><para>3. &#xC0; C&#xF4;me en Ligurie, au IVe si&#xE8;cle, saint F&#xE9;lix, &#xE9;v&#xEA;que, le premier de cette cit&#xE9;, ordonn&#xE9; par saint Ambroise. </para><para>4. &#xC0; Rouen, au Ve si&#xE8;cle, saint &#xC9;vode, &#xE9;v&#xEA;que. </para><para>5*. &#xC0; Denain en Hannonie, au VIIIe si&#xE8;cle, sainte Remfroide (R&#xE9;genfr&#xE8;de) abbesse, qui &#xE9;rigea en ce lieu, sur ses propres ressources, un monast&#xE8;re qu&#x2019;elle dirigea dignement. </para><para>6*. &#xC0; G&#xEA;nes en Ligurie, avant 1233, saint Hugues, religieux. Apr&#xE8;s avoir milit&#xE9; longtemps en Terre sainte, il fut, dans cette ville, ma&#xEE;tre de la commanderie de l&#x2019;Ordre de Saint-Jean de J&#xE9;rusalem et s&#x2019;illustra par sa bont&#xE9; et sa charit&#xE9; envers les indigents. </para><para>7*. &#xC0; Londres, en 1586, les bienheureux Jean Adams, Robert Dibdale et Jean Lowe, pr&#xEA;tres et martyrs, qui exerc&#xE8;rent clandestinement leur minist&#xE8;re, chacun de son c&#xF4;t&#xE9;, aupr&#xE8;s des fid&#xE8;les catholiques et, sous la reine &#xC9;lisabeth I&#xE8;re, furent condamn&#xE9;s &#xE0; mort et subirent ensemble les supplices du gibet &#xE0; Tyburn. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

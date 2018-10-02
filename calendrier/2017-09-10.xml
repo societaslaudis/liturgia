@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXIII per annum</la><fr>XXIII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XXIII per annum</la><fr>XXIII&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_XXIII_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XXIII_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XXIII_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XXIII_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ 
+<ant1>AN_Mirabilis_in_altis</ant1>
+ 
+<ps1>ps92</ps1>
+ 
+<ant2>AN_Laudabilis_es_Domine</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Laudate_Dominum_de</ant3>
+ 
+<ps3>ps148</ps3>
+ 
+<LB_matin>LB_Ez_37,12b-14</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin>  
+<benedictus>AN_Si_duo_ex</benedictus> 
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Deus_per_quem_nobis_et_redemptio</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_De_tribulatione_invocavi</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Dextera_Domini_fecit</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Rom_8_15-16</LB_3>
+ 
+<RB_3>VERS_Apud_te_Domine</RB_3>
+ 
+<LB_6>LB_Rom_8,_22-23</LB_6>
+ 
+<RB_6>VERS_Benedic_anima</RB_6>
+ 
+<LB_9>LB_2Tim1,9</LB_9>
+ 
+<RB_9>VERS_Deduxit_eos_Dominus</RB_9>
+ 
+<oratio_3>COL_Deus_per_quem_nobis_et_redemptio</oratio_3>
+ 
+<oratio_6>COL_Deus_per_quem_nobis_et_redemptio</oratio_6>
+ 
+<oratio_9>COL_Deus_per_quem_nobis_et_redemptio</oratio_9>
+ 
+<intitule_soir><la>Dominica XXIII per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+ 
+<ant7>AN_Dixit_Dominus_Domino</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Memoriam_fecit_mirabilium</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_1_Petr1,3-5</LB_soir>
+ 
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+ 
+<magnificat>AN_Ubi_sunt_duo</magnificat>
+ 
+<vepres_preces>perannum_31</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_per_quem_nobis_et_redemptio</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Iustus_es_Domine</IN>
+<IN_L>IN_L_perannum_23</IN_L>
+<COL>COL_perannum_23</COL>
+<LEC>LEC_Si27,33-28,9</LEC>
+<PS1>GR_Beata_gens</PS1>
+<LEC2>LEC_Rm13,8-10</LEC2>
+
+<PS2>AL_Domine_exaudi</PS2>
+<EV>EV_Mt18,15-20</EV>
+<OF>OF_Oravi_Deum_meum</OF>
+<SO>SO_perannum_23</SO>
+<CO>CO_Vovete</CO>
+<CO_L>CO_L_perannum_23</CO_L>
+<PC>PC_perannum_23</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx martyrs du Japon</intitule>
+ <biographiecourte>Missionnaires franciscains, morts dans l'ann&#xE9;e 1622</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 10 septembre</para><para>1. &#xC0; Alexandrie, en 250, saint N&#xE9;m&#xE9;sion, martyr. D&#x2019;abord accus&#xE9; calomnieusement de vol, il fut d&#xE9;f&#xE9;r&#xE9; au juge et acquitt&#xE9;, mais peu apr&#xE8;s, durant la pers&#xE9;cution de D&#xE8;ce, il fut d&#xE9;nonc&#xE9; comme chr&#xE9;tien devant le juge &#xC9;milien qui lui fit appliquer deux fois la torture, puis le fit br&#xFB;ler avec des brigands, le rendant par l&#xE0; semblable au Sauveur crucifi&#xE9; entre deux bandits. </para><para>2. Comm&#xE9;moraison de saint N&#xE9;m&#xE9;sianus et ses compagnons F&#xE9;lix, Lucius, un autre F&#xE9;lix, Litteus, Polyanus, Victor, Iader et Dativus. &#xC9;v&#xEA;ques, pr&#xEA;tres et diacres en Afrique, quand monta la rage de la pers&#xE9;cution, en 256-259, sous les empereurs Val&#xE9;rien et Gallien, ils re&#xE7;urent d&#x2019;abord la bastonnade pour le nom du Christ, puis furent mis aux fers et rel&#xE9;gu&#xE9;s aux mines. Ils achev&#xE8;rent le combat de leur glorieuse confession apr&#xE8;s que saint Cyprien les e&#xFB;t exhort&#xE9;s par lettre &#xE0; supporter courageusement leurs cha&#xEE;nes et &#xE0; conserver les pr&#xE9;ceptes du Seigneur.</para><para>3. &#xC0; Constantinople, en 453, sainte Pulch&#xE9;rie, imp&#xE9;ratrice, qui s&#x2019;appliqua &#xE0; d&#xE9;fendre et de promouvoir la vraie foi. </para><para>4. &#xC0; Novare en Ligurie, au Ve si&#xE8;cle, saint Agabius, &#xE9;v&#xEA;que.</para><para>5. &#xC0; Albi, en 584, saint Salvi, &#xE9;v&#xEA;que. Retir&#xE9; du clo&#xEE;tre, il fut malgr&#xE9; lui ordonn&#xE9; &#xE0; ce si&#xE8;ge&#xA0;; quand survint une &#xE9;pid&#xE9;mie de peste, en bon pasteur, il ne voulut pas s&#x2019;&#xE9;loigner de la ville, mais prescrivit des pri&#xE8;res publiques et organisa les secours.</para><para>6. Pr&#xE8;s de Spire en Rh&#xE9;nanie, vers 670, la passion de saint Th&#xE9;odard, &#xE9;v&#xEA;que de Tongres et martyr, assassin&#xE9; alors qu&#x2019;il se rendait pr&#xE8;s du roi Chilp&#xE9;ric. </para><para>7*. &#xC0; Avranches, vers 725, saint Aubert, &#xE9;v&#xEA;que, gr&#xE2;ce &#xE0; qui le culte de saint Michel Archange a fleuri sur le mont Tombe. </para><para>8*. Au monast&#xE8;re cistercien de Lucedio, pr&#xE8;s de Verceil dans le Pi&#xE9;mont, en 1214, le bienheureux Ogler, abb&#xE9;, homme de paix en un temps de haines et de conflits. </para><para>9. &#xC0; Tolentino dans les Marches, en 1305, saint Nicolas, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin. D&#x2019;une aust&#xE9;rit&#xE9; tr&#xE8;s s&#xE9;v&#xE8;re, tr&#xE8;s strict pour lui-m&#xEA;me, indulgent pour les autres, il offrait souvent &#xE0; ceux qu&#x2019;il confessait de faire p&#xE9;nitence &#xE0; leur place. </para><para>10*. &#xC0; Nagasaki au Japon, en 1622, les bienheureux martyrs S&#xE9;bastien Kimura, j&#xE9;suite, Fran&#xE7;ois Morales, dominicain, tous deux pr&#xEA;tres, et cinquante compagnons, pr&#xEA;tres, religieux, &#xE9;poux, cat&#xE9;chistes, veuves, jeunes et enfants, qui succomb&#xE8;rent pour le Christ &#xE0; des supplices atroces sur une colline devant une foule immense. </para><para>11. &#xC0; Londres, en 1641, saint Ambroise (&#xC9;douard) Barlow, pr&#xEA;tre b&#xE9;n&#xE9;dictin et martyr. Pendant vingt-quatre ans, il confirma dans la foi et la pi&#xE9;t&#xE9; les catholiques de la r&#xE9;gion de Lancastre&#xA0;; arr&#xEA;t&#xE9; alors qu&#x2019;il pr&#xEA;chait le jour de P&#xE2;ques, il fut emprisonn&#xE9; puis condamn&#xE9; &#xE0; mort, sous le roi Charles Ier, parce que pr&#xEA;tre, et soumis aux supplices du gibet &#xE0; Tyburn. </para><para>12*. Sur l&#x2019;&#xEE;le Madame, au large du port de Rochefort, en 1794, le bienheureux Jacques Gagnot, pr&#xEA;tre carme et martyr. D&#xE9;port&#xE9; sous la R&#xE9;volution fran&#xE7;aise, &#xE0; cause de son sacerdoce, dans des conditions inhumaines, sur un bateau n&#xE9;grier, il mourut, atteint d&#x2019;une maladie putride. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

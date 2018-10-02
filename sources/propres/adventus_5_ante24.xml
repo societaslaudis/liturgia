@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant1 id="AN_Ad_te_Domine_levavi_animam"/>
+<ant2 id="AN_Da_mercedem_Domine_sustinentibus_te"/>
+<ant3 id="AN_Convertere_Domine_aliquantulum"/>
+<ant7 id="AN_Ad_te_Domine_levavi_animam"/>
+<ant8 id="AN_Da_mercedem_Domine_sustinentibus_te"/>
+<ant9 id="AN_Convertere_Domine_aliquantulum"/>
+<HYMNUS_tertiam id="hy_Certum_tenentes_ordinem"/>
+<HYMNUS_sextam id="hy_Dicamus_laudes_Domino"/>
+<HYMNUS_nonam id="hy_Ternis_horarum_terminis"/>
+<messe> 
+	<IN id="IN_Prope_es_tu"/>
+	<PS1 id="GR_Ostende_nobis"/>
+	<OF id="OF_Confortamini"/>
+	<CO id="CO_Ecce_Dominus_veniet"/>
+</messe>
+</liturgia>

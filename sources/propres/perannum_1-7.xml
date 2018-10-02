@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<liturgia>
+	
+	
+	
+	<EV id="Mc2,13-17"/>
+	
+		<IN id="IN_In_excelso_throno"/>
+		<PS1 id="GR_Benedictus_Dominus"/>
+		<PS2 id="AL_Iubilate_Deo"/>
+		<SEQ id=""/>
+		<OF id="OF_Iubilate_Deo_omnis_terra"/>
+		<CO id="CO_Notas_mihi_fecisti"/>
+
+	<messe>
+		<IN id="IN_In_excelso_throno"/>
+		<COL id="COL_perannum_1"/>
+		<LEC>
+			<impaire id="LEC_He4,12-16"/>
+			<paire id="LEC_1S9,1-10,1"/>
+		</LEC>
+		<PR>
+			<impaire id="Ps19,8"/>
+			<paire id="Ps11,2"/>
+		</PR>
+		<PS1 id="GR_Benedictus_Dominus"/>
+		<PS2 id="AL_Iubilate_Deo"/>
+		<EV id="EV_Mc2,13-17"/>
+		<OF id="OF_Iubilate_Deo_omnis_terra"/>
+		<SO id="SO_perannum_1"/>
+		<CO id="CO_Notas_mihi_fecisti"/>
+		<PC id="PC_perannum_1"/>
+		<IN_L id="IN_L_perannum_1"/>
+		<CO_L id="CO_L_perannum_1"/>
+	</messe>
+</liturgia>

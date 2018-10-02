@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada VII per annum</la><fr>VII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica VII per annum</la><fr>VII&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_VII_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_VII_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_VII_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_VII_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_7-1-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>perannum_7-1-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>perannum_7-1-NOCT3-C</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ 
+<ant1>AN_Mirabilis_in_altis</ant1>
+ 
+<ps1>ps92</ps1>
+ 
+<ant2>AN_Laudabilis_es_Domine</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Laudate_Dominum_de</ant3>
+ 
+<ps3>ps148</ps3>
+ 
+<LB_matin>LB_Ez_37,12b-14</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin>  
+<benedictus>AN_Nolite_iudicare_ut</benedictus> 
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Praesta_quaesumus_omnipotens_Deus_ut_semper</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_De_tribulatione_invocavi</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Dextera_Domini_fecit</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Rom_8_15-16</LB_3>
+ 
+<RB_3>VERS_Apud_te_Domine</RB_3>
+ 
+<LB_6>LB_Rom_8,_22-23</LB_6>
+ 
+<RB_6>VERS_Benedic_anima</RB_6>
+ 
+<LB_9>LB_2Tim1,9</LB_9>
+ 
+<RB_9>VERS_Deduxit_eos_Dominus</RB_9>
+ 
+<oratio_3>COL_Praesta_quaesumus_omnipotens_Deus_ut_semper</oratio_3>
+ 
+<oratio_6>COL_Praesta_quaesumus_omnipotens_Deus_ut_semper</oratio_6>
+ 
+<oratio_9>COL_Praesta_quaesumus_omnipotens_Deus_ut_semper</oratio_9>
+ 
+<intitule_soir><la>Dominica VII per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+ 
+<ant7>AN_Dixit_Dominus_Domino</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Memoriam_fecit_mirabilium</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_1_Petr1,3-5</LB_soir>
+ 
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+ 
+<magnificat>AN_Dimittite_et_dimittemini;</magnificat>
+ 
+<vepres_preces>perannum_31</vepres_preces>
+ 
+<oratio_vepres>COL_Praesta_quaesumus_omnipotens_Deus_ut_semper</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Domine_in_tua_misericordia</IN>
+<IN_L>IN_L_perannum_7</IN_L>
+<COL>COL_perannum_7</COL>
+<LEC>LEC_1S26,2.7-9.22-23</LEC>
+<PS1>GR_Ego_dixi_Domine</PS1>
+<LEC2>LEC_</LEC2>
+
+<PS2>AL_Verba_mea </PS2>
+<EV>EV_</EV>
+<OF>OF_Intende_voci</OF>
+<SO>SO_perannum_7</SO>
+<CO>CO_Narrabo</CO>
+<CO_L>CO_L_perannum_7</CO_L>
+<PC>PC_perannum_7</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule>Arrestation du P. Maximilien Kolbe (1941) </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Les Sept Saints Fondateurs de l'ordre des Servites de la Bienheureuse Vierge Marie.</intitule>
+ <biographiecourte>Sept jeunes marchands de Florence se consacr&#xE8;rent &#xE0; Dieu au XIII&#xE8;me si&#xE8;cle et m&#xE9;dit&#xE8;rent les sept douleurs de la Vierge</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 17 f&#xE9;vrier</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire des sept saints fondateurs de l&#x2019;Ordre des Servites de Marie. Marchands de Florence, ils d&#xE9;cid&#xE8;rent d&#x2019;un commun accord de s&#x2019;&#xE9;tablir sur le mont Senario au service de la Vierge Marie et de fonder un Ordre sous la R&#xE8;gle de saint Augustin. Un m&#xEA;me esprit de fraternit&#xE9; les r&#xE9;unit dans leur vie, une v&#xE9;n&#xE9;ration commune du peuple les a accompagn&#xE9;s apr&#xE8;s leur mort. Ils sont comm&#xE9;mor&#xE9;s ensemble le jour o&#xF9; serait mort centenaire le dernier d&#x2019;entre eux, Alexis, en 1310.</para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Amas&#xE9;e dans l&#x2019;Hellespont, vers 306, la passion de saint Th&#xE9;odore, conscrit, qui, au temps de l&#x2019;empereur Maximien, fut violemment frapp&#xE9; pour sa confession de foi chr&#xE9;tienne, envoy&#xE9; en prison et ensuite livr&#xE9; pour &#xEA;tre jet&#xE9; dans le feu. Saint Gr&#xE9;goire de Nysse a c&#xE9;l&#xE9;br&#xE9; sa louange dans un remarquable discours. </para><para>3*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tr&#xE8;ves en Gaule Belgique, vers&#xA0;306, saint Bonose, &#xE9;v&#xEA;que, qui travailla par son z&#xE8;le et son enseignement, avec saint Hilaire de Poitiers, &#xE0; conserver la foi int&#xE8;gre dans les r&#xE9;gions des Gaules. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; En Arm&#xE9;nie, vers 440, saint Mesrob, docteur des Arm&#xE9;niens. D&#x2019;abord soldat puis fonctionnaire au palais royal, il re&#xE7;ut le bapt&#xEA;me et se fit moine, composa un alphabet pour la langue arm&#xE9;nienne, pour que le peuple soit form&#xE9; par les saintes &#xC9;critures. On lui attribue la traduction en arm&#xE9;nien des deux Testaments, des hymnes et d&#x2019;autres cantiques. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Cluain Ednech en Irlande, vers 440, saint Fintan, abb&#xE9;, fondateur de ce monast&#xE8;re, c&#xE9;l&#xE8;bre par son aust&#xE9;rit&#xE9;. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Flavien, &#xE9;v&#xEA;que de Constantinople. Pour avoir d&#xE9;fendu la foi catholique &#xE0; &#xC9;ph&#xE8;se, il fut d&#xE9;pos&#xE9;, frapp&#xE9; &#xE0; coups de poing et de pied par les partisans de l&#x2019;impie Dioscore et mourut peu apr&#xE8;s, sur la route de l&#x2019;exil, en 449. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lindisfarne en Northumbrie d&#x2019;Angleterre, vers 650, saint Finan, &#xE9;v&#xEA;que, apr&#xE8;s avoir &#xE9;t&#xE9; moine &#xE0; Iona. Homme de savoir et de z&#xE8;le, il entreprit l&#x2019;&#xE9;vang&#xE9;lisation de l&#x2019;Essex et de Mercie, dont il baptisa les rois. </para><para>8. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Auchy en Artois, vers 717, la mise au tombeau de saint Silvin, &#xE9;v&#xEA;que, qui &#xE9;vang&#xE9;lisa le pays des Morins. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Cava en Campanie, en 1124, le saint Constable, abb&#xE9;, remarquable de douceur et de charit&#xE9;.</para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ratzbourg dans le Holstein, en 1178, saint &#xC9;vermode, &#xE9;v&#xEA;que, qui fut l&#x2019;un des disciples de saint Norbert dans l&#x2019;Ordre de Pr&#xE9;montr&#xE9; et travailla &#xE0; la conversion du peuple des Vendes. </para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Padoue en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1286, le bienheureux Luc Belludi, pr&#xEA;tre de l&#x2019;Ordre des Mineurs, qui fut disciple et compagnon de saint Antoine. </para><para>12. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pyong-yang en Cor&#xE9;e, l&#x2019;an&#xA0;1866, saint Pierre Yu Chong-nyul, martyr. P&#xE8;re de famille, alors qu&#x2019;une nuit il lisait l&#x2019;&#xC9;vangile &#xE0; des fid&#xE8;les r&#xE9;unis dans la maison d&#x2019;un cat&#xE9;chiste, il fut arr&#xEA;t&#xE9; et, frapp&#xE9; &#xE0; mort de coups de verges, il succomba pour le Christ. </para><para>13*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rosica en Pologne, l&#x2019;an&#xA0;1943, le bienheureux Antoine Leszczewicz, pr&#xEA;tre de la Congr&#xE9;gation des Clercs Mariens et martyr, qui, au temps de l&#x2019;occupation militaire de ce pays par le r&#xE9;gime nazi, pr&#xE9;f&#xE9;ra rester parmi la population soumise &#xE0; une action punitive. Arr&#xEA;t&#xE9; par des soldats, il fut aussit&#xF4;t fusill&#xE9; et son corps br&#xFB;l&#xE9;. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

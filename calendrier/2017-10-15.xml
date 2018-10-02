@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXVIII per annum</la><fr>XXVIII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XXVIII per annum</la><fr>XXVIII&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Populus_Domini_et</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1/>
+
+<antL2/>
+
+<psL2/>
+
+<antL3/>
+
+<psL3/>
+
+<LVers/>
+n<Llec1>L1_Dominica_XXVIII_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XXVIII_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XXVIII_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XXVIII_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Ecce_iam_noctis_tenuatur_umbra</HYMNUS_laudes>
+ 
+<ant1>AN_Confitemini_Domino_quoniam</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Alleluia_benedicite_omnia</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Omnis_spiritus_laudet</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_2_Tim_2_8._11-13</LB_matin> 
+ 
+<RB_matin>RB_Confitebimur_tibi_Deus_Et</RB_matin>  
+<benedictus>AN_Dicite_invitatis_Ecce</benedictus> 
+<laudes_preces>perannum_41</laudes_preces><oratio_laudes>COL_Tua_nos_quaesumus_Domine_gratia_semper</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Qui_manducat_ex_hoc</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_Veniet_Dominus_glorificari</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Vovete_et_munera</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_1_Cor_6_19-20</LB_3>
+ 
+<RB_3>VERS_Concupiscit_et_deficit</RB_3>
+ 
+<LB_6>LB_Deut_10_12</LB_6>
+ 
+<RB_6>VERS_Domine_quis_habitabit</RB_6>
+ 
+<LB_9>LB_Cant_8_6b-7a</LB_9>
+ 
+<RB_9>VERS_Diligam te, Domine</RB_9>
+ 
+<oratio_3>COL_Tua_nos_quaesumus_Domine_gratia_semper</oratio_3>
+ 
+<oratio_6>COL_Tua_nos_quaesumus_Domine_gratia_semper</oratio_6>
+ 
+<oratio_9>COL_Tua_nos_quaesumus_Domine_gratia_semper</oratio_9>
+ 
+<intitule_soir><la>Dominica XXVIII per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_O_lux_beata_Trinitas</HYMNUS_vepres>
+ 
+<ant7>AN_In_splendoribus_sanctis</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Beati_qui_esuriunt_et</ant8>
+ 
+<ps8>ps111</ps8>
+ 
+<ant9>AN_Laudem_dicite_Deo</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Hebr_12_22-24</LB_soir>
+ 
+<RB_soir>RB_Magnus_Dominus_noster</RB_soir>
+ 
+<magnificat>AN_Nuptiae_quidem_paratae</magnificat>
+ 
+<vepres_preces>perannum_41</vepres_preces>
+ 
+<oratio_vepres>COL_Tua_nos_quaesumus_Domine_gratia_semper</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Si_iniquitates</IN>
+<IN_L>IN_L_perannum_28</IN_L>
+<COL>COL_perannum_28</COL>
+<LEC>LEC_Is45,1.4-6</LEC>
+<PS1>GR_Si_ambulem</PS1>
+<LEC2>LEC_Ph4,12-14.19-20</LEC2>
+
+<PS2>AL_Qui_timent_Dominum</PS2>
+<EV>EV_Mt22,1-14</EV>
+<OF>OF_Recordare_mei</OF>
+<SO>SO_perannum_28</SO>
+<CO>CO_Aufer_a_me</CO>
+<CO_L>CO_L_perannum_28</CO_L>
+<PC>PC_perannum_28</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Th&#xE9;r&#xE8;se d&#x2019;Avila, vierge et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>Religieuse, elle r&#xE9;forma l'Ordre du Carmel. Docteur de l&#x2019;&#xC9;glise, elle propose un chemin vers la saintet&#xE9; par l'oraison (&#x2020;1582)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 15 octobre</para><para>1. M&#xE9;moire de sainte Th&#xE9;r&#xE8;se de J&#xE9;sus, vierge et docteur de l&#x2019;&#xC9;glise. Entr&#xE9;e &#xE0; Avila dans l&#x2019;Ordre du Carmel et devenue m&#xE8;re et ma&#xEE;tresse d&#x2019;une observance plus stricte, elle disposa dans son c&#x153;ur un itin&#xE9;raire spirituel sous la forme d&#x2019;une mont&#xE9;e par degr&#xE9;s de l&#x2019;&#xE2;me vers Dieu&#xA0;; pour la r&#xE9;forme de son Ordre, elle dut supporter beaucoup de souffrances, qu&#x2019;elle surpassa par une &#xE9;nergie sans faille&#xA0;; elle composa aussi des livres qui rapportent sa doctrine tr&#xE8;s &#xE9;lev&#xE9;e et son exp&#xE9;rience, et mourut &#xE0; Alba de Tormes en 1582. </para><para>2. Comm&#xE9;moraison de saint Bars&#xE8;s, &#xE9;v&#xEA;que d&#x2019;&#xC9;desse en Syrie, qui fut rel&#xE9;gu&#xE9;, &#xE0; cause de sa foi catholique, par l&#x2019;empereur arien Valens, en &#xC9;gypte, aux confins de la Libye, et, &#xE9;puis&#xE9; par trois changements de lieu d&#x2019;exil, acheva sa vie, en 379, un jour inconnu du mois de mars. </para><para>3. &#xC0; Tr&#xE8;ves en Gaule Belgique, au Ve si&#xE8;cle, saint S&#xE9;v&#xE8;re, &#xE9;v&#xEA;que, qui fut le disciple de saint Loup de Troyes, le compagnon de saint Germain d&#x2019;Auxerre pour d&#xE9;raciner en Grande Bretagne les erreurs de P&#xE9;lage, et qui annon&#xE7;a aux Germains l&#x2019;&#xC9;vangile du Christ. </para><para>4. &#xC0; Kitzingen en Germanie, vers 790, sainte Th&#xE8;cle, abbesse, qui, envoy&#xE9;e d&#x2019;Angleterre pour aider saint Boniface, gouverna d&#x2019;abord le monast&#xE8;re d&#x2019;Ochsenfurt, puis celui de Kitzingen. </para><para>5. Au monast&#xE8;re de Trzebnicz en Sil&#xE9;sie, l&#x2019;an&#xA0;1243, la naissance au ciel de sainte Edwige, religieuse, dont la m&#xE9;moire sera c&#xE9;l&#xE9;br&#xE9;e le 16.octobre </para><para>6*. &#xC0; Torresvedras au Portugal, en 1422, le bienheureux Gonzalve de Lagos, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin, qui brilla par son z&#xE8;le &#xE0; enseigner les rudiments de la foi chr&#xE9;tienne aux enfants et aux gens simples. </para><para>7. &#xC0; Nagasaki au Japon, en 1634, sainte Madeleine, vierge et martyre, d&#x2019;une grande force d&#x2019;&#xE2;me aussi bien pour encourager la foi que pour subir, pendant treize jours, le supplice de la fourche, sous le chef supr&#xEA;me Tokugawa Yemitsu. </para><para>8*. &#xC0; Valence en Espagne, l&#x2019;an&#xA0;1936, le bienheureux Narcisse Bast&#xE9;, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr, victime de la pers&#xE9;cution religieuse au cours de la guerre civile.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

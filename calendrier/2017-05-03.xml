@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>7</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada III Paschae</la><fr>III&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la>Ss. Philippi et Iacobi, apostolorum</la><fr>Sts Philippe et Jacques,  ap&#xF4;tres</fr></intitule>
+<rang><la>Festum</la><fr>F&#xEA;te</fr></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_Apostolorum_Dominum</invitatoire>
+
+<HYMNUS_lectures>HY_Philippe_summae_honoribus</HYMNUS_lectures>
+
+<HYMNUS_lec_jour/>
+
+<antL1>AN_Misericordia_et_veritas</antL1>
+
+<psL1>ps88I</psL1>
+
+<antL2>AN_Filius_Dei_factus</antL2>
+
+<psL2>ps88II</psL2>
+
+<antL3>AN_Semel_iuravi_David</antL3>
+
+<psL3>ps88III</psL3>
+
+<LVers>VERS_Declaratio_sermonum</LVers>
+n<Llec1>L1_Ss._Philippi_et_Iacobi_apostolorum</Llec1>
+
+<Lrep1>R1_Ss._Philippi_et_Iacobi_apostolorum</Lrep1>
+
+<Llec2>L2_Ss._Philippi_et_Iacobi_apostolorum</Llec2>
+
+<Lrep2>R2_Ss._Philippi_et_Iacobi_apostolorum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Claro_paschali_gaudio</HYMNUS_laudes>
+ 
+<ant1>AN_Domine_ostende_nobis</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Tanto_tempore_vobiscum</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Non_turbetur_cor</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Eph_2_19-22</LB_matin> 
+ 
+<RB_matin>RB_Constitues_eos_principes_super_omnem</RB_matin>  
+<benedictus>AN_Invenit_Philippus_Nathanael</benedictus> 
+<laudes_preces>perannum_34</laudes_preces><oratio_laudes>COL_Deus_qui_nos_annua_apostolorum_Philippi</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps118XIV</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps69</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps74</ps6>
+ 
+<LB_3>LB_2_Cor_5_19_b-20</LB_3>
+ 
+<RB_3>VERS_In_omnem_terram_exivit_sonus</RB_3>
+ 
+<LB_6>LB_Act_5_12_a._14</LB_6>
+ 
+<RB_6>VERS_Custodiebant_testimonia_Dei_alleluia_Et</RB_6>
+ 
+<LB_9>LB_Act_5_41-42</LB_9>
+ 
+<RB_9>VERS_Gaudete_et_exsultate_alleluia_Quia</RB_9>
+ 
+<oratio_3>COL_Deus_qui_nos_annua_apostolorum_Philippi</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_nos_annua_apostolorum_Philippi</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_nos_annua_apostolorum_Philippi</oratio_9>
+ 
+<intitule_soir><la>SS. PHILIPPI ET IACOBI, APOSTOLORUM</la></intitule_soir>
+ 
+<rang_soir><la>Festum</la></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Tristes_erant_Apostoli</HYMNUS_vepres>
+ 
+<ant7>AN_Philippe_qui_videt</ant7>
+ 
+<ps7>ps115</ps7>
+ 
+<ant8>AN_Si_cognovissetis_me</ant8>
+ 
+<ps8>ps125</ps8>
+ 
+<ant9>AN_Si_diligitis_me</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_Eph_4_11-13</LB_soir>
+ 
+<RB_soir>RB_Annuntiate_inter_gentes_gloriam_Domini</RB_soir>
+ 
+<magnificat>AN_Si_manseritis_in</magnificat>
+ 
+<vepres_preces>perannum_34</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_nos_annua_apostolorum_Philippi</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+ 
+<comp_ps1>ps30</comp_ps1> 
+<comp_ant2>AN_De_profundis</comp_ant2> 
+<comp_ps2>ps129</comp_ps2> 
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+ 
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Exclamaverunt</IN>
+<COL>COL_Deus_qui_nos_annua_apostolorum_Philippi</COL>
+<LEC>LEC_1Co15,1-8</LEC>
+<PS2>AL_Tanto_tempore</PS2>
+<EV>EV_Jn14,6-14</EV>
+<OF>OF_Confitebuntur_caeli</OF>
+<CO>CO_Tanto_tempore</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Saint Jacques, ap&#xF4;tre</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Sts Philippe et Jacques,  ap&#xF4;tres</intitule>
+ <biographiecourte>Ap&#xF4;tres, Philippe et Jacques sont morts martyrs</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 3 mai</para><para>1. F&#xEA;te des saints Philippe et Jacques, Ap&#xF4;tres. Philippe, n&#xE9; &#xE0; Bethsa&#xEF;de, disciple de Jean-Baptiste, comme Pierre et Andr&#xE9;, fut appel&#xE9; par le Seigneur &#xE0; le suivre. Jacques, fils d&#x2019;Alph&#xE9;e, consid&#xE9;r&#xE9; chez les Latins comme le m&#xEA;me que le fr&#xE8;re du Seigneur, surnomm&#xE9; le Juste, dirigea le premier l&#x2019;&#xC9;glise de J&#xE9;rusalem et, quand s&#x2019;&#xE9;leva le d&#xE9;bat au sujet de la circoncision, se rangea &#xE0; l&#x2019;avis de Pierre de ne pas imposer le joug de la Loi juive aux disciples venant du monde pa&#xEF;en&#xA0;; il couronna peu apr&#xE8;s son apostolat par le martyre. </para><para>2. &#xC0; Antino&#xE9; en Th&#xE9;ba&#xEF;de, l&#x2019;an&#xA0;286, les saints martyrs Timoth&#xE9;e et Maure.</para><para>3. Sur la voie Nomentane, au septi&#xE8;me mille de Rome, au IIIe ou IVe si&#xE8;cle, les saints martyrs &#xC9;vence, Alexandre et Th&#xE9;odule. </para><para>4. &#xC0; Narni en Ombrie, au IVe si&#xE8;cle, saint Juv&#xE9;nal, v&#xE9;n&#xE9;r&#xE9; comme le premier &#xE9;v&#xEA;que de la cit&#xE9;. </para><para>5*. &#xC0; Kildare en Irlande, vers 520, saint Conleth, &#xE9;v&#xEA;que, qui fut appel&#xE9; par sainte Brigitte &#xE0; s&#x2019;occuper de la vie spirituelle dans son monast&#xE8;re et dans les autres fondations, et qui jouit d&#x2019;une grande autorit&#xE9; aupr&#xE8;s des pr&#xE9;lats de la r&#xE9;gion. </para><para>6*. &#xC0; Argos en Gr&#xE8;ce, vers 922, saint Pierre, &#xE9;v&#xEA;que, qui montra une tr&#xE8;s grande charit&#xE9; envers les pauvres et les esclaves, et s&#x2019;effor&#xE7;a constamment d&#x2019;apaiser les litiges pour le bien de la foi.</para><para>7*. Au monast&#xE8;re de Hohorst en Flandre, vers 1008, le tr&#xE9;pas de saint Ansfrid, &#xE9;v&#xEA;que d&#x2019;Utrecht, qui se retira dans ce lieu quand il fut devenu aveugle. </para><para>8*. Pr&#xE8;s de Kiev en Russie, l&#x2019;an&#xA0;1074, saint Th&#xE9;odose, abb&#xE9;, qui fonda la laure des Cryptes et y &#xE9;tablit, dit-on, la vie c&#xE9;nobitique. </para><para>9*. &#xC0; Verceil dans le Pi&#xE9;mont, en 1314, la bienheureuse &#xC9;milie Bicchieri, vierge, moniale de l&#x2019;Ordre des Pr&#xEA;cheurs. Bien qu&#x2019;elle ait &#xE9;t&#xE9; plusieurs fois prieure, elle s&#x2019;appliqua, parmi ses s&#x153;urs, avec la plus grande joie, aux t&#xE2;ches les plus humbles du couvent. </para><para>10*. &#xC0; Casimir, pr&#xE8;s de Cracovie en Pologne, l&#x2019;an&#xA0;1489, saint Stanislas Soltys, pr&#xEA;tre et chanoine r&#xE9;gulier, qui, pouss&#xE9; par la charit&#xE9; pastorale, fut un ministre diligent de la parole de Dieu, un ma&#xEE;tre en spiritualit&#xE9; et un confesseur toujours pr&#xEA;t &#xE0; recevoir les p&#xE9;nitents. (canonis&#xE9; le 17 octobre 2010 par Beno&#xEE;t XVI) </para><para>11*. &#xC0; Suse dans le Pi&#xE9;mont, en 1903, le bienheureux &#xC9;douard-Joseph Rosaz, &#xE9;v&#xEA;que, qui pendant vingt-cinq ans exer&#xE7;a son minist&#xE8;re apostolique aupr&#xE8;s de son peuple, surtout des pauvres, et fonda la Congr&#xE9;gation des S&#x153;urs du Tiers-Ordre de Saint-Fran&#xE7;ois. </para><para>12*. &#xC0; Sherbrook au Qu&#xE9;bec, en 1912, la bienheureuse Marie-L&#xE9;onie (Alodie Paradis), vierge, qui fonda la Congr&#xE9;gation des Petites S&#x153;urs de la Sainte Famille, vou&#xE9;e &#xE0; aider les pr&#xEA;tres dans leur pratique et leur vie commune. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>13</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada VII Paschae</la><fr>VII&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_qui</invitatoire>
+
+<HYMNUS_lectures>hy_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+
+<antL1>AN_Laboravi_clamans_dum</antL1>
+
+<psL1>ps68I</psL1>
+
+<antL2>AN_Dederunt_in_escam</antL2>
+
+<psL2>ps68II</psL2>
+
+<antL3>AN_Quaerite_Dominum_et</antL3>
+
+<psL3>ps68III</psL3>
+
+<LVers>VERS_Dominus_vias</LVers>
+n<Llec1>L1_pascha_76</Llec1>
+
+<Lrep1>R1_pascha_76</Lrep1>
+
+<Llec2>L2_pascha_76</Llec2>
+
+<Lrep2>R2_pascha_76</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Optatus_votis_omnium</HYMNUS_laudes>
+ 
+<ant1>AN_Amplius_lava_me</ant1>
+ 
+<ps1>ps50</ps1>
+ 
+<ant2>AN_Christus_peccata_nostra</ant2>
+ 
+<ps2>AT34</ps2>
+ 
+<ant3>AN_Introite_in_conspectu</ant3>
+ 
+<ps3>ps99</ps3>
+ 
+<LB_matin>LB_Act_5_30-32</LB_matin> 
+ 
+<RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin>  
+<benedictus>AN_Christus_Iesus_mortuus</benedictus> 
+<laudes_preces>perannum_36</laudes_preces><oratio_laudes>COL_Deus_qui_nobis_aeternitatis_aditum_glorificatione</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps21I</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps21II</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps21III</ps6>
+ 
+<LB_3>LB_Act_2_32._36</LB_3>
+ 
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+ 
+<LB_6>LB_Gal_3_27-28</LB_6>
+ 
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+ 
+<LB_9>LB_1_Cor_5_7-8</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3>COL_Deus_qui_nobis_aeternitatis_aditum_glorificatione</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_nobis_aeternitatis_aditum_glorificatione</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_nobis_aeternitatis_aditum_glorificatione</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Veni_creator_Spiritus</HYMNUS_vepres>
+ 
+<ant7>AN_Ego_Dominus_salvans</ant7>
+ 
+<ps7>ps134I</ps7>
+ 
+<ant8>AN_Benedictum_quod_venit</ant8>
+ 
+<ps8>ps134II</ps8>
+ 
+<ant9>AN_Cantemus_Domino_gloriose</ant9>
+ 
+<ps9>NT11</ps9>
+ 
+<LB_soir>LB_Hebr_5_8-10</LB_soir>
+ 
+<RB_soir>RB_Spiritus_Paraclitus_Alleluia_alleluia</RB_soir>
+ 
+<magnificat>AN_Omnes_erant_perseverantes</magnificat>
+ 
+<vepres_preces>perannum_36</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_nobis_aeternitatis_aditum_glorificatione</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+ 
+<comp_ps1>ps87</comp_ps1> 
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+ 
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Deus_dum_egredereris</IN>
+<LEC>LEC_Ac25,13-21</LEC>
+<PS1>AL_Spiritus_est_qui_vivificat</PS1>
+<PS2/>
+<EV>EV_Jn21,15-19</EV>
+<OF>OF_Meditabor</OF>
+<CO>CO_Simon_Ioannis</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Sts Pothin, &#xE9;v&#xEA;que, Blandine, vierge et leurs compagnons, martyrs</intitule>
+ <biographiecourte>Le premier &#xE9;v&#xEA;que de Lyon et l'esclave, ainsi que leurs compagnons de Lyon et de Vienne, ont &#xE9;t&#xE9; martyris&#xE9;s en 177</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Sts Marcellin et Pierre, martyrs.</intitule>
+ <biographiecourte>Ont eu la t&#xEA;te tranch&#xE9;e au milieu des bois (&#x2020; vers 304)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 2 juin</para><para>(En France, M&#xE9;moire des saints martyrs de Lyon Pothin..., &#xE9;loge n&#xA0;2.)</para><para>1. M&#xE9;moire des saints martyrs Marcellin, pr&#xEA;tre, et Pierre, exorciste. Selon ce que rapporte le pape saint Damase, sous la pers&#xE9;cution de Diocl&#xE9;tien, vers 304, ils furent condamn&#xE9;s &#xE0; mort, conduits &#xE0; travers des buissons au lieu de leur supplice et contraints de creuser leur tombe de leurs propres mains, pour que leurs corps demeurent inconnus, mais une pieuse femme, Lucine, recueillit leurs corps et les d&#xE9;posa dans le cimeti&#xE8;re &#x201C;Aux deux lauriers&#x201D; sur la voie Labicane. </para><para>2. &#xC0; Lyon, les saints martyrs Pothin, &#xE9;v&#xEA;que, et Blandine, avec quarante-six compagnons dont une lettre de l&#x2019;&#xC9;glise de Lyon aux &#xC9;glises d&#x2019;Asie et de Phrygie rapporte les combats courageux et r&#xE9;p&#xE9;t&#xE9;s, au temps de l&#x2019;empereur Marc Aur&#xE8;le, en 177. Parmi eux l&#x2019;&#xE9;v&#xEA;que saint Pothin, &#xE2;g&#xE9; de quatre-vingt-dix ans, fut conduit en prison et rendit l&#x2019;&#xE2;me peu apr&#xE8;s. D&#x2019;autres moururent &#xE9;galement en prison. D&#x2019;autres furent plac&#xE9;s au milieu de l&#x2019;amphith&#xE9;&#xE2;tre devant une multitude de milliers d&#x2019;hommes rassembl&#xE9;s pour le spectacle&#xA0;: ceux qui furent trouv&#xE9;s citoyens romains furent d&#xE9;capit&#xE9;s&#xA0;;&#xA0;tous les autres furent livr&#xE9;s aux b&#xEA;tes. En dernier lieu, Blandine, soumise &#xE0; des combats r&#xE9;p&#xE9;t&#xE9;s et des plus violents, enfin &#xE9;gorg&#xE9;e d&#x2019;un coup d&#x2019;&#xE9;p&#xE9;e, suivit tous les autres, qu&#x2019;elle avait exhort&#xE9;s &#xE0; recevoir la palme. </para><para>3. &#xC0; Formies en Campanie, vers 303, saint &#xC9;rasme, &#xE9;v&#xEA;que et martyr.</para><para>4. &#xC0; Rome, pr&#xE8;s de saint Pierre, en 657, saint Eug&#xE8;ne Ier, pape, qui succ&#xE9;da &#xE0; saint Martin Ier, martyr. </para><para>5. Pr&#xE8;s du Bosphore, en 629, le tr&#xE9;pas de saint Nic&#xE9;phore, &#xE9;v&#xEA;que de Constantinople. Z&#xE9;l&#xE9; d&#xE9;fenseur des traditions de ses p&#xE8;res, il s&#x2019;opposa fortement &#xE0; l&#x2019;empereur iconoclaste L&#xE9;on l&#x2019;Isaurien pour d&#xE9;fendre le culte des saintes images. Chass&#xE9; par celui-ci de son si&#xE8;ge et longtemps rel&#xE9;gu&#xE9; dans un monast&#xE8;re, il s&#x2019;en alla paisiblement vers le Seigneur. </para><para>6*. &#xC0; Acqui dans le Pi&#xE9;mont, en 1070, saint Guy, &#xE9;v&#xEA;que. </para><para>7*. &#xC0; Trani dans les Pouilles, en 1094, saint Nicolas le p&#xE8;lerin. N&#xE9; en Gr&#xE8;ce, il parcourut la r&#xE9;gion, une croix dans la main et priant sans arr&#xEA;t&#xA0;: Kyrie eleison. </para><para>8*. Comm&#xE9;moraison des bienheureux martyrs Sadoc, pr&#xEA;tre, et ses quarante-huit compagnons, de l&#x2019;Ordre des Pr&#xEA;cheurs, qui, dit-on, furent massacr&#xE9;s par les Tartares &#xE0; Sandomir sur la Vistule, en Pologne, l&#x2019;an&#xA0;1259, alors qu&#x2019;ils chantaient le Salve Regina. </para><para>9. Au Tonkin, Saint Dominique Ninh, martyr </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

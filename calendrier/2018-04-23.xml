@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>12</priorite>
+<couleur>Blanc</couleur>
+<code>pascha_42</code>
+<propre/>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada IV Paschae</la><fr>IV&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la>S. Adalberti, episcopi et martyris</la><fr> St Adalbert, &#xE9;v&#xEA;que et martyr</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+
+<HYMNUS_lectures>hy_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+
+<antL1>AN_Quam_bonus_Israel</antL1>
+
+<psL1>ps72I</psL1>
+
+<antL2>AN_Risus_eorum_in</antL2>
+
+<psL2>ps72II</psL2>
+
+<antL3>AN_Qui_elongant_se</antL3>
+
+<psL3>ps72III</psL3>
+
+<LVers>VERS_Quam_dulcia</LVers>
+n<Llec1>L1_pascha_42</Llec1>
+
+<Lrep1>R1_pascha_42</Lrep1>
+
+<Llec2>L2_pascha_42</Llec2>
+
+<Lrep2>R2_pascha_42</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ 
+<ant1>AN_Sit_splendor_Domini</ant1>
+ 
+<ps1>ps89</ps1>
+ 
+<ant2>AN_Ponam_tenebras_coram</ant2>
+ 
+<ps2>AT26</ps2>
+ 
+<ant3>AN_Omnia_quaecumque_voluit</ant3>
+ 
+<ps3>ps134</ps3>
+ 
+<LB_matin>LB_Rom_10_8b-10</LB_matin> 
+ 
+<RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin>  
+<benedictus>AN_Ego_sum_pastor</benedictus> 
+<laudes_preces>perannum_42</laudes_preces><oratio_laudes>COL_Deus_qui_in_Filii_tui_humilitate</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps118XVII</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps81</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps119</ps6>
+ 
+<LB_3>LB_Ap_1_17c-18</LB_3>
+ 
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+ 
+<LB_6>LB_Col_2_9._10a._12</LB_6>
+ 
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+ 
+<LB_9>LB_2_Tim_2_8._11</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3>COL_Deus_qui_in_Filii_tui_humilitate</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_in_Filii_tui_humilitate</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_in_Filii_tui_humilitate</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+ 
+<ant7>AN_Si_quis_in</ant7>
+ 
+<ps7>ps135I</ps7>
+ 
+<ant8>AN_Nos_diligamus_Deum</ant8>
+ 
+<ps8>ps135II</ps8>
+ 
+<ant9>AN_De_plenitudine_eius</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_Hebr_8_1b-3a</LB_soir>
+ 
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+ 
+<magnificat>AN_Alias_oves_habeo</magnificat>
+ 
+<vepres_preces>perannum_42</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_in_Filii_tui_humilitate</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+ 
+<comp_ps1>ps85</comp_ps1> 
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+ 
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Misericordia_Domini</IN>
+<LEC>LEC_Ac11,1-18</LEC>
+<PS1>AL_Redemptionem</PS1>
+<PS2/>
+<EV>EV_Jn10,1-10</EV>
+<OF>OF_Deus_Deus_meus</OF>
+<CO>CO_Cantate_Domino</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>St Georges, martyr</texte></jerusalem>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>St Georges, martyr</intitule>
+ <biographiecourte>Soldat mort &#xE0; Lod en Palestine en 303. Il a le titre de "grand martyr&#xA0;"</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule> St Adalbert, &#xE9;v&#xEA;que et martyr</intitule>
+ <biographiecourte>Fut sacr&#xE9; &#xE9;v&#xEA;que de Prague en 983, &#xE9;vang&#xE9;lisa la Pologne, mourut martyr pr&#xE8;s de Gdansk (&#x2020;997) </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 23 avril</para><para>1. M&#xE9;moire de saint Georges, martyr, dont toutes les &#xC9;glises, de l&#x2019;Orient &#xE0; l&#x2019;Occident, c&#xE9;l&#xE8;brent depuis l&#x2019;antiquit&#xE9; le glorieux combat &#xE0; Diospolis ou Lydda en Palestine. </para><para>2. M&#xE9;moire &#xE9;galement de saint Adalbert (Vojtech), &#xE9;v&#xEA;que de Prague et martyr. Il souffrit beaucoup dans cette &#xC9;glise, entreprit plusieurs voyages pour le Christ, travailla activement &#xE0; extirper les habitudes pa&#xEF;ennes, mais, constatant qu&#x2019;il n&#x2019;obtenait que peu de r&#xE9;sultat, il s&#x2019;en alla &#xE0; Rome et s&#x2019;y fit moine sur l&#x2019;Aventin. Enfin, il alla en Pologne et, comme il avait l&#x2019;intention d&#x2019;attirer &#xE0; la foi les russes voisins, il fut assailli, en 997, par les pa&#xEF;ens &#xE0; Tenkitten, pr&#xE8;s de Gdansk, un lieu sacr&#xE9; pour eux, qui le perc&#xE8;rent de leurs lances. </para><para>3. &#xC0; &#xC9;desse en Syrie, l&#x2019;an&#xA0;387, saint Euloge, &#xE9;v&#xEA;que, qui mourut, dit-on, le Vendredi saint. </para><para>4. &#xC0; Milan, au Ve si&#xE8;cle, saint Marole, &#xE9;v&#xEA;que, ami du pape saint Innocent Ier. </para><para>5. &#xC0; Toul, en 994, saint G&#xE9;rard, &#xE9;v&#xEA;que, qui, pendant trente-et-un ans munit la cit&#xE9; de lois excellentes, nourrit les pauvres, vint au secours du peuple par ses pri&#xE8;res et ses je&#xFB;nes en temps de peste, fit la d&#xE9;dicace de sa cath&#xE9;drale, et ne se contenta pas d&#x2019;aider de ses moyens les monast&#xE8;res, mais les garnit aussi de saints disciples. </para><para>6*. &#xC0; Suelli en Sardaigne, en 1117, saint Georges, &#xE9;v&#xEA;que. </para><para>7*. &#xC0; P&#xE9;rouse en Ombrie, l&#x2019;an&#xA0;1263, le bienheureux Gilles d&#x2019;Assise, religieux de l&#x2019;Ordre des Mineurs. Compagnon de saint Fran&#xE7;ois, il brilla dans ses p&#xE9;r&#xE9;grinations par sa foi intr&#xE9;pide et son admirable simplicit&#xE9;. </para><para>8*. &#xC0; Udine en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1458, la bienheureuse H&#xE9;l&#xE8;ne Valentini, veuve, qui pour servir Dieu seul, agit efficacement dans le Tiers-Ordre de Saint-Augustin, en s&#x2019;adonnant &#xE0; la pri&#xE8;re, &#xE0; la lecture de l&#x2019;&#xC9;vangile et aux &#x153;uvres de mis&#xE9;ricorde. </para><para>9*. &#xC0; Campo Bisenzio en Toscane, l&#x2019;an&#xA0;1910, la bienheureuse Th&#xE9;r&#xE8;se-Marie de la Croix (Th&#xE9;r&#xE8;se Manetti), vierge, fondatrice de la Congr&#xE9;gation des Carm&#xE9;lites de Sainte-Th&#xE9;r&#xE8;se. </para><para>10*. Au monast&#xE8;re cistercien de Grottaferrata dans le Latium, en 1939, la bienheureuse Marie-Gabrielle Sagheddu, vierge, qui offrit sa vie en toute simplicit&#xE9; pour l&#x2019;unit&#xE9; des chr&#xE9;tiens, et termina son existence &#xE0; l&#x2019;&#xE2;ge de vingt-cinq ans. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

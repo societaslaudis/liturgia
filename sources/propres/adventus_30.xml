@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica III Adventus</la>
+<fr>III&#xB0; dimanche de l'Avent</fr>
+</intitule>
+<HYMNUS_vesperas id="hy_Conditor_alme_siderum"/>
+<HYMNUS_1V id="hy_Conditor_alme_siderum"/>
+<ant7 id="AN_Ierusalem_gaude_gaudio"/>
+<ant8 id="AN_Ego_Dominus_prope"/>
+<ant9 id="AN_Emitte_Agnum_Domine"/>
+<LB_soir id="LB_1Th_5_23-24"/>
+<RB_soir id="RB_Ostende_nobis_Domine_Misericordiam"/>
+</liturgia>

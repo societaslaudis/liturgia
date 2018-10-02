@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>1</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Infra octavam Paschae</la><fr>Dans l'octave de P&#xE2;ques</fr></hebdomada>
+<intitule><la>DOMINICA RESURRECTIONIS</la><fr>DIMANCHE DE LA RESURRECTION</fr></intitule>
+<rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+
+<HYMNUS_lectures>HY_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>HY_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Lignum_vitae_in</antL1>
+
+<psL1>ps1</psL1>
+
+<antL2>AN_Ego_constitui_Regem</antL2>
+
+<psL2>ps2</psL2>
+
+<antL3>AN_Tu_Domine_protector</antL3>
+
+<psL3>ps3</psL3>
+
+<LVers>VERS_Verbum_Christi</LVers>
+n<Llec1>L1_DOMINICA_RESURRECTIONIS</Llec1>
+
+<Lrep1>R1_DOMINICA_RESURRECTIONIS</Lrep1>
+
+<Llec2>L2_DOMINICA_RESURRECTIONIS</Llec2>
+
+<Lrep2>R2_DOMINICA_RESURRECTIONIS</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ 
+<ant1>AN_Surrexit_Christus_et</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Redemptor_noster_surrexit</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Alleluia_resurrexit_Dominus</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_ap10.40-43</LB_matin> 
+ 
+<RB_matin>RB_Haec_dies_quam_fecit_Dominus</RB_matin>  
+<benedictus>AN_Et_valde_mane</benedictus> 
+<laudes_preces>pascha_11</laudes_preces><oratio_laudes>COL_Deus_qui_hodierna_die_per_Unigenitum</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Christus_surrexit_a_mortuis</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Traditus_est_propter_delicta</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Si_consurrexistis_cum_Christo</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Cf.1Cor15,3b-5</LB_3>
+ 
+<RB_3>VERS_Haec_dies_quam_fecit_Dominus</RB_3>
+ 
+<LB_6>LB_Eph2,4-6</LB_6>
+ 
+<RB_6>VERS_Haec_dies_quam_fecit_Dominus</RB_6>
+ 
+<LB_9>LB_Rom6,4</LB_9>
+ 
+<RB_9>VERS_Haec_dies_quam_fecit_Dominus</RB_9>
+ 
+<oratio_3>COL_Deus_qui_hodierna_die_per_Unigenitum</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_hodierna_die_per_Unigenitum</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_hodierna_die_per_Unigenitum</oratio_9>
+ 
+<intitule_soir><la>DOMINICA RESURRECTIONIS</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+ 
+<ant7>AN_Venerunt_ad_monumentum</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Venite_et_videte</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Ait_Iesus_Nolite</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Hebr10,12-14</LB_soir>
+ 
+<RB_soir>RB_Haec_dies_quam_fecit_Dominus</RB_soir>
+ 
+<magnificat>AN_Cum_esset_sero</magnificat>
+ 
+<vepres_preces>pascha_11</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_hodierna_die_per_Unigenitum</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>HY_Iesu_redemptor</HYMNUS_complies>
+ 
+<comp_RB>RB_Haec_dies_quam_fecit_Dominus</comp_RB>
+ 
+<comp_ant1>AN_alleluia_alleluia_alleulia</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>Ad missam in vigilia
+</Intitule_messe>
+<PS2>AL_Confitemini_Domino</PS2>
+<OF>OF_Dextera_Domini</OF>
+<CO>CO_Alleluia</CO>
+</messe>
+<messe>
+<Intitule_messe>Ad missam in die
+</Intitule_messe>
+<IN>IN_Resurrexi</IN>
+<COL>COL_Deus_qui_hodierna_die_per_Unigenitum</COL>
+<LEC>LEC_Ac10,34a.37-43</LEC>
+<PS1>GR_Haec_dies</PS1><LEC2>LEC_Col3,1-4</LEC2>
+<PS2>AL_Pascha_nostrum</PS2>
+<SEQ>SEQ_Victimae_paschali_laudes</SEQ>
+<EV>EV_Jn20,1-9</EV>
+<OF>OF_Terra_tremuit</OF>
+<CO>CO_Pascha_nostrum</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Anselme de Canterbury, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>Abb&#xE9; du Bec en Normandie et &#xE9;v&#xEA;que de Canterbury, il fut un grand th&#xE9;ologien (&#x2020;1109)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Dimanche de P&#xE2;ques et de la R&#xE9;surrection du Seigneur</para><para>Ce jour, que fit le Seigneur, est la solennit&#xE9; des solennit&#xE9;s et notre P&#xE2;que&#xA0;: la R&#xE9;surrection de notre Sauveur J&#xE9;sus-Christ selon la chair.</para><para>
+            Le 21 avril</para><para>1. M&#xE9;moire de saint Anselme, &#xE9;v&#xEA;que et docteur de l&#x2019;&#xC9;glise. D&#x2019;Aoste o&#xF9; il est n&#xE9;, devenu moine puis abb&#xE9; du Bec en Normandie, il enseigna &#xE0; ses fr&#xE8;res &#xE0; avancer sur le chemin de la perfection et &#xE0; chercher Dieu par l&#x2019;intelligence de la foi. Promu ensuite au si&#xE8;ge illustre de Cantorb&#xE9;ry, en Angleterre, il lutta fermement pour la libert&#xE9; de l&#x2019;&#xC9;glise et souffrit pour cela des temps d&#x2019;exil. Il mourut enfin dans son &#xC9;glise, le mercredi saint de l&#x2019;ann&#xE9;e&#xA0;1109. </para><para>2. &#xC0; Rome, saint Apollonius, philosophe, martyr. Sous l&#x2019;empereur Commode, en 183, il d&#xE9;fendit la cause de la foi chr&#xE9;tienne dans un discours tr&#xE8;s soign&#xE9; devant le pr&#xE9;fet Perennius et le S&#xE9;nat, mais plus encore, condamn&#xE9; &#xE0; mort, il confirma cette foi par le t&#xE9;moignage du sang. </para><para>3. &#xC0; Alexandrie, saint Ariste, pr&#xEA;tre et martyr. </para><para>4. Au mont Sina&#xEF;, vers 700, saint Anastase, higoum&#xE8;ne, qui d&#xE9;fendit infatigablement la foi catholique contre les monophysites et &#xE9;crivit un grand nombre de sermons pour le salut des &#xE2;mes. </para><para>5*. Au monast&#xE8;re d&#x2019;Applecross en &#xC9;cosse, l&#x2019;an&#xA0;722, saint Ma&#xEB;lrub, abb&#xE9;. N&#xE9; en Irlande, devenu moine de Bangor, il fonda en &#xC9;cosse un monast&#xE8;re de missionnaires, d&#x2019;o&#xF9;, pendant cinquante ans, il porta la lumi&#xE8;re de la foi au peuple de cette r&#xE9;gion. </para><para>6*. &#xC0; Callium dans les Marches, en 1371, le bienheureux Jean Saziari, religieux du Tiers-Ordre de saint Fran&#xE7;ois. </para><para>7*. &#xC0; Cervera, pr&#xE8;s de Fossano dans le Pi&#xE9;mont, en 1466, le bienheureux Barth&#xE9;lemy Cerveri, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs et martyr, qui combattit vivement pour la foi catholique et, transperc&#xE9; par des lances, la confirma par sa mort. </para><para>7. &#xC0; Alt&#xF6;tting en Bavi&#xE8;re, l&#x2019;an&#xA0;1891, saint Conrad de Parzham, religieux capucin, qui fut charg&#xE9; pendant plus de quarante ans de l&#x2019;humble office de portier. Toujours g&#xE9;n&#xE9;reux pour les pauvres, il avait l&#x2019;habitude de ne laisser partir aucun mis&#xE9;reux, sans lui donner aussi quelques paroles de consolation chr&#xE9;tienne. </para><para>8. &#xC0; Nochistlan, sur le territoire de Guadalajara au Mexique, en 1927, saint Romain Adame, pr&#xEA;tre et martyr. Durant la pers&#xE9;cution contre l&#x2019;&#xC9;glise dans ce pays, il exer&#xE7;a son minist&#xE8;re en cachette dans des maisons et des fermes. D&#xE9;nonc&#xE9;, il fut arr&#xEA;t&#xE9; et fusill&#xE9;. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

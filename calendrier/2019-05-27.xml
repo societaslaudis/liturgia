@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada VI Paschae</la><fr>VI&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la>S. Augustini Cantuarensis, episcopi</la><fr>St Augustin de Cantorb&#xE9;ry, &#xE9;v&#xEA;que</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+
+<HYMNUS_lectures>hy_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+
+<antL1>AN_Inclina_ad_me</antL1>
+
+<psL1>ps30I</psL1>
+
+<antL2>AN_Illumina_faciem_tuam</antL2>
+
+<psL2>ps30II</psL2>
+
+<antL3>AN_Benedictus_Dominus_quoniam</antL3>
+
+<psL3>ps30III</psL3>
+
+<LVers>VERS_Dirige_me</LVers>
+n<Llec1>L1_pascha_62</Llec1>
+
+<Lrep1>R1_pascha_62</Lrep1>
+
+<Llec2>L2_pascha_62</Llec2>
+
+<Lrep2>R2_pascha_62</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ 
+<ant1>AN_Sicut_cervus_ad</ant1>
+ 
+<ps1>ps41</ps1>
+ 
+<ant2>AN_Reple_Sion_Domine</ant2>
+ 
+<ps2>AT15</ps2>
+ 
+<ant3>AN_Claritas_Dei_illuminat</ant3>
+ 
+<ps3>ps18A</ps3>
+ 
+<LB_matin>LB_Rom_10_8b-10</LB_matin> 
+ 
+<RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin>  
+<benedictus>AN_Regeneravit_nos_Deus</benedictus> 
+<laudes_preces>perannum_22</laudes_preces><oratio_laudes>COL_Concede_misericors_Deus_ut_quod_paschalibus</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps118VI</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps39I</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps39II</ps6>
+ 
+<LB_3>LB_Ap_1_17c-18</LB_3>
+ 
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+ 
+<LB_6>LB_Col_2_9._10a._12</LB_6>
+ 
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+ 
+<LB_9>LB_2_Tim_2_8._11</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3>COL_Concede_misericors_Deus_ut_quod_paschalibus</oratio_3>
+ 
+<oratio_6>COL_Concede_misericors_Deus_ut_quod_paschalibus</oratio_6>
+ 
+<oratio_9>COL_Concede_misericors_Deus_ut_quod_paschalibus</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+ 
+<ant7>AN_Benedictus_qui_venit</ant7>
+ 
+<ps7>ps44I</ps7>
+ 
+<ant8>AN_Beati_qui_ad</ant8>
+ 
+<ps8>ps44II</ps8>
+ 
+<ant9>AN_De_plenitudine_eius</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_Hebr_8_1b-3a</LB_soir>
+ 
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+ 
+<magnificat>AN_Spiritus_veritatis_qui</magnificat>
+ 
+<vepres_preces>perannum_22</vepres_preces>
+ 
+<oratio_vepres>COL_Concede_misericors_Deus_ut_quod_paschalibus</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+ 
+<comp_ps1>ps85</comp_ps1> 
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+ 
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Vocem_iucunditatis</IN>
+<LEC>LEC_Ac16,11-15</LEC>
+<PS1>AL_Cantate_Domino</PS1>
+<PS2/>
+<EV>EV_Jn15,26-16,4</EV>
+<OF>OF_Benedicite_gentes</OF>
+<CO>CO_Spiritus_qui_a_Patre_procedit</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Rogations </intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Augustin de Cantorb&#xE9;ry, &#xE9;v&#xEA;que</intitule>
+ <biographiecourte>B&#xE9;n&#xE9;dictin, il fut envoy&#xE9; par le pape Gr&#xE9;goire le Grand en Angleterre pour &#xE9;vang&#xE9;liser les Saxons (&#x2020; vers 605)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 27 mai</para><para>1. M&#xE9;moire de saint Augustin, &#xE9;v&#xEA;que de Cantorb&#xE9;ry en Angleterre. Envoy&#xE9; avec d&#x2019;autres moines romains par le pape saint Gr&#xE9;goire le Grand pour annoncer l&#x2019;&#xC9;vangile au peuple des Angles, il fut accueilli avec bienveillance par le roi du Kent, &#xC9;thelbert, et imitant la vie apostolique de l&#x2019;&#xC9;glise primitive, il convertit &#xE0; la foi chr&#xE9;tienne le roi lui-m&#xEA;me et beaucoup de son peuple, et &#xE9;tablit plusieurs si&#xE8;ges &#xE9;piscopaux sur cette terre. Il mourut le 26 mai, vers 604. </para><para>2. &#xC0; Dorostore en M&#xE9;die, vers 302, saint Jules, martyr. V&#xE9;t&#xE9;ran en retraite de l&#x2019;arm&#xE9;e, au temps de la pers&#xE9;cution, il fut arr&#xEA;t&#xE9; par des gardes d&#x2019;office et pr&#xE9;sent&#xE9; au juge Maxime. Il manifesta en sa pr&#xE9;sence son horreur des idoles, confessa le nom du Christ avec la plus grande assurance, fut puni de la peine capitale et frapp&#xE9; de l&#x2019;&#xE9;p&#xE9;e. </para><para>3. Sur la voie Nomentane, au seizi&#xE8;me mille de Rome, saint Restitut, martyr. </para><para>4. &#xC0; Orange en Provence, vers 475, saint Eutrope, &#xE9;v&#xEA;que, qui travaillait de ses mains avec ardeur malgr&#xE9; la rigueur des saisons et, pendant le car&#xEA;me, prolongeait l&#x2019;office divin par la pri&#xE8;re personnelle et le je&#xFB;ne. </para><para>5. &#xC0; Wurzbourg en Franconie, l&#x2019;an&#xA0;1045, saint Brunon, &#xE9;v&#xEA;que, qui reconstruisit la cath&#xE9;drale, r&#xE9;organisa l&#x2019;&#xE9;cole &#xE9;piscopale et &#xE9;crivit pour le peuple des commentaires des saintes &#xC9;critures. </para><para>6*. Au monast&#xE8;re de Montsalvy en Auvergne, l&#x2019;an&#xA0;1039, saint Gaubert, pr&#xEA;tre et ermite, gr&#xE2;ce &#xE0; qui ce lieu, auparavant sauvage et affreux, devint un hospice pour accueillir les p&#xE8;lerins. </para><para>7*. &#xC0; Dryburne, pr&#xE8;s de Durham en Angleterre, l&#x2019;an&#xA0;1590, les bienheureux Edmond Duke, Richard Hill, Jean Hogg et Richard Holiday, pr&#xEA;tres et martyrs. Form&#xE9;s au coll&#xE8;ge anglais de Reims, ils revinrent en Angleterre et, uniquement en raison de leur sacerdoce, ils furent condamn&#xE9;s &#xE0; mort sous la reine &#xC9;lisabeth I&#xE8;re et pendus au gibet. </para><para>8. &#xC0; S&#xE9;oul en Cor&#xE9;e, l&#x2019;&#x2019;an&#xA0;1839, les saintes martyres Barbe Kim, veuve, et Barbe Yi, vierge, &#xE2;g&#xE9;e de quinze ans, qui furent ensemble d&#xE9;tenues en prison, o&#xF9; elles moururent de la peste. </para><para>9. &#xC0; Nakiwubo en Ouganda, l&#x2019;an&#xA0;1886, saint Athanase Bazzekuketta, martyr. Il &#xE9;tait un des pages du roi, r&#xE9;cemment baptis&#xE9; et br&#xFB;lant du d&#xE9;sir du martyre. Pendant qu&#x2019;on le conduisait, avec les autres, vers le lieu du supplice, il demanda aux bourreaux de le tuer sur le champ et, perc&#xE9; de coups, il acheva son martyre. </para><para>10. &#xC0; Lubawo, &#xE9;galement en Ouganda et la m&#xEA;me ann&#xE9;e, saint Gonzague Gonza, martyr, un des familiers du roi. Tandis qu&#x2019;on le conduisait au b&#xFB;cher, les pieds entrav&#xE9;s, il fut perc&#xE9; de coups de lance par les bourreaux. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XV per annum</la><fr>XV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XV per annum</la><fr>XV&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_XV_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XV_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XV_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XV_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ 
+<ant1>AN_Mirabilis_in_altis</ant1>
+ 
+<ps1>ps92</ps1>
+ 
+<ant2>AN_Laudabilis_es_Domine</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Laudate_Dominum_de</ant3>
+ 
+<ps3>ps148</ps3>
+ 
+<LB_matin>LB_Ez_37,12b-14</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin>  
+<benedictus>AN_Samaritanus_quidam_iter</benedictus> 
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Deus_qui_errantibus_ut_in_viam</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_De_tribulatione_invocavi</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Dextera_Domini_fecit</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Rom_8_15-16</LB_3>
+ 
+<RB_3>VERS_Apud_te_Domine</RB_3>
+ 
+<LB_6>LB_Rom_8,_22-23</LB_6>
+ 
+<RB_6>VERS_Benedic_anima</RB_6>
+ 
+<LB_9>LB_2Tim1,9</LB_9>
+ 
+<RB_9>VERS_Deduxit_eos_Dominus</RB_9>
+ 
+<oratio_3>COL_Deus_qui_errantibus_ut_in_viam</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_errantibus_ut_in_viam</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_errantibus_ut_in_viam</oratio_9>
+ 
+<intitule_soir><la>Dominica XV per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+ 
+<ant7>AN_Dixit_Dominus_Domino</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Memoriam_fecit_mirabilium</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_1_Petr1,3-5</LB_soir>
+ 
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+ 
+<magnificat>AN_Quis_tibi_videtur</magnificat>
+ 
+<vepres_preces>perannum_31</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_errantibus_ut_in_viam</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Ego_autem_cum_iustitia</IN>
+<IN_L>IN_L_perannum_15</IN_L>
+<COL>COL_perannum_15</COL>
+<LEC>LEC_Dt30,10-14</LEC>
+<PS1>GR_Custodi_me</PS1>
+<LEC2>LEC_Col1,15-20</LEC2>
+
+<PS2>AL_Te_decet_hymnus</PS2>
+<EV>EV_Lc10,25-37</EV>
+<OF>OF_Ad_te_Domine_levavi</OF>
+<SO>SO_perannum_15</SO>
+<CO>CO_Qui_manducat</CO>
+<CO_L>CO_L_perannum_15</CO_L>
+<PC>PC_perannum_15</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule>F&#xEA;te nationale - F&#xE9;ri&#xE9;</intitule></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Camille de Lellis, pr&#xEA;tre</intitule>
+ <biographiecourte>Pr&#xEA;tre, fondateur de l'Ordre soignant des Camilliens, mort &#xE0; Rome en 1614</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 14 juillet.</para><para>M&#xE9;moire de saint Camille de Lellis, pr&#xEA;tre. N&#xE9; pr&#xE8;s de Thienne dans les Abruzzes, au royaume de Naples, il s&#x2019;adonna d&#xE8;s sa jeunesse &#xE0; la vie militaire, avec un penchant pour les vices du monde, mais il se convertit en aidant &#xE0; soigner les malades &#xE0; Rome dans l&#x2019;h&#xF4;pital Saint-Jacques des Incurables. Il s&#x2019;effor&#xE7;a d&#xE8;s lors de voir en eux le Christ et, devenu pr&#xEA;tre, il jeta les fondations de la Congr&#xE9;gation des Clercs R&#xE9;guliers ministres des malades. Il mourut &#xE0; Rome en 1614.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; . A Brescia en Lombardie, au Ve si&#xE8;cle, saint Optatien, &#xE9;v&#xEA;que, qui signa la lettre synodique d&#x2019;Eus&#xE8;be de Milan au pape saint L&#xE9;on, o&#xF9; les &#xE9;v&#xEA;ques d&#x2019;Italie du Nord s&#x2019;engageaient &#xE0; d&#xE9;fendre la foi catholique en l&#x2019;Incarnation</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Soignies en Wallonie, l&#x2019;an&#xA0;677, saint Vincent, ou Madelgaire. Son &#xE9;pouse, sainte Waudru, et lui r&#xE9;solurent, d&#x2019;un commun accord, de mener la vie monastique. Vincent v&#xE9;cut d&#x2019;abord au monast&#xE8;re de Hautmont, puis fonda l&#x2019;abbaye de Soignies, o&#xF9; il mourut.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Deventer en Frise, l&#x2019;an&#xA0;775, la mise au tombeau de saint Marchelme, pr&#xEA;tre et moine. N&#xE9; en Angleterre, il fut, d&#xE8;s l&#x2019;enfance, disciple de saint Willibrord et son compagnon de labeur pour le Christ.</para><para>5*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Alt-Kinsburg, pr&#xE8;s de Eger en Boh&#xEA;me, l&#x2019;an&#xA0;1200, le bienheureux Hroznata, martyr. Apr&#xE8;s la mort de sa femme et de son fils, il quitta la cour du duc de Boh&#xEA;me, s&#x2019;orienta vers les chanoines pr&#xE9;montr&#xE9;s pour qui il fonda le couvent de Tepl&#xE1;. Alors qu&#x2019;il d&#xE9;fendait les droits de ce couvent contre des spoliateurs, ceux-ci le captur&#xE8;rent et le laiss&#xE8;rent mourir de faim.</para><para>6*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; V&#xE9;rone, aux confins de la V&#xE9;n&#xE9;tie, en 1343 ou 1344, sainte Toscane. Apr&#xE8;s la mort de son mari, elle distribua tous ses biens aux pauvres et employa tout son temps, dans l&#x2019;Ordre de Saint-Jean de J&#xE9;rusalem, &#xE0; soigner les malades.</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Foligno en Ombrie, l&#x2019;an&#xA0;1435, la bienheureuse Ang&#xE9;line de Marciano. Devenue veuve, elle passa plus de cinquante ans au service de Dieu et &#xE0; se rendre utile au prochain et donna naissance aux couvents de religieuses du Tiers-Ordre de Saint-Fran&#xE7;ois pour l&#x2019;&#xE9;ducation des jeunes filles.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Valence en Espagne, l&#x2019;an&#xA0;1604, le bienheureux Gaspar de Bono, pr&#xEA;tre de l&#x2019;Ordre des Minimes. Il quitta le service des armes d&#x2019;un prince de ce monde pour entrer dans la milice du Christ Roi et, avec z&#xE8;le, prudence et charit&#xE9;, il dirigea la province espagnole de son Ordre.</para><para>9.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lima au P&#xE9;rou, en 1610, saint Fran&#xE7;ois Solano, pr&#xEA;tre franciscain. Pour le salut des &#xE2;mes, il parcourut de long en large les r&#xE9;gions de l&#x2019;Am&#xE9;rique du Sud et, par sa pr&#xE9;dication et ses miracles, mit tout son soin &#xE0; enseigner la nouveaut&#xE9; de la vie chr&#xE9;tienne aux peuples indiens et aux colons hispaniques eux-m&#xEA;mes.</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Londres, en 1610, le bienheureux Richard Langhorne, martyr. Homme de loi catholique fort estim&#xE9;, il fut accus&#xE9; de haute trahison dans le pr&#xE9;tendu complot contre le roi Charles II, condamn&#xE9; &#xE0; mort et livr&#xE9; aux supplices de la pendaison &#xE0; Tyburn.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cerecca-Ghebaba en &#xC9;thiopie, l&#x2019;an&#xA0;1850, le bienheureux Gh&#xE9;br&#xE9; Mika&#xEB;l, dont le nom signifie Serviteur de Michel, pr&#xEA;tre lazariste et martyr. Dans ses &#xE9;tudes et la pri&#xE8;re, il avait cherch&#xE9; la vraie foi et &#xE9;tait entr&#xE9; dans l&#x2019;unit&#xE9; de l&#x2019;&#xC9;glise. Il subit pour cela, pendant treize mois, des emprisonnements, puis des marches en compagnie de soldats, nu-pieds, entrav&#xE9; par des cha&#xEE;nes, et mourut ext&#xE9;nu&#xE9; de coups, de faim et de soif.</para><para>12.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nangong dans la province chinoise de Hebei, en 1900, saint Jean Wang Guixin, martyr. Dans la pers&#xE9;cution de la secte de Yihetuan, il pr&#xE9;f&#xE9;ra mourir pour le Christ que de se souiller, m&#xEA;me par un l&#xE9;ger mensonge.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

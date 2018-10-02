@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXIX per annum</la><fr>XXIX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Domini_est_terra</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps130</psL1>
+
+<antL2/>
+
+<psL2>ps131I</psL2>
+
+<antL3/>
+
+<psL3>ps131II</psL3>
+
+<LVers/>
+n<Llec1>L1_perannum_29-7</Llec1>
+
+<Lrep1>R1_perannum_29-7</Lrep1>
+
+<Llec2>L2_perannum_29-7</Llec2>
+
+<Lrep2>R2_perannum_29-7</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_iam_spargit_polum</HYMNUS_laudes>
+ 
+<ant1>AN_Praevenerunt_oculi_mei</ant1>
+ 
+<ps1>ps118XIX</ps1>
+ 
+<ant2>AN_Fortitudo_mea_et</ant2>
+ 
+<ps2>AT1</ps2>
+ 
+<ant3>AN_Laudate_Dominum_omnes</ant3>
+ 
+<ps3>ps116</ps3>
+ 
+<LB_matin>LB_2_Petr_1_10-11</LB_matin> 
+ 
+<RB_matin>RB_Clamavi_ad_te_Domine</RB_matin>  
+<benedictus>AN_Illumina_Domine_sedentes</benedictus> 
+<laudes_preces>perannum_17</laudes_preces><oratio_laudes>COL_Corda_nostra_quaesumus_Domine_resurrectionis_splendor</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Deduc_me_Domine</ant4>
+ 
+<ps4>ps118V</ps4>
+ 
+<ant5>AN_Inquirentes_Dominum_non</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Inquire_pacem_et</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_1_Reg_8_60-61</LB_3>
+ 
+<RB_3>VERS_Deus_meus</RB_3>
+ 
+<LB_6>LB_Ier_17_9-10</LB_6>
+ 
+<RB_6>VERS_Ab_occultis</RB_6>
+ 
+<LB_9>LB_Sap_7_27a;_8_1</LB_9>
+ 
+<RB_9>VERS_Quam_magnificata</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica XXX per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_A_solis_ortu</ant7>
+ 
+<ps7>ps112</ps7>
+ 
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+ 
+<ps8>ps115</ps8>
+ 
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Hebr_13_20-21</LB_soir>
+ 
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+ 
+<magnificat>AN_Stans_a_longe</magnificat>
+ 
+<vepres_preces>perannum_17</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_da_nobis_fidei</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Ego_clamavi</IN>
+<IN_L>IN_L_perannum_29</IN_L>
+<COL>COL_perannum_29</COL>
+<LEC>LEC_Rm8,1-11</LEC>
+<PS1>GR_Salvum_fac_populum</PS1>
+<PS2>AL_Lauda_anima_mea</PS2>
+<EV>EV_Lc13,1-9</EV>
+<OF>OF_Meditabor</OF>
+<SO>SO_perannum_29</SO>
+<CO>CO_Domine Dominus_noster</CO>
+<CO_L>CO_L_perannum_29</CO_L>
+<PC>PC_perannum_29</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx Bonaventure de Potenza</intitule>
+ <biographiecourte>De l'ordre des fr&#xE8;res mineurs, il excellait dans toutes les vertus en particulier l'ob&#xE9;issance (&#x2020;1711)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 26 octobre</para><para>1. &#xC0; Nicom&#xE9;die en Bithynie, vers 250, les saints Lucien et Marcien, martyrs, qui furent, dit-on, jet&#xE9;s au feu, sous l&#x2019;empereur D&#xE8;ce et sur l&#x2019;ordre du proconsul Sabin.</para><para>2. Comm&#xE9;moraison de saint Rogatien, pr&#xEA;tre de Carthage, &#xE0; qui, lors de la pers&#xE9;cution de D&#xE8;ce, saint Cyprien confia l&#x2019;administration de son &#xC9;glise, et qui souffrit, ainsi que saint F&#xE9;licissime, des &#xE9;preuves et des emprisonnements pour le nom du Christ. </para><para>3*. &#xC0; Strasbourg, au VIe si&#xE8;cle, saint Amand, qui fut, croit-on, le premier &#xE9;v&#xEA;que de la cit&#xE9;. </para><para>4. &#xC0; Narbonne, vers 461, saint Rustique, &#xE9;v&#xEA;que. Il pensait d&#xE9;poser sa charge et mener sa vie dans le silence, mais le pape saint L&#xE9;on le Grand le rappela &#xE0; la sainte pers&#xE9;v&#xE9;rance et, ainsi r&#xE9;confort&#xE9;, il demeura fid&#xE8;le jusqu&#x2019;&#xE0; la fin dans le travail qu&#x2019;il avait entrepris. </para><para>5*. &#xC0; Angoul&#xEA;me, comm&#xE9;moraison de saint Aptone, &#xE9;v&#xEA;que, vers 562.</para><para>6*. &#xC0; Lastingham en Angleterre, l&#x2019;an&#xA0;664, saint Cedde. Fr&#xE8;re de saint Chad, il fut &#xE9;lev&#xE9; &#xE0; Lindisfarne par saint Aidan&#xA0;; ordonn&#xE9; par saint Finan, &#xE9;v&#xEA;que des Saxons de l&#x2019;est, il veilla &#xE0; poser chez eux les fondements de l&#x2019;&#xC9;glise. </para><para>7*. &#xC0; Hexham &#xE9;galement en Angleterre, vers 686, saint Eata, &#xE9;v&#xEA;que. Form&#xE9;, lui aussi, par saint Aidan, c&#x2019;&#xE9;tait un homme d&#x2019;une grande douceur et simplicit&#xE9;, qui dirigea plusieurs monast&#xE8;res et &#xC9;glises et, revenu &#xE0; Hexham, &#xE0; la fois abb&#xE9; et &#xE9;v&#xEA;que, ne renon&#xE7;a jamais &#xE0; sa mani&#xE8;re de vivre asc&#xE9;tique. </para><para>8*. &#xC0; Metz, en 741, saint Sigebaud, &#xE9;v&#xEA;que, fondateur de plusieurs monast&#xE8;res. </para><para>9*. Au monast&#xE8;re d&#x2019;Hersfeld en Germanie, vers 786, la mise au tombeau de saint Witta ou Albin, premier &#xE9;v&#xEA;que de Burhbourg. Anglais de naissance, il fut appel&#xE9; avec d&#x2019;autres par saint Boniface et envoy&#xE9; en Hesse, pour y r&#xE9;pandre la semence de la parole de Dieu. </para><para>10*. En &#xC9;cosse, vers 1022, saint B&#xE9;an, premier &#xE9;v&#xEA;que de Morthlac.</para><para>11. &#xC0; Pavie en Lombardie, l&#x2019;an&#xA0;1229, saint Foulques, &#xE9;v&#xEA;que, d&#x2019;origine &#xE9;cossaise, homme pacifique, d&#xE9;vou&#xE9; avec le plus grand soin &#xE0; l&#x2019;action pastorale et &#xE0; la charit&#xE9;. </para><para>12*. &#xC0; Reggio en &#xC9;milie, l&#x2019;an&#xA0;1484, le bienheureux Damien Furcheri, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, excellent pr&#xE9;dicateur de l&#x2019;&#xC9;vangile. </para><para>13*. &#xC0; Ravello, pr&#xE8;s d&#x2019;Amalfi en Campanie, l&#x2019;an&#xA0;1711, le bienheureux Bonaventure de Potenza, pr&#xEA;tre franciscain conventuel, qui brilla par son ob&#xE9;issance et sa charit&#xE9; envers tous. </para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; A Rome, en 1913, la bienheureuse C&#xE9;line Chludzinska v. Borzecka, fondatrice des s&#x153;urs de la R&#xE9;surection de Notre Seigneur J&#xE9;sus-Christ. (B&#xE9;atifi&#xE9;e le 27 octobre par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

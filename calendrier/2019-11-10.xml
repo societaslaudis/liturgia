@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXXII per annum</la><fr>XXXII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XXXII per annum</la><fr>XXXII&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Populus_Domini_et</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1/>
+
+<antL2/>
+
+<psL2/>
+
+<antL3/>
+
+<psL3/>
+
+<LVers/>
+n<Llec1>L1_Dominica_XXXII_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XXXII_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XXXII_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XXXII_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Ecce_iam_noctis_tenuatur_umbra</HYMNUS_laudes>
+ 
+<ant1>AN_Confitemini_Domino_quoniam</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Alleluia_benedicite_omnia</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Omnis_spiritus_laudet</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_2_Tim_2_8._11-13</LB_matin> 
+ 
+<RB_matin>RB_Confitebimur_tibi_Deus_Et</RB_matin>  
+<benedictus>AN_Moyses_ostendit_secus</benedictus> 
+<laudes_preces>perannum_41</laudes_preces><oratio_laudes>COL_Omnipotens_et_misericors_Deus_universa_nobis</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Qui_manducat_ex_hoc</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_Veniet_Dominus_glorificari</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Vovete_et_munera</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_1_Cor_6_19-20</LB_3>
+ 
+<RB_3>VERS_Concupiscit_et_deficit</RB_3>
+ 
+<LB_6>LB_Deut_10_12</LB_6>
+ 
+<RB_6>VERS_Domine_quis_habitabit</RB_6>
+ 
+<LB_9>LB_Cant_8_6b-7a</LB_9>
+ 
+<RB_9>VERS_Diligam te, Domine</RB_9>
+ 
+<oratio_3>COL_Omnipotens_et_misericors_Deus_universa_nobis</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_et_misericors_Deus_universa_nobis</oratio_6>
+ 
+<oratio_9>COL_Omnipotens_et_misericors_Deus_universa_nobis</oratio_9>
+ 
+<intitule_soir><la>Dominica XXXII per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_O_lux_beata_Trinitas</HYMNUS_vepres>
+ 
+<ant7>AN_In_splendoribus_sanctis</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Beati_qui_esuriunt_et</ant8>
+ 
+<ps8>ps111</ps8>
+ 
+<ant9>AN_Laudem_dicite_Deo</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Hebr_12_22-24</LB_soir>
+ 
+<RB_soir>RB_Magnus_Dominus_noster</RB_soir>
+ 
+<magnificat>AN_Deus_non_est</magnificat>
+ 
+<vepres_preces>perannum_41</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_et_misericors_Deus_universa_nobis</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Intret_oratio_mea</IN>
+<IN_L>IN_L_perannum_32</IN_L>
+<COL>COL_perannum_32</COL>
+<LEC>LEC_2M7,1-2.9-14</LEC>
+<PS1>GR_Dirigatur</PS1>
+<LEC2>LEC_2Th2,16-3,5</LEC2>
+
+<PS2>AL_Quinque_prudentes_virgines</PS2>
+<EV>EV_Lc20,27-38</EV>
+<OF>OF_Gressus_meos</OF>
+<SO>SO_perannum_32</SO>
+<CO>CO_Quinque_prudentes_virgines</CO>
+<CO_L>CO_L_perannum_32</CO_L>
+<PC>PC_perannum_32</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St L&#xE9;on le Grand, pape et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>Homme courageux, il fit face &#xE0; Attila et d&#xE9;fendit avec vigueur le dogme de l'Incarnation (&#x2020;461)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 10 novembre</para><para>1. M&#xE9;moire de saint L&#xE9;on le Grand, pape et docteur de l&#x2019;&#xC9;glise. N&#xE9; en &#xC9;trurie, il fut d&#x2019;abord diacre empress&#xE9; de Rome, puis &#xE9;lev&#xE9; sur le si&#xE8;ge de Pierre, il m&#xE9;rita &#xE0; bon droit d&#x2019;&#xEA;tre appel&#xE9; Grand, aussi bien pour avoir nourri son troupeau d&#x2019;une parole excellente et prudente que pour avoir affirm&#xE9; avec force par ses l&#xE9;gats au Concile &#x153;cum&#xE9;nique de Chalc&#xE9;doine la doctrine orthodoxe sur l&#x2019;incarnation divine. Il fut mis au tombeau en ce jour &#xE0; Rome, pr&#xE8;s de saint Pierre, en 461.</para><para>2. En Perse, vers&#xA0;260, le tr&#xE9;pas de saint D&#xE9;m&#xE9;trien, &#xE9;v&#xEA;que d&#x2019;Antioche, qui fut d&#xE9;port&#xE9; par le roi Sapor Ier, apr&#xE8;s la prise de la ville, et mourut en exil. </para><para>3. &#xC0; Tyane en Cappadoce, saint Oreste, martyr.</para><para>4. &#xC0; Ravenne en &#xC9;milie, au IIIe ou IVe si&#xE8;cle, saint Probus, &#xE9;v&#xEA;que, en l&#x2019;honneur de qui l&#x2019;&#xE9;v&#xEA;que saint Maximien fit la d&#xE9;dicace d&#x2019;une &#xE9;glise &#xE0; Classe. </para><para>5. En Perse, l&#x2019;an&#xA0;343, les saints martyrs Nars&#xE8;s, &#xE9;v&#xEA;que, v&#xE9;n&#xE9;rable vieillard, et Joseph, son jeune diacre. Somm&#xE9;s par la roi Sapor II d&#x2019;adorer le soleil, ils refus&#xE8;rent et furent d&#xE9;capit&#xE9;s par l&#x2019;&#xE9;p&#xE9;e. </para><para>6. &#xC0; Cantorb&#xE9;ry, vers 637, saint Juste, &#xE9;v&#xEA;que. Envoy&#xE9; avec d&#x2019;autres moines romains par le pape saint Gr&#xE9;goire le Grand en renfort &#xE0; saint Augustin dans son &#x153;uvre d&#x2019;&#xE9;vang&#xE9;lisation de l&#x2019;Angleterre, et ordonn&#xE9; par celui-ci &#xE9;v&#xEA;que dans le Kent, il fut son troisi&#xE8;me successeur &#xE0; Cantorb&#xE9;ry. </para><para>7*. Dans le bourg de Foro dans le Pi&#xE9;mont, au VIIIe si&#xE8;cle, le saint Baudolin qui v&#xE9;cut en ermite au bord du Tanaro. </para><para>8. &#xC0; Naples, en 1608, saint Andr&#xE9; Avellin, pr&#xEA;tre de la Congr&#xE9;gation des Clercs r&#xE9;guliers Th&#xE9;atins. C&#xE9;l&#xE8;bre par sa saintet&#xE9; et son z&#xE8;le &#xE0; rechercher le salut de son prochain, il fit le v&#x153;u difficile de progresser chaque jour en vertu et, charg&#xE9; de m&#xE9;rites, s&#x2019;endormit dans la paix au pied de l&#x2019;autel. </para><para>9*. &#xC0; Barcelone en Catalogne, l&#x2019;an&#xA0;1936, le bienheureux Aciscle Pina Piazuelo, religieux de l&#x2019;Ordre de Saint-Jean de Dieu et martyr, victime de la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile espagnole. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Allemagne, en 1943, les bienheureux Johannes Prassek et deux compagnons, pr&#xEA;tres martyrs. (b&#xE9;atifi&#xE9;s le 25 juin 2011 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

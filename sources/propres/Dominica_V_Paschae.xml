@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica V Paschae</la>
+<fr>V&#xB0; dimanche de P&#xE2;ques</fr>
+</intitule>
+<HYMNUS_1V id="hy_Ad_cenam_Agni_providi"/>
+<ant01 id="AN_Elevatio_manuum_mearum"/>
+<ant02 id="AN_Eduxisti_de_custodia"/>
+<ant03 id="AN_Filius_Dei_didicit"/>
+<LB_1V id="LB_1_Petr_2_9-10"/>
+<RB_1V id="RB_Gavisi_sunt_discipuli_Alleluia_alleluia"/>
+<magnificat1_A id="AN_Si_abiero_et"/>
+<magnificat1_B id="AN_Ego_sum_vitis"/>
+<magnificat1_C id="AN_Nunc_clarificatus_est"/>
+<oratio id="COL_Deus_per_quem_nobis_et_redemptio"/>
+<oratio_3 id="COL_Deus_per_quem_nobis_et_redemptio"/>
+<oratio_6 id="COL_Deus_per_quem_nobis_et_redemptio"/>
+<oratio_9 id="COL_Deus_per_quem_nobis_et_redemptio"/>
+
+<benedictus_A id="AN_Ego_sum_via"/>
+<benedictus_B id="AN_Qui_manet_in"/>
+<benedictus_C id="AN_Mandatum_novum_do"/>
+
+<HYMNUS_vesperas id="hy_Ad_cenam_Agni_providi"/>
+<magnificat_A id="AN_Domine_ostende_nobis"/>
+<magnificat_B id="AN_In_hoc_clarificatus"/>
+<magnificat_C id="AN_In_hoc_cognoscent"/>
+</liturgia>

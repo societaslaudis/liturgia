@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 29 aprilis</la>
+<fr>Le 29 avril</fr>
+</jour>
+<intitule>
+<la>S. CATHARINA SENENSIS, VIRGINIS ET ECCLESIAE DOCTORIS</la>
+<fr>S. CATHERINE DE SIENNE,  VIERGE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<HYMNUS_laudes id="HY_Te_Catharina"/>
+<LB_matin id="LB_Cant_8_7"/>
+<RB_matin id="RB_Afferentur_Regi_virgines"/>
+<benedictus id="AN_Sancta_virgo_Catharina"/>
+<preces_matin>
+Christo, v&#xED;rginum sponso et cor&#xF3;n&#xE6;, l&#xE6;tis v&#xF3;cibus iubil&#xE9;mus et dev&#xF3;te eum exor&#xE9;mus, dic&#xE9;ntes: 
+Iesu, cor&#xF3;na v&#xED;rginum, audi nos.
+Christe, quem sanct&#xE6; v&#xED;rgines ut &#xFA;nicum sponsum dilex&#xE9;runt, 
+&#x2014; conc&#xE9;de ut nihil a tua carit&#xE1;te nos s&#xE9;paret.
+Qui Mar&#xED;am, matrem tuam, reg&#xED;nam v&#xED;rginum coronasti, 
+&#x2014; da nos, eius intercessi&#xF3;ne, cordis purit&#xE1;te tibi i&#xFA;giter famul&#xE1;ri.
+Per intercessi&#xF3;nem ancill&#xE1;rum tu&#xE1;rum, qu&#xE6; &#xED;ntegro et indiv&#xED;so corde semper de te soll&#xED;cit&#xE6; fu&#xE9;runt, ut essent sanct&#xE6; c&#xF3;rpore et sp&#xED;ritu, 
+&#x2014; pr&#xE6;sta ut fig&#xFA;ra huius mundi, qu&#xE6; pr&#xE6;terit, nos a te numquam &#xE1;bstrahat.
+D&#xF3;mine Iesu, sponse, quem v&#xED;rgines sapi&#xE9;ntes advent&#xFA;rum exspect&#xE1;bant, 
+&#x2014;conc&#xE9;de nobis, ut in spe vigil&#xE1;ntes te pr&#xE6;stol&#xE9;mur.
+Per intercessi&#xF3;nem sanct&#xE6; N., qu&#xE6; virgo fuit s&#xE1;piens et de n&#xFA;mero prud&#xE9;ntum, 
+&#x2014; pr&#xE6;sta nobis innoc&#xE9;ntiam vit&#xE6; et sapi&#xE9;ntiam.
+</preces_matin>
+<oratio id="COL_Deus_qui_beatam_Catharinam"/>
+<HYMNUS_vesperas id="hy_Te_Catharina"/>
+<LB_soir>LB_1_Cor_7,32b.34a
+</LB_soir>
+<RB_soir>
+Tempore Quadragesim&#xE6;:
+R/. Affer&#xE9;ntur Regi v&#xED;rgines * In exsultati&#xF3;ne. Affer&#xE9;ntur.
+V/. Adduc&#xE9;ntur in templum Regis. * In exsultati&#xF3;ne. Gl&#xF3;ria Patri. Affer&#xE9;ntur.
+Tempore paschali:
+R/. Affer&#xE9;ntur Regi v&#xED;rgines in exsultati&#xF3;ne, * Allel&#xFA;ia, allel&#xFA;ia. Affer&#xE9;ntur.
+V/. Adduc&#xE9;ntur in templum Regis. * Allel&#xFA;ia, allel&#xFA;ia. Gl&#xF3;ria Patri. Affer&#xE9;ntur.
+</RB_soir>
+<magnificat id="AN_Semper_et_ubique_Catharina"/>
+
+<EV id="Mt11,25-30"/><LEC id="1Jn1,5-2,2"/><IN id="IN_Dilexisti"/><PS1 id=""/><PS2 id="AL_Adducentur"/><SEQ id=""/><OF id="OF_Filiae_regum"/><CO id="CO_Quinque_prudentes_virgines"/><IN id="IN_Caritas_Dei"/><PS1 id=""/><PS2 id="AL_Domine_Deus_salutis_meae"/><SEQ id=""/><OF id="OF_Deus_Deus_meus"/><CO id="CO_Notas_mihi_fecisti"/><IN id="IN_Dilexisti"/><PS1 id=""/><PS2 id="AL_Adducentur"/><SEQ id=""/><OF id="OF_Filiae_regum"/><CO id="CO_Quinque_prudentes_virgines"/><IN id="IN_Caritas_Dei"/><PS1 id=""/><PS2 id="AL_Domine_Deus_salutis_meae"/><SEQ id=""/><OF id="OF_Deus_Deus_meus"/><CO id="CO_Notas_mihi_fecisti"/><IN id="IN_Dilexisti"/><PS1 id=""/><PS2 id="AL_Adducentur"/><SEQ id=""/><OF id="OF_Filiae_regum"/><CO id="CO_Quinque_prudentes_virgines"/><IN id="IN_Caritas_Dei"/><PS1 id=""/><PS2 id="AL_Domine_Deus_salutis_meae"/><SEQ id=""/><OF id="OF_Deus_Deus_meus"/><CO id="CO_Notas_mihi_fecisti"/></liturgia>

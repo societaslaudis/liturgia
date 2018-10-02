@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>3</priorite>
+<couleur>Blanc</couleur>
+<code>SACRATISSIMI_CORDIS_IESU</code>
+<propre>SACRATISSIMI_CORDIS_IESU</propre>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada IX per annum</la><fr>IX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>SACRATISSIMI CORDIS IESU</la><fr>SACRATISSIMI CORDIS IESU</fr></intitule>
+<rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Cor_Iesu_amore</invitatoire>
+
+<HYMNUS_lectures>hy_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+
+<antL1>AN_Exsurge_Domine_in</antL1>
+
+<psL1>ps34I</psL1>
+
+<antL2>AN_Iudica_causam_meam;</antL2>
+
+<psL2>ps34II</psL2>
+
+<antL3>AN_Lingua_mea_tota</antL3>
+
+<psL3>ps34III</psL3>
+
+<LVers>VERS_Fili_mi</LVers>
+n<Llec1>L1_SACRATISSIMI_CORDIS_IESU</Llec1>
+
+<Lrep1>R1_SACRATISSIMI_CORDIS_IESU</Lrep1>
+
+<Llec2>L2_SACRATISSIMI_CORDIS_IESU</Llec2>
+
+<Lrep2>R2_SACRATISSIMI_CORDIS_IESU</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>SACRATISSIMI_CORDIS_IESU-NOCT1</LEC_NOCT1>
+
+<LEC_NOCT2>SACRATISSIMI_CORDIS_IESU-NOCT2-2</LEC_NOCT2>
+
+<LEC_NOCT3>SACRATISSIMI_CORDIS_IESU-NOCT3-B</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Iesu_auctor_clementiae</HYMNUS_laudes>
+ 
+<ant1>AN_Stans_Iesus_clamabat</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Venite_ad_me</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Fili_praebe_mihi</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Ier_31_33</LB_matin> 
+ 
+<RB_matin>RB_Tollite_iugum_meum_super_vos&#xA0;</RB_matin>  
+<benedictus>AN_Per_viscera_misericordiae</benedictus> 
+<laudes_preces>perannum_16</laudes_preces><oratio_laudes>COL_Concede_quaesumus_omnipotens_Deus_ut_qui_dilecti_Filii</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Popule_meus_quid</ant4>
+ 
+<ps4>ps122</ps4>
+ 
+<ant5>AN_Contritum_est</ant5>
+ 
+<ps5>ps123</ps5>
+ 
+<ant6>AN_Unus_militum_lancea</ant6>
+ 
+<ps6>ps27</ps6>
+ 
+<LB_3>LB_Ier_31_2-4</LB_3>
+ 
+<RB_3>VERS_Haurietis_aquas_in_gaudio</RB_3>
+ 
+<LB_6>LB_Ier_32_40</LB_6>
+ 
+<RB_6>VERS_Sustinui_quid_simul_contristaretur_et</RB_6>
+ 
+<LB_9>LB_Rom_5_8-9</LB_9>
+ 
+<RB_9>VERS_Vulneratus_est_propter_iniquitates_nostras</RB_9>
+ 
+<oratio_3>COL_Concede_quaesumus_omnipotens_Deus_ut_qui_dilecti_Filii</oratio_3>
+ 
+<oratio_6>COL_Concede_quaesumus_omnipotens_Deus_ut_qui_dilecti_Filii</oratio_6>
+ 
+<oratio_9>COL_Concede_quaesumus_omnipotens_Deus_ut_qui_dilecti_Filii</oratio_9>
+ 
+<intitule_soir><la>SACRATISSIMI CORDIS IESU</la></intitule_soir>
+ 
+<rang_soir><la>Sollemnitas</la></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Auctor_beate_saeculi</HYMNUS_vepres>
+ 
+<ant7>AN_Suavi_iugo_tuo</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Misericors_et_miserator</ant8>
+ 
+<ps8>ps110</ps8>
+ 
+<ant9>AN_Ecce_Agnus_Dei</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Eph_2_4-7</LB_soir>
+ 
+<RB_soir>RB_Christus_dilexit_nos_et_lavit</RB_soir>
+ 
+<magnificat>AN_Suscepit_nos_Dominus</magnificat>
+ 
+<vepres_preces>perannum_16</vepres_preces>
+ 
+<oratio_vepres>COL_Concede_quaesumus_omnipotens_Deus_ut_qui_dilecti_Filii</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	 
+<comp_ps1>ps90</comp_ps1>
+	 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Cogitationes_Cordis_eius</IN>
+<LEC>LEC_Os11,1-9</LEC>
+<PS1>GR_Dulcis_et_rectus_Dominus</PS1>
+<LEC2>LEC_Eph3,8-12.14-19</LEC2>
+
+<PS2>AL_Tollite_iugum_meum</PS2>
+<EV>EV_Jn19,31-37</EV>
+<OF>OF_Improperium</OF>
+<CO>CO_Unus_militum</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+<piete><intitule> Abstinence</intitule></piete>
+<biographie>
+ <intitule>St M&#xE9;dard</intitule>
+ <biographiecourte>Disciple de St R&#xE9;mi, &#xE9;v&#xEA;que de Vermand (&#x2020;558)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Bse Marie du Sacr&#xE9;-C&#x153;ur </intitule>
+ <biographiecourte>Marie Droste zu Vischering, religieuse, humble ambassadrice du Sacr&#xE9;-C&#x153;ur (&#x2020;1899) </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>Solennit&#xE9; du C&#x153;ur de J&#xE9;sus</para><para>Solennit&#xE9; du C&#x153;ur tr&#xE8;s sacr&#xE9; de J&#xE9;sus, qui, humble et pauvre de c&#x153;ur, exalt&#xE9; sur la croix, s&#x2019;est fait source de vie et de dilection, en qui puisent les nations de l&#x2019;univers.</para><para>
+            Le 8 juin</para><para>1. &#xC0; Aix-en-Provence, saint Maximin, &#xE0; qui on attribue les d&#xE9;buts de la foi chr&#xE9;tienne dans cette cit&#xE9;. </para><para>2. &#xC0; Rouen, apr&#xE8;s 511, saint Godard, &#xE9;v&#xEA;que. </para><para>3. Pr&#xE8;s de Soissons&#xA0;; en 564, saint M&#xE9;dard, &#xE9;v&#xEA;que du Vermandois. Quand la cit&#xE9; de Saint-Quentin fut ruin&#xE9;e, il transf&#xE9;ra son si&#xE8;ge dans la ville fortifi&#xE9;e de Noyon, d&#x2019;o&#xF9; il mit tout son soin &#xE0; d&#xE9;tourner le peuple des superstitions pa&#xEF;ennes pour le tourner vers la doctrine du Christ. </para><para>4*. &#xC0; Fano dans le Picenum, &#xE0; la fin du VIe si&#xE8;cle, saint Fortunat, &#xE9;v&#xEA;que, assidu &#xE0; racheter les captifs. </para><para>5. &#xC0; Metz, vers 660, saint Cloud, &#xE9;v&#xEA;que, fils de saint Arnoul et conseiller du roi.</para><para>6. &#xC0; York, en 1154, saint Guillaume Fitzherbert, &#xE9;v&#xEA;que. Homme affable et doux, d&#xE9;pos&#xE9; injustement de son si&#xE8;ge, il se retira &#xE0; Winchester parmi les moines. Quand son si&#xE8;ge lui fut restitu&#xE9;, il pardonna &#xE0; ses ennemis et apaisa les esprits dans la ville. </para><para>7*. &#xC0; Londres, en 1537, le bienheureux Jean Davy, moine diacre de la Chartreuse de la ville et martyr. Sous le roi Henri VIII, pour sa fid&#xE9;lit&#xE9; envers l&#x2019;&#xC9;glise catholique et le pape, il fut emprisonn&#xE9;, subit des mauvais traitements et mourut de faim. </para><para>8*. &#xC0; Ambiatibe &#xE0; Madagascar, en 1896, saintJacques Berthieu, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. En temps de paix comme en temps de guerre, il se d&#xE9;pensa sans compter pour l&#x2019;&#xC9;vangile, fut expuls&#xE9; trois fois des missions, et enfin, frapp&#xE9; de coups de pied en haine de la foi et plusieurs fois appel&#xE9; en vain &#xE0; l&#x2019;apostasie, il fut massacr&#xE9;. (canonis&#xE9; le 21 octobre 2012 par Beno&#xEE;t XVI)</para><para>9*. &#xC0; Oporto au Portugal, en 1899, la bienheureuse Marie du Divin C&#x153;ur de J&#xE9;sus (Marie Droste zu Vischering), vierge, s&#x153;ur de la Charit&#xE9; du Bon Pasteur, admirable promotrice de la d&#xE9;votion au Sacr&#xE9; C&#x153;ur de J&#xE9;sus. </para><para>10*. Au village de Kuzhikkattussery au K&#xE9;rala, en Inde, l&#x2019;an&#xA0;1926, la bienheureuse Marie-Th&#xE9;r&#xE8;se Chiramel Mankidiyan, vierge, qui mena une vie d&#x2019;ermite dans la plus grande aust&#xE9;rit&#xE9; de p&#xE9;nitence, chercha le Christ dans les plus pauvres gens et les plus d&#xE9;laiss&#xE9;s et fonda la Congr&#xE9;gation des S&#x153;urs de la Sainte Famille. </para><para>11*. &#xC0; Cagliari en Sardaigne, l&#x2019;an&#xA0;1958, le bienheureux Nicolas de Gesturi (Jean Medda), pr&#xEA;tre capucin. Qu&#xEA;teur silencieux pendant trente-quatre ans, toujours pr&#xEA;t &#xE0; venir en aide aux indigents, il incitait &#xE0; la charit&#xE9; envers les pauvres par l&#x2019;exemple de sa vertu et de sa bont&#xE9;. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Hongrie, en 1953, le bienheureux Etienne Sandor, fr&#xE8;re sal&#xE9;sien martyr, victime de la dictature communiste hongroise &#xA0; (b&#xE9;atifi&#xE9; le 19 octobre 2013 par le pape Fran&#xE7;ois)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

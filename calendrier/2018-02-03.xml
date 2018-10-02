@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<code>perannum_4-7</code>
+<propre/>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada IV per annum</la><fr>IV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Ansgarii, episcopi</la><fr>St Anschaire, &#xE9;v&#xEA;que </fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Audiamus_vocem_Domini</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps49I</psL1>
+
+<antL2/>
+
+<psL2>ps49II</psL2>
+
+<antL3/>
+
+<psL3>ps49III</psL3>
+
+<LVers/>
+n<Llec1>L1_perannum_4-7</Llec1>
+
+<Lrep1>R1_perannum_4-7</Lrep1>
+
+<Llec2>L2_perannum_4-7</Llec2>
+
+<Lrep2>R2_perannum_4-7</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_4-7-NOCT1-2</LEC_NOCT1>
+
+<LEC_NOCT2>perannum_4-7-NOCT2-2</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Diei_luce_reddita</HYMNUS_laudes>
+ 
+<ant1>AN_Bonum_est_psallere</ant1>
+ 
+<ps1>ps91</ps1>
+ 
+<ant2>AN_Dabo_vobis_cor</ant2>
+ 
+<ps2>AT38</ps2>
+ 
+<ant3>AN_Ex_ore_infantium</ant3>
+ 
+<ps3>ps8</ps3>
+ 
+<LB_matin>LB_2_Petr_3,_13-15a</LB_matin> 
+ 
+<RB_matin>RB_Exsultabunt_labia_mea_Cum</RB_matin>  
+<benedictus>AN_Dirige_Domine_pedes</benedictus> 
+<laudes_preces>perannum_47</laudes_preces><oratio_laudes>COL_Omnipotens_aeterne_Deus_qui_splendor_es</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Fiat_manus_tua</ant4>
+ 
+<ps4>ps118XXII</ps4>
+ 
+<ant5>AN_Thronus_tuus_Deus</ant5>
+ 
+<ps5>ps44I</ps5>
+ 
+<ant6>AN_Vidi_Ierusalem_novam</ant6>
+ 
+<ps6>ps44II</ps6>
+ 
+<LB_3>LB_Dan_6_27b-28a</LB_3>
+ 
+<RB_3>VERS_Vacate_et</RB_3>
+ 
+<LB_6>LB_Rom_15_5-7</LB_6>
+ 
+<RB_6>VERS_Beneplacitum_est</RB_6>
+ 
+<LB_9>LB_Phil_4_8._9b</LB_9>
+ 
+<RB_9>VERS_Exaltabo_te</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica V per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_Dirigatur_Domine_oratio</ant7>
+ 
+<ps7>ps140</ps7>
+ 
+<ant8>AN_Tu_es_refugium</ant8>
+ 
+<ps8>ps141</ps8>
+ 
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Rom_11_33-36</LB_soir>
+ 
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+ 
+<magnificat>AN_Vespere_autem_facto</magnificat>
+ 
+<vepres_preces>perannum_47</vepres_preces>
+ 
+<oratio_vepres>COL_Familiam_tuam_quaesumus_Domine_continua_pietate</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Laetetur_cor</IN>
+<IN_L>IN_L_perannum_4</IN_L>
+<COL>COL_perannum_4</COL>
+<LEC>LEC_1R3,4-13</LEC>
+<PS1>GR_Quis_sicut_Dominus</PS1>
+<PS2>AL_Adorabo</PS2>
+<EV>EV_Mc6,30-34</EV>
+<OF>OF_Bonum_est_confiteri</OF>
+<SO>SO_perannum_4</SO>
+<CO>CO_Illumina_faciem_tuam</CO>
+<CO_L>CO_L_perannum_4</CO_L>
+<PC>PC_perannum_4</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Sts Sim&#xE9;on et Anne, proph&#xE9;tesse</texte></jerusalem>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>St Blaise de S&#xE9;baste, &#xE9;v&#xEA;que et martyr</intitule>
+ <biographiecourte>M&#xE9;decin, &#xE9;v&#xEA;que arm&#xE9;nien au IVe si&#xE8;cle (&#x2020; vers 316)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Anschaire, &#xE9;v&#xEA;que </intitule>
+ <biographiecourte>M&#xE9;decin, &#xE9;v&#xEA;que arm&#xE9;nien au IVe si&#xE8;cle (&#x2020; vers 316) - Seul saint de l'Eglise d'Arm&#xE9;nie pr&#xE9;sent dans le calendrier romain.</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 3 f&#xE9;vrier</para><para>M&#xE9;moire de saint Blaise, &#xE9;v&#xEA;que de S&#xE9;baste en Arm&#xE9;nie et martyr, qui souffrit pour le nom chr&#xE9;tien. La tradition place son martyre sous l&#x2019;empereur Licinius, vers 320.</para><para>M&#xE9;moire de saint Anschaire, &#xE9;v&#xEA;que de Hambourg, puis en m&#xEA;me temps de Br&#xEA;me en Saxe. D&#x2019;abord moine de Corbie, il fut envoy&#xE9; par le pape Gr&#xE9;goire IV comme l&#xE9;gat pour toute l&#x2019;Europe du Nord. Il annon&#xE7;a l&#x2019;&#xC9;vangile &#xE0; une multitude de peuples au Danemark et en Su&#xE8;de et y &#xE9;tablit l&#x2019;&#xC9;glise du Christ, malgr&#xE9; bien des difficult&#xE9;s qu&#x2019;il surmonta de grand c&#x153;ur, jusqu&#x2019;&#xE0; ce que, &#xE9;puis&#xE9; par ses travaux, il trouve le repos &#xE0; Br&#xEA;me, en 865.</para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; J&#xE9;rusalem, comm&#xE9;moraison des saints Sym&#xE9;on et Anne, l&#x2019;un, vieillard juste et religieux, l&#x2019;autre, veuve et proph&#xE8;te. Alors que J&#xE9;sus enfant &#xE9;tait pr&#xE9;sent&#xE9; au Temple par ses parents, ils salu&#xE8;rent en lui le Messie Sauveur, l&#x2019;esp&#xE9;rance bienheureuse et la r&#xE9;demption d&#x2019;Isra&#xEB;l. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Carthage, en 280, saint C&#xE9;lerin, lecteur et martyr. D&#xE9;tenu en prison, subissant les entraves, les fers et divers tourments, il fut un confesseur invincible du Christ, frayant aux autres le chemin de la victoire et suivant les traces de son a&#xEF;eule C&#xE9;lerine, couronn&#xE9;e d&#xE9;j&#xE0; du martyre, de Laurent, son oncle paternel et d&#x2019;Ignace, son oncle maternel, qui autrefois furent dans les camps de l&#x2019;arm&#xE9;e puis, devenus vrais soldats de Dieu, m&#xE9;rit&#xE8;rent par leur glorieuse passion les palmes et les couronnes du Seigneur. </para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Poitiers, au IVe si&#xE8;cle, saint Lienne, pr&#xEA;tre, dont la tradition fait un disciple de saint Hilaire. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Gap en Provence, les saints Tigris et Rem&#xE8;ze, &#xE9;v&#xEA;ques. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lyon, au Ve si&#xE8;cle, saint Lupicin, &#xE9;v&#xEA;que, &#xE0; l&#x2019;&#xE9;poque de la pers&#xE9;cution des Vandales. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Celles dans le Hainaut, vers 700, saint Adelin, pr&#xEA;tre et abb&#xE9;. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Threckingham dans le royaume de Mercie en Angleterre, vers 700, le tr&#xE9;pas de sainte Werburge, abbesse d&#x2019;Ely, qui fonda ou restaura plusieurs autres monast&#xE8;res, dont celui o&#xF9; elle mourut. Selon son d&#xE9;sir, elle fut inhum&#xE9;e &#xE0; Hanbury. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Merbeck dans le Brabant, vers 700, sainte Berlinde, vierge, qui mena dans cette ville une vie de pauvret&#xE9; et de charit&#xE9;. </para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re cistercien de Froidmont dans le Beauvaisis, comm&#xE9;moraison du bienheureux H&#xE9;linand, moine. Jadis c&#xE9;l&#xE8;bre cithar&#xE8;de dans les cours princi&#xE8;res, il choisit ensuite la vie humble et cach&#xE9;e du clo&#xEE;tre et mourut vers 1237.</para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Londres, en 1578, le bienheureux Jean Nelson, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. Parce qu&#x2019;il refusait de pr&#xEA;ter le serment de supr&#xE9;matie de la reine &#xC9;lisabeth I&#xE9;re dans le domaine religieux, il fut condamn&#xE9; &#xE0; mort et pendu &#xE0; Tyburn. </para><para>13. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lyon, en 1837, sainte Claudine Th&#xE9;venet (Marie de Saint-Ignace), vierge. Pouss&#xE9;e par la charit&#xE9; et anim&#xE9;e d&#x2019;un grand c&#x153;ur, elle fonda la Congr&#xE9;gation des S&#x153;urs de J&#xE9;sus et Marie, pour la formation chr&#xE9;tienne des jeunes, surtout des pauvres. </para><para>14*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Bourg-Saint-And&#xE9;ol dans le Vivarais, en 1838, la bienheureuse Marie-Anne Rivier, vierge. &#xC0; l&#x2019;&#xE9;poque de la R&#xE9;volution fran&#xE7;aise, qui avait supprim&#xE9; tous les Ordres religieux et Congr&#xE9;gations, elle n&#x2019;h&#xE9;sita pas &#xE0; fonder la Congr&#xE9;gation des S&#x153;urs de la Pr&#xE9;sentation de Marie pour instruire dans la foi le peuple chr&#xE9;tien. </para><para>15*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Steyl en Hollande, l&#x2019;an&#xA0;1900, la bienheureuse Marie-H&#xE9;l&#xE8;ne Stollenwerk, vierge, qui participa avec le bienheureux Arnold Janssen &#xE0; la fondation de la Congr&#xE9;gation des Missionnaires Servantes du Saint-Esprit et, quand elle fut d&#xE9;pos&#xE9;e de sa charge de sup&#xE9;rieure g&#xE9;n&#xE9;rale, elle se consacra &#xE0; l&#x2019;adoration perp&#xE9;tuelle. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Allemagne de l&#x2019;Est, en 1943 le bienheureux Alojs Andritzki, pr&#xEA;tre, Martyr mort au camp de concentration de Dachau (b&#xE9;atifi&#xE9; le 13 juin 2011 par Beno&#xEE;t XVI) &#xA0;</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<code>perannum_25-6</code>
+<propre/>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXV per annum</la><fr>XXV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Laurentii Ruiz et sociorum, martyrum</la><fr>St Laurent Ruiz et ses compagnons martyrs</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Confitemini_Domino_quia</invitatoire>
+
+<HYMNUS_lectures>hy_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+
+<antL1>AN_Exsurge_Domine_in</antL1>
+
+<psL1>ps34I</psL1>
+
+<antL2>AN_Iudica_causam_meam;</antL2>
+
+<psL2>ps34II</psL2>
+
+<antL3>AN_Lingua_mea_tota</antL3>
+
+<psL3>ps34III</psL3>
+
+<LVers>VERS_Fili_mi</LVers>
+n<Llec1>L1_perannum_25-6</Llec1>
+
+<Lrep1>R1_perannum_25-6</Lrep1>
+
+<Llec2>L2_perannum_25-6</Llec2>
+
+<Lrep2>R2_perannum_25-6</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aterna_caeli_gloria</HYMNUS_laudes>
+ 
+<ant1>AN_Acceptabis_sacrificium_iustitiae</ant1>
+ 
+<ps1>ps50</ps1>
+ 
+<ant2>AN_In_Domino_iustificabitur</ant2>
+ 
+<ps2>AT27</ps2>
+ 
+<ant3>AN_Introite_in_conspectu</ant3>
+ 
+<ps3>ps99</ps3>
+ 
+<LB_matin>LB_Eph_4_29-32</LB_matin> 
+ 
+<RB_matin>RB_Auditam_fac_mihi_mane_</RB_matin>  
+<benedictus>AN_Visitavit_et_fecit</benedictus> 
+<laudes_preces>perannum_16</laudes_preces><oratio_laudes>COL_Deus_qui_tenebras_ignorantiae_Verbi_tui</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Viam_mandatorum_tuorum</ant4>
+ 
+<ps4>ps118IV</ps4>
+ 
+<ant5>AN_In_Domino_sperans</ant5>
+ 
+<ps5>ps25</ps5>
+ 
+<ant6>AN_In_Domino_speravit</ant6>
+ 
+<ps6>ps27</ps6>
+ 
+<LB_3>LB_Phil_2_2b-4</LB_3>
+ 
+<RB_3>VERS_Universae_viae</RB_3>
+ 
+<LB_6>LB_2_Cor_13_4</LB_6>
+ 
+<RB_6>VERS_Adhaesit_pulveri</RB_6>
+ 
+<LB_9>LB_Col_3_12-13</LB_9>
+ 
+<RB_9>VERS_Miserator_et</RB_9>
+ 
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+ 
+<oratio_6>COL_Domine_Iesu_Christe_qui_hora_sexta</oratio_6>
+ 
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Plasmator_hominis_Deus</HYMNUS_vepres>
+ 
+<ant7>AN_Sana_Domine_animam</ant7>
+ 
+<ps7>ps40</ps7>
+ 
+<ant8>AN_Dominus_virtutum_nobiscum</ant8>
+ 
+<ps8>ps45</ps8>
+ 
+<ant9>AN_Omnes_gentes_venient</ant9>
+ 
+<ps9>NT11</ps9>
+ 
+<LB_soir>LB_Rom_15_1-3</LB_soir>
+ 
+<RB_soir>RB_Christus_dilexit_nos</RB_soir>
+ 
+<magnificat>AN_Suscepit_nos_Dominus</magnificat>
+ 
+<vepres_preces>perannum_16</vepres_preces>
+ 
+<oratio_vepres>COL_Concede_nobis_famulis_tuis_quaesumus_Domine</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+ 
+<comp_ps1>ps87</comp_ps1> 
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+ 
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Salus_populi</IN>
+<IN_L>IN_L_perannum_25</IN_L>
+<COL>COL_perannum_25</COL>
+<LEC>LEC_Qo3,1-11</LEC>
+<PS1>GR_Dirigatur</PS1>
+<PS2>AL_Confitemini_et_invocate</PS2>
+<EV>EV_Lc9,18-22</EV>
+<OF>OF_Si_ambulavero</OF>
+<SO>SO_perannum_25</SO>
+<CO>CO_Tu_mandasti</CO>
+<CO_L>CO_L_perannum_25</CO_L>
+<PC>PC_perannum_25</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+<piete><intitule> Abstinence</intitule></piete>
+<biographie>
+ <intitule>St Venceslas, martyr</intitule>
+ <biographiecourte>Duc de Boh&#xEA;me et martyr, assassin&#xE9; par son fr&#xE8;re Boleslas (&#x2020;929)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Laurent Ruiz et ses compagnons martyrs</intitule>
+ <biographiecourte>P&#xE8;re de famille, natif des Philippines, martyris&#xE9; au Japon en 1637      </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 28 septembre</para><para>1. M&#xE9;moire de saint Venceslas, martyr. Duc de Boh&#xEA;me &#xE9;lev&#xE9; par sa grand-m&#xE8;re, sainte Ludmilla, dans la sagesse divine et humaine, il se montra s&#xE9;v&#xE8;re pour lui-m&#xEA;me, pacifique dans l&#x2019;administration de son pays, plein de bont&#xE9; pour les pauvres&#xA0;; il racheta des foules d&#x2019;esclaves pa&#xEF;ens sur le march&#xE9; de Prague, pour qu&#x2019;ils soient baptis&#xE9;s&#xA0;; apr&#xE8;s bien des difficult&#xE9;s support&#xE9;es pour gouverner ses sujets et les instruire de la foi chr&#xE9;tienne, il fut trahi par son fr&#xE8;re Boleslas et tu&#xE9; par des sicaires dans l&#x2019;&#xE9;glise de Boleslava, en 935. </para><para>2. M&#xE9;moire de saint Laurent Ruiz de Manille et de quinze compagnons, pr&#xEA;tres, religieux et la&#xEF;cs, martyrs. Apr&#xE8;s avoir sem&#xE9; la foi chr&#xE9;tienne dans les &#xCE;les Philippines, Formose et les &#xEE;les du Japon, ils consomm&#xE8;rent leur martyre pour l&#x2019;amour du Christ &#xE0; Nagasaki, en vertu d&#x2019;un d&#xE9;cret du chef supr&#xEA;me Togugawa Yemitsu, &#xE0; des jours diff&#xE9;rents, de 1633 &#xE0; 1637, mais sont comm&#xE9;mor&#xE9;s dans une m&#xEA;me v&#xE9;n&#xE9;ration. </para><para>3. &#xC0; Calydon de Pisidie, au IVe si&#xE8;cle, les saints fr&#xE8;res Alph&#xE9;e, Alexandre et Zosime, martyrs. </para><para>4. Dans la Vieille Laure pr&#xE8;s de Bethl&#xE9;em, vers 350, saint Chariton, abb&#xE9;, assidu &#xE0; la pri&#xE8;re et aux je&#xFB;nes et fondateur de plusieurs laures dans le d&#xE9;sert. </para><para>5. &#xC0; Bologne en &#xC9;milie, au IVe si&#xE8;cle, saint Zama, v&#xE9;n&#xE9;r&#xE9; comme le premier &#xE9;v&#xEA;que de la cit&#xE9;. </para><para>6. &#xC0; Toulouse, apr&#xE8;s 411, saint Exup&#xE8;re, &#xE9;v&#xEA;que, qui consacra une basilique en l&#x2019;honneur de saint Saturnin et, lors d&#x2019;une invasion des barbares, se montra un ardent d&#xE9;fenseur de la cit&#xE9;&#xA0;; selon saint J&#xE9;r&#xF4;me, autant il &#xE9;tait m&#xE9;nager pour lui-m&#xEA;me, autant il se montrait g&#xE9;n&#xE9;reux pour les autres. </para><para>7. &#xC0; Bethl&#xE9;em, comm&#xE9;moraison de sainte Eustochium, vierge, qui, avec sainte Paule sa m&#xE8;re, se rendit de Rome aupr&#xE8;s de la cr&#xE8;che du Seigneur, pour ne pas manquer des conseils de leur ma&#xEE;tre spirituel, saint J&#xE9;r&#xF4;me, et c&#x2019;est l&#xE0; que, vers 419, brillante de m&#xE9;rites &#xE9;clatants, elle s&#x2019;en alla vers le Seigneur. </para><para>8. &#xC0; Gen&#xE8;ve, apr&#xE8;s 459, saint Salonius, &#xE9;v&#xEA;que. Fils de saint Eucher de Lyon, il mena d&#x2019;abord la vie monastique &#xE0; L&#xE9;rins, puis, devenu &#xE9;v&#xEA;que, s&#x2019;attacha &#xE0; la doctrine du pape saint L&#xE9;on le Grand et &#xE9;crivit une exposition mystique de deux livres des &#xC9;critures. </para><para>9*. &#xC0; Riez en Provence, apr&#xE8;s 485, saint Fauste, &#xE9;v&#xEA;que. Pr&#xE9;c&#xE9;demment abb&#xE9; de L&#xE9;rins, il &#xE9;crivit contre les ariens sur le Verbe de Dieu fait chair, et sur le Saint-Esprit, consubstantiel au P&#xE8;re et au Fils et co&#xE9;ternel&#xA0;; il fut envoy&#xE9; en exil par le roi arien Euric. </para><para>10*. &#xC0; Lyon, vers 658, saint Ennemond ou Chamond, &#xE9;v&#xEA;que, ex&#xE9;cut&#xE9; &#xE0; Macon pour des motifs surtout politiques et consid&#xE9;r&#xE9; comme martyr. </para><para>11*. &#xC0; Salzbourg en Bavi&#xE8;re, au VIIIe si&#xE8;cle, les saints Chuniald et Gisilaire, pr&#xEA;tres, qui apport&#xE8;rent leur aide &#xE0; l&#x2019;&#xE9;v&#xEA;que saint Rupert. </para><para>12. Pr&#xE8;s de Mayence en Rh&#xE9;nanie, vers 782, sainte Lioba, vierge, qui fut appel&#xE9;e d&#x2019;Angleterre en Germanie par son parent saint Boniface et plac&#xE9;e par lui &#xE0; la t&#xEA;te d&#x2019;un monast&#xE8;re &#xE0; Tauber, o&#xF9; elle dirigea les servantes de Dieu sur la voie de la perfection par sa parole et son exemple. </para><para>13*. &#xC0; Pavie en Lombardie, l&#x2019;an&#xA0;1494, le bienheureux Bernardin de Feltre, pr&#xEA;tre de l&#x2019;Ordre des Mineurs, qui parcourut &#xE0; pied le centre et le nord de l&#x2019;Italie pr&#xEA;chant avec succ&#xE8;s, multipliant les monts-de-pi&#xE9;t&#xE9; pour lutter contre l&#x2019;usure et, fut appel&#xE9; par le pape Sixte IV, en raison de son esprit pacifique, pour apaiser les discordes civiles. </para><para>14. &#xC0; Madrid, en 1624, saint Simon de Rojas, pr&#xEA;tre de l&#x2019;Ordre de la Sainte Trinit&#xE9; pour le rachat des captifs. Confesseur de la reine d&#x2019;Espagne et attach&#xE9; &#xE0; la cour, il ne voulut jamais de carrosse ni de r&#xE9;tribution, mais, dans les splendeurs royales, se montra toujours humble, pauvre, mis&#xE9;ricordieux envers les pauvres et d&#x2019;une ardente pi&#xE9;t&#xE9;. </para><para>15*. &#xC0; Nagazasaki au Japon, en 1630, les bienheureux Jean Shozaburo, cat&#xE9;chiste, et cinq compagnons, martyrs, d&#xE9;capit&#xE9;s pour le Christ.</para><para>16*. En Espagne, en 1936, le bienheureux martyr Fran&#xE7;ois- Xavier Ponsa Casallarch, religieux de l&#x2019;Ordre de Saint-Jean de Dieu, &#xE0; Saint-F&#xE9;lix de Codines en Catalogne&#xA0;victime de la pers&#xE9;cution dirig&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile. </para><para>17*. En Espagne, la bienheureuse Amalie Abad Casasempre, m&#xE8;re de famille, &#xE0; Benillup en Galice, victime de la pers&#xE9;cution dirig&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile. </para><para>18*. Le bienheureux Joseph Tarrats Comaposada, religieux de la Compagnie de J&#xE9;sus, &#xE0; Valence&#xA0;</para><para>19*. Au camp de concentration de Karadzar dans le Kazakstan, en 1949, le bienheureux Nic&#xE9;tas Budka, &#xE9;v&#xEA;que et martyr, qui exer&#xE7;a son minist&#xE8;re d&#x2019;abord au Canada puis en Ukraine parmi les fid&#xE8;les catholiques de rite byzantin et, envoy&#xE9; en d&#xE9;portation par le r&#xE9;gime sovi&#xE9;tique ath&#xE9;e, il supporta tous les s&#xE9;vices avec force d&#x2019;&#xE2;me jusqu&#x2019;&#xE0; la mort. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

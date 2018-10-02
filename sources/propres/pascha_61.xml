@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Surrexit_Dominus_vere"/>
+<HYMNUS_laudes id="hy_Aurora_lucis_rutilat"/>
+<ant1 id="AN_Haec_dies_quam"/>
+<ant2 id="AN_Benedictus_es_in"/>
+<ant3 id="AN_Adorate_Deum_sedentem"/>
+<LB_matin id="LB_ap10.40-43"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi_alleluia"/>
+<benedictus id="AN"/>
+<oratio_laudes id="COL"/>
+
+<HYMNUS_tertiam id="hy_Iam_surgit_hora_tertia"/>
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<ant4 id="AN_Alleluia_alleluia_alleluia."/>
+<ant5 id="AN_Alleluia_alleluia_alleluia."/>
+<ant6 id="AN_Alleluia_alleluia_alleluia."/>
+<LB_3 id="LB_1_Cor_15_3b-5"/>
+<RB_3 id="VERS_Surrexit_Dominus_vere_alleluia"/>
+<oratio_3 id="COL"/>
+<LB_6 id="LB_Eph_2_4-6"/>
+<RB_6 id="VERS_Gavisi_sunt_discipuli_alleluia"/>
+<oratio_6 id="COL"/>
+<LB_9 id="LB_Rom_6_4"/>
+<RB_9 id="VERS_Mane_nobiscum_Domine_alleluia"/>
+<oratio_9 id="COL"/>
+<HYMNUS_vesperas id="hy_Ad_cenam_Agni_providi"/>
+<ant7 id="AN_Suscitavit_Christum_a"/>
+<ant8 id="AN_A_simulacris_conversi"/>
+<ant9 id="AN_Alleluia_salus_et"/>
+<LB_soir id="LB_Hebr_10_12-14"/>
+<RB_soir id="RB_Surrexit_Dominus_vere_Alleluia_alleluia"/>
+<magnificat id="AN"/>
+	
+	<messe>
+		<IN id="IN_Vocem_iucunditatis"/>
+		<PS1 id="AL_Surrexit_Christus_et_illuxit"/>
+		<PS2 id="AL_Non_vos_relinquam"/>
+		<OF id="OF_Benedicite_gentes"/>
+		<CO id="CO_Non_vos_relinquam_orphanos"/>
+		<LEC>
+			<A id="LEC_Ac8,5-17"/>
+			<B id="LEC_Ac10,25-26.34-35.44-48"/>
+			<C id="LEC_Ac15,1-2.22-29"/>
+		</LEC>
+		<PR>
+			<A id="PR_Ps66,1"/>
+			<B id="PR_Ps98,1"/>
+			<C id="PR_Ps67,2"/>
+		</PR>
+		<LEC2>
+			<A id="LEC_1P3,15-18"/>
+			<B id="LEC_1Jn4,7-10"/>
+			<C id="LEC_Ap21,10-14.22-23"/>
+		</LEC2>
+		<EV>
+			<A id="EV_Jn14,15-21"/>
+			<B id="EV_Jn15,9-17"/>
+			<C id="EV_Jn14,23-29"/>
+		</EV>
+		</messe>
+</liturgia>

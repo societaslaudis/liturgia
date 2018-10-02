@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>2</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Adventus</la><fr>Temps de l'Avent</fr></tempus>
+<hebdomada><la>Hebdomada II Adventus</la><fr>II&#xE8;me semaine de l'Avent</fr></hebdomada>
+<intitule><la>Dominica II Adventus</la><fr>II&#xE8;me dimanche de l'Avent</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_venturum_Dominum</invitatoire>
+
+<HYMNUS_lectures>hy_Verbum_supernum_prodiens</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+
+<antL1>AN_Veniet_ecce_Rex_excelsus_cum</antL1>
+
+<psL1>ps103I</psL1>
+
+<antL2>AN_Gaude_et_laetare_filia_Ierusalem_ecce</antL2>
+
+<psL2>ps103II</psL2>
+
+<antL3>AN_</antL3>
+
+<psL3>ps103III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_II_Adventus</Llec1>
+
+<Lrep1>R1_Dominica_II_Adventus</Lrep1>
+
+<Llec2>L2_Dominica_II_Adventus</Llec2>
+
+<Lrep2>R2_Dominica_II_Adventus</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>adventus_21-NOCT1-2</LEC_NOCT1>
+
+<LEC_NOCT2>adventus_21-NOCT2-2</LEC_NOCT2>
+
+<LEC_NOCT3>adventus_21-NOCT3-B</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Vox_clara_ecce_intonat</HYMNUS_laudes>
+ 
+<ant1>AN_Urbs_fortitudinis_nostrae</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Omnes_sitientes_venite</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Ecce_Dominus_noster</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_Rom_13_11-12</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi_</RB_matin>  
+<benedictus>AN_Fuit_Ioannes_in</benedictus> 
+<laudes_preces>perannum_21</laudes_preces><oratio_laudes>COL_Omnipotens_et_misericors_Deus_in_tui</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Prophetae_praedicaverunt_nasci</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_Gabriel_angelus_locutus</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Maria_dixit_Qualis</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_Rom13,13-14a</LB_3>
+ 
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+ 
+<LB_6>LB_Cf1Th3,12-1</LB_6>
+ 
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+ 
+<LB_9>LB_Cf.2Th1,6.7.10</LB_9>
+ 
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+ 
+<oratio_3>COL_Omnipotens_et_misericors_Deus_in_tui</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_et_misericors_Deus_in_tui</oratio_6>
+ 
+<oratio_9>COL_Omnipotens_et_misericors_Deus_in_tui</oratio_9>
+ 
+<intitule_soir><la>Dominica II Adventus</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Conditor_alme_siderum</HYMNUS_vepres>
+ 
+<ant7>AN_Ecce_in_nubibus_caeli</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Ecce_apparebit_Dominus_et</ant8>
+ 
+<ps8>ps113B</ps8>
+ 
+<ant9>AN_Dominus_legifer_noster_Dominus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Phil4,4-5</LB_soir>
+ 
+<RB_soir>RB_Ostende_nobis_Domine_Misericordiam</RB_soir>
+ 
+<magnificat>AN_Ioannes_praedicabat_dicens</magnificat>
+ 
+<vepres_preces>perannum_21</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_et_misericors_Deus_in_tui</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Populus_Sion</IN>
+<COL>COL_Omnipotens_et_misericors_Deus_in_tui</COL>
+<LEC>LEC_Is40,1-5;9-11</LEC>
+<PS1>GR_Ex_Sion</PS1>
+<LEC2>LEC_2P3,8-14</LEC2>
+
+<PS2>AL_Laetatus_sum</PS2>
+<EV>EV_Mc1,1-8</EV>
+<OF>OF_Deus_tu_convertens</OF>
+<PRE>PRE_Pr&#xE9;facedel'Aventn1oun.2.</PRE>
+<CO>CO_Ierusalem_surge</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule>Translation miraculeuse de la maison de la Vierge &#xE0; Lorette en 1294 </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Allumer la 2&#xE8;me des quatre bougies de l'Avent</intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Jean Roberts </intitule>
+ <biographiecourte>Et ses compagnons, martyrs &#xE0; Tyburn en Angleterre par fid&#xE9;lit&#xE9; au pape (&#x2020;1610)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 10 d&#xE9;cembre</para><para>1. &#xC0; Merida en Espagne, vers 304, sainte Eulalie, vierge et martyre, qui, dans son adolescence, dit-on, n&#x2019;h&#xE9;sita pas &#xE0; offrir sa vie pour le Christ.</para><para>2. &#xC0; Rome, au cimeti&#xE8;re de Trason, sur la nouvelle voie Salarienne, saint Maur, martyr, que le pape saint Damase c&#xE9;l&#xE8;bre comme un saint enfant auquel aucun supplice n&#x2019;a manqu&#xE9;. </para><para>3. &#xC0; Ancyre en Galatie, saint G&#xE9;mellus, martyr. </para><para>4. &#xC0; Rome, pr&#xE8;s de saint Pierre, en 761, saint Gr&#xE9;goire III, pape, qui eut le souci de faire pr&#xEA;cher l&#x2019;&#xC9;vangile aux Germains et, pour s&#x2019;opposer aux iconoclastes, orna les &#xE9;glises de Rome d&#x2019;images saintes. </para><para>5*. Au monast&#xE8;re Saint-Nicolas de Viotorito en Calabre, l&#x2019;an&#xA0;1114, le tr&#xE9;pas de saint Luc, &#xE9;v&#xEA;que d&#x2019;Isola, qui travailla sans rel&#xE2;che pour le bien des pauvres et l&#x2019;institution monastique. </para><para>6. &#xC0; Londres, en 1591, les saints martyrs Edmond Gennings, , pr&#xEA;tres, Swithun Wells, ma&#xEE;tre d&#x2019;&#xE9;cole </para><para>7 &#xC0; Londres, saints Polydore Plasden et Eustathe White, les bienheureux Brian Lacey pr&#xEA;tres Jean Mason et Sydney Hodgson, victimes de la pers&#xE9;cution contre les catholiques au temps de la reine &#xC9;lisabeth I&#xE8;re, ils furent condamn&#xE9;s &#xE0; mort, les pr&#xEA;tres parce qu&#x2019;ils avaient gagn&#xE9; l&#x2019;Angleterre, les la&#xEF;cs parce qu&#x2019;ils leur &#xE9;taient venus en aide, Swithun Wells fut pendu &#xE0; la porte de sa maison, ainsi que Edmond Gennings qui c&#xE9;l&#xE9;brait la messe chez lui&#xA0;; les autres subirent le m&#xEA;me supplice &#xE0; Tyburn. </para><para>8. &#xC0; Tyburn encore, dix-neuf ans apr&#xE8;s, en 1610, saint Jean Roberts, b&#xE9;n&#xE9;dictin, et le bienheureux Thomas Somers, pr&#xEA;tres et martyrs. Condamn&#xE9;s &#xE0; mort &#xE0; cause de leur sacerdoce sous le roi Jacques Ier, ils furent pendus au m&#xEA;me gibet en compagnie de seize voleurs. </para><para>9*. Dans la r&#xE9;gion de Valence en Espagne, en 1936, &#xE0; Vall&#xE8;s, le bienheureux Gonzalve Vi&#xF1;es Masip, pr&#xEA;tre&#xA0; </para><para>10*. En Espagne, &#xE0; Picadero de Paterna, les bienheureux Antoine Martin Hernandez, pr&#xEA;tre, et Augustin Garcia Calvo, religieux, ces deux derniers, sal&#xE9;siens&#xA0; martyrs dans la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

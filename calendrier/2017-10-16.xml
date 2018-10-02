@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXVIII per annum</la><fr>XXVIII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Margaritae Mariae Alacoque, virginis</la><fr>Ste Marguerite-Marie Alacoque, vierge</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Exsultemus_Domino_et</invitatoire>
+
+<HYMNUS_lectures>hy_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+
+<antL1>AN_Quam_bonus_Israel</antL1>
+
+<psL1>ps72I</psL1>
+
+<antL2>AN_Risus_eorum_in</antL2>
+
+<psL2>ps72II</psL2>
+
+<antL3>AN_Qui_elongant_se</antL3>
+
+<psL3>ps72III</psL3>
+
+<LVers>VERS_Quam_dulcia</LVers>
+n<Llec1>L1_perannum_28-2</Llec1>
+
+<Lrep1>R1_perannum_28-2</Lrep1>
+
+<Llec2>L2_perannum_28-2</Llec2>
+
+<Lrep2>R2_perannum_28-2</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Lucis_largitor_splendide</HYMNUS_laudes>
+ 
+<ant1>AN_Repleti_sumus_mane</ant1>
+ 
+<ps1>ps89</ps1>
+ 
+<ant2>AN_Laus_Domini_ab</ant2>
+ 
+<ps2>AT26</ps2>
+ 
+<ant3>AN_Laudate_nomen_Domini</ant3>
+ 
+<ps3>ps134</ps3>
+ 
+<LB_matin>LB_Iudt_8_25-26a._27</LB_matin> 
+ 
+<RB_matin>RB_Exsultate_iusti_in_Domino</RB_matin>  
+<benedictus>AN_Benedictus_Dominus_quia</benedictus> 
+<laudes_preces>perannum_42</laudes_preces><oratio_laudes>COL_Deus_qui_custodiendam_colendamque_terram_hominibus</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Gressus_meos_dirige</ant4>
+ 
+<ps4>ps118XVII</ps4>
+ 
+<ant5>AN_Unus_est_legislator</ant5>
+ 
+<ps5>ps81</ps5>
+ 
+<ant6>AN_Clamavi_et_Dominus</ant6>
+ 
+<ps6>ps119</ps6>
+ 
+<LB_3>LB_Lev_20_26</LB_3>
+ 
+<RB_3>VERS_Beata_gens</RB_3>
+ 
+<LB_6>LB_Sap_15_1._3</LB_6>
+ 
+<RB_6>VERS_Tu_Domine</RB_6>
+ 
+<LB_9>LB_Bar_4_21-22</LB_9>
+ 
+<RB_9>VERS_Reminiscere_miserationum</RB_9>
+ 
+<oratio_3>COL_Deus_Pater_optime_qui_laborem_hominibus</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_messis_ac_vineae_dominus</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_nos_advocas_illa_hora</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Luminis_fons_lux_et_origo_lucis</HYMNUS_vepres>
+ 
+<ant7>AN_Confitemini_Domino_quoniam</ant7>
+ 
+<ps7>ps135I</ps7>
+ 
+<ant8>AN_Magna_et_mirabilia</ant8>
+ 
+<ps8>ps135II</ps8>
+ 
+<ant9>AN_Proposuit_Deus_in</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_1_Th_2_13</LB_soir>
+ 
+<RB_soir>RB_Dirigatur_Domine_</RB_soir>
+ 
+<magnificat>AN_Magnificet_te_semper</magnificat>
+ 
+<vepres_preces>perannum_42</vepres_preces>
+ 
+<oratio_vepres>COL_Mane_nobiscum_Domine_Iesu_quoniam_advesperascit</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+ 
+<comp_ps1>ps85</comp_ps1> 
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+ 
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Si_iniquitates</IN>
+<IN_L>IN_L_perannum_28</IN_L>
+<COL>COL_perannum_28</COL>
+<LEC>LEC_Rm1,1-7</LEC>
+<PS1>GR_Ecce_quam_bonum</PS1>
+<PS2>AL_Qui_timent_Dominum</PS2>
+<EV>EV_Lc11,29-32</EV>
+<OF>OF_Recordare_mei</OF>
+<SO>SO_perannum_28</SO>
+<CO>CO_Aufer_a_me</CO>
+<CO_L>CO_L_perannum_28</CO_L>
+<PC>PC_perannum_28</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule>f&#xEA;te de Notre-Dame de la Porte de L'Aurore - Vilnius </intitule></viergemarie>
+
+<jerusalem>
+ <texte>St Longin (martyr)</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Edwige, religieuse</intitule>
+ <biographiecourte>M&#xE8;re de famille et religieuse   (&#x2020;1243) </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Ste Marguerite-Marie Alacoque, vierge</intitule>
+ <biographiecourte>Visitandine &#xE0; Paray-le-Monial, le Christ lui r&#xE9;v&#xE9;la sa grande mis&#xE9;ricorde. &#xC0; sa demande, elle r&#xE9;pandit le culte du Sacr&#xE9;-C&#x153;ur (&#x2020;1690)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 16 octobre</para><para>(Au Canada M&#xE9;moire de sainte Marie-Marguerite d&#x2019;Youville. &#xC9;loge le 23 d&#xE9;cembre). </para><para>1. M&#xE9;moire de sainte Edwige, religieuse. N&#xE9;e en Bavi&#xE8;re, mari&#xE9;e &#xE0; Henri le Barbu, duc de Sil&#xE9;sie et de Pologne, elle se d&#xE9;voua avec beaucoup d&#x2019;&#xE9;lan &#xE0; venir en aide aux pauvres et construisit pour eux des hospices. Apr&#xE8;s la mort de son mari, elle passa les derni&#xE8;res ann&#xE9;es de sa vie, activement, au monast&#xE8;re de moniales cisterciennes qu&#x2019;elle avait fait &#xE9;difier &#xE0; Trzebnicz en Sil&#xE9;sie, et dont l&#x2019;abbesse &#xE9;tait sa fille Gertrude, et c&#x2019;est l&#xE0; qu&#x2019;elle mourut le 15 octobre 1243. </para><para>2. M&#xE9;moire de sainte Marguerite-Marie Alacoque, vierge. Entr&#xE9;e &#xE0; vingt-quatre ans au monast&#xE8;re de la Visitation &#xE0; Paray-le-Monial en Bourgogne, elle avan&#xE7;a de mani&#xE8;re admirable sur le chemin de la perfection. Pourvue de dons mystiques, elle se pr&#xE9;occupa avant tout de la d&#xE9;votion envers le Sacr&#xE9;-C&#x153;ur de J&#xE9;sus, et fit beaucoup pour promouvoir son culte dans l&#x2019;&#xC9;glise. Elle mourut le 17 octobre 1690. </para><para>3. &#xC0; J&#xE9;rusalem, comm&#xE9;moraison de saint Longin, dont le nom d&#xE9;signe le soldat qui per&#xE7;a de sa lance le c&#xF4;t&#xE9; du Christ clou&#xE9; &#xE0; la croix. </para><para>4. &#xC0; Tulle, Saint Eliphii, martyr</para><para>5. Comm&#xE9;moraison des saints Martinien et Saturien, martyrs en Afrique, avec deux de leurs fr&#xE8;res. Au Ve si&#xE8;cle, lors de la pers&#xE9;cution des Vandales, sous le roi arien Gens&#xE9;ric, alors qu&#x2019;ils &#xE9;taient esclaves des Vandales, ils furent amen&#xE9;s &#xE0; la foi du Christ par sainte Maxime, vierge, esclave comme eux. &#xC0; cause de leur fermet&#xE9; dans la foi catholique, ils furent frapp&#xE9;s de verges &#xE0; n&#x153;uds et lac&#xE9;r&#xE9;s, puis rel&#xE9;gu&#xE9;s en exil chez les Maures et l&#xE0;, parce qu&#x2019;ils avaient amen&#xE9; plusieurs &#xE0; la foi du Christ, ils furent condamn&#xE9;s &#xE0; mort. Maxime, elle, apr&#xE8;s avoir surmont&#xE9; plusieurs combats, fut lib&#xE9;r&#xE9;e, et devenue, dans un monast&#xE8;re, la m&#xE8;re d&#x2019;un grand nombre de vierges, termina saintement sa vie dans la paix. </para><para>6. Dans le Limousin, au VIe si&#xE8;cle, les saints Amand et Junian, son disciple, ermites. </para><para>7. Pr&#xE8;s d&#x2019;Arbone chez les Suisses, vers 645, saint Gall, moine pr&#xEA;tre. Accueilli encore enfant par saint Colomban au monast&#xE8;re de Bangor en Irlande, il le suivit en Gaule et v&#xE9;cut ensuite dans cette r&#xE9;gion en ermite, mais aussi en pr&#xE9;dicateur itin&#xE9;rant de l&#x2019;&#xC9;vangile. Presque centenaire, il trouva enfin en Dieu son repos. </para><para>8*. &#xC0; Noyon, vers 686, saint Mommelin, &#xE9;v&#xEA;que. D&#x2019;abord moine, il aida saint Omer dans son action missionnaire, puis succ&#xE9;da &#xE0; saint &#xC9;loi sur le si&#xE8;ge de Noyon. </para><para>9. Au monast&#xE8;re d&#x2019;Hersfeld en Franconie, l&#x2019;an&#xA0;786, le tr&#xE9;pas de saint Lul, &#xE9;v&#xEA;que de Mayence. Il accompagna et aida saint Boniface dans sa mission d&#x2019;&#xE9;vang&#xE9;lisation, fut ordonn&#xE9; &#xE9;v&#xEA;que par lui, afin d&#x2019;&#xEA;tre un ma&#xEE;tre pour les pr&#xEA;tres, un docteur de la R&#xE8;gle pour les moines, un pr&#xE9;dicateur et un pasteur fid&#xE8;le pour le peuple chr&#xE9;tien. </para><para>10*. Au pays de Retz dans le dioc&#xE8;se de Nantes, au VIIIe si&#xE8;cle, saint Vital (Viaud), qui v&#xE9;cut en solitaire. </para><para>11*. Au pays de Mirepoix dans les Pyr&#xE9;n&#xE9;es, vers&#xA0;900, saint Gaud&#xE9;ric, laboureur, remarquable par sa pi&#xE9;t&#xE9; envers la sainte M&#xE8;re de Dieu. </para><para>12*. &#xC0; Brioude en Auvergne, vers le Xe ou XIe si&#xE8;cle, sainte Bonite, vierge.</para><para>13*. &#xC0; Pamiers dans les Pyr&#xE9;n&#xE9;es, vers&#xA0;1085, saint Anastase, moine. N&#xE9; &#xE0; Venise, il devint moine au Mont-Saint-Michel, puis mena la vie &#xE9;r&#xE9;mitique dans l&#x2019;&#xEE;le voisine de Tombelaine, puis de nouveau la vie monastique &#xE0; Cluny et enfin se retira dans la solitude les derni&#xE8;res ann&#xE9;es de sa vie. </para><para>14. En Comminges, &#xE9;galement dans les Pyr&#xE9;n&#xE9;es, vers 1123, saint Bertrand, &#xE9;v&#xEA;que. Mettant en &#x153;uvre les d&#xE9;cisions du pape saint Gr&#xE9;goire VII, il s&#x2019;occupa activement de la r&#xE9;forme de l&#x2019;&#xC9;glise, restaura sa cit&#xE9; d&#xE9;truite par le cours du temps, et &#xE9;tablit, pr&#xE8;s de sa cath&#xE9;drale, reconstruite enti&#xE8;rement, des chanoines r&#xE9;guliers astreints &#xE0; la R&#xE8;gle de saint Augustin. </para><para>15*. Au monast&#xE8;re d&#x2019;Igny dans le pays de Reims, en 1177, le tr&#xE9;pas du bienheureux G&#xE9;rard, abb&#xE9; de Clairvaux, qui succ&#xE9;da &#xE0; saint Bernard, et en cours de visite dans cette abbaye, fut tu&#xE9; par un moine d&#xE9;prav&#xE9;. </para><para>16. &#xC0; Muro Lucano en Basilicate, l&#x2019;an&#xA0;1755, saint G&#xE9;rard Majella, religieux r&#xE9;demptoriste, qui, saisi d&#x2019;un &#xE9;lan d&#x2019;amour pour Dieu, embrassa, partout o&#xF9; il passa, un genre de vie tr&#xE8;s s&#xE9;v&#xE8;re et, consum&#xE9; par le z&#xE8;le de Dieu et des &#xE2;mes, mourut saintement, encore jeune. </para><para>17*. Au camp de concentration d&#x2019;Auschwitz (Oswiecim), pr&#xE8;s de Cracovie, l&#x2019;an&#xA0;1944, les bienheureux Anicet Koplinski, capucin, et Joseph Jankowski, de la Soci&#xE9;t&#xE9; d&#x2019;apostolat catholique, pr&#xEA;tres et martyrs. Alors que la Pologne &#xE9;tait soumise au r&#xE9;gime nazi, ils furent intern&#xE9;s et moururent pour le Christ, le premier, envoy&#xE9; &#xE0; la chambre &#xE0; gaz, le second, massacr&#xE9; par les vigiles du camp. </para><para>**. En Inde, en 1973, le bienheureux Agostino Thevarparampil (Kunjachan), pr&#xEA;tre indien de rite Syro-Malabar, ap&#xF4;tre des intouchables. (b&#xE9;atifi&#xE9; le 30 avril 2006 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

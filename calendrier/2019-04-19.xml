@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>1</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus passionis</la><fr>Temps de la Passion</fr></tempus>
+<hebdomada><la>Sacrum Triduum Paschale</la><fr>Triduum pascal sacr&#xE9;</fr></hebdomada>
+<intitule><la>Feria VI hebdomadae sanctae</la><fr>Vendredi Saint</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Suavis_est_Dominus</invitatoire>
+
+<HYMNUS_lectures>hy_Galli_cantu_mediante</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Adesto_rerum_conditor</HYMNUS_lec_jour>
+
+<antL1>AN_Ne_in_ira</antL1>
+
+<psL1>ps37I</psL1>
+
+<antL2>AN_Domine_ante_te</antL2>
+
+<psL2>ps37II</psL2>
+
+<antL3>AN_Iniquitatem_meam_annuntiabo</antL3>
+
+<psL3>ps37III</psL3>
+
+<LVers>VERS_Oculi_mei</LVers>
+n<Llec1>L1_Feria_VI_hebdomadae_sanctae</Llec1>
+
+<Lrep1>R1_Feria_VI_hebdomadae_sanctae</Lrep1>
+
+<Llec2>L2_Feria_VI_hebdomadae_sanctae</Llec2>
+
+<Lrep2>R2_Feria_VI_hebdomadae_sanctae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>HS_6-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>HS_6-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_En_acetum_fel_arundo</HYMNUS_laudes>
+ 
+<ant1>AN_Proprio_Filio_suo</ant1>
+ 
+<ps1>ps50</ps1>
+ 
+<ant2>AN_Iesus_Christus_dilexit</ant2>
+ 
+<ps2>Canticum_Hab_3_2-4._13a._15-19</ps2>
+ 
+<ant3>AN_Crucem_tuam_adoramus</ant3>
+ 
+<ps3>ps147</ps3>
+ 
+<LB_matin>LB_Is_52_13-15</LB_matin> 
+ 
+<RB_matin>RB_Christus_factus_est_pro_nobis</RB_matin>  
+<benedictus>AN_Posuerunt_super_caput</benedictus> 
+<laudes_preces>perannum_26</laudes_preces><oratio_laudes>COL_Respice_quaesumus_Domine_super_hanc_familiam</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Salva_Redemptor_plasma_tuum_nobile</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Crux_mundi_benedictio</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Per_crucem_Christe_quaesumus</HYMNUS_9>
+ 
+ 
+<ant4>AN_Erat_hora_tertia</ant4>
+ 
+<ps4>ps118X</ps4>
+ 
+<ant5>AN_Hora_sexta_tenebrae</ant5>
+ 
+<ps5>ps58</ps5>
+ 
+<ant6>AN_Hora_nona_exclamavit</ant6>
+ 
+<ps6>ps59</ps6>
+ 
+<LB_3>LB_Is_53_2-3</LB_3>
+ 
+<RB_3>VERS_Adoramus_te_Christe_et_benedicimus</RB_3>
+ 
+<LB_6>LB_Is_53_4-5</LB_6>
+ 
+<RB_6>VERS_Memento_mei_Domine_Dum_veneris</RB_6>
+ 
+<LB_9>LB_Is_53_6-7</LB_9>
+ 
+<RB_9>VERS_Collocavit_me_in_obscuris</RB_9>
+ 
+<oratio_3>COL_Respice_quaesumus_Domine_super_hanc_familiam</oratio_3>
+ 
+<oratio_6>COL_Respice_quaesumus_Domine_super_hanc_familiam</oratio_6>
+ 
+<oratio_9>COL_Respice_quaesumus_Domine_super_hanc_familiam</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_O_memoriale_mortis_Domini</HYMNUS_vepres>
+ 
+<ant7>AN_Attendite_universi_populi</ant7>
+ 
+<ps7>ps114</ps7>
+ 
+<ant8>AN_Iesus_Christus_dilexit</ant8>
+ 
+<ps8>ps120</ps8>
+ 
+<ant9>AN_Crucem_tuam_adoramus</ant9>
+ 
+<ps9>NT11</ps9>
+ 
+<LB_soir>LB_1_Petr_2_21b-24</LB_soir>
+ 
+<RB_soir>RB_Christus_factus_est_pro_nobis</RB_soir>
+ 
+<magnificat>AN_Cum_inimici_essemus</magnificat>
+ 
+<vepres_preces>perannum_26</vepres_preces>
+ 
+<oratio_vepres>COL_Respice_quaesumus_Domine_super_hanc_familiam</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_Christus_factus_est_pro_nobis</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<LEC>LEC_Is52,13-53,12</LEC>
+<PR>PR_Ps30Ps2</PR><LEC2>LEC_He4,14-5,9</LEC2>
+<EV>EV_Jn18,1-19,42</EV>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Elph&#xE8;ge, archev&#xEA;que</intitule>
+ <biographiecourte>Archev&#xEA;que de Canterbury, mort martyr en 1012</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Vendredi Saint et Samedi Saint </para><para>La lecture du Martyrologe est supprim&#xE9;e (est omise)</para><para>
+            Le 19 avril</para><para>1. En Afrique, l&#x2019;an&#xA0;250, saint Mappalique, martyr. Durant la pers&#xE9;cution de D&#xE8;ce, &#xE9;mu par la pi&#xE9;t&#xE9; familiale, il demanda d&#x2019;accorder la paix &#xE0; sa m&#xE8;re et sa s&#x153;ur, qui avaient failli, mais lui-m&#xEA;me, soumis &#xE0; l&#x2019;interrogatoire et &#xE0; la torture, fut couronn&#xE9; du martyre dans l&#x2019;&#xE9;preuve&#xA0;; avec lui sont associ&#xE9;s beaucoup d&#x2019;autres saints martyrs qui ont confess&#xE9; le Christ&#xA0;: Bassus dans une carri&#xE8;re, Fortunion en prison, Paul apr&#xE8;s l&#x2019;interrogatoire, Fortun&#xE9;e, Victorin, Victor, Heremius, Credula, Hereda, Donat, Firmus, V&#xE9;nustus, Fructus, Julie, Martial et Ariston, qui tous moururent de faim en prison. </para><para>2. En Perse, l&#x2019;an&#xA0;341, sainte Marthe, vierge et martyre. Sous le roi Sapor II, elle fut d&#xE9;capit&#xE9;e le lendemain de l&#x2019;ex&#xE9;cution de son p&#xE8;re, saint Pusice, c&#x2019;est-&#xE0;-dire le jour de la R&#xE9;surrection de Seigneur.</para><para>3. &#xC0; Antioche de Pisidie en 818, saint Georges, &#xE9;v&#xEA;que, qui mourut en exil pour le culte des saintes images. </para><para>4*. Dans les Alpes de Bavi&#xE8;re, vers 978, saint G&#xE9;rold, ermite, dont on rapporte qu&#x2019;il mena une vie de pri&#xE8;re et de p&#xE9;nitence dans la r&#xE9;gion de Vorarlberg. </para><para>5. Sur la c&#xF4;te pr&#xE8;s de Greenwich en Angleterre, la passion de saint Elph&#xE8;ge, &#xE9;v&#xEA;que de Cantorb&#xE9;ry et martyr. Il s&#x2019;offrit pour son troupeau aux Danois qui ravageaient la ville par le fer et le feu, et comme il refusait d&#x2019;&#xEA;tre rachet&#xE9; &#xE0; prix d&#x2019;argent, il fut frapp&#xE9;, le samedi apr&#xE8;s P&#xE2;ques, &#xE0; coups de pierres et enfin d&#xE9;capit&#xE9;. </para><para>6. &#xC0; Rome, pr&#xE8;s de saint Pierre, en 1054, saint L&#xE9;on IX, pape, qui d&#x2019;abord &#xE9;v&#xEA;que de Toul, d&#xE9;fendit fermement son &#xC9;glise pendant vingt-cinq ans puis, &#xE9;lu au si&#xE8;ge de Rome, pendant cinq ans il convoqua plusieurs synodes pour r&#xE9;former la vie du clerg&#xE9; et extirper la simonie. </para><para>7*. Au monast&#xE8;re de Saint-Bertin en Th&#xE9;rouanne, l&#x2019;an&#xA0;1182, le tr&#xE9;pas du bienheureux Bernard le P&#xE9;nitent, qui, cherchant &#xE0; expier par une p&#xE9;nitence tr&#xE8;s dure des p&#xE9;ch&#xE9;s de jeunesse, choisit un exil volontaire&#xA0;: pieds nus, v&#xEA;tu de tissus de laine, se contentant d&#x2019;un peu de nourriture, il fit sans arr&#xEA;t des p&#xE8;lerinages aux lieux sacr&#xE9;s et finit ses jours sous l&#x2019;habit monastique. </para><para>8*. &#xC0; Londres, en 1602, le bienheureux Jacques Duckett, martyr. Mari&#xE9; et libraire, il fut d&#xE9;nonc&#xE9; pour avoir vendu des livres catholiques. Apr&#xE8;s neuf ans pass&#xE9;s en prison, il fut condamn&#xE9; &#xE0; mort, sous la reine &#xC9;lisabeth I&#xE8;re, et soumis au supplice de la pendaison &#xE0; Tyburn, avec son accusateur, qu&#x2019;en mourant il invita &#xE0; une mort catholique. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

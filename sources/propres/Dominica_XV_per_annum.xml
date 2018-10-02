@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XV per annum</la>
+<fr>XV&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+
+<HYMNUS_1V id="hy_Rerum_Deus_fons_omnium"/>
+<ps01 id="ps118XIV"/>
+<ps02 id="ps15"/>
+<ps03 id="NT5"/>
+<ant07 id="AN_Lucerna_pedibus_meis"/>
+<ant02 id="AN_Adimplebis_me_laetitia"/>
+<ant03 id="AN_In_nomine_Iesu"/>
+<LB_1V id="LB_Col_1_2b-6a"/>
+<RB_1V id="RB_A_solis_ortu"/>
+  
+
+
+<magnificat1_A id="AN_Locutus_est_Iesus"/>
+<magnificat1_B id="AN_Convocavit_Iesus_Duodecim"/>
+<magnificat1_C id="AN_Diliges_Dominum_Deum"/>
+<oratio id="COL_Deus_qui_errantibus_ut_in_viam"/>
+<oratio_3 id="COL_Deus_qui_errantibus_ut_in_viam"/>
+<oratio_6 id="COL_Deus_qui_errantibus_ut_in_viam"/>
+<oratio_9 id="COL_Deus_qui_errantibus_ut_in_viam"/>
+
+<benedictus_A id="AN_Vobis_datum_est"/>
+<benedictus_B id="AN_Exeuntes_discipuli_praedicaverunt"/>
+<benedictus_C id="AN_Samaritanus_quidam_iter"/>
+<magnificat_A id="AN_Semen_est_verbum"/>
+<magnificat_B id="AN_Daemonia_multa_eiciebant"/>
+<magnificat_C id="AN_Quis_tibi_videtur"/>
+</liturgia>

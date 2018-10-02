@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 23 februarii</la>
+<fr>Le 23 f&#xE9;vrier</fr>
+</jour>
+<intitule>
+<la>S. POLYCARPI, EPISCOPI ET MARTYRIS</la>
+<fr>S. POLYCARPE, EVEQUE ET MARTYR</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_martyrum_Dominum"/>
+<HYMNUS_laudes id="hy_Martyr_Dei"/>
+<LB_matin id="LB_Act_15_7b-9"/>
+<RB_matin id="RB_Constitues_eos_principes_Super"/>
+<benedictus id="AN_Octoginta_et_sex"/>
+
+<oratio id="COL_Deus_universae_creaturae_qui_beatum_Polycarpum"/>
+<HYMNUS_vesperas id="hy_Deus_tuorum_militum"/>
+<LB_soir id="LB_1_Petr_4_13-14"/>
+<RB_soir id="RB_Probasti_nos_Deus_Et"/>
+<magnificat id="AN_Domine_Deus_omnipotens"/>
+<messe>
+<EV id="EV_Jn15,18-21"/>
+<LEC id="LEC_Ap2,8-11"/>
+<IN id="IN_Sacerdotes_Dei"/>
+
+<COL id="COL_Deus_universae_creaturae_qui_beatum_Polycarpum"/>
+<PS1 id="GR_Gloria_et_honore"/>
+<PS2 id="AL_Hic_est_sacerdos"/>
+<OF id="OF_Inveni_David"/>
+<CO id="CO_Posuisti"/>
+</messe>
+</liturgia>

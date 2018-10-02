@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<liturgia>
+<ps1 id="ps62"/>
+<ps2 id="AT41"/>
+<ps3 id="ps149"/>
+<ps7 id="ps109"/>
+<ps8 id="ps113A"/>
+<ps9 id="NT12"/>
+<preces id="pascha_14"/>
+
+ <ant_invit id="INV_Surrexit_Dominus_vere"/>
+<HYMNUS_laudes id="hy_Aurora_lucis_rutilat"/>
+<ant1 id="AN_Surrexit_Christus_et"/>
+<ant2 id="AN_Redemptor_noster_surrexit"/>
+<ant3 id="AN_Alleluia_resurrexit_Dominus"/>
+<LB_matin id="LB_Rom_6_8-11"/>
+<RB_matin id="RB_Haec_dies_quam_fecit_Dominus_exsultemus"/>
+<benedictus id="AN_Incipiens_Iesus_a"/>
+
+<oratio id="COL_Deus_qui_nos_resurrectionis_dominicae_annua"/>
+<HYMNUS_tertiam id="hy_Iam_surgit_hora_tertia"/>
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<ant4 id="AN_Christus_surrexit_a"/>
+<ant5 id="AN_Traditus_est_propter"/>
+<ant6 id="AN_Si_consurrexistis_cum"/>
+<LB_3 id="LB_Rom_4_24-25"/>
+<RB_3 id="VERS_Haec_dies_quam_fecit_Dominus"/>
+<oratio_3 id="COL_Deus_qui_nos_resurrectionis_dominicae_annua"/>
+<LB_6 id="LB_1_Io_5_5-6a"/>
+<RB_6 id="VERS_Haec_dies_quam_fecit_Dominus"/>
+<oratio_6 id="COL_Deus_qui_nos_resurrectionis_dominicae_annua"/>
+<LB_9 id="LB_Eph_4_23-24"/>
+<RB_9 id="VERS_Haec_dies_quam_fecit_Dominus"/>
+<oratio_9 id="COL_Deus_qui_nos_resurrectionis_dominicae_annua"/>
+<HYMNUS_vesperas id="hy_Ad_cenam_Agni_providi"/>
+<ant7 id="AN_Venerunt_ad_monumentum"/>
+<ant8 id="AN_Venite_et_videte"/>
+<ant9 id="AN_Ait_Iesus_Nolite"/>
+<LB_soir id="LB_Hebr_7_24-27"/>
+<RB_soir id="RB_Haec_dies_quam_fecit_Dominus_exsultemus"/>
+<magnificat id="AN_Intravit_Iesus_cum"/>
+
+<HYMNUS_completorium id="HY_Iesu_redemptor"/>
+<ant10 id="AN_alleluia_alleluia_alleulia"/>
+<ps10 id="ps90"/>
+<LB_completorium id="LB_Ap_22_4-5"/>
+<RB_completorium id="RB_Haec_dies_quam_fecit_Dominus"/>
+<oratio_completorium id="COL_Vox_nostra_te_Domine"/>
+<AM id="AM_Regina_Caeli"/>
+
+<LEC_1_impaire id="Ac3,1-10"/><PR_impaire id="Ps105,1"/><LEC_1_paire id="Ac3,1-10"/><PR_paire id="Ps105,1"/><EV id="Lc24,13-35"/><LEC_1_impaire id="Ac3,1-10"/><PR_impaire id="Ps105,1"/><LEC_1_paire id="Ac3,1-10"/><PR_paire id="Ps105,1"/><EV id="Lc24,13-35"/><annoA><IN id="IN_Venite_benedicti"/><PS1 id="GR_Haec_dies_Dextera"/><PS2 id="AL_Surrexit_Dominus_vere"/><SEQ id="SEQ_Victimae_paschali_laudes"/><OF id="OF_Portas_caeli"/><CO id="CO_Christus_resurgens"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoA><annoB><IN id="IN_Venite_benedicti"/><PS1 id="GR_Haec_dies_Dextera"/><PS2 id="AL_Surrexit_Dominus_vere"/><SEQ id="SEQ_Victimae_paschali_laudes"/><OF id="OF_Portas_caeli"/><CO id="CO_Christus_resurgens"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoB><annoC><IN id="IN_Venite_benedicti"/><PS1 id="GR_Haec_Dies_dextera"/><PS2 id="AL_Surrexit_Dominus_vere"/><SEQ id="SEQ_Victimae_paschali_laudes"/><OF id="OF_Portas_caeli"/><CO id="CO_Christus_resurgens"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoC><messe><IN id="IN_Venite_benedicti"/><LEC><impaire id="LEC_Ac3,1-10"/><paire id="LEC_Ac3,1-10"/></LEC><PS1 id="GR_Haec_dies_Dextera"/><PS2 id="AL_Surrexit_Dominus_vere"/><EV id="EV_Lc24,13-35"/><OF id="OF_Portas_caeli"/><CO id="CO_Christus_resurgens"/></messe></liturgia>

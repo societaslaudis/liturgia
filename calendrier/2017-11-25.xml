@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXXIII per annum</la><fr>XXXIII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Catharinae Alexandrinae, virginis et martyris</la><fr>Ste Catherine d'Alexandrie, vierge et martyre</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Domini_est_terra</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps130</psL1>
+
+<antL2/>
+
+<psL2>ps131I</psL2>
+
+<antL3/>
+
+<psL3>ps131II</psL3>
+
+<LVers/>
+n<Llec1>L1_perannum_33-7</Llec1>
+
+<Lrep1>R1_perannum_33-7</Lrep1>
+
+<Llec2>L2_perannum_33-7</Llec2>
+
+<Lrep2>R2_perannum_33-7</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_iam_spargit_polum</HYMNUS_laudes>
+ 
+<ant1>AN_Praevenerunt_oculi_mei</ant1>
+ 
+<ps1>ps118XIX</ps1>
+ 
+<ant2>AN_Fortitudo_mea_et</ant2>
+ 
+<ps2>AT1</ps2>
+ 
+<ant3>AN_Laudate_Dominum_omnes</ant3>
+ 
+<ps3>ps116</ps3>
+ 
+<LB_matin>LB_2_Petr_1_10-11</LB_matin> 
+ 
+<RB_matin>RB_Clamavi_ad_te_Domine</RB_matin>  
+<benedictus>AN_Illumina_Domine_sedentes</benedictus> 
+<laudes_preces>perannum_17</laudes_preces><oratio_laudes>COL_Corda_nostra_quaesumus_Domine_resurrectionis_splendor</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Deduc_me_Domine</ant4>
+ 
+<ps4>ps118V</ps4>
+ 
+<ant5>AN_Inquirentes_Dominum_non</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Inquire_pacem_et</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_1_Reg_8_60-61</LB_3>
+ 
+<RB_3>VERS_Deus_meus</RB_3>
+ 
+<LB_6>LB_Ier_17_9-10</LB_6>
+ 
+<RB_6>VERS_Ab_occultis</RB_6>
+ 
+<LB_9>LB_Sap_7_27a;_8_1</LB_9>
+ 
+<RB_9>VERS_Quam_magnificata</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>DOMINI NOSTRI IESU CHRISTI UNIVERSORUM REGIS </la></intitule_soir>
+ 
+<rang_soir><la>Sollemnitas</la></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Te_saeculorum_principem</HYMNUS_vepres>
+ 
+<ant7>AN_Pacificus_vocabitur_et</ant7>
+ 
+<ps7>ps112</ps7>
+ 
+<ant8>AN_Regnum_eius_regnum</ant8>
+ 
+<ps8>ps116</ps8>
+ 
+<ant9>AN_Christo_datus_est</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_Cf._Eph_1_20-23</LB_soir>
+ 
+<RB_soir>RB_Tua_est_magnificentia_et_potentia</RB_soir>
+ 
+<magnificat>AN_Dabit_illi_Dominus_Deus_sedem</magnificat>
+ 
+<vepres_preces>perannum_17</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_in_dilecto</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+	 
+<comp_ps1>ps4</comp_ps1>
+	 
+<comp_ant2>AN_In_noctibus</comp_ant2>
+	 
+<comp_ps2>ps133</comp_ps2>
+	 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+	 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	 
+<comp_AM>AM_Sub_tuum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Dicit_Dominus_Ego</IN>
+<IN_L>IN_L_perannum_33</IN_L>
+<COL>COL_perannum_33</COL>
+<LEC>LEC_1M6,1-13</LEC>
+<PS1>GR_Liberasti_nos</PS1>
+<PS2>AL_De_profundis</PS2>
+<EV>EV_Lc20,27-40</EV>
+<OF>OF_De_profundis</OF>
+<SO>SO_perannum_33</SO>
+<CO>CO_Amen_dico_vobis_Quidquid</CO>
+<CO_L>CO_L_perannum_33</CO_L>
+<PC>PC_perannum_33</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Catherine d'Alexandrie, vierge et martyr</intitule>
+ <biographiecourte>M&#xE9;moire r&#xE9;tablie dans le nouveau missel. Catherine par sa science convertit ses professeurs (&#x2020;310)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 25 novembre</para><para>1. M&#xE9;moire de sainte Catherine, qui fut, dit-on, vierge et martyre &#xE0; Alexandrie, aussi remplie d&#x2019;acuit&#xE9; d&#x2019;esprit et de sagesse que de force d&#x2019;&#xE2;me. Son corps est l&#x2019;objet d&#x2019;une pieuse v&#xE9;n&#xE9;ration au c&#xE9;l&#xE8;bre monast&#xE8;re du mont Sina&#xEF;. </para><para>2. &#xC0; C&#xE9;sar&#xE9;e de Cappadoce, saint Mercure, martyr. </para><para>3. &#xC0; Rome comm&#xE9;moraison de saint Moyse, pr&#xEA;tre et martyr en 251. Apr&#xE8;s l&#x2019;ex&#xE9;cution du pape saint Fabien sous l&#x2019;empereur D&#xE8;ce, il administra l&#x2019;&#xC9;glise de Rome avec le coll&#xE8;ge des pr&#xEA;tres&#xA0;; il jugea qu&#x2019;il fallait r&#xE9;concilier les apostats repentants qui &#xE9;taient malades et sur le point de mourir&#xA0;; longtemps d&#xE9;tenu en prison et souvent consol&#xE9; par les lettres de saint Cyprien de Carthage, il fut honor&#xE9; d&#x2019;un illustre et admirable martyre, au dire du pape saint Corneille. </para><para>4. &#xC0; Alexandrie, en 311, saint Pierre, &#xE9;v&#xEA;que et martyr. &#xC9;minent en toutes sortes de vertus, il eut soudain la t&#xEA;te tranch&#xE9; par ordre de l&#x2019;empereur Gal&#xE8;re Maxime, et fut la derni&#xE8;re victime de la grande pers&#xE9;cution et comme le sceau des martyrs. Avec lui on garde m&#xE9;moire de trois &#xE9;v&#xEA;ques &#xE9;gyptiens, H&#xE9;sychius, Pachymius, et Th&#xE9;odore, qui souffrirent &#xE0; Alexandrie &#xE9;galement, avec beaucoup d&#x2019;autres, dans la m&#xEA;me pers&#xE9;cution. </para><para>5. En Numidie, en 347, saint Marcule, &#xE9;v&#xEA;que, qui, dit-on, au temps de l&#x2019;empereur Constant, fut pr&#xE9;cipit&#xE9; d&#x2019;un rocher par un certain Macaire et succomba martyr. </para><para>6*. Au pays d&#x2019;Agen, vers le VIe si&#xE8;cle, saint Maurin. Selon la tradition, alors qu&#x2019;il s&#x2019;employait &#xE0; &#xE9;vang&#xE9;liser le peuple de la campagne, il fut massacr&#xE9; par des pa&#xEF;ens.</para><para>7*. Dans le Valentinois, entre 1303 et 1309, la bienheureuse B&#xE9;atrice d&#x2019;Ornacieux, vierge, qui, saisie d&#x2019;un grand amour de la croix, v&#xE9;cut et mourut dans la plus grande pauvret&#xE9; dans la Chartreuse d&#x2019;Eymeu qu&#x2019;elle avait fait construire. </para><para>8*. &#xC0; Reute en Souabe, l&#x2019;an&#xA0;1480, la bienheureuse &#xC9;lisabeth Achlin, surnomm&#xE9;e la Bonne, qui v&#xE9;cut quasi recluse dans le Tiers-Ordre r&#xE9;gulier de Saint-Dominique, en pratiquant d&#x2019;une mani&#xE8;re merveilleuse l&#x2019;humilit&#xE9;, la pauvret&#xE9; et l&#x2019;affliction corporelle. </para><para>9. &#xC0; S&#xE9;oul en Cor&#xE9;e, l&#x2019;an&#xA0;1838, saint Pierre Yi Ho&#xA0;-yong, martyr. Cat&#xE9;chiste, il fut arr&#xEA;t&#xE9; par des gardes avec sa s&#x153;ur sainte Agathe Yi So-sa et, puisqu&#x2019;il demeurait ferme dans sa confession de la foi, on lui fractura trois fois les os et on le maintint quatre ans en prison, o&#xF9; il mourut, premier de la tr&#xE8;s glorieuse troupe des martyrs de cette nation. </para><para>10*. &#xC0; Puebla de Hijar, pr&#xE8;s de T&#xE9;ruel en Espagne, en 1936, le bienheureux Hyacinthe Serrano Lopez, pr&#xEA;tre dominicain et martyr, fusill&#xE9; dans la pers&#xE9;cution contre l&#x2019;&#xC9;glise au cours de la guerre civile. Avec lui, on comm&#xE9;more le bienheureux Jacques Meseguer Burillo, autre pr&#xEA;tre dominicain et martyr, qui tomba &#xE0; Barcelone dans la m&#xEA;me pers&#xE9;cution, un jour inconnu. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

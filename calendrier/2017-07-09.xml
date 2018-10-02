@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XIV per annum</la><fr>XIV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XIV per annum</la><fr>XIV&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Populus_Domini_et</invitatoire>
+
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+
+<antL1>AN_Domine_Deus_meus</antL1>
+
+<psL1>ps103I</psL1>
+
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+
+<psL2>ps103II</psL2>
+
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+
+<psL3>ps103III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_XIV_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XIV_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XIV_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XIV_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Ecce_iam_noctis_tenuatur_umbra</HYMNUS_laudes>
+ 
+<ant1>AN_Benedictus_qui_venit</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Hymnum_dicamus_Domino</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Laudate_Dominum</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_Ez_36_25-27</LB_matin> 
+ 
+<RB_matin>RB_Confitebimur_tibi_Deus_Et</RB_matin>  
+<benedictus>AN_Tollite_iugum_meum</benedictus> 
+<laudes_preces>perannum_21</laudes_preces><oratio_laudes>COL_Deus_qui_in_Filii_tui_humilitate</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_In_pascuis_virentibus_Dominus</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_In_Israel_magnum</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Terra_tremuit</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_Rom_5_1-2._5</LB_3>
+ 
+<RB_3>VERS_Misericordias_Domini</RB_3>
+ 
+<LB_6>LB_Rom_8_26</LB_6>
+ 
+<RB_6>VERS_Appropinquet_deprecatio_mea</RB_6>
+ 
+<LB_9>LB_2_Cor_1_21-22</LB_9>
+ 
+<RB_9>VERS_Dominus_illuminatio_mea</RB_9>
+ 
+<oratio_3>COL_Deus_qui_in_Filii_tui_humilitate</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_in_Filii_tui_humilitate</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_in_Filii_tui_humilitate</oratio_9>
+ 
+<intitule_soir><la>Dominica XIV per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_O_lux_beata_Trinitas</HYMNUS_vepres>
+ 
+<ant7>AN_Sacerdos_in_aeternum</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Deus_noster_in_caelo</ant8>
+ 
+<ps8>ps113B</ps8>
+ 
+<ant9>AN_Laudem_dicite_Deo</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_2Th2,13-14</LB_soir>
+ 
+<RB_soir>RB_Magnus_Dominus_noster</RB_soir>
+ 
+<magnificat>AN_Iugum_meum_suave</magnificat>
+ 
+<vepres_preces>perannum_21</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_in_Filii_tui_humilitate</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Suscepimus</IN>
+<IN_L>IN_L_perannum_14</IN_L>
+<COL>COL_perannum_14</COL>
+<LEC>LEC_Is55,10-11</LEC>
+<PS1>GR_Esto_mihi</PS1>
+<LEC2>LEC_Rm8,9.11-13</LEC2>
+
+<PS2>AL_Venite_ad_me</PS2>
+<EV>EV_Mt11,25-30</EV>
+<OF>OF_Populum_humilem</OF>
+<SO>SO_perannum_14</SO>
+<CO>CO_Gustate_et_videte</CO>
+<CO_L>CO_L_perannum_14</CO_L>
+<PC>PC_perannum_14</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Augustin Zhao Rong, pr&#xEA;tre et ses compagnons martyrs</intitule>
+ <biographiecourte>Et ses compagnons, premiers saints de Chine (chinois et missionnaires) canonis&#xE9;s (&#x2020;1815)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 9 juillet.</para><para>M&#xE9;moire des saints Augustin Zhao Rong, pr&#xEA;tre, Pierre Sans i Jorda, &#xE9;v&#xEA;que et leurs compagnons, martyrs, ils ont attest&#xE9; avec vigueur l&#x2019;&#xC9;vangile du Christ par la parole et par l&#x2019;action et, &#xE0; cause de leur pr&#xE9;dication ou de leur confession de foi, ils ont &#xE9;t&#xE9; mis &#xE0; mort, victimes de pers&#xE9;cutions entre 1648 et 1930.</para><para>2*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Reggio d&#x2019;&#xC9;milie, en 1491, la bienheureuse Jeanne Scopelli, vierge carm&#xE9;lite, qui fonda un monast&#xE8;re avec les dons de ses concitoyens et un jour de disette, par sa pri&#xE8;re, r&#xE9;ussit &#xE0; fournir du pain &#xE0; ses s&#x153;urs</para><para>3*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Londres, en 1539, le bienheureux Adrien Fortescue, martyr. P&#xE8;re de famille, chevalier, il fut accus&#xE9; faussement de haute trahison, sous le roi Henri VIII, d&#xE9;tenu deux fois en prison, et enfin d&#xE9;capit&#xE9;.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Brielle sur la Meuse dans les Pays-Bas, en 1572, la passion de saint martyrs Nicolas Pieck, pr&#xEA;tre, et ses compagnons. Pour avoir d&#xE9;fendu la doctrine catholique sur la pr&#xE9;sence du Christ dans l&#x2019;Eucharistie et l&#x2019;autorit&#xE9; de l&#x2019;&#xC9;glise romaine, ils furent soumis par les calvinistes &#xE0; toutes sortes d&#x2019;outrages et de tourments, enfin &#xE9;trangl&#xE9;s par pendaison, achevant ainsi leur combat.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tiferno en Ombrie, l&#x2019;an&#xA0;1727, sainte V&#xE9;ronique Giuliani, abbesse du monast&#xE8;re de clarisses capucines. C&#xE9;l&#xE8;bre par les faveurs spirituelles qu&#x2019;elle re&#xE7;ut, elle communia, de corps et d&#x2019;&#xE2;me, &#xE0; la passion du Christ, au point d&#x2019;&#xEA;tre tenue enferm&#xE9;e pendant cinquante jours, offrant un exemple admirable de patience et d&#x2019;ob&#xE9;issance.</para><para>6*. &#xC0; Orange en Provence, en 1794, les bienheureuses M&#xE9;lanie et Marie Anne Magdelaine de Guilhermier et Marie Anne Marguerite &#xA0;ursulines de Boll&#xE8;ne, vierges moniales et martyres, guillotin&#xE9;es &#xE0; cause de leur fid&#xE9;lit&#xE9; &#xE0; la vie religieuse.</para><para>7.&#xA0; &#xA0; &#xA0; &#xA0; En Chine, dans la ville de Hsiamen de la province de Guizhou, en 1839, saint Joachim He Kaizhi, cat&#xE9;chiste, martyr, qui mourut &#xE9;trangl&#xE9; pour la foi du Christ.</para><para>8.&#xA0; &#xA0; &#xA0; &#xA0; En Chine, dans la ville de Tai-Yuam de la province de Shanxi, en 1900, les saints martyrs Gr&#xE9;goire Grassi et Fran&#xE7;ois Fogolla, &#xE9;v&#xEA;ques, franciscains, et vingt-quatre compagnons Saints, furent massacr&#xE9;s par la secte de Yihetuam, en haine du nom chr&#xE9;tien.</para><para>9.*&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Sao-Paolo au Br&#xE9;sil, en 1942, sainte Pauline du C&#x153;ur agonisant de J&#xE9;sus (Aimable Visenteiner), vierge. &#xC9;migr&#xE9;e toute jeune d&#x2019;Italie, elle fonda la Congr&#xE9;gation des Petites S&#x153;urs de l&#x2019;Immacul&#xE9;e Conception pour le service des malades et des pauvres et, apr&#xE8;s bien des difficult&#xE9;s, elle s&#x2019;y d&#xE9;voua dans la plus grande humilit&#xE9; et une pri&#xE8;re continue.</para><para>10*. Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, le bienheureux Fid&#xE8;le Chijnacki, religieux capucin et martyr. Arr&#xEA;t&#xE9; avec les vingt-deux religieux du couvent de Lublin, d&#xE9;port&#xE9; avec tout le groupe &#xE0; Sachsenhausen puis &#xE0; Dachau, il mourut dans ce dernier camp, &#xE9;puis&#xE9; par la tuberculose et les mauvais traitements.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

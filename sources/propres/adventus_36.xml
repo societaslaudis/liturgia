@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<liturgia>
+	<messe>
+		<IN id="IN_Gaudete_in_Domino"/>
+		<LEC id="LEC_Is56,1-8"/>
+		<PS1 id="GR_Qui_sedes_Domine"/>
+		<PS2 id="AL_Excita_Domine"/>
+		<EV id="EV_Jn5,33-36"/>
+		<OF id="OF_Benedixisti"/>
+		<CO id="CO_Domus_mea"/>
+	</messe>
+</liturgia>

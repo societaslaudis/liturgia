@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXII per annum</la>
+<fr>XXII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+
+<HYMNUS_1V id="hy_Rerum_Deus_fons_omnium"/>
+<ps01 id="ps118XIV"/>
+<ps02 id="ps15"/>
+<ps03 id="NT5"/>
+<ant07 id="AN_Lucerna_pedibus_meis"/>
+<ant02 id="AN_Adimplebis_me_laetitia"/>
+<ant03 id="AN_In_nomine_Iesu"/>
+<LB_1V id="LB_Col_1_2b-6a"/>
+<RB_1V id="RB_A_solis_ortu"/>
+  
+
+<magnificat1_A id="AN_Coepit_Iesus_ostendere"/>
+<magnificat1_B id="AN_Custodite_mandata_Domini"/>
+<magnificat1_C id="AN_Cum_vocatus_fueris"/>
+<oratio id="COL_Deus_virtutum_cuius_est_totum_quod"/>
+<oratio_3 id="COL_Deus_virtutum_cuius_est_totum_quod"/>
+<oratio_6 id="COL_Deus_virtutum_cuius_est_totum_quod"/>
+<oratio_9 id="COL_Deus_virtutum_cuius_est_totum_quod"/>
+
+<benedictus_A id="AN_Quid_prodest_homini"/>
+<benedictus_B id="AN_In_mansuetudine_suscipite"/>
+<benedictus_C id="AN_Omnis_qui_se"/>
+<magnificat_A id="AN_Quodcumque_ligaveris_super"/>
+<magnificat_B id="AN_Domine_ad_quem"/>
+<magnificat_C id="AN_Ecce_sunt_novissimi"/>
+</liturgia>

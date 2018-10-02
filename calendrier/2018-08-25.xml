@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<code>perannum_20-7</code>
+<propre/>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XX per annum</la><fr>XX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Ioseph de Calasanz, presbyteri</la><fr>St Joseph Calasanz, pr&#xEA;tre</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Audiamus_vocem_Domini</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps49I</psL1>
+
+<antL2/>
+
+<psL2>ps49II</psL2>
+
+<antL3/>
+
+<psL3>ps49III</psL3>
+
+<LVers/>
+n<Llec1>L1_perannum_20-7</Llec1>
+
+<Lrep1>R1_perannum_20-7</Lrep1>
+
+<Llec2>L2_perannum_20-7</Llec2>
+
+<Lrep2>R2_perannum_20-7</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_20-7-NOCT1-2</LEC_NOCT1>
+
+<LEC_NOCT2>perannum_20-7-NOCT2-2</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Diei_luce_reddita</HYMNUS_laudes>
+ 
+<ant1>AN_Bonum_est_psallere</ant1>
+ 
+<ps1>ps91</ps1>
+ 
+<ant2>AN_Dabo_vobis_cor</ant2>
+ 
+<ps2>AT38</ps2>
+ 
+<ant3>AN_Ex_ore_infantium</ant3>
+ 
+<ps3>ps8</ps3>
+ 
+<LB_matin>LB_2_Petr_3,_13-15a</LB_matin> 
+ 
+<RB_matin>RB_Exsultabunt_labia_mea_Cum</RB_matin>  
+<benedictus>AN_Dirige_Domine_pedes</benedictus> 
+<laudes_preces>perannum_47</laudes_preces><oratio_laudes>COL_Omnipotens_aeterne_Deus_qui_splendor_es</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Fiat_manus_tua</ant4>
+ 
+<ps4>ps118XXII</ps4>
+ 
+<ant5>AN_Thronus_tuus_Deus</ant5>
+ 
+<ps5>ps44I</ps5>
+ 
+<ant6>AN_Vidi_Ierusalem_novam</ant6>
+ 
+<ps6>ps44II</ps6>
+ 
+<LB_3>LB_Dan_6_27b-28a</LB_3>
+ 
+<RB_3>VERS_Vacate_et</RB_3>
+ 
+<LB_6>LB_Rom_15_5-7</LB_6>
+ 
+<RB_6>VERS_Beneplacitum_est</RB_6>
+ 
+<LB_9>LB_Phil_4_8._9b</LB_9>
+ 
+<RB_9>VERS_Exaltabo_te</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica XXI per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_Dirigatur_Domine_oratio</ant7>
+ 
+<ps7>ps140</ps7>
+ 
+<ant8>AN_Tu_es_refugium</ant8>
+ 
+<ps8>ps141</ps8>
+ 
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Rom_11_33-36</LB_soir>
+ 
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+ 
+<magnificat>AN_Spiritus_est_qui</magnificat>
+ 
+<vepres_preces>perannum_47</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_fidelium_mentes_unius_efficis</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Protector_noster</IN>
+<IN_L>IN_L_perannum_20</IN_L>
+<COL>COL_perannum_20</COL>
+<LEC>LEC_Ez43,1-7</LEC>
+<PS1>GR_Bonum_est_confidere</PS1>
+<PS2>AL_Venite_exsultemus</PS2>
+<EV>EV_Mt23,1-12</EV>
+<OF>OF_Immittet_angelus</OF>
+<SO>SO_perannum_20</SO>
+<CO>CO_Primum_quaerite</CO>
+<CO_L>CO_L_perannum_20</CO_L>
+<PC>PC_perannum_20</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>St Louis</intitule>
+ <biographiecourte>Roi de France, il v&#xE9;cut l'id&#xE9;al franciscain, est mort en Croisade devant Tunis (&#x2020;1270)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Joseph Calasanz, pr&#xEA;tre</intitule>
+ <biographiecourte>origine espagnole, fondateur des premi&#xE8;res &#xE9;coles populaires gratuites (&#x2020;1648)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 25 ao&#xFB;t.</para><para>M&#xE9;moire de saint Louis, roi de France, qui s&#x2019;illustra dans son royaume et dans la guerre men&#xE9;e pour la d&#xE9;fense des chr&#xE9;tiens par sa foi active, sa justice dans son gouvernement, son amour des pauvres et sa constance dans l&#x2019;adversit&#xE9;. De son mariage avec Marguerite de Provence, il eut huit enfants, qu&#x2019;il &#xE9;leva parfaitement et avec pi&#xE9;t&#xE9;. Pour honorer la croix, la couronne d&#x2019;&#xE9;pines et le s&#xE9;pulcre du Seigneur, il d&#xE9;pensa ses biens, ses forces et jusqu&#x2019;&#xE0; sa vie et il mourut de la peste dans son camp aux portes de Tunis en 1270.</para><para>M&#xE9;moire de saint Joseph de Calasanz, pr&#xEA;tre. D&#x2019;abord en Aragon, sa patrie, puis &#xE0; Rome o&#xF9; il mourut en 1648, il &#xE9;tablit des &#xE9;coles populaires pour &#xE9;lever les enfants et les adolescents dans l&#x2019;amour et la sagesse de l&#x2019;&#xC9;vangile et fonda, &#xE0; Rome, l&#x2019;Ordre des pauvres Clercs r&#xE9;guliers de la M&#xE8;re de Dieu des &#xC9;coles religieuses.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Arles en Provence, vers&#xA0;303, saint Gen&#xE8;s, martyr. Encore cat&#xE9;chum&#xE8;ne, remplissant l&#x2019;office de greffier, il refusa d&#x2019;agir contre les chr&#xE9;tiens, chercha &#xE0; se sauver en fuyant, mais, arr&#xEA;t&#xE9; par des soldats, fut baptis&#xE9; dans son propre sang.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Talco en Espagne, saint G&#xE9;ronce, &#xE9;v&#xEA;que, qui serait mort en prison.</para><para>5*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Agde en Septimanie, vers 500, saint Sever, abb&#xE9; du monast&#xE8;re qu&#x2019;il avait fond&#xE9; dans cette ville.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Constantinople en 582, saint M&#xE9;nas, &#xE9;v&#xEA;que. Ordonn&#xE9; par le pape saint Agapit, il connut des dissensions avec le pape Vigile, mais la r&#xE9;conciliation se fit, et il d&#xE9;dia &#xE0; la Sagesse divine (Sainte Sophie) la grande &#xE9;glise construite par l&#x2019;empereur Justinien.</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Attanum, qui prit ensuite son nom, au pays de Limoges, en 591, saint Yrieix (Aredius), abb&#xE9;. Pour le monast&#xE8;re qu&#x2019;il avait fond&#xE9;, il composa une R&#xE8;gle pleine de sagesse &#xE0; partir des prescriptions de saint Jean Cassien, de saint Basile et d&#x2019;autres saints abb&#xE9;s.</para><para>8.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Utrecht, en 775, saint Gr&#xE9;goire, abb&#xE9;. Encore adolescent, il suivit sur-le-champ saint Boniface qui s&#x2019;en allait implanter le christianisme en Hesse et en Thuringe, et qui le d&#xE9;signa comme abb&#xE9; du monast&#xE8;re Saint-Martin et pour diriger l&#x2019;&#xC9;glise d&#x2019;Utrecht.</para><para>9.&#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Montefiascone en Toscane, l&#x2019;an&#xA0;1282, le tr&#xE9;pas de saint Thomas de Canteloup, &#xE9;v&#xEA;que d&#x2019;Hereford en Angleterre. Pr&#xE9;lat de grande &#xE9;rudition et de foi vigoureuse, il se montra s&#xE9;v&#xE8;re envers lui-m&#xEA;me, mais d&#xE9;pensier en larges aum&#xF4;nes pour les pauvres. Il mourut apr&#xE8;s avoir rencontr&#xE9; le pape Martin V &#xE0; Orvieto.</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Scimbara au Japon, en 1624, les bienheureux martyrs Michel Carvalho, j&#xE9;suite, Pierre Vasquez, dominicain, Louis Sotelo et Louis Sasanda, franciscains, tous pr&#xEA;tres, et Louis Baba, religieux franciscain, qui furent br&#xFB;l&#xE9;s vifs pour la foi du Christ.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; Sur l&#x2019;&#xEE;le Madame, au large du port de Rochefort, en 1794, le bienheureux Paul-Jean Charles, pr&#xEA;tre et martyr. Il &#xE9;tait prieur du monast&#xE8;re cistercien de Sept-Fons quand &#xE9;clata la R&#xE9;volution fran&#xE7;aise. Chass&#xE9; de l&#x2019;abbaye avec les autres moines, refusant le serment &#xE0; la Constitution civile du Clerg&#xE9;, il fut d&#xE9;port&#xE9; sur un bateau n&#xE9;grier et mourut d&#x2019;inanition et de maladie.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0;  &#xC0; Cordoba en Argentine, l&#x2019;an&#xA0;1885, la bienheureuse Marie du Passage de J&#xE9;sus Eucharistie, vierge, qui appliqua toute son action &#xE0; la formation chr&#xE9;tienne de l&#x2019;enfance pauvre et abandonn&#xE9;e et fonda l&#x2019;Institut des S&#x153;urs franciscaines missionnaires d&#x2019;Argentine</para><para>13*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Valence en Espagne, en 1936, le bienheureux Louis Urbano Lanaspa, pr&#xEA;tre dominicain et martyr, mis &#xE0; mort dans la pers&#xE9;cution contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; A Macas en Equateur, en 1969, la bienheureuse Maria Tro
+            ncatti, religieuse italienne, Fille de Marie Auxiliatrice. (b&#xE9;atifi&#xE9;e le 24 novembre 2012 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XV per annum</la><fr>XV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XV per annum</la><fr>XV&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_XV_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XV_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XV_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XV_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ 
+<ant1>AN_Mirabilis_in_altis</ant1>
+ 
+<ps1>ps92</ps1>
+ 
+<ant2>AN_Laudabilis_es_Domine</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Laudate_Dominum_de</ant3>
+ 
+<ps3>ps148</ps3>
+ 
+<LB_matin>LB_Ez_37,12b-14</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin>  
+<benedictus>AN_Vobis_datum_est</benedictus> 
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Deus_qui_errantibus_ut_in_viam</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_De_tribulatione_invocavi</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Dextera_Domini_fecit</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Rom_8_15-16</LB_3>
+ 
+<RB_3>VERS_Apud_te_Domine</RB_3>
+ 
+<LB_6>LB_Rom_8,_22-23</LB_6>
+ 
+<RB_6>VERS_Benedic_anima</RB_6>
+ 
+<LB_9>LB_2Tim1,9</LB_9>
+ 
+<RB_9>VERS_Deduxit_eos_Dominus</RB_9>
+ 
+<oratio_3>COL_Deus_qui_errantibus_ut_in_viam</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_errantibus_ut_in_viam</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_errantibus_ut_in_viam</oratio_9>
+ 
+<intitule_soir><la>Dominica XV per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+ 
+<ant7>AN_Dixit_Dominus_Domino</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Memoriam_fecit_mirabilium</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_1_Petr1,3-5</LB_soir>
+ 
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+ 
+<magnificat>AN_Semen_est_verbum</magnificat>
+ 
+<vepres_preces>perannum_31</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_errantibus_ut_in_viam</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Ego_autem_cum_iustitia</IN>
+<IN_L>IN_L_perannum_15</IN_L>
+<COL>COL_perannum_15</COL>
+<LEC>LEC_Sg12,13.16-19</LEC>
+<PS1>GR_Custodi_me</PS1>
+<LEC2>LEC_Rm8,18-23</LEC2>
+
+<PS2>AL_Te_decet_hymnus</PS2>
+<EV>EV_Mt13,1-23</EV>
+<OF>OF_Ad_te_Domine_levavi</OF>
+<SO>SO_perannum_15</SO>
+<CO>CO_Qui_manducat</CO>
+<CO_L>CO_L_perannum_15</CO_L>
+<PC>PC_perannum_15</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule>Anniversaire de l'apparition de la Ste Vierge &#xE0; Simon Stock, g&#xE9;n&#xE9;ral de l'Ordre des Carmes, en 1251 </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Notre Dame du Mont-Carmel</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bienheureuse Vierge Marie du Mont Carmel</intitule>
+ <biographiecourte>Protectrice de l'Ordre des Carmes </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 16 juillet.</para><para>M&#xE9;moire de Notre-Dame-du-Mont-Carmel, qui rappelle le lieu o&#xF9; jadis le proph&#xE8;te&#xA0;&#xC9;lie&#xA0;avait ramen&#xE9; le peuple d&#x2019;Isra&#xEB;l &#xE0; adorer le Dieu vivant, lieu o&#xF9;, au temps des crois&#xE9;s, des ermites en recherche de solitude se retir&#xE8;rent et constitu&#xE8;rent ensuite, au XIIIe si&#xE8;cle, un Ordre vou&#xE9; &#xE0; la vie contemplative sous le patronage de la sainte M&#xE8;re de Dieu.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Anastasiopolis en Galatie, au IIIe ou IVe si&#xE8;cle saint Antioche, martyr.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; S&#xE9;baste en Arm&#xE9;nie, vers 305, saint Ath&#xE9;nog&#xE8;ne, chor&#xE9;v&#xEA;que et martyr, qui laissa &#xE0; ses disciples une hymne o&#xF9; il professe la divinit&#xE9; du Saint-Esprit, et mourut br&#xFB;l&#xE9; vif, sous Diocl&#xE9;tien.</para><para>4*.&#xA0; &#xA0; &#xA0; &#xA0; Dans l&#x2019;&#xEE;le de Jersey, au VIe si&#xE8;cle, saint H&#xE9;lier, ermite, qui v&#xE9;cut dans une grotte et aurait &#xE9;t&#xE9; assassin&#xE9; par des pirates.</para><para>5*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Maastricht dans le Brabant, au VIe ou VIIe si&#xE8;cle, les saints Monulphe et Gondulphe, &#xE9;v&#xEA;ques.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Saintes en Hannonie vers 680, les saints martyrs Reinelde, vierge, Grimoald et Gondulphe, qui auraient &#xE9;t&#xE9; massacr&#xE9;s par les barbares.</para><para>7.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cordoue en Andalousie, l&#x2019;an&#xA0;851, saint Sisenand, diacre et martyr, &#xE9;gorg&#xE9; par les Maures pour la foi du Christ</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Chiemsee en Bavi&#xE8;re, l&#x2019;an&#xA0;866, la bienheureuse Irmengarde, abbesse, qui, d&#xE8;s son plus jeune &#xE2;ge, d&#xE9;laissa les splendeurs de la cour royale pour chercher le service de Dieu et donna &#xE0; l&#x2019;Agneau divin un grand nombre de compagnes vierges.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; Passion du bienheureux Simon da Costa, martyr</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0;  &#xC0; Viana do Castello au Portugal, en 1590, le tr&#xE9;pas du bienheureux Barth&#xE9;lemy des Martyrs, &#xE9;v&#xEA;que de Braga, de l&#x2019;Ordre des Pr&#xEA;cheurs, qui prit part aux sessions du Concile de Trente et, de retour dans son dioc&#xE8;se, travailla, sans se m&#xE9;nager, &#xE0; mettre en &#x153;uvre les d&#xE9;crets de ce Concile sur la r&#xE9;forme du clerg&#xE9;. &#xC9;puis&#xE9; par vingt-huit ans d&#x2019;&#xE9;piscopat, il se d&#xE9;mit de sa charge et se retira dans un couvent de son Ordre.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Warwick en Angleterre, l&#x2019;an&#xA0;1604, les bienheureux martyrs Jean Sugar, pr&#xEA;tre, et Robert Grissold, condamn&#xE9;s &#xE0; mort sous le roi Jacques Ier, l&#x2019;un parce que, pr&#xEA;tre, il &#xE9;tait entr&#xE9; en Angleterre, le second, parce qu&#x2019;il avait aid&#xE9; le pr&#xEA;tre&#xA0;; tous deux furent soumis au supplice du gibet.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cunhau, pr&#xE8;s de Natalia au Br&#xE9;sil, en 1645, les bienheureux martyrs Andr&#xE9; de Soveral, pr&#xEA;tre, et Dominique Carvalho. Pendant que le pr&#xEA;tre c&#xE9;l&#xE9;brait la messe avec environ soixante-dix fid&#xE8;les, ils furent enferm&#xE9;s dans la chapelle par des soldats et massacr&#xE9;s de mani&#xE8;re atroce. Un seul fid&#xE8;le du groupe a pu &#xEA;tre identifi&#xE9;.</para><para>13*.&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, les bienheureux Nicolas Savouret et Claude B&#xE9;guignot, pr&#xEA;tres et martyrs. Le premier, cordelier &#xE0; Moulins, le second, chartreux pr&#xE8;s de Rouen, ils furent arr&#xEA;t&#xE9;s sous la R&#xE9;volution fran&#xE7;aise, en raison de leur sacerdoce, d&#xE9;port&#xE9;s dans des conditions inhumaines sur un bateau n&#xE9;grier et y moururent de maladie.</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Orange en Provence, en 1794, les bienheureuses vierges et martyres Marie-Rose de Gordon (Soeur Aim&#xE9;e de J&#xE9;sus), sacramentine de Boll&#xE8;ne et ses compagnes</para><para>15.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Saint-Sauveur-le-Vicomte en Normandie, l&#x2019;an&#xA0;1846, sainte Marie-Madeleine Postel, vierge. Sous la R&#xE9;volution fran&#xE7;aise, alors que les pr&#xEA;tres &#xE9;taient exil&#xE9;s ou pourchass&#xE9;s, elle apporta toute son aide aux malades et aux fid&#xE8;les et, quand la paix fut rendue &#xE0; l&#x2019;&#xC9;glise, elle fonda et dirigea, dans une pauvret&#xE9; extr&#xEA;me, le Congr&#xE9;gation des Filles de la Mis&#xE9;ricorde, pour l&#x2019;&#xE9;ducation chr&#xE9;tienne des jeunes filles pauvres.</para><para>16.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lujiapo, pr&#xE8;s de Quingho dans la province chinoise de Hebei, en 1900, les saints martyrs Lang Yangzhi, m&#xE8;re de famille, et Paul Lang Fu, son fils. Dans la pers&#xE9;cution de la secte de Yihetuan&#xA0;; la m&#xE8;re, encore cat&#xE9;chum&#xE8;ne, s&#x2019;&#xE9;tant d&#xE9;clar&#xE9;e chr&#xE9;tienne, elle et son fils furent enferm&#xE9;s dans leur maison livr&#xE9;e aux flammes.</para><para>17.&#xA0; &#xA0; &#xA0; &#xA0; En Chine, dans la province de Hebei, au village de Zhangjaji pr&#xE8;s de Ningjin, sainte Th&#xE9;r&#xE8;se Zhang Hezhi, martyre. Tra&#xEE;n&#xE9;e devant la pagode des pa&#xEF;ens, elle refusa de faire un geste de r&#xE9;v&#xE9;rence aux divinit&#xE9;s du lieu et, avec ses deux fils, fut transperc&#xE9;e d&#x2019;un coup de lance.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

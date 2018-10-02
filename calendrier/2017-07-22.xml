@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XV per annum</la><fr>XV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Mariae Magdalenae</la><fr>Ste Marie-Madeleine</fr></intitule>
+<rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Mirabilem_Deum_in</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps106I</psL1>
+
+<antL2/>
+
+<psL2>ps106II</psL2>
+
+<antL3/>
+
+<psL3>ps106III</psL3>
+
+<LVers/>
+n<Llec1>L1_S._Mariae_Magdalenae</Llec1>
+
+<Lrep1>R1_S._Mariae_Magdalenae</Lrep1>
+
+<Llec2>L2_S._Mariae_Magdalenae</Llec2>
+
+<Lrep2>R2_S._Mariae_Magdalenae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_surgit_lucida</HYMNUS_laudes>
+ 
+<ant1>AN_Una_sabbati_Maria</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Ardens_est_cor</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Dum_fleret_Maria</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Rom_12_1-2</LB_matin> 
+ 
+<RB_matin>RB_Maria_noli_iam_flere_</RB_matin>  
+<benedictus>AN_Surgens_Iesus</benedictus> 
+<laudes_preces>perannum_37</laudes_preces><oratio_laudes>COL_Deus_cuius_Unigenitus_Mariae_Magdalenae_ante</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Suscipe_Domine_servum</ant4>
+ 
+<ps4>ps118XVI</ps4>
+ 
+<ant5>AN_Respicite_ad_Dominum</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Iuxta_est_Dominus</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_1_Sam_15_22</LB_3>
+ 
+<RB_3>VERS_Sacrificium_laudis</RB_3>
+ 
+<LB_6>LB_Gal_5_26;_6_2</LB_6>
+ 
+<RB_6>VERS_Ecce_quam</RB_6>
+ 
+<LB_9>LB_Mic_6_8</LB_9>
+ 
+<RB_9>VERS_In_via</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica XVI per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Rerum_Deus_fons_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_Rogate_quae_ad</ant7>
+ 
+<ps7>ps121</ps7>
+ 
+<ant8>AN_A_custodia_matutina</ant8>
+ 
+<ps8>ps129</ps8>
+ 
+<ant9>AN_In_nomine_Iesu</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_2_Petr_1_19-21</LB_soir>
+ 
+<RB_soir>RB_A_solis_ortu</RB_soir>
+ 
+<magnificat>AN_Colligite_primum_zizania</magnificat>
+ 
+<vepres_preces>perannum_37</vepres_preces>
+ 
+<oratio_vepres>COL_Propitiare_Domine_famulis_tuis_et_clementer</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Tibi_dixit_cor_meum</IN>
+<COL>COL_Deus_cuius_Unigenitus_Mariae_Magdalenae_ante</COL>
+<LEC>LEC_Ct3,1-4a</LEC>
+<PS1>GR_Audi_filia</PS1>
+<PS2>AL_Surrexit_Dominus_de_sepulcro</PS2>
+<EV>EV_Jn20,1-2.11-18</EV>
+<OF>OF_Deus_Deus_meus</OF>
+<CO>CO_Notas_mihi_fecisti</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Marie-Madeleine</intitule>
+ <biographiecourte>Disciple du Seigneur, elle fut la premi&#xE8;re &#xE0; annoncer sa R&#xE9;surrection </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 22 juillet.</para><para>M&#xE9;moire de sainte Marie-Madeleine d&#xE9;livr&#xE9;e de sept d&#xE9;mons par le Seigneur J&#xE9;sus, elle s&#x2019;attacha avec amour &#xE0; ses pas, le suivit jusqu&#x2019;au Calvaire et m&#xE9;rita, au matin de P&#xE2;ques, de voir le Sauveur ressuscit&#xE9; d&#x2019;entre les morts et de porter aux autres disciples l&#x2019;annonce de la R&#xE9;surrection.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ancyre en Galatie, au IIIe ou IVe si&#xE8;cle, saint Platon, martyr, fr&#xE8;re de saint .</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; En Afrique, au IIIe ou IVe si&#xE8;cle, les saints martyrs Massilitains, saint Augustin pronon&#xE7;a un sermon &#xE0; leur anniversaire.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Antioche de Syrie, vers 306, saint Cyrille, &#xE9;v&#xEA;que, qui subit sous Diocl&#xE9;tien la prison et l&#x2019;exil.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; Dans les monts du Caucase, en 662, saint Anastase, moine. Disciple de , il subit avec lui, pour la foi orthodoxe, prisons et s&#xE9;vices et, arriv&#xE9; au camp de Suanie, et peut-&#xEA;tre m&#xEA;me en cours de route, il quitta cette vie.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Fontenelle, vers 668, saint Wandrille, abb&#xE9;. Apr&#xE8;s avoir quitt&#xE9; la cour du roi Dagobert, il mena la vie monastique en divers endroits et, promu au sacerdoce par saint Ouen, &#xE9;v&#xEA;que de Rouen, il fonda et gouverna un monast&#xE8;re dans la for&#xEA;t de Jumi&#xE8;ges.</para><para>7.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Menat en Auvergne, vers&#xA0;700, saint M&#xE9;nel&#xE9;, abb&#xE9;.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pavie en Lombardie, au VIIIe si&#xE8;cle, saint J&#xE9;r&#xF4;me, &#xE9;v&#xEA;que.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lodi, en Lombardie, l&#x2019;an&#xA0;1224, saint Gautier, fondateur de la Maison hospitali&#xE8;re de la Mis&#xE9;ricorde.</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Venise, en 1493, le bienheureux Augustin Fangi de Biella, pr&#xEA;tre dominicain, qui fit beaucoup de bien &#xE0; Soncino, Viglebano et Venise.</para><para>11.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lisbonne, en 1619, la naissance au ciel de saint , dont la m&#xE9;moire est c&#xE9;l&#xE9;br&#xE9;e la veille.</para><para>12.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cardiff au pays de Galles, en 1679, les saints Philippe Evans, j&#xE9;suite, et Jean Lloyd, tous deux pr&#xEA;tres et martyrs. Accus&#xE9;s d&#x2019;&#xEA;tre entr&#xE9;s en Angleterre alors qu&#x2019;ils &#xE9;taient pr&#xEA;tres, ils furent ensemble condamn&#xE9;s aux supplices de la pendaison, sous le roi Charles II.</para><para>13*.&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, le bienheureux Jacques Lombardie, pr&#xEA;tre de Limoges et martyr. Sous la R&#xE9;volution fran&#xE7;aise, &#xE0; cause de son sacerdoce, il fut d&#xE9;tenu dans des conditions inhumaines sur un bateau n&#xE9;grier, o&#xF9; il mourut, faute de soins, n&#x2019;ayant plus que la peau sur les os, mais souriant.</para><para>14.&#xA0; &#xA0; &#xA0; &#xA0; En Chine, dans la province de Hebei, en 1900, dans la pers&#xE9;cution de la secte de Yihetuan, pr&#xE8;s de Daining, les saints martyrs Anne Wang, vierge, Lucie Wang Wangzhi et son fils Andr&#xE9; Wang Triaquing, &#xE2;g&#xE9; de neuf ans, massacr&#xE9;s en haine du nom chr&#xE9;tien.</para><para>15.&#xA0; &#xA0; &#xA0; &#xA0; En Chine, dans la province de Hebei, sainte Marie Wang Lizhi, que des pa&#xEF;ens voulurent sauver en affirmant qu&#x2019;elle n&#x2019;&#xE9;tait pas chr&#xE9;tienne, mais qui d&#xE9;clara ouvertement qu&#x2019;elle &#xE9;tait servante de J&#xE9;sus Christ et fut aussit&#xF4;t mise &#xE0; mort.</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; Au Mexique, en 1981, la bienheureuse Mar&#xED;a In&#xE8;s Teresa Arias Espinosa, religieuse, fondatrice des Missionnaires Clarisses du Tr&#xE8;s Saint Sacrement. (B&#xE9;atifi&#xE9;e le 21 avril 2012 &#xE0; Mexico. par Beno&#xEE;t XVI) </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

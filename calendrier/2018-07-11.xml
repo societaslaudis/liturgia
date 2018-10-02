@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>8</priorite>
+<couleur>Blanc</couleur>
+<code>perannum_14-4</code>
+<propre>S._Benedicti_abbatis_patroni_Europae</propre>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XIV per annum</la><fr>XIV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Benedicti, abbatis, patroni Europae</la><fr>S. Benedicti, abbatis, patroni Europae</fr></intitule>
+<rang><la>Festum</la><fr>F&#xEA;te</fr></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Mirabilem_Deum_in</invitatoire>
+
+<HYMNUS_lectures>HY_Inter_aeternas_superum_coronas</HYMNUS_lectures>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps38I</psL1>
+
+<antL2/>
+
+<psL2>ps38II</psL2>
+
+<antL3/>
+
+<psL3>ps51</psL3>
+
+<LVers>VERS_Sustinuit_anima</LVers>
+n<Llec1>L1_S._Benedicti_abbatis_patroni_Europae</Llec1>
+
+<Lrep1>R1_S._Benedicti_abbatis_patroni_Europae</Lrep1>
+
+<Llec2>L2_S._Benedicti_abbatis_patroni_Europae</Llec2>
+
+<Lrep2>R2_S._Benedicti_abbatis_patroni_Europae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>S._Benedicti_abbatis_patroni_Europae_NOCT1</LEC_NOCT1>
+
+<LEC_NOCT2>S._Benedicti_abbatis_patroni_Europae_NOCT2-2</LEC_NOCT2>
+
+<LEC_NOCT3>S._Benedicti_abbatis_patroni_Europae_NOCT3-B</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Legifer_prudens_venerande_doctor</HYMNUS_laudes>
+ 
+<ant1>AN_Dedit_illis_Dominus_claritatem</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Servi_Domini_Dominum</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Exsultabunt_sancti_in_gloria_laetabuntur</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Rom_12_1-2</LB_matin> 
+ 
+<RB_matin>RB_Lex_Dei_eius_In</RB_matin>  
+<benedictus>AN_Fuit_vir_vitae</benedictus> 
+<laudes_preces>SANCTORUM_VIRORUM</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Benedictum_abbatem_in</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Qui_servat_verbum_Christi</ant4>
+ 
+<ps4>ps118VIII</ps4>
+ 
+<ant5>AN_Qui_facit_voluntatem_Patris</ant5>
+ 
+<ps5>ps54I</ps5>
+ 
+<ant6>AN_Oculus_non_vidit_Deus</ant6>
+ 
+<ps6>ps54II</ps6>
+ 
+<LB_3>LB_Gal 6, 7 b-8</LB_3>
+ 
+<RB_3>VERS_Diriget_Dominus_mansuetos</RB_3>
+ 
+<LB_6>LB_1 Cor9,26-27a</LB_6>
+ 
+<RB_6>VERS_Beatus_homo_quem_tu</RB_6>
+ 
+<LB_9>LB_Phil4,8.9b</LB_9>
+ 
+<RB_9>VERS_Laetentur_omnes_qui</RB_9>
+ 
+<oratio_3>COL_Deus_qui_beatum_Benedictum_abbatem_in</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_beatum_Benedictum_abbatem_in</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_beatum_Benedictum_abbatem_in</oratio_9>
+ 
+<intitule_soir><la>S. BENEDICTI, ABBATIS, PATRONI EUROPAE</la></intitule_soir>
+ 
+<rang_soir><la>Festum</la></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Inter_aeternas_superum_coronas</HYMNUS_vepres>
+ 
+<ant7>AN_Inventus_est_sine</ant7>
+ 
+<ps7>ps14</ps7>
+ 
+<ant8>AN_Gratia_Dei_et_misericordia</ant8>
+ 
+<ps8>ps111</ps8>
+ 
+<ant9>AN_Cantabant_sancti_canticum_novum</ant9>
+ 
+<ps9>NT11</ps9>
+ 
+<LB_soir>LB_Rom_8_28-30</LB_soir>
+ 
+<RB_soir>RB_Iustus_Dominus_Et_iustitiam</RB_soir>
+ 
+<magnificat>AN_Hic_accepit_benedictionem</magnificat>
+ 
+<vepres_preces>SANCTORUM_VIRORUM</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_beatum_Benedictum_abbatem_in</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+ 
+<comp_ps1>ps30</comp_ps1> 
+<comp_ant2>AN_De_profundis</comp_ant2> 
+<comp_ps2>ps129</comp_ps2> 
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+ 
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Os_iusti</IN>
+<IN_L>IN_L_S. BENEDICTI, ABBATIS, PATRONI EUROPAE</IN_L>
+<COL>COL_Deus_qui_beatum_Benedictum_abbatem_in</COL>
+<LEC>LEC_Pr2,1-9</LEC>
+<PR>PR_Ps33,2-3.4-5.6-7.8-9.Io-II,n.739,5</PR>
+<PS1>GR_Domine_praevenisti_eum</PS1>
+<PS2>AL_Iustus_ut_palma</PS2>
+<PS2_L>AL_Mt5,3,n.74I,1</PS2_L>
+<EV>EV_Mt19,27-29</EV>
+<OF>OF_Desiderium_animae_eius</OF>
+<PRE>PRE_I_DE_SANCTIS</PRE>
+<PRE>PRE_II_DE_SANCTIS</PRE>
+<SO>SO_S. BENEDICTI,_ABBATIS,_PATRONI_EUROPAE</SO>
+<CO>CO_Fidelis_servus</CO>
+<CO_L>CO_L_S. BENEDICTI, ABBATIS, PATRONI EUROPAE</CO_L>
+<PC>PC_S._BENEDICTI,_ABBATIS,_PATRONI_EUROPAE</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>St Beno&#xEE;t, abb&#xE9;</intitule>
+ <biographiecourte>Abb&#xE9;, fondateur de l'Ordre des B&#xE9;n&#xE9;dictins, mort en 547 au mont Cassin</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 11 juillet.</para><para>M&#xE9;moire (en Europe&#xA0;: F&#xEA;te) de saint Beno&#xEE;t, abb&#xE9;. N&#xE9; &#xE0; Nursie en Ombrie, apr&#xE8;s des &#xE9;tudes &#xE0; Rome, il commen&#xE7;a par vivre en ermite &#xE0; Subiaco, rassembla autour de lui de nombreux disciples, puis s&#x2019;&#xE9;tablit au Mont-Cassin, o&#xF9; il fonda un monast&#xE8;re c&#xE9;l&#xE8;bre et composa une R&#xE8;gle, qui se r&#xE9;pandit dans toutes les r&#xE9;gions, au point qu&#x2019;il m&#xE9;rite d&#x2019;&#xEA;tre appel&#xE9; patriarche des moines d&#x2019;Occident. La tradition place sa mort le 21 mars&#xA0;547, mais d&#xE8;s le VIIIe si&#xE8;cle, on a c&#xE9;l&#xE9;br&#xE9; sa m&#xE9;moire en ce jour.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, comm&#xE9;moraison de saint Pie Ier, pape, que l&#x2019;on dit fr&#xE8;re d&#x2019;Hermas, l&#x2019;auteur d&#x2019;un ouvrage intitul&#xE9; &#x201C;le Pasteur&#x201D;. Lui-m&#xEA;me, en bon pasteur, a gard&#xE9; l&#x2019;&#xC9;glise durant quinze ans, au temps de l&#x2019;empereur Antonin le Pieux, et mourut sans doute en 155.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Iconium en Lycaonie, saint Marcien, martyr, qui, sous le pr&#xE9;fet Perennis, obtint la palme par beaucoup de tourments.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; C&#xE9;sar&#xE9;e de Maur&#xE9;tanie, vers 303, sainte Marcienne, vierge, qui fut livr&#xE9;e aux b&#xEA;tes et obtint ainsi la couronne du martyre.</para><para>5*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Bordeaux, vers 570, saint L&#xE9;once II, &#xE9;v&#xEA;que. Honneur du peuple et de la cit&#xE9;, constructeur de nombreuses &#xE9;glises, il se fit encore remarquer en restaurant le baptist&#xE8;re de la ville et en se faisant, en silence, le bienfaiteur des pauvres.</para><para>6*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Glenesk en &#xC9;cosse, &#xE0; la fin du VIe si&#xE8;cle, saint Drostan, abb&#xE9;, qui dirigea de nombreux monast&#xE8;res et finit sa vie en ermite.</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; Disentis en haute Rh&#xE9;tie, au VIIe si&#xE8;cle, les saints Placide, martyr, et Sigisbert, abb&#xE9;. Ce dernier, compagnon de saint Colomban, construisit en cet endroit le monast&#xE8;re de Saint-Martin, et le premier couronna par le martyre une vie monastique.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Moyenmoutier dans les Vosges, en 700, saint Hidulphe. Moine &#xE0; Tr&#xE8;ves, il devint chor&#xE9;v&#xEA;que, puis se retira dans la solitude, mais, devant l&#x2019;affluence de disciples, il fonda un monast&#xE8;re qu&#x2019;il dirigea.</para><para>9.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cordoue en Andalousie, l&#x2019;an&#xA0;854, saint Abondino, pr&#xEA;tre. Dans la pers&#xE9;cution des Maures, interrog&#xE9; par le juge, il exposa sa foi avec intr&#xE9;pidit&#xE9;, ce qui d&#xE9;cha&#xEE;na la furie des assistants&#xA0;: il fut expos&#xE9; aux chiens et aux b&#xEA;tes qui le d&#xE9;vor&#xE8;rent.</para><para>10.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Kiev dans la Rus', l&#x2019;an&#xA0;969, sainte Olga, grand-m&#xE8;re de saint Vladimir&#xA0;; premi&#xE8;re de sa nation, elle re&#xE7;ut le bapt&#xEA;me avec le nom d&#x2019;H&#xE9;l&#xE8;ne et pr&#xE9;para la voie au Christ pour tout le peuple russe.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Granselve, dans le pays toulousain, en 1149, le bienheureux Bertrand, abb&#xE9;. D&#xE9;sireux de stabiliser la discipline r&#xE9;guli&#xE8;re, il agr&#xE9;gea son monast&#xE8;re &#xE0; l&#x2019;Ordre cistercien.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; Viborg au Danemark, vers 1151, saint Ketille, pr&#xEA;tre. Chanoine r&#xE9;gulier, il fut un professeur tr&#xE8;s z&#xE9;l&#xE9; &#xE0; l&#x2019;&#xE9;cole capitulaire et un pr&#xEA;tre exemplaire.</para><para>13*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lincoln en Angleterre, l&#x2019;an&#xA0;1600, les bienheureux Thomas Benstead et Thomas Sprott, pr&#xEA;tres et martyrs, livr&#xE9;s au supplice en raison de leur sacerdoce, un jour incertain de ce mois, sous la reine &#xC9;lisabeth I&#xE8;re.</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Orange en Provence, l&#x2019;an&#xA0;1794, les bienheureuses vierges et martyres Rosalie-Clotilde B&#xE8;s (Soeur Sainte-P&#xE9;lagie), Marie-&#xC9;lisabeth P&#xE9;lissier (Soeur Saint-Th&#xE9;octiste), Marie-Claire Blanc (Soeur Saint-Martin), sacramentines de Boll&#xE8;ne, et Marie-Marguerite de Barbegie d&#x2019;Albar&#xE8;de (Soeur Sainte-Sophie), ursuline de Pont-Saint-Esprit, guillotin&#xE9;es sous la R&#xE9;volution fran&#xE7;aise pour leur fid&#xE9;lit&#xE9; &#xE0; la vie religieuse.</para><para>15.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Liugongyin, pr&#xE8;s d&#x2019;Anping dans la province chinoise de Hebei, en 1900, les saintes Anne An Xinzhi, Marie An Guozhi, Anne An Jiaozhi et Marie An Lihua, vierges et martyres. Dans la pers&#xE9;cution de la secte de Yihetuan, comme les idol&#xE2;tres ne purent d&#x2019;aucune fa&#xE7;on les amener &#xE0; apostasier, elles furent d&#xE9;capit&#xE9;es.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

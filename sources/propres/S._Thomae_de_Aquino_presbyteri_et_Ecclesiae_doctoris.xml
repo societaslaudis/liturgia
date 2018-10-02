@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 28 ianuarii</la>
+<fr>Le 28 janvier</fr>
+</jour>
+<intitule>
+<la>S. THOM&#xC6; DE AQUINO, PRESBYTERI ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. THOMAS D'AQUIN, PRETRE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Fontem_sapientiae_Dominum"/>
+<HYMNUS_laudes id="hy_Doctor_aeternus_coleris_piusque"/>
+<LB_matin id="LB_Sap_7_13-14"/>
+<RB_matin id="RB_Sapientiam_sanctorum_Narrent_populi"/>
+<benedictus id="AN_Benedictus_Dominus_pro"/>
+<preces id="COMMUNE_PASTORUM"/>
+<oratio id="COL_Deus_qui_beatum_Thomam_sanctitatis_zelo"/>
+<HYMNUS_vesperas id="hy_Aterne_sol_qui_lumine"/>
+<LB_soir id="LB_Iac_3_17-18"/>
+<RB_soir id="RB_In_medio_Ecclesiae_Aperuit"/>
+<magnificat id="AN_Dedit_ei_Deus"/>
+<messe> 
+<EV id="EV_Mt23,8-12"/>
+<LEC id="LEC_Sg7,7-10.15-16"/>
+<IN id="IN_Sapientiam_sanctorum"/>
+<COL id="COL_Deus_qui_beatum_Thomam_sanctitatis_zelo"/>
+<PS1 id="GR_Os_iusti"/>
+<PS2 id="AL_Spiritus_Sanctus_docebit"/>
+<OF id="OF_Meditabor"/>
+<CO id="CO_Notas_mihi_fecisti"/>
+</messe>
+</liturgia>

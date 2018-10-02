@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXX per annum</la><fr>XXX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XXX per annum</la><fr>XXX&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Populus_Domini_et</invitatoire>
+
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+
+<antL1>AN_Domine_Deus_meus</antL1>
+
+<psL1>ps103I</psL1>
+
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+
+<psL2>ps103II</psL2>
+
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+
+<psL3>ps103III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_XXX_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XXX_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XXX_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XXX_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Ecce_iam_noctis_tenuatur_umbra</HYMNUS_laudes>
+ 
+<ant1>AN_Benedictus_qui_venit</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Hymnum_dicamus_Domino</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Laudate_Dominum</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_Ez_36_25-27</LB_matin> 
+ 
+<RB_matin>RB_Confitebimur_tibi_Deus_Et</RB_matin>  
+<benedictus>AN_Descendit_publicanus_iustificatus</benedictus> 
+<laudes_preces>perannum_21</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_da_nobis_fidei</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_In_pascuis_virentibus_Dominus</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_In_Israel_magnum</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Terra_tremuit</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_Rom_5_1-2._5</LB_3>
+ 
+<RB_3>VERS_Misericordias_Domini</RB_3>
+ 
+<LB_6>LB_Rom_8_26</LB_6>
+ 
+<RB_6>VERS_Appropinquet_deprecatio_mea</RB_6>
+ 
+<LB_9>LB_2_Cor_1_21-22</LB_9>
+ 
+<RB_9>VERS_Dominus_illuminatio_mea</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_da_nobis_fidei</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_sempiterne_Deus_da_nobis_fidei</oratio_6>
+ 
+<oratio_9>COL_Omnipotens_sempiterne_Deus_da_nobis_fidei</oratio_9>
+ 
+<intitule_soir><la>Dominica XXX per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_O_lux_beata_Trinitas</HYMNUS_vepres>
+ 
+<ant7>AN_Sacerdos_in_aeternum</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Deus_noster_in_caelo</ant8>
+ 
+<ps8>ps113B</ps8>
+ 
+<ant9>AN_Laudem_dicite_Deo</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_2Th2,13-14</LB_soir>
+ 
+<RB_soir>RB_Magnus_Dominus_noster</RB_soir>
+ 
+<magnificat>AN_Omnis_qui_se</magnificat>
+ 
+<vepres_preces>perannum_21</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_da_nobis_fidei</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Laetetur_cor</IN>
+<IN_L>IN_L_perannum_30</IN_L>
+<COL>COL_perannum_30</COL>
+<LEC>LEC_Si35,15-17.20-22a(gr.12-14.16-18)</LEC>
+<PS1>GR_Unam_petii</PS1>
+<LEC2>LEC_2Tm4,6-8.16-18</LEC2>
+
+<PS2>AL_Lauda_Ierusalem</PS2>
+<EV>EV_Lc18,9-14</EV>
+<OF>OF_Domine_vivifica_me</OF>
+<SO>SO_perannum_30</SO>
+<CO>CO_Laetabimur</CO>
+<CO_L>CO_L_perannum_30</CO_L>
+<PC>PC_perannum_30</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St &#xC9;variste, pape</intitule>
+ <biographiecourte>Pape et martyr sous le r&#xE8;gne de Trajan. Il organisa les paroisses de Rome</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 27 octobre</para><para>1. &#xC0; Rome, en 108, saint &#xC9;variste, pape, qui dirigea l&#x2019;&#xC9;glise romaine, le quatri&#xE8;me apr&#xE8;s saint Pierre, sous l&#x2019;empereur Trajan. </para><para>2. Pr&#xE8;s de Smyrne en Asie, vers 170-180, la passion de saint Thras&#xE9;as, &#xE9;v&#xEA;que d&#x2019;Eum&#xE9;nie en Phrygie et martyr. </para><para>3*. En Auvergne vers 460, saint Namace, &#xE9;v&#xEA;que de Clermont, qui construisit l&#x2019;&#xE9;glise cath&#xE9;drale. </para><para>4. &#xC0; Naples, au Ve si&#xE8;cle, la mise au tombeau de saint Gaudiosus, &#xE9;v&#xEA;que africain, qui vint, dit-on, en Campanie depuis Abitina, &#xE0; cause de la pers&#xE9;cution des Vandales et acheva saintement sa vie dans un monast&#xE8;re. </para><para>5*. Dans l&#x2019;&#xEE;le d&#x2019;Iona en &#xC9;cosse, vers 563, saint Odran, moine, breton de naissance, qui fut un des disciples de saint Colomba. </para><para>6*. &#xC0; Vicence en V&#xE9;n&#xE9;tie, comm&#xE9;moraison du bienheureux Barth&#xE9;lemy de Br&#xE9;gance, &#xE9;v&#xEA;que, de l&#x2019;Ordre des Pr&#xEA;cheurs, qui &#xE9;tablit dans cette cit&#xE9; la Milice de J&#xE9;sus Christ pour la protection de la foi catholique et la libert&#xE9; de l&#x2019;&#xC9;glise et mourut en 1270. </para><para>7*. &#xC0; Paterna dans la r&#xE9;gion de Valence en Espagne, l&#x2019;an&#xA0;1936, le bienheureux Sauveur Mollar Ventura, religieux franciscain et martyr, qui, au temps de la guerre civile, fut victime de la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

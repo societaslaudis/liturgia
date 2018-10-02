@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>3</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XI per annum</la><fr>XI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>SACRATISSIMI CORDIS IESU</la><fr>TRES SAINT COEUR DE JESUS</fr></intitule>
+<rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_adoremus_Dominum</invitatoire>
+
+<HYMNUS_lectures>hy_Nox_atra_rerum_contegit</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Christe_precamur_adnuas</HYMNUS_lec_jour>
+
+<antL1>AN_Intuere_Domine_et</antL1>
+
+<psL1>ps88IV</psL1>
+
+<antL2>AN_Ego_sum_radix</antL2>
+
+<psL2>ps88V</psL2>
+
+<antL3>AN_Anni_nostri_sicut</antL3>
+
+<psL3>ps89</psL3>
+
+<LVers>VERS_Domine_apud</LVers>
+n<Llec1>L1_SACRATISSIMI_CORDIS_IESU</Llec1>
+
+<Lrep1>R1_SACRATISSIMI_CORDIS_IESU</Lrep1>
+
+<Llec2>L2_SACRATISSIMI_CORDIS_IESU</Llec2>
+
+<Lrep2>R2_SACRATISSIMI_CORDIS_IESU</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>SACRATISSIMI_CORDIS_IESU-NOCT1</LEC_NOCT1>
+
+<LEC_NOCT2>SACRATISSIMI_CORDIS_IESU-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>SACRATISSIMI_CORDIS_IESU-NOCT3-A</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Sol_ecce_surgit_igneus</HYMNUS_laudes>
+ 
+<ant1>AN_Gloriosa_dicta_sunt</ant1>
+ 
+<ps1>ps86</ps1>
+ 
+<ant2>AN_Dominus_in_fortitudine</ant2>
+ 
+<ps2>AT25</ps2>
+ 
+<ant3>AN_Exaltate_Dominum_Deum</ant3>
+ 
+<ps3>ps98</ps3>
+ 
+<LB_matin>LB_Is_66_1-2</LB_matin> 
+ 
+<RB_matin>RB_Clamavi_in_toto_corde_meo</RB_matin>  
+<benedictus>AN_In_sanctitate_serviamus</benedictus> 
+<laudes_preces>perannum_35</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_vespere_mane_et</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Suscipe_me_Domine</ant4>
+ 
+<ps4>ps118XV</ps4>
+ 
+<ant5>AN_Adiuva_nos_Deus</ant5>
+ 
+<ps5>ps78</ps5>
+ 
+<ant6>AN_Deus_virtutum_respice</ant6>
+ 
+<ps6>ps79</ps6>
+ 
+<LB_3>LB_Sap_19_22</LB_3>
+ 
+<RB_3>VERS_Tu_es</RB_3>
+ 
+<LB_6>LB_Deut_4_7</LB_6>
+ 
+<RB_6>VERS_Prope_est</RB_6>
+ 
+<LB_9>LB_Est_10_3f</LB_9>
+ 
+<RB_9>VERS_Confitebor_tibi</RB_9>
+ 
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil</oratio_6>
+ 
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+ 
+<intitule_soir><la>SACRATISSIMI CORDIS IESU</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Magnae_Deus_potentiae</HYMNUS_vepres>
+ 
+<ant7>AN_Sancti_tui_exsultent</ant7>
+ 
+<ps7>ps131I</ps7>
+ 
+<ant8>AN_Elegit_Dominus_Sion</ant8>
+ 
+<ps8>ps131II</ps8>
+ 
+<ant9>AN_Dedit_ei_Dominus</ant9>
+ 
+<ps9>NT10</ps9>
+ 
+<LB_soir>LB_1_Petr_3_8-9</LB_soir>
+ 
+<RB_soir>RB_Cibavit_nos_Dominus</RB_soir>
+ 
+<magnificat>AN_Deposuit_Dominus_potentes</magnificat>
+ 
+<vepres_preces>perannum_35</vepres_preces>
+ 
+<oratio_vepres>COL_Gratias_tibi_Domine_transacto_diei_cursu</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Caro_mea</comp_ant1>
+ 
+<comp_ps1>ps15</comp_ps1> 
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+ 
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Cogitationes_Cordis_eius</IN>
+<LEC>LEC_Dt7,6-11</LEC>
+<PS1>GR_Dulcis_et_rectus_Dominus</PS1>
+<LEC2>LEC_1Jn4,7-16</LEC2>
+
+<PS2>AL_Tollite_iugum_meum</PS2>
+<EV>EV_Mt11,25-30</EV>
+<OF>OF_Improperium</OF>
+<CO>CO_Unus_militum</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Paulin de Nole, &#xE9;v&#xEA;que.</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que de Nole en Campanie, re&#xE7;ut le bapt&#xEA;me &#xE0; 36 ans (&#x2020;431)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Sts Jean Fisher, &#xE9;v&#xEA;que et Thomas More, martyrs.</intitule>
+ <biographiecourte>Le chancelier fid&#xE8;le au pape fut ex&#xE9;cut&#xE9; par Henri VIII en 1535</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Solennit&#xE9; du C&#x153;ur de J&#xE9;sus</para><para>Solennit&#xE9; du C&#x153;ur tr&#xE8;s sacr&#xE9; de J&#xE9;sus, qui, humble et pauvre de c&#x153;ur, exalt&#xE9; sur la croix, s&#x2019;est fait source de vie et de dilection, en qui puisent les nations de l&#x2019;univers.</para><para>
+            Le 22 juin</para><para>1. M&#xE9;moire de saint Paulin, &#xE9;v&#xEA;que. De famille patricienne, il re&#xE7;ut le bapt&#xEA;me &#xE0; Bordeaux, abandonna le consulat et, de tr&#xE8;s noble et tr&#xE8;s opulent qu&#x2019;il &#xE9;tait, il se fit pauvre et humble pour le Christ, et s&#x2019;&#xE9;tablit &#xE0; Nole, en Campanie, pr&#xE8;s du tombeau du pr&#xEA;tre saint F&#xE9;lix, pour suivre son exemple. Il mena l&#xE0;, avec son &#xE9;pouse Th&#xE9;r&#xE8;se et des amis, une vie d&#x2019;asc&#xE8;se. Devenu &#xE9;v&#xEA;que de Nole, il se fit remarquer par son &#xE9;rudition et sa saintet&#xE9;, b&#xE2;tit un hospice pour les p&#xE8;lerins et vint en aide aux pauvres. Il mourut en 431.</para><para>2. M&#xE9;moire des saints Jean Fisher, &#xE9;v&#xEA;que, et Thomas More, martyrs. Leur opposition au roi Henri VIII dans la controverse autour de son divorce et sur la supr&#xE9;matie spirituelle du pape, entra&#xEE;na leur incarc&#xE9;ration &#xE0; la Tour de Londres. Jean Fisher, &#xE9;v&#xEA;que de Rochester, qui s&#x2019;&#xE9;tait fait remarquer par son &#xE9;rudition et la saintet&#xE9; de sa vie, fut, en ce jour en 1537, d&#xE9;capit&#xE9; devant sa prison par ordre du roi lui-m&#xEA;me. Thomas More, p&#xE8;re de famille d&#x2019;une vie absolument int&#xE8;gre, et chancelier du royaume d&#x2019;Angleterre, fut d&#xE9;capit&#xE9; le 6 juillet suivant, li&#xE9; au saint &#xE9;v&#xEA;que par la m&#xEA;me fid&#xE9;lit&#xE9; &#xE0; l&#x2019;&#xC9;glise catholique et par le m&#xEA;me martyre. </para><para>3. &#xC0; Rome, comm&#xE9;moraison de saint Flavius Clemens, martyr. En 94, l&#x2019;empereur Domitien, son cousin, avec qui il venait d&#x2019;exercer le consulat, le fit mettre &#xE0; mort sous l&#x2019;accusation d&#x2019;ath&#xE9;isme, en r&#xE9;alit&#xE9; &#xE0; cause de sa foi au Christ. </para><para>4. &#xC0; Verulam en Grande Bretagne, vers 287, saint Alban, martyr. On rapporte que, soldat non encore baptis&#xE9;, il avait recueilli dans sa maison un clerc qui lui donna les enseignements de la foi chr&#xE9;tienne. En changeant d&#x2019;habit, il se livra lui-m&#xEA;me &#xE0; la place de son h&#xF4;te, et pour ce motif, subit la flagellation, des tourments atroces et fut d&#xE9;capit&#xE9;. </para><para>5. &#xC0; Caerleon, &#xE9;galement en Grande Bretagne, &#xE0; la fin du IIIe si&#xE8;cle, les saints martyrs Jules et Aaron, qui, apr&#xE8;s saint Alban, furent mis &#xE0; mort dans la m&#xEA;me pers&#xE9;cution, ainsi que beaucoup d&#x2019;autres qui, en divers endroits subirent des tortures de toutes sortes, eurent leurs membres sauvagement d&#xE9;chir&#xE9;s, et parvinrent ainsi, au terme de leur combat, aux joies de la J&#xE9;rusalem c&#xE9;leste. </para><para>6. &#xC0; Dolikha en Syrie, l&#x2019;an&#xA0;379, la passion de saint Eus&#xE8;be, &#xE9;v&#xEA;que de Samosate. Au temps de l&#x2019;empereur arien Constance, il visita, d&#xE9;guis&#xE9; en soldat, les &#xC9;glises de Dieu, pour les affermir dans la foi catholique. Ensuite, sous l&#x2019;empereur Valens, il fut rel&#xE9;gu&#xE9; en Thrace et, quand la paix fut rendue &#xE0; l&#x2019;&#xC9;glise, au temps de Th&#xE9;odose, il fut rappel&#xE9; de son exil. Il recommen&#xE7;ait ses visites aux &#xC9;glises, quand une femme arienne lui jeta, du haut d&#x2019;une maison, une tuile qui lui brisa la t&#xEA;te, et il succomba ainsi en martyr. </para><para>7. Comm&#xE9;moraison de saint Nic&#xE9;tas, &#xE9;v&#xEA;que de R&#xE9;m&#xE9;siana en Dacie, qui mourut en 414. Saint Paulin de Nole le loue, dans un po&#xE8;me, d&#x2019;avoir fait des barbares des brebis en leur inculquant l&#x2019;&#xC9;vangile, de les avoir conduits dans la demeure royale de la paix et d&#x2019;avoir appris &#xE0; ces gens, autrefois incultes et brigands, &#xE0; vibrer d&#x2019;un c&#x153;ur romain. </para><para>8*. &#xC0; Rome, au Latran, l&#x2019;an&#xA0;1276, le bienheureux Innocent V, pape, de l&#x2019;Ordre des Pr&#xEA;cheurs. Apr&#xE8;s avoir enseign&#xE9; la th&#xE9;ologie &#xE0; Paris, il fut nomm&#xE9;, malgr&#xE9; lui, au si&#xE8;ge &#xE9;piscopal de Lyon, o&#xF9; il fut, avec saint Bonaventure, mod&#xE9;rateur des d&#xE9;bats du Concile &#x153;cum&#xE9;nique convoqu&#xE9; en vue de r&#xE9;aliser l&#x2019;union entre les Latins et les Grecs s&#xE9;par&#xE9;s. &#xC9;lu ensuite &#xE0; la chaire de Pierre, il mourut apr&#xE8;s cinq mois de pontificat, plut&#xF4;t montr&#xE9; que donn&#xE9; &#xE0; l&#x2019;&#xC9;glise de Rome. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

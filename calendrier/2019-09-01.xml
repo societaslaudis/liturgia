@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXII per annum</la><fr>XXII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XXII per annum</la><fr>XXII&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Populus_Domini_et</invitatoire>
+
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+
+<antL1>AN_Domine_Deus_meus</antL1>
+
+<psL1>ps103I</psL1>
+
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+
+<psL2>ps103II</psL2>
+
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+
+<psL3>ps103III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_XXII_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XXII_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XXII_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XXII_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Ecce_iam_noctis_tenuatur_umbra</HYMNUS_laudes>
+ 
+<ant1>AN_Benedictus_qui_venit</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Hymnum_dicamus_Domino</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Laudate_Dominum</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_Ez_36_25-27</LB_matin> 
+ 
+<RB_matin>RB_Confitebimur_tibi_Deus_Et</RB_matin>  
+<benedictus>AN_Omnis_qui_se</benedictus> 
+<laudes_preces>perannum_21</laudes_preces><oratio_laudes>COL_Deus_virtutum_cuius_est_totum_quod</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_In_pascuis_virentibus_Dominus</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_In_Israel_magnum</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Terra_tremuit</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_Rom_5_1-2._5</LB_3>
+ 
+<RB_3>VERS_Misericordias_Domini</RB_3>
+ 
+<LB_6>LB_Rom_8_26</LB_6>
+ 
+<RB_6>VERS_Appropinquet_deprecatio_mea</RB_6>
+ 
+<LB_9>LB_2_Cor_1_21-22</LB_9>
+ 
+<RB_9>VERS_Dominus_illuminatio_mea</RB_9>
+ 
+<oratio_3>COL_Deus_virtutum_cuius_est_totum_quod</oratio_3>
+ 
+<oratio_6>COL_Deus_virtutum_cuius_est_totum_quod</oratio_6>
+ 
+<oratio_9>COL_Deus_virtutum_cuius_est_totum_quod</oratio_9>
+ 
+<intitule_soir><la>Dominica XXII per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_O_lux_beata_Trinitas</HYMNUS_vepres>
+ 
+<ant7>AN_Sacerdos_in_aeternum</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Deus_noster_in_caelo</ant8>
+ 
+<ps8>ps113B</ps8>
+ 
+<ant9>AN_Laudem_dicite_Deo</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_2Th2,13-14</LB_soir>
+ 
+<RB_soir>RB_Magnus_Dominus_noster</RB_soir>
+ 
+<magnificat>AN_Ecce_sunt_novissimi</magnificat>
+ 
+<vepres_preces>perannum_21</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_virtutum_cuius_est_totum_quod</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Miserere_tribulor</IN>
+<IN_L>IN_L_perannum_22</IN_L>
+<COL>COL_perannum_22</COL>
+<LEC>LEC_Si3,19-21.30-31</LEC>
+<PS1>GR_Timebunt_gentes</PS1>
+<LEC2>LEC_He12,18-19.22-24a</LEC2>
+
+<PS2>AL_Cantate_Domino</PS2>
+<EV>EV_Lc14,1.7-14</EV>
+<OF>OF_Domine_in_auxilium</OF>
+<SO>SO_perannum_22</SO>
+<CO>CO_Qui_vult_venire</CO>
+<CO_L>CO_L_perannum_22</CO_L>
+<PC>PC_perannum_22</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule>Journ&#xE9;e de pri&#xE8;re pour la sauvegarde de la Cr&#xE9;ation</intitule></journeesdediees>
+
+<biographie>
+ <intitule>St Gilles</intitule>
+ <biographiecourte>D'origine grecque, il v&#xE9;cut en ermite pr&#xE8;s de N&#xEE;mes et fonda une abbaye qui porte aujourd'hui son nom (&#x2020;721)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 1er septembre</para><para>1. Comm&#xE9;moraison de saint Josu&#xE9;, fils de Noun, serviteur du Seigneur, vers 1220 avant le Christ. Quand Mo&#xEF;se lui eut impos&#xE9; les mains, il fut rempli de l&#x2019;esprit de sagesse et, apr&#xE8;s la mort de Mo&#xEF;se, il fit passer le peuple d&#x2019;Isra&#xEB;l &#xE0; travers le lit du Jourdain et l&#x2019;introduisit, d&#x2019;une mani&#xE8;re merveilleuse, dans la terre de la promesse. </para><para>2. &#xC0; Reims, au IIIe si&#xE8;cle, saint Sixte, qui est regard&#xE9; comme le premier &#xE9;v&#xEA;que de la cit&#xE9;. </para><para>3. &#xC0; Capoue en Campanie, sur la voie Aquaria, vers le IVe si&#xE8;cle, saint Prisque, martyr. </para><para>4. &#xC0; Todi en Ombrie, vers le IVe si&#xE8;cle, saint T&#xE9;rentien, &#xE9;v&#xEA;que. </para><para>5. &#xC0; Dax, vers le IVe si&#xE8;cle, saint Vincent, c&#xE9;l&#xE9;br&#xE9; comme &#xE9;v&#xEA;que et martyr. </para><para>6. &#xC0; Zurzach sur le Rhin, dans le canton d&#x2019;Argovie en Suisse, au IVe si&#xE8;cle, sainte V&#xE9;r&#xE8;ne, vierge. </para><para>7. Au Mans, vers&#xA0;490, saint Victeur, &#xE9;v&#xEA;que, dont saint Gr&#xE9;goire de Tours rapporte les miracles. </para><para>8. Pr&#xE8;s d&#x2019;Aquin dans le Latium, vers 570, saint Constance, &#xE9;v&#xEA;que, dont le pape saint Gr&#xE9;goire le Grand loue le don de proph&#xE9;tie. </para><para>9. Au pays de N&#xEE;mes dans la province de Narbonne, au VIe ou VIIe si&#xE8;cle, saint Gilles, dont le nom a &#xE9;t&#xE9; donn&#xE9; &#xE0; la ville qui s&#x2019;est form&#xE9;e ensuite dans la vall&#xE9;e Flavienne, o&#xF9; lui-m&#xEA;me aurait &#xE9;rig&#xE9; un monast&#xE8;re et termin&#xE9; sa vie. </para><para>10. &#xC0; Sens, vers 623, saint Loup, &#xE9;v&#xEA;que. Parce qu&#x2019;il avait eu l&#x2019;audace de d&#xE9;clarer, devant un important personnage du lieu, que le devoir de l&#x2019;&#xE9;v&#xEA;que &#xE9;tait de diriger le peuple et qu&#x2019;il fallait ob&#xE9;ir &#xE0; Dieu plut&#xF4;t qu&#x2019;aux princes, il dut subir l&#x2019;exil. </para><para>11*. &#xC0; Venise, en 1262, la bienheureuse Julienne de Collalto, abbesse b&#xE9;n&#xE9;dictine. </para><para>12*. &#xC0; Florence en Toscane, vers 1367, la bienheureuse Jeanne Soderini , vierge du Tiers-Ordre des Servites de Marie, c&#xE9;l&#xE8;bre pour ses pratiques d&#x2019;oraison et d&#x2019;aust&#xE9;rit&#xE9;. </para><para>13*. En Espagne, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, seize bienheureux martyrs&#xA0;: Christin (Michel Roca Huguet), pr&#xEA;tre, et onze compagnons, de l&#x2019;Ordre de Saint-Jean-de-Dieu, mis &#xE0; mort pr&#xE8;s de Madrid&#xA0;; &#xE0; Paterna, dans la r&#xE9;gion de Valence, Alphonse Sebastia Vi&#xF1;als, pr&#xEA;tre, et &#xE0; Barcelone, Pierre Rivera. </para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0;  A Paterna, dans la r&#xE9;gion de Valence, le bienheureux Alphonse Sebastia Vi&#xF1;als, pr&#xEA;tre</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, &#xE0; Barcelone, le bienheureux Pierre Rivera, pr&#xEA;tre franciscain conventuel, la bienheureuse Marie-Carmen (Moreno Benitez) et la bienheureuse Marie du Refuge (Maria Amparo Carbonell Munoz), vierges de l&#x2019;Institut de Marie Auxiliatrice. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Barcelone, en, 1936, le bienheureux Josep Samso Elias &#xA0;Pr&#xEA;tre martyr de la guerre civile espagnole.(b&#xE9;atifi&#xE9; le 23 janvier 2010 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

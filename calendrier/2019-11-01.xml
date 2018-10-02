@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>3</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXX per annum</la><fr>XXX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>OMNIUM SANCTORUM</la><fr>TOUS LES SAINTS</fr></intitule>
+<rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Deum_qui_glorificatur</invitatoire>
+
+<HYMNUS_lectures>HY_Christe_caelorum_habitator_alme</HYMNUS_lectures>
+
+<HYMNUS_lec_jour/>
+
+<antL1>AN_Ne_in_ira</antL1>
+
+<psL1>ps37I</psL1>
+
+<antL2>AN_Domine_ante_te</antL2>
+
+<psL2>ps37II</psL2>
+
+<antL3>AN_Iniquitatem_meam_annuntiabo</antL3>
+
+<psL3>ps37III</psL3>
+
+<LVers>VERS_Oculi_mei</LVers>
+n<Llec1>L1_OMNIUM_SANCTORUM</Llec1>
+
+<Lrep1>R1_OMNIUM_SANCTORUM</Lrep1>
+
+<Llec2>L2_OMNIUM_SANCTORUM</Llec2>
+
+<Lrep2>R2_OMNIUM_SANCTORUM</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Iesu_salvator_saeculi</HYMNUS_laudes>
+ 
+<ant1>AN_In_caelestibus_regnis</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Sancti_Domini</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Hymnus_omnibus</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Eph_1_17-18</LB_matin> 
+ 
+<RB_matin>RB_Laetamini_in_Domino_Et_exsultate</RB_matin>  
+<benedictus>AN_Iusti_fulgebunt_sicut</benedictus> 
+<laudes_preces>perannum_26</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_nos_omnium</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Consolabitur_Dominus_Sion;</ant4>
+ 
+<ps4>ps122</ps4>
+ 
+<ant5>AN_Sapientiam_sanctorum_narrant</ant5>
+ 
+<ps5>ps123</ps5>
+ 
+<ant6>AN_Sancti_per_fidem</ant6>
+ 
+<ps6>ps124</ps6>
+ 
+<LB_3>LB_Is_65_18-19</LB_3>
+ 
+<RB_3>VERS_Gaudete_et_exsultate_omnes_sancti</RB_3>
+ 
+<LB_6>LB_1_Petr_1_15-16</LB_6>
+ 
+<RB_6>VERS_Laetamini_iusti_in_Domino_Et</RB_6>
+ 
+<LB_9>LB_Ap_21_10-11a;_22_3b-4</LB_9>
+ 
+<RB_9>VERS_Iusti_confitebuntur_nomini_tuo_Domine</RB_9>
+ 
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+ 
+<oratio_6>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_6>
+ 
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
+ 
+<intitule_soir><la>OMNIUM SANCTORUM</la></intitule_soir>
+ 
+<rang_soir><la>Sollemnitas</la></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Christe_redemptor_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_Vidi_turbam_magnam</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Deus_tentavit_illos</ant8>
+ 
+<ps8>ps115</ps8>
+ 
+<ant9>AN_Redemisti_nos_Domine</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_Cor_6_16b;_7_1</LB_soir>
+ 
+<RB_soir>RB_Sancti_et_iusti_In_Domino</RB_soir>
+ 
+<magnificat>AN_O_quam_gloriosum</magnificat>
+ 
+<vepres_preces>perannum_26</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_nos_omnium</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	 
+<comp_ps1>ps90</comp_ps1>
+	 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Gaudeamus_Sanctorum_omnium</IN>
+<COL>COL_Omnipotens_sempiterne_Deus_qui_nos_omnium</COL>
+<LEC>LEC_Ap7,2-4.9-14</LEC>
+<PS1>GR_Timete_Dominum</PS1>
+<PS2>AL_Venite_ad_me</PS2>
+<SEQ/>
+<EV>EV_Mt5,1-12a</EV>
+<OF>OF_Iustorum_animae</OF>
+<CO>CO_Beati_mundo_corde</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule>Proclamation en 1950 du dogme de l'Assomption </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule>F&#xE9;ri&#xE9;</intitule></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>TOUS LES SAINTS</intitule>
+ <biographiecourte/>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 1er novembre</para><para>1. Solennit&#xE9; de Tous les Saints. Dans la joie d&#x2019;une f&#xEA;te unique, la sainte &#xC9;glise, encore en marche sur la terre, v&#xE9;n&#xE8;re tous ceux qui vivent dans le ciel avec le Christ, est incit&#xE9;e &#xE0; suivre leur exemple, se r&#xE9;jouit de leur intercession et est couronn&#xE9;e de leur triomphe. </para><para>2. &#xC0; Terracina, sur la c&#xF4;te du Latium, saint C&#xE9;saire, martyr. </para><para>3. &#xC0; Dijon, saint B&#xE9;nigne, v&#xE9;n&#xE9;r&#xE9; comme pr&#xEA;tre et martyr. </para><para>4. Chez les Arvernes, vers 300, saint Austremoine, &#xE9;v&#xEA;que, qui fut, croit-on, le premier &#xE0; annoncer dans la cit&#xE9; la parole du salut. </para><para>5. &#xC0; Paris, &#xE0; la fin du IVe si&#xE8;cle, saint Marcel, &#xE9;v&#xEA;que. </para><para>6*. Dans le Berry, saint Romble, pr&#xEA;tre et abb&#xE9;. </para><para>7. &#xC0; Tivoli dans le Latium, saint S&#xE9;verin, moine. </para><para>8. &#xC0; Milan, au VIe si&#xE8;cle, saint Magne, &#xE9;v&#xEA;que. </para><para>9. &#xC0; Bayeux, apr&#xE8;s 538, saint Vigor, &#xE9;v&#xEA;que, qui fut disciple de saint Vaast.</para><para>10. &#xC0; Angers, vers 606, saint Lezin, &#xE9;v&#xEA;que, &#xE0; qui le pape saint Gr&#xE9;goire le Grand recommanda les moines romains qui gagnaient l&#x2019;Angleterre. </para><para>11. &#xC0; Larchant dans le G&#xE2;tinais, saint Mathurin, pr&#xEA;tre.</para><para>12. Sur le territoire de Th&#xE9;rouanne en Flandre, vers 670, saint Omer, &#xE9;v&#xEA;que. Form&#xE9; par saint Eustase &#xE0; l&#x2019;abbaye de Luxeuil, il fut nomm&#xE9; &#xE9;v&#xEA;que des Morins et renouvela chez eux l&#x2019;&#x153;uvre d&#x2019;&#xE9;vang&#xE9;lisation entreprise par saint Victrice de Rouen, fit de Sithiu un centre monastique missionnaire et mourut aveugle. </para><para>13*. &#xC0; Borgo San Sepolcro en Ombrie, l&#x2019;an&#xA0;1304, le bienheureux Rainier d&#x2019;Arezzo, religieux de l&#x2019;Ordre des Mineurs, qui brilla par son humilit&#xE9;, sa pauvret&#xE9; et sa patience. </para><para>14*. &#xC0; Lisbonne, en 1434, saint Ni&#xF1;o Alvarez Pereira. &#xC9;lev&#xE9; &#xE0; la cour du Portugal, conn&#xE9;table &#xE0; vingt-trois ans, il d&#xE9;fendit son pays contre les arm&#xE9;es du roi de Castille. P&#xE8;re de famille devenu veuf de bonne heure, il prit, &#xE0; soixante-deux ans, l&#x2019;habit de fr&#xE8;re chez les carmes, et mena une vie pauvre et cach&#xE9;e dans le Christ. (canonis&#xE9; le 26 avril 2009 par Beno&#xEE;t XVI)</para><para>15*. &#xC0; Shimabara au Japon, en 1622, les bienheureux martyrs Pierre-Paul Navarro, pr&#xEA;tre, Denis Fujishima et Pierre Onizuka Sandayu, religieux, tous trois de la Compagnie de J&#xE9;sus, et Cl&#xE9;ment Kuyemon, leur guide, qui furent condamn&#xE9;s &#xE0; &#xEA;tre br&#xFB;l&#xE9;s vifs, en haine du nom chr&#xE9;tien. </para><para>16. &#xC0; Hai Duong au Tonkin, en 1861, les saints martyrs J&#xE9;r&#xF4;me Hermosilla et Valentin Berrio Ochoa, &#xE9;v&#xEA;ques, ainsi que Pierre Almato Ribeira, pr&#xEA;tre, tous trois dominicains, d&#xE9;capit&#xE9;s sur l&#x2019;ordre de l&#x2019;empereur Tu Duc. </para><para>17*. &#xC0; Munich en Bavi&#xE8;re, l&#x2019;an&#xA0;1945, le bienheureux Rupert Mayer, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. Tr&#xE8;s z&#xE9;l&#xE9; directeur spirituel des fid&#xE8;les, secourable aux pauvres et aux ouvriers, pr&#xE9;dicateur de la parole de Dieu, il subit des pers&#xE9;cutions sous le r&#xE9;gime nazi, d&#xE9;port&#xE9; d&#x2019;abord dans un camp de d&#xE9;tention, puis dans un monast&#xE8;re sans pouvoir entrer en relation d&#x2019;aucune fa&#xE7;on avec les fid&#xE8;les. </para><para>18*. &#xC0; Mukachiv en Ukraine, l&#x2019;an&#xA0;1947, le bienheureux Th&#xE9;odore Romzsa, &#xE9;v&#xEA;que et martyr. Sous le r&#xE9;gime sovi&#xE9;tique, il resta sans rel&#xE2;che fid&#xE8;le &#xE0; l&#x2019;&#xC9;glise catholique et, apr&#xE8;s une tentative d&#x2019;assassinat au cours d&#x2019;une visite pastorale, il fut empoisonn&#xE9; par la police d&#x2019;&#xC9;tat. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

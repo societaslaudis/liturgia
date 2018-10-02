@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<liturgia>
+<ant1 id="AN_Deus_a_Libano"/>
+<ant2 id="AN_Rorate_caeli_desuper"/>
+<ant3 id="AN_Paratus_esto_Israel"/>
+<HYMNUS_tertiam id="hy_Certum_tenentes_ordinem"/>
+<HYMNUS_sextam id="hy_Dicamus_laudes_Domino"/>
+<HYMNUS_nonam id="hy_Ternis_horarum_terminis"/>
+<HYMNUS_vesperas id="hy_Verbum_salutis_omnium"/>
+<ant7 id="AN_Ecce_veniet_desideratus"/>
+<ant8 id="AN_Veni_Domine_et"/>
+<ant9 id="AN_Ecce_iam_venit"/>
+<LB_soir id="LB_1_Th_5_23-24"/>
+<RB_soir id="RB_Ostende_nobis_Domine_Misericordiam"/>
+<messe>
+<IN id="IN_Memento_nostri_Domine"/>
+<PS1 id="GR_Excita_Domine"/>
+<OF id="OF_Audi_Israel"/>
+<CO id="CO_Veni_Domine"/>
+</messe>
+</liturgia>

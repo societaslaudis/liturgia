@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Deum_verum_unum"/>
+<intitule>
+<la>SANCTISSIM&#xC6; TRINITATIS</la>
+<fr>SAINTE TRINITE</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<martyrologe>
+Solennit&#xE9; de la tr&#xE8;s sainte et indivisible Trinit&#xE9;, en laquelle est v&#xE9;n&#xE9;r&#xE9;e et confess&#xE9;e un seul Dieu en trois personnes et l'unit&#xE9; trinitaire.
+</martyrologe>
+<HYMNUS_1V id="hy_Immensa_et_una_Trinitas"/>
+<ant01 id="AN_Gloria_tibi_Trinitas"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Benedicta_sit_sancta"/>
+<ps02 id="ps147"/>
+<ant03 id="AN_Gloria_et_honor"/>
+<ps03 id="NT4"/>
+<LB_1V id="LB_Rom_11_33-36"/>
+<RB_1V id="RB_Benedicamus_Patrem_et_Filium_cum"/>
+
+<magnificat1_A id="AN_Gratias_tibi_Deus_gratias_tibi_vera"/>
+<magnificat1_B id="AN_Gratias_tibi_Deus_gratias_tibi_vera"/>
+<magnificat1_C id="AN_Gratias_tibi_Deus_gratias_tibi_vera"/>
+
+<HYMNUS_laudes id="hy_Trinitas_summo_solio_coruscans"/>
+<ant1 id="AN_Tibi_decus_et"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Te_iure_laudant"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Ex_quo_omnia"/>
+<ps3 id="ps149"/>
+<ant4 id="AN_Te_invocamus_te"/>
+<ps4 id="ps117I"/>
+<ant5 id="AN_Spes_nostra_salus"/>
+<ps5 id="ps117II"/>
+<ant6 id="AN_Te_semper_idem"/>
+<ps6 id="ps117III"/>
+<ps8 id="ps113A"/>
+<LB_3 id="LB_2_Cor_1_21-22"/>
+<RB_3 id="VERS_Intrate_portas_eius_in_confessione"/>
+<LB_6 id="LB_Cf._Gal_4_4._5-6"/>
+<RB_6 id="VERS_O_beata_et_benedicta_et"/>
+<LB_9 id="LB_Ap_7_12"/>
+<RB_9 id="VERS_Benedictus_es_Domine_in_firmamento"/>
+<preces id="SANCTISSIMAE_TRINITATIS"/>
+<oratio id="COL_Deus_Pater_qui_Verbum_veritatis_et"/>
+<benedictus id="AN_Benedicta_sit_creatrix"/>
+<magnificat id="AN_Te_Deum_Patrem"/>
+<ant7 id="AN_O_vera_summa"/>
+<ant8 id="AN_Libera_nos_salva"/>
+<ant9 id="AN_Sanctus_sanctus_sanctus"/>
+<LB_matin id="LB_1_Cor_12_4-6"/>
+<RB_matin id="RB_Tibi_laus_tibi_gloria&#xA0;_O"/>
+<LB_soir id="LB_Eph_4_3-6"/>
+<RB_soir id="RB_Benedicamus_Patrem_et_Filium_cum"/>
+<HYMNUS_vesperas id="hy_Immensa_et_una_Trinitas"/>
+
+<messe>
+	<IN id="IN_Benedicta_sit"/>
+	<PS1 id="GR_Benedictus_es_Domine"/>
+	<LEC2>
+		<A id="LEC_2Co13,11-13"/>
+		<B id="LEC_Rm8,14-17"/>
+		<C id="LEC_Rm5,1-5"/>
+	</LEC2>
+	<PS2 id="AL_Benedictus_es_Domine"/>
+	<EV>
+		<A id="EV_Jn3,16-18"/>
+		<B id="EV_Mt28,16-20"/>
+		<C id="EV_Jn16,12-15"/>
+	</EV>
+	<OF id="OF_Benedictus_sit"/>
+	<CO id="CO_Benedicimus_Deum"/>
+	<LEC>
+		<A id="LEC_Ex34,4-6.8-9"/>
+		<B id="LEC_Dt4,32-34.39-40"/>
+		<C id="LEC_Pr8,22-31"/>
+	</LEC>
+		<PR>
+			<A id="PR_Da3,52"/>
+			<B id="PR_Ps33,4"/>
+			<C id="PR_Ps8,4"/>
+		</PR>
+</messe>
+</liturgia>

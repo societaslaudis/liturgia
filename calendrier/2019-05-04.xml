@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada II Paschae</la><fr>II&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps135I</psL1>
+
+<antL2/>
+
+<psL2>ps135II</psL2>
+
+<antL3/>
+
+<psL3>ps135III</psL3>
+
+<LVers/>
+n<Llec1>L1_pascha_27</Llec1>
+
+<Lrep1>R1_pascha_27</Lrep1>
+
+<Llec2>L2_pascha_27</Llec2>
+
+<Lrep2>R2_pascha_27</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ 
+<ant1>AN_Delectasti_me_Domine</ant1>
+ 
+<ps1>ps91</ps1>
+ 
+<ant2>AN_Ego_occidam_et</ant2>
+ 
+<ps2>AT2</ps2>
+ 
+<ant3>AN_Gloria_et_honore</ant3>
+ 
+<ps3>ps8</ps3>
+ 
+<LB_matin>LB_Rom_14_7-9</LB_matin> 
+ 
+<RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin>  
+<benedictus>AN_Pax_vobis_ego</benedictus> 
+<laudes_preces>pascha_27</laudes_preces><oratio_laudes>COL_Deus_per_quem_nobis_et_redemptio</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps118XI</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps60</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps63</ps6>
+ 
+<LB_3>LB_Rom_5_10-11</LB_3>
+ 
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+ 
+<LB_6>LB_1_Cor_15_20-22</LB_6>
+ 
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+ 
+<LB_9>LB_2_Cor_5_14-15</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3>COL_Deus_per_quem_nobis_et_redemptio</oratio_3>
+ 
+<oratio_6>COL_Deus_per_quem_nobis_et_redemptio</oratio_6>
+ 
+<oratio_9>COL_Deus_per_quem_nobis_et_redemptio</oratio_9>
+ 
+<intitule_soir><la>Dominica III Paschae</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+ 
+<ant7>AN_Excelsus_super_omnes</ant7>
+ 
+<ps7>ps112</ps7>
+ 
+<ant8>AN_Dirupisti_Domine_vincula</ant8>
+ 
+<ps8>ps115</ps8>
+ 
+<ant9>AN_Filius_Dei_didicit</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_1_Petr_2_9-10</LB_soir>
+ 
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+ 
+<magnificat>AN_Dixit_Iesus_discipulis</magnificat>
+ 
+<vepres_preces>pascha_27</vepres_preces>
+ 
+<oratio_vepres>COL_Semper_exsultet_populus_tuus_Deus_renovata</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Redemisti_nos</IN>
+<LEC>LEC_Ac6,1-7</LEC>
+<PS1>AL_Surrexit_Christus_qui_creavit</PS1>
+<PS2/>
+<EV>EV_Jn6,16-21</EV>
+<OF>OF_Angelus_Domini</OF>
+<CO>CO_Mitte_manum_tuam_et_cognosce</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Via lucis </intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Jean-Louis Bonnard</intitule>
+ <biographiecourte>Pr&#xEA;tre, missionnaire au Tonkin, mort martyr en 1852</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 4 mai</para><para>1. &#xC0; Cirta en Numidie, l&#x2019;an&#xA0;259, les saints martyrs Agapius et Secundin, &#xE9;v&#xEA;ques. Apr&#xE8;s un long exil dans cette ville, durant la pers&#xE9;cution de Val&#xE9;rien o&#xF9; la rage des pa&#xEF;ens fit de plus grands efforts pour faire perdre la foi aux justes, ils ajout&#xE8;rent &#xE0; la dignit&#xE9; du sacerdoce la gloire du martyre. Avec eux subirent la mort le chevalier &#xC9;milien, les vierges consacr&#xE9;es &#xE0; Dieu Tertulla et Antonie et une femme avec ses deux enfants jumeaux. </para><para>2. &#xC0; Nic&#xE9;e en Bithynie, peut-&#xEA;tre en 303, sainte Antonine, martyre. Cruellement tortur&#xE9;e et tourment&#xE9;e par divers supplices, elle fut suspendue trois jours durant, enferm&#xE9;e deux ans dans un cachot et enfin jet&#xE9;e aux flammes, par ordre du pr&#xE9;fet Priscillien, en pers&#xE9;v&#xE9;rant &#xE0; confesser le Seigneur. </para><para>3. &#xC0; Lorch dans le Norique, en 304, saint Florian, martyr. V&#xE9;t&#xE9;ran sous l&#x2019;empereur Diocl&#xE9;tien, il fut, par ordre du pr&#xE9;fet Aquilin, pr&#xE9;cipit&#xE9; dans la rivi&#xE8;re d&#x2019;Enns, avec une grosse pierre au cou. </para><para>4. Aux mines de Ph&#xE9;no en Palestine, vers 304, la passion des saints martyrs Silvain, &#xE9;v&#xEA;que de Gaza, et trente-neuf compagnons. Condamn&#xE9;s aux mines dans la m&#xEA;me pers&#xE9;cution, et sur l&#x2019;ordre du C&#xE9;sar Maximin Da&#xEF;a, ils furent d&#xE9;capit&#xE9;s tous ensemble. </para><para>5*. &#xC0; Varsovie, en 1505, le bienheureux Ladislas de Gielnow, pr&#xEA;tre de l&#x2019;Ordre des Mineurs, qui mit un z&#xE8;le admirable &#xE0; pr&#xEA;cher la Passion du Seigneur et &#xE0; la c&#xE9;l&#xE9;brer dans des hymnes de d&#xE9;votion. 6*</para><para>6. &#xC0; Londres, en 1535, les bienheureux pr&#xEA;tres et martyrs Jean Houghton, Robert Lawrence et Augustin Webster, prieurs des Chartreuses de Londres, de Beauvale, et d&#x2019;Axholm, et Richard Reynolds, de l&#x2019;Ordre de Sainte-Brigitte, qui furent condamn&#xE9;s &#xE0; mort pour haute trahison, parce qu&#x2019;ils refusaient de reconna&#xEE;tre le roi Henri VIII comme chef supr&#xEA;me de l&#x2019;&#xC9;glise d&#x2019;Angleterre&#xA0;; ils furent pendus et d&#xE9;pec&#xE9;s encore vivants &#xE0; Tyburn. Avec eux subit le m&#xEA;me supplice le bienheureux Jean Haile, pr&#xEA;tre, cur&#xE9; de la paroisse&#xA0;; d&#x2019;Isleworth, r&#xE9;put&#xE9; coupable lui aussi de haute trahison pour le m&#xEA;me motif. </para><para>7*. &#xC0; Tr&#xE8;ves en Allemagne, l&#x2019;an&#xA0;1797, le bienheureux Jean-Martin Moy&#xEB;, pr&#xEA;tre de la Soci&#xE9;t&#xE9; des Missions &#xE9;trang&#xE8;res de Paris, qui fonda en Lorraine l&#x2019;Institut des S&#x153;urs de la Providence et rassembla en Chine des vierges enseignantes. Pers&#xE9;cut&#xE9; par les pa&#xEF;ens, contredit par certains chr&#xE9;tiens, expuls&#xE9;s de France sous la R&#xE9;volution, il se montra toujours anim&#xE9; du z&#xE8;le des &#xE2;mes. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

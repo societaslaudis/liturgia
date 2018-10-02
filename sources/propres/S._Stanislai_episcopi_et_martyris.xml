@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 11 aprilis</la>
+<fr>Le 11 avril</fr>
+</jour>
+<intitule>
+<la>S. STANISLAI, EPISCOPI ET MARTYRIS</la>
+<fr>S. STANISLAS, EVEQUE ET MARTYR</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_martyrum_Dominum"/>
+<HYMNUS_laudes id="hy_Martyr_Dei"/>
+<LB_matin id="LB_1Io5,3-5"/>
+<RB_matin id="RB_Laetitia_sempiterna_super_capita_eorum_Alleluia"/>
+<benedictus id="AN_Gaudete_et_exsultate_omnes_sancti"/>
+<PC id="AN_Qui_odit_animam"/>
+<oratio id="COL_Deus_pro_cuius_honore_beatus_episcopus"/>
+<HYMNUS_vesperas id="hy_Deus_tuorum_militum"/>
+<LB_soir id="LB_Ap7,14-17"/>
+<RB_soir id="RB_Fulgebunt_iusti_in_conspectu_Dei_Alleluia"/>
+<magnificat id="AN_Nisi_granum_frumenti_cadens_in_terram"/>
+<PCLaudes id="AN_Qui_odit_animam"/>
+<PCVepres id="AN_In_caelestibus_regnis"/>
+<messe>
+<EV id="EV_Jn17,11b-19"/>
+<LEC id="LEC_Ap12,10-12a"/>
+<IN id="IN_Protexisti_me"/>
+<COL id="COL_Deus_pro_cuius_honore_beatus_episcopus"/>
+><PS2 id="AL_Confitebuntur_caeli"/>
+<OF id="OF_Confitebuntur_caeli"/>
+<CO id="CO_Laetabitur_iustus"/>
+</messe>
+</liturgia>

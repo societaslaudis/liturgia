@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>2</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Quadragesimae</la><fr>Temps du Car&#xEA;me</fr></tempus>
+<hebdomada><la>Hebdomada II Quadragesimae</la><fr>II&#xE8;me semaine de Car&#xEA;me</fr></hebdomada>
+<intitule><la>Dominica II Quadragesimae</la><fr>II&#xE8;me dimanche de Car&#xEA;me</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+
+<antL1>AN_Domine_Deus_meus</antL1>
+
+<psL1>ps103I</psL1>
+
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+
+<psL2>ps103II</psL2>
+
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+
+<psL3>ps103III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_II_Quadragesimae</Llec1>
+
+<Lrep1>R1_Dominica_II_Quadragesimae</Lrep1>
+
+<Llec2>L2_Dominica_II_Quadragesimae</Llec2>
+
+<Lrep2>R2_Dominica_II_Quadragesimae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>quadragesima_21-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>quadragesima_21-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>quadragesima_21-NOCT3-C</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Precemur_omnes_cernui</HYMNUS_laudes>
+ 
+<ant1>AN_Dextera_Domini_fecit</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Trium_puerorum_cantemus</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Laudate_Dominum_in</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_Neh_8_9b._10b</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi_</RB_matin>  
+<benedictus>AN_Dominus_noster_Iesus</benedictus> 
+<laudes_preces>quadragesima_21</laudes_preces><oratio_laudes>COL_Deus_qui_nobis_dilectum_Filium_tuum</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+ 
+ 
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_Vivo_ego_dicit</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Per_arma_iustitiae</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_1_Th_4_1._7</LB_3>
+ 
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+ 
+<LB_6>LB_Is_30_15._18</LB_6>
+ 
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+ 
+<LB_9>LB_Deut_4_29-31</LB_9>
+ 
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+ 
+<oratio_3>COL_Deus_qui_nobis_dilectum_Filium_tuum</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_nobis_dilectum_Filium_tuum</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_nobis_dilectum_Filium_tuum</oratio_9>
+ 
+<intitule_soir><la>Dominica II Quadragesimae</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Audi_benigne_Conditor</HYMNUS_vepres>
+ 
+<ant7>AN_Virgam_virtutis_tuae_emittet</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Deus_unus_est_quem</ant8>
+ 
+<ps8>ps113B</ps8>
+ 
+<ant9>AN_Proprio_Filio_suo_non</ant9>
+ 
+<ps9>NT8</ps9>
+ 
+<LB_soir>LB_Cf._1_Cor_9_24-25</LB_soir>
+ 
+<RB_soir>RB_Attende_Domine_et_miserere_</RB_soir>
+ 
+<magnificat>AN_Vox_facta_est</magnificat>
+ 
+<vepres_preces>quadragesima_21</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_nobis_dilectum_Filium_tuum</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Reminiscere</IN>
+<COL>COL_Deus_qui_nobis_dilectum_Filium_tuum</COL>
+<LEC>LEC_Gn15,5-12.17-18</LEC>
+<PS1>GR_Sciant_gentes</PS1>
+<LEC2>LEC_Ph3,17-4,1</LEC2>
+
+<PS2>TR_Commovisti</PS2>
+<EV>EV_Lc9,28b-36</EV>
+<OF>OF_Meditabor</OF>
+<PRE>PRE_Pr&#xE9;facepropreouIouII</PRE>
+<CO>CO_Visionem</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Patrice, &#xE9;v&#xEA;que</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que et ap&#xF4;tre de l'Irlande (&#x2020;461)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 17 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de saint Patrice (Patrick), &#xE9;v&#xEA;que. N&#xE9; en Grande Bretagne, il fut captur&#xE9; par des pirates irlandais. Ayant retrouv&#xE9; sa libert&#xE9;, il voulut entrer dans le clerg&#xE9; et retourna en Irlande, d&#xE9;cid&#xE9; &#xE0; consacrer sa vie &#xE0; l&#x2019;&#xE9;vang&#xE9;lisation de l&#x2019;&#xEE;le. Ordonn&#xE9; &#xE9;v&#xEA;que, il s&#x2019;employa avec adresse et succ&#xE8;s &#xE0; faire conna&#xEE;tre le Christ, en s&#x2019;adaptant aux conditions sociales et politiques du pays et il organisa solidement l&#x2019;&#xC9;glise, jusqu&#x2019;&#xE0; sa mort &#xE0; Dunum (Down), en 461.</para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison d&#x2019;un grand nombre de martyrs &#xE0; Alexandrie. Au temps de l&#x2019;empereur Th&#xE9;odose, vers l&#x2019;an&#xA0;352, alors que le nombre des chr&#xE9;tiens augmentait, ils furent arr&#xEA;t&#xE9;s par des adorateurs de S&#xE9;rapis et, comme ils refusaient avec fermet&#xE9; d&#x2019;adorer cette idole, ils furent cruellement massacr&#xE9;s. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Chalon-sur-Sa&#xF4;ne, l&#x2019;an&#xA0;580, saint Agricole, &#xE9;v&#xEA;que, qui gouverna cette &#xC9;glise pendant pr&#xE8;s de cinquante ans et souscrivit &#xE0; divers conciles. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nivelles en Brabant, l&#x2019;an&#xA0;659, sainte Gertrude, abbesse. N&#xE9;e dans un lignage illustre, elle re&#xE7;ut de l&#x2019;&#xE9;v&#xEA;que saint Amand le voile des vierges et gouverna avec sagesse le monast&#xE8;re que sa m&#xE8;re avait fond&#xE9; et o&#xF9; elle vivait en moniale. Assidue &#xE0; la lecture des saintes &#xC9;critures, elle se consuma dans l&#x2019;aust&#xE9;rit&#xE9; des veilles et de l&#x2019;abstinence. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; Dans l&#x2019;&#xEE;le de Chypre, vers 770, saint Paul, moine, qui prit la d&#xE9;fense du culte des saintes images et fut, pour cela, jet&#xE9; dans les flammes. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Bari dans les Pouilles, l&#x2019;an&#xA0;1620, le bienheureux Conrad, qui v&#xE9;cut d&#x2019;abord en ermite en Palestine, puis &#xE9;tablit sa demeure dans cette r&#xE9;gion dans une mis&#xE9;rable grotte jusqu&#x2019;&#xE0; sa mort.</para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Olomuc en Moravie, l&#x2019;an&#xA0;1620, saint Jean Sarkander, pr&#xEA;tre et martyr. Cur&#xE9; d&#x2019;Holesov, il refusa de trahir le secret de la confession et fut, pour cela, soumis au supplice de la roue. Respirant encore, il fut jet&#xE9; en prison et mourut au bout d&#x2019;un mois. </para><para>8. &#xA0; &#xA0; &#xA0; &#xA0; Chez les Hurons au Canada, en 1649, la passion de saint Gabriel Lalemant, pr&#xEA;tre de la Compagnie de J&#xE9;sus. Avec toute la vigueur de son z&#xE8;le, il r&#xE9;pandit la connaissance de Dieu dans ce peuple, et dans sa propre langue, jusqu&#x2019;au jour o&#xF9; des ennemis, adorateurs d&#x2019;idoles, le tra&#xEE;n&#xE8;rent aux supplices les plus cruels. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Malage en Andalousie, l&#x2019;an&#xA0;1905, le bienheureux Jean-N&#xE9;pomuc&#xE8;ne Zegri y Moreno, pr&#xEA;tre, qui fonda la Congr&#xE9;gation des S&#x153;urs de la Charit&#xE9; de Notre-Dame-de-la-Merci. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; A Rio de Janeiro au Br&#xE9;sil, en 1873, la bienheureuse Maria Barbara Maix religieuse autrichienne Fondatrice des S&#x153;urs du C&#x153;ur Immacul&#xE9; de Marie. (b&#xE9;atifi&#xE9;e le 6 novembre 2010 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

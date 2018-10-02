@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Surrexit_Dominus_vere"/>
+<HYMNUS_laudes id="hy_Aurora_lucis_rutilat"/>
+<ant1 id="AN_Qui_sitit_accipiet"/>
+<ant2 id="AN_Adorate_Dominum_qui"/>
+<ant3 id="AN_Exsultabunt_sancti_in"/>
+<LB_matin id="LB_ap10.40-43"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi_alleluia"/>
+<preces id="pascha_51"/>
+
+<HYMNUS_tertiam id="hy_Iam_surgit_hora_tertia"/>
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<ant4 id="AN_Alleluia_alleluia_alleluia."/>
+<ant5 id="AN_Alleluia_alleluia_alleluia."/>
+<ant6 id="AN_Alleluia_alleluia_alleluia."/>
+<LB_3 id="LB_Cf.1Cor15,3b-5"/>
+<RB_3 id="VERS_Surrexit_Dominus_vere_alleluia"/>
+
+<LB_6 id="LB_Eph2,4-6"/>
+<RB_6 id="VERS_Gavisi_sunt_discipuli_alleluia"/>
+
+<LB_9 id="LB_Rom6,4"/>
+<RB_9 id="VERS_Mane_nobiscum_Domine_alleluia"/>
+
+<ant7 id="AN_Surrexit_Dominus_et_sedet"/>
+<ant8 id="AN_Eripuit_nos_de_potestate"/>
+<ant9 id="AN_Alleluia_regnavit_Dominus_noster"/>
+<LB_soir id="Hebr10,12-14"/>
+<RB_soir id="RB_Surrexit_Dominus_vere"/>
+
+<LEC>
+	<A id="Ac6,1-7"/>
+	<B id="Ac9,26-31"/>
+	<C id="Ac14,21b-27"/>
+</LEC>
+
+
+<LEC_II>
+	<A id="1P2,4-9"/>
+	<B id="1Jn3,18-24"/>
+	<C id="Ap21,1-5a"/>
+</LEC_II>
+<EV>
+	<A id="Jn14,1-12"/>
+	<B id="Jn15,1-8"/>
+	<C id="Jn13,31-33a.34-35"/>
+	</EV>
+	
+		
+<annoA>
+	<IN id="IN_Cantate_Domino"/>
+	<PS1 id="AL_Dextera_Dei"/>
+	<PS2 id="AL_Christus_resurgens"/>
+	<SEQ id=""/>
+	<OF id="OF_Iubilate_Deo_universa_terra"/>
+	<CO id="CO_Tanto_tempore"/>
+	<autre1 id=""/>
+	<autre2 id=""/>
+	<autre3 id=""/>
+	<autre4 id=""/>
+	<autre5 id=""/>
+	<autre6 id=""/>
+	<autre7 id=""/>
+	<autre8 id=""/>
+</annoA>
+
+<annoB>
+	<IN id="IN_Cantate_Domino"/>
+	<PS1 id="AL_Dextera_Dei"/>
+	<PS2 id="AL_Christus_resurgens"/>
+	<SEQ id=""/>
+	<OF id="OF_Iubilate_Deo_universa_terra"/>
+	<CO id="CO_Tanto_tempore"/>
+	<autre1 id=""/><autre2 id=""/>
+	<autre3 id=""/><autre4 id=""/>
+	<autre5 id=""/><autre6 id=""/>
+	<autre7 id=""/><autre8 id=""/>
+	</annoB>
+	
+	<annoC>
+	<IN id="IN_Cantate_Domino"/>
+	<PS1 id="AL_Dextera_Dei"/>
+	<PS2 id="AL_Christus_resurgens"/>
+	<SEQ id=""/>
+	<OF id="OF_Iubilate_Deo_universa_terra"/>
+	<CO id="CO_Ego_sum_vitis_vera"/>
+	<autre1 id=""/><autre2 id=""/>
+	<autre3 id=""/><autre4 id=""/>
+	<autre5 id=""/><autre6 id=""/>
+	<autre7 id=""/><autre8 id=""/>
+	</annoC>
+	
+	<messe><IN id="IN_Cantate_Domino"/><PS1 id="AL_Dextera_Dei"/><LEC2><A id="LEC_1P2,4-9"/><B id="LEC_1Jn3,18-24"/><C id="LEC_Ap21,1-5a"/></LEC2><PS2 id="AL_Christus_resurgens"/><EV><A id="EV_Jn14,1-12"/><B id="EV_Jn15,1-8"/><C id="EV_Jn13,31-33a.34-35"/></EV><EV id="EV_        "/><OF id="OF_Iubilate_Deo_universa_terra"/><CO id="CO_Tanto_tempore"/><PRE id="PRE_Pr&#xE9;facedutempspascal,nn.1-5"/><LEC><A id="LEC_Ac6,1-7"/><B id="LEC_Ac9,26-31"/><C id="LEC_Ac14,21-27"/></LEC><PR><A id="PR_Ps33,1"/><B id="PR_Ps22,26"/><C id="PR_Ps145,8"/></PR></messe></liturgia>

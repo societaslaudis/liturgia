@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XI per annum</la>
+<fr>XI&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+
+<HYMNUS_1V id="hy_Deus_creator_omnium"/>
+ <ps01 id="ps112"/>
+<ps02 id="ps115"/>
+<ps03 id="NT5"/>
+<ant01 id="AN_A_solis_ortu"/>
+<ant02 id="AN_Calicem_salutaris_accipiam"/>
+<ant03 id="AN_Humiliavit_semetipsum_Dominus"/>
+<LB_1V id="LB_Hebr_13_20-21"/>
+<RB_1V id="RB_Quam_magnificata_sunt"/>
+
+<magnificat1_A id="AN_Videns_Iesus_turbas"/>
+<magnificat1_B id="AN_Sic_est_regnum"/>
+<magnificat1_C id="AN_Mulier_quae_erat"/>
+<oratio id="COL_Deus_in_te_sperantium_fortitudo_invocationibus"/>
+<oratio_3 id="COL_Deus_in_te_sperantium_fortitudo_invocationibus"/>
+<oratio_6 id="COL_Deus_in_te_sperantium_fortitudo_invocationibus"/>
+<oratio_9 id="COL_Deus_in_te_sperantium_fortitudo_invocationibus"/>
+
+<benedictus_A id="AN_Duodecim_apostolos_misit"/>
+<benedictus_B id="AN_Simile_est_regnum"/>
+<benedictus_C id="AN_Remissa_sunt_peccata"/>
+<magnificat_A id="AN_Euntes_praedicate_Evangelium"/>
+<magnificat_B id="AN_Multis_parabolis_loquebatur"/>
+<magnificat_C id="AN_Dixit_Iesus_ad"/>
+</liturgia>

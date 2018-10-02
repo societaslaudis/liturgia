@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada IV per annum</la><fr>IV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Thomae de Aquino, presbyteri et Ecclesiae doctoris</la><fr>St Thomas d'Aquin, pr&#xEA;tre et docteur de l'&#xC9;glise</fr></intitule>
+<rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Fontem_sapientiae_Dominum</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps49I</psL1>
+
+<antL2/>
+
+<psL2>ps49II</psL2>
+
+<antL3/>
+
+<psL3>ps49III</psL3>
+
+<LVers/>
+n<Llec1>L1_S._Thomae_de_Aquino_presbyteri_et_Ecclesiae_doctoris</Llec1>
+
+<Lrep1>R1_S._Thomae_de_Aquino_presbyteri_et_Ecclesiae_doctoris</Lrep1>
+
+<Llec2>L2_S._Thomae_de_Aquino_presbyteri_et_Ecclesiae_doctoris</Llec2>
+
+<Lrep2>R2_S._Thomae_de_Aquino_presbyteri_et_Ecclesiae_doctoris</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_4-7-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>S._Thomae_de_Aquino_presbyteri_et_Ecclesiae_doctoris-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Doctor_aeternus_coleris_piusque</HYMNUS_laudes>
+ 
+<ant1>AN_Bonum_est_psallere</ant1>
+ 
+<ps1>ps91</ps1>
+ 
+<ant2>AN_Dabo_vobis_cor</ant2>
+ 
+<ps2>AT38</ps2>
+ 
+<ant3>AN_Ex_ore_infantium</ant3>
+ 
+<ps3>ps8</ps3>
+ 
+<LB_matin>LB_Sap_7_13-14</LB_matin> 
+ 
+<RB_matin>RB_Sapientiam_sanctorum_Narrent_populi</RB_matin>  
+<benedictus>AN_Benedictus_Dominus_pro</benedictus> 
+<laudes_preces>COMMUNE_PASTORUM</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Thomam_sanctitatis_zelo</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Fiat_manus_tua</ant4>
+ 
+<ps4>ps118XXII</ps4>
+ 
+<ant5>AN_Thronus_tuus_Deus</ant5>
+ 
+<ps5>ps44I</ps5>
+ 
+<ant6>AN_Vidi_Ierusalem_novam</ant6>
+ 
+<ps6>ps44II</ps6>
+ 
+<LB_3>LB_Dan_6_27b-28a</LB_3>
+ 
+<RB_3>VERS_Vacate_et</RB_3>
+ 
+<LB_6>LB_Rom_15_5-7</LB_6>
+ 
+<RB_6>VERS_Beneplacitum_est</RB_6>
+ 
+<LB_9>LB_Phil_4_8._9b</LB_9>
+ 
+<RB_9>VERS_Exaltabo_te</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica V per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_Dirigatur_Domine_oratio</ant7>
+ 
+<ps7>ps140</ps7>
+ 
+<ant8>AN_Tu_es_refugium</ant8>
+ 
+<ps8>ps141</ps8>
+ 
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Rom_11_33-36</LB_soir>
+ 
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+ 
+<magnificat>AN_Vos_estis_sal</magnificat>
+ 
+<vepres_preces>COMMUNE_PASTORUM</vepres_preces>
+ 
+<oratio_vepres>COL_Familiam_tuam_quaesumus_Domine_continua_pietate</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Sapientiam_sanctorum</IN>
+<COL>COL_Deus_qui_beatum_Thomam_sanctitatis_zelo</COL>
+<LEC>LEC_Sg7,7-10.15-16</LEC>
+<PS1>GR_Os_iusti</PS1>
+<PS2>AL_Spiritus_Sanctus_docebit</PS2>
+<EV>EV_Mt23,8-12</EV>
+<OF>OF_Meditabor</OF>
+<CO>CO_Notas_mihi_fecisti</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Thomas d'Aquin, pr&#xEA;tre et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>Dominicain, auteur de la Somme th&#xE9;ologique, docteur de l'&#xC9;glise dit ang&#xE9;lique (&#x2020;1274)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 28 janvier</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de saint Thomas d&#x2019;Aquin, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs et docteur de l&#x2019;&#xC9;glise. Dou&#xE9; des plus hautes qualit&#xE9;s intellectuelles, il transmit aux autres, par ses pri&#xE8;res et ses &#xE9;crits, sa sagesse &#xE9;minente. Appel&#xE9; par le pape lui-m&#xEA;me, le bienheureux Gr&#xE9;goire X, au deuxi&#xE8;me Concile g&#xE9;n&#xE9;ral de Lyon, il s&#x2019;y rendait, quand il mourut au monast&#xE8;re de Fossanova dans le Latium, le 7 mars 1274 et, bien des ann&#xE9;es apr&#xE8;s, en 1369, son corps fut transf&#xE9;r&#xE9; &#xE0; Toulouse en ce jour. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de R&#xE9;om&#xE9; sur le territoire de Langres, vers 554, saint Jean, pr&#xEA;tre, tout d&#xE9;vou&#xE9; &#xE0; Dieu, qui rassembla des moines sous la R&#xE8;gle de saint Macaire. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Jacques, ermite en Palestine au VIe si&#xE8;cle, qui se cacha longtemps dans un tombeau pour faire p&#xE9;nitence. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cuenca en Espagne, vers 1207, saint Julien, &#xE9;v&#xEA;que. Second titulaire de la ville apr&#xE8;s sa reconqu&#xEA;te sur les Maures, il fit l&#x2019;admiration de tous, en distribuant aux pauvres tous les revenus de son &#xE9;v&#xEA;ch&#xE9; et en gagnant son pain par le travail de ses mains. </para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Saint-Fridien pr&#xE8;s de Pise en Toscane, l&#x2019;an&#xA0;1224, le bienheureux Barth&#xE9;lemy Aiutamicristo, religieux de l&#x2019;Ordre des Camaldules.</para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pl&#xE9;vin en Bretagne, l&#x2019;an&#xA0;1684, le bienheureux Julien Maunoir, pr&#xEA;tre de la Compagnie de J&#xE9;sus, qui se consacra tout entier pendant quarante-deux ans aux missions dans les bourgs et les villes de la province. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Maokou, dans la province chinoise de Guizhou, en 1858, les saints martyrs Agathe Lin Zhao, vierge, J&#xE9;r&#xF4;me Lu Tingmei et Laurent Wang Bing. Cat&#xE9;chistes, ils furent d&#xE9;nonc&#xE9;s comme chr&#xE9;tiens sous l&#x2019;empereur Wenzongxian et enfin d&#xE9;capit&#xE9;s. </para><para>8. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Daijiazhuang, dans la province de Shandong, en Chine, l&#x2019;an&#xA0;1908, saint Joseph Freinademetz, pr&#xEA;tre de la Soci&#xE9;t&#xE9; du Verbe divin, qui travailla sans rel&#xE2;che &#xE0; l&#x2019;&#x153;uvre de l&#x2019;&#xE9;vang&#xE9;lisation de cette r&#xE9;gion. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Picassent dans la r&#xE9;gion de Valence en Espagne, l&#x2019;an&#xA0;1937, la bienheureuse Marie-Louise Montesimos Ordu&#xF1;a, vierge et martyre. Membre de l&#x2019;action catholique ouvri&#xE8;re, elle fut ex&#xE9;cut&#xE9;e avec son p&#xE8;re, ses trois fr&#xE8;res et son oncle dans la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile espagnole.</para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; Au camp de d&#xE9;tention de Kharsk pr&#xE8;s de Tomsk en Sib&#xE9;rie, l&#x2019;an&#xA0;1952, la bienheureuse Olympie (Olga Bida), vierge, de la Congr&#xE9;gation des S&#x153;urs de Saint-Joseph, et martyre, qui supporta, pour l&#x2019;amour du Christ, toutes les adversit&#xE9;s inflig&#xE9;es par le r&#xE9;gime communiste sovi&#xE9;tique. </para><para>**. En Italie, en 1930, le bienheureux Mo&#xEF;se Tovini, pr&#xEA;tre, professeur au s&#xE9;minaire de Brescia dont il deviendra sup&#xE9;rieur. Il fut le professeur de Paul VI. (b&#xE9;atifi&#xE9; le 17 septembre 2006 par Bebo&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

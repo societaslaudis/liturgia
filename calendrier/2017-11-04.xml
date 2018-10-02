@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXX per annum</la><fr>XXX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Caroli Borromeo, episcopi</la><fr>St Charles Borrom&#xE9;e, &#xE9;v&#xEA;que</fr></intitule>
+<rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Audiamus_vocem_Domini</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps135I</psL1>
+
+<antL2/>
+
+<psL2>ps135II</psL2>
+
+<antL3/>
+
+<psL3>ps135III</psL3>
+
+<LVers/>
+n<Llec1>L1_S._Caroli_Borromeo_episcopi</Llec1>
+
+<Lrep1>R1_S._Caroli_Borromeo_episcopi</Lrep1>
+
+<Llec2>L2_S._Caroli_Borromeo_episcopi</Llec2>
+
+<Lrep2>R2_S._Caroli_Borromeo_episcopi</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Inclitus_rector_pater_atque_prudens</HYMNUS_laudes>
+ 
+<ant1>AN_Annuntiamus_mane_misericordiam</ant1>
+ 
+<ps1>ps91</ps1>
+ 
+<ant2>AN_Date_magnificentiam_Deo</ant2>
+ 
+<ps2>AT2</ps2>
+ 
+<ant3>AN_Quam_admirabile_est</ant3>
+ 
+<ps3>ps8</ps3>
+ 
+<LB_matin>LB_Hebr_13_7-9a</LB_matin> 
+ 
+<RB_matin>RB_Super_te_Ierusalem_Constitui</RB_matin>  
+<benedictus>AN_Non_vos_estis</benedictus> 
+<laudes_preces>perannum_27</laudes_preces><oratio_laudes>COL_Custodi_quaesumus_Domine_in_populo_tuo</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Caelum_et_terra</ant4>
+ 
+<ps4>ps118XI</ps4>
+ 
+<ant5>AN_Tu_Domine_spes</ant5>
+ 
+<ps5>ps60</ps5>
+ 
+<ant6>AN_A_timore_inimici</ant6>
+ 
+<ps6>ps63</ps6>
+ 
+<LB_3>LB_Deut_8_5b-6</LB_3>
+ 
+<RB_3>VERS_Timor_Domini</RB_3>
+ 
+<LB_6>LB_1_Reg_2_2b-3</LB_6>
+ 
+<RB_6>VERS_Deduc_me</RB_6>
+ 
+<LB_9>LB_Ier_6_16</LB_9>
+ 
+<RB_9>VERS_Hereditas_mea</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica XXXI per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_A_solis_ortu</ant7>
+ 
+<ps7>ps112</ps7>
+ 
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+ 
+<ps8>ps115</ps8>
+ 
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Hebr_13_20-21</LB_soir>
+ 
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+ 
+<magnificat>AN_Omnes_vos_fratres</magnificat>
+ 
+<vepres_preces>perannum_27</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_et_misericors_Deus_de_cuius</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Statuit_ei_Dominus</IN>
+<COL>COL_Custodi_quaesumus_Domine_in_populo_tuo</COL>
+<LEC>LEC_Rm12,3-13</LEC>
+<PS1>GR_Ecce_sacerdos</PS1>
+<PS2>AL_Tu_es_sacerdos</PS2>
+<EV>EV_Jn10,11-16</EV>
+<OF>OF_Inveni_David</OF>
+<CO>CO_Fidelis_servus</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Charles Borrom&#xE9;e, &#xE9;v&#xEA;que</intitule>
+ <biographiecourte>Archev&#xEA;que de Milan, d'une charit&#xE9; exemplaire, il r&#xE9;pandit dans son dioc&#xE8;se la contre-r&#xE9;forme (&#x2020;1584)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 4 novembre</para><para>1. M&#xE9;moire de saint Charles Borrom&#xE9;e, &#xE9;v&#xEA;que. Nomm&#xE9; par son oncle, le pape Pie IV, cardinal et archev&#xEA;que de Milan, il se montra sur ce si&#xE8;ge un vrai pasteur, attentif aux besoins de l&#x2019;&#xC9;glise de son temps. Pour la formation de son clerg&#xE9;, il r&#xE9;unit des synodes et fonda des s&#xE9;minaires&#xA0;; pour favoriser la vie chr&#xE9;tienne, il visita plusieurs fois tout son troupeau et les dioc&#xE8;ses suffragants et prit beaucoup de dispositions pour le salut des &#xE2;mes. Il s&#x2019;en alla la veille de ce jour &#xE0; la patrie du ciel, en 1584. </para><para>2. &#xC0; Bologne en &#xC9;milie, les saints Vital et Agricole, martyrs. Selon le r&#xE9;cit de saint Ambroise, Vital qui &#xE9;tait l&#x2019;esclave d&#x2019;Agricola, fut aussi son compagnon de martyre et partagea son sort. Il subit tous les genres de supplices au point qu&#x2019;il n&#x2019;avait plus sur son corps un endroit sans blessure&#xA0;; Agricola, que le supplice de son esclave ne sut effrayer, imita son martyre en &#xE9;tant crucifi&#xE9;. </para><para>3. &#xC0; Myre en Lycie, les saints martyrs Nicandre, &#xE9;v&#xEA;que, et Herm&#xE8;s, pr&#xEA;tre, au IVe si&#xE8;cle. </para><para>4. Comm&#xE9;moraison de saint Pi&#xE9;rius, pr&#xEA;tre d&#x2019;Alexandrie. Illustre comme philosophe, mais plus encore par l&#x2019;int&#xE9;grit&#xE9; de sa vie et sa pauvret&#xE9; volontaire, il enseigna parfaitement au peuple les divines &#xC9;critures, alors que saint Th&#xE9;onas gouvernait l&#x2019;&#xC9;glise d&#x2019;Alexandrie et, apr&#xE8;s la pers&#xE9;cution, il s&#x2019;endormit dans la paix au d&#xE9;but du IVe si&#xE8;cle. </para><para>5. &#xC0; Rodez, au Ve si&#xE8;cle, saint Amand &#xE9;v&#xEA;que, qui fut, croit-on, le premier &#xE9;v&#xEA;que de cette cit&#xE9;. </para><para>6*. Dans la r&#xE9;gion de Maastricht dans le Brabant, peut-&#xEA;tre au VIIe si&#xE8;cle, saint Perp&#xE8;te, &#xE9;v&#xEA;que. </para><para>7. &#xC0; Tr&#xE8;ves en Rh&#xE9;nanie, apr&#xE8;s 649, sainte Modeste, abbesse. Consacr&#xE9;e &#xE0; Dieu d&#xE8;s son enfance, elle devint la premi&#xE8;re abbesse du monast&#xE8;re d&#x2019;&#xD6;hren dans la cit&#xE9; et fut li&#xE9;e &#xE0; sainte Gertrude de Nivelles dans une extr&#xEA;me familiarit&#xE9; avec Dieu. </para><para>8. &#xC0; Albe-Royale en Pannonie, l&#x2019;an&#xA0;1031, la mise au tombeau de saint Emeric ou Henri, fils de saint &#xC9;tienne, roi de Hongrie, mort pr&#xE9;matur&#xE9;ment. </para><para>9*. &#xC0; Padoue en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1251, la bienheureuse H&#xE9;l&#xE8;ne Enselmini, vierge clarisse, qui supporta avec une patience admirable de multiples douleurs, jusqu&#x2019;&#xE0; la perte de la parole. </para><para>10*. &#xC0; Cerfroid sur le territoire de Meaux, au XIIe ou XIIIe si&#xE8;cle, saint F&#xE9;lix de Valois, ermite, qui aurait &#xE9;t&#xE9; le compagnon de saint Jean de Matha dans la fondation des l&#x2019;Ordre de la Tr&#xE8;s Sainte Trinit&#xE9; pour la r&#xE9;demption des captifs. </para><para>11*. Dans le pays nantais, en 1485, la bienheureuse Fran&#xE7;oise d&#x2019;Amboise, duchesse de Bretagne, qui fonda &#xE0; Vannes le premier carmel f&#xE9;minin de France et, une fois veuve, s&#x2019;y retira, simple servante du Christ. Elle mourut pieusement, en 1485, aux Cou&#xEB;ts pr&#xE8;s de Nantes, o&#xF9; le couvent de Vannes avait &#xE9;t&#xE9; transf&#xE9;r&#xE9;. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

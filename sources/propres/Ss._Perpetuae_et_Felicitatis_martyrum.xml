@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 7 martii</la>
+<fr>Le 7 mars</fr>
+</jour>
+<intitule>
+<la>SS. PERPETU&#xC6; ET FELICITATIS, MARTYRUM</la>
+<fr>Stes PERPETUE ET FELICITE, MARTYRES</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_martyrum_Dominum"/>
+<HYMNUS_laudes id="hy_Aterna_Christi_munera"/>
+<LB_matin id="LB_2_Cor_1_3-5"/>
+<RB_matin id="RB_Iusti_autem_In_perpetuum"/>
+<benedictus id="AN_Beati_qui_persecutionem"/>
+
+<oratio id="COL_Deus_cuius_urgente_caritate_beatae_martyres"/>
+<HYMNUS_vesperas id="hy_Sanctorum_meritis_inclita_gaudia"/>
+<LB_soir id="LB_1_Petr_4_13-14"/>
+<RB_soir id="RB_Laetamini_in_Domino_Et"/>
+<magnificat id="AN_Gaudent_in_caelis"/>
+<messe>
+<EV id="EV_Mt10,34-39"/>
+<IN id="IN_Iusti_epulentur"/>
+<COL id="COL_Deus_cuius_urgente_caritate_beatae_martyres"/>
+<PS1 id="GR_Anima_nostra"/>
+<PS2 id="AL_Te_martyrum"/>
+<OF id="OF_Afferentur_proximae"/>
+<CO id="CO_Dico_autem_vobis"/>
+</messe>
+</liturgia>

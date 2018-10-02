@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 11 iulii</la>
+<fr>Le 11 juillet</fr>
+</jour>
+<intitule>
+<la>S. BENEDICTI, ABBATIS, PATRONI EUROPAE</la>
+<fr>S. BENOIT, ABBE, PATRON DE L'EUROPE</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+
+<ant_invit id="INV_Mirabilem_Deum_in"/>
+<HYMNUS_lectures id="HY_Inter_aeternas_superum_coronas"/>
+<HYMNUS_lec_jour id=""/>
+
+
+<HYMNUS_laudes id="hy_Legifer_prudens_venerande_doctor"/>
+<ant1 id="AN_Dedit_illis_Dominus_claritatem"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Servi_Domini_Dominum"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Exsultabunt_sancti_in_gloria_laetabuntur"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Rom_12_1-2"/>
+<RB_matin id="RB_Lex_Dei_eius_In"/>
+<benedictus id="AN_Fuit_vir_vitae"/>
+<preces id="SANCTORUM_VIRORUM"/>
+<oratio id="COL_Deus_qui_beatum_Benedictum_abbatem_in"/>
+
+<ant4 id="AN_Qui_servat_verbum_Christi"/>
+<LB_3 id="LB_Gal 6, 7 b-8"/>
+<RB_3 id="VERS_Diriget_Dominus_mansuetos"/>
+<oratio_3 id="COL_Deus_qui_beatum_Benedictum_abbatem_in"/>
+
+<ant5 id="AN_Qui_facit_voluntatem_Patris"/>
+<LB_6 id="LB_1 Cor9,26-27a"/>
+<RB_6 id="VERS_Beatus_homo_quem_tu"/>
+<oratio_6 id="COL_Deus_qui_beatum_Benedictum_abbatem_in"/>
+<ant6 id="AN_Oculus_non_vidit_Deus"/>
+<LB_9 id="LB_Phil4,8.9b"/>
+<RB_9 id="VERS_Laetentur_omnes_qui"/>
+<oratio_9 id="COL_Deus_qui_beatum_Benedictum_abbatem_in"/>
+
+
+<HYMNUS_vesperas id="hy_Inter_aeternas_superum_coronas"/>
+<ant7 id="AN_Inventus_est_sine"/>
+<ps7 id="ps14"/>
+<ant8 id="AN_Gratia_Dei_et_misericordia"/>
+<ps8 id="ps111"/>
+<ant9 id="AN_Cantabant_sancti_canticum_novum"/>
+<ps9 id="NT11"/>
+<LB_soir id="LB_Rom_8_28-30"/>
+<RB_soir id="RB_Iustus_Dominus_Et_iustitiam"/>
+<magnificat id="AN_Hic_accepit_benedictionem"/>
+
+<messe>
+<EV id="EV_Mt19,27-29"/>
+<LEC id="LEC_Pr2,1-9"/>
+<IN id="IN_Os_iusti"/>
+<COL id="COL_Deus_qui_beatum_Benedictum_abbatem_in"/>
+<PS1 id="GR_Domine_praevenisti_eum"/>
+<PS2 id="AL_Iustus_ut_palma"/>
+<OF id="OF_Desiderium_animae_eius"/>
+<CO id="CO_Fidelis_servus"/>
+
+<SO id="SO_S. BENEDICTI,_ABBATIS,_PATRONI_EUROPAE"/>
+<PRE id="PRE_I_DE_SANCTIS"/>
+<PRE id="PRE_II_DE_SANCTIS"/>
+<PC id="PC_S._BENEDICTI,_ABBATIS,_PATRONI_EUROPAE"/>
+<IN_L id="IN_L_S. BENEDICTI, ABBATIS, PATRONI EUROPAE"/>
+<PR id="PR_Ps33,2-3.4-5.6-7.8-9.Io-II,n.739,5"/>
+<PS2_L id="AL_Mt5,3,n.74I,1"/>
+<CO_L id="CO_L_S. BENEDICTI, ABBATIS, PATRONI EUROPAE"/>
+
+</messe>
+
+</liturgia>

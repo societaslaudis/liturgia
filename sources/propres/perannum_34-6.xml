@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<liturgia>
+<HYMNUS_lectures id="hy_Dies_irae_dies_illa"/>
+ <HYMNUS_vesperas id="hy_Quid_sum_miser_tunc_dicturus"/>
+<HYMNUS_laudes id="hy_Peccatricem_qui_solvisti"/>
+	
+	
+		<messe><IN id="IN_Loquetur_Dominus_pacem"/><COL id="COL_perannum_34"/><PS1 id=""/><PS2 id="AL_Benedictus_es_Domine"/><OF id="OF_Bonum_est_confiteri"/><SO id="SO_perannum_34"/><CO id="CO_Ierusalem_quae_aedificatur"/><PC id="PC_perannum_34"/><IN_L id="IN_L_perannum_34"/><CO_L id="CO_L_perannum_34"/></messe></liturgia>

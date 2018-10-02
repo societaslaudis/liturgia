@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>DIE 2 IANUARII</la>
+<fr>LE 2 JANVIER</fr>
+</jour>
+<ant_invit id="INV_Christus_natus_est"/>
+<HYMNUS_laudes id="hy_A_solis_ortus_cardine"/>
+<LB_matin id="LB_Is_49_8b-9a"/>
+<RB_matin id="RB_Notum_fecit_Dominus_Alleluia"/>
+<benedictus id="AN_In_praesepio_iacebat"/>
+<oratio id="COL_Da_quaesumus_Domine_populo_tuo_inviolabilem"/>
+<oratio_3 id="COL_Da_quaesumus_Domine_populo_tuo_inviolabilem"/>
+<oratio_6 id="COL_Da_quaesumus_Domine_populo_tuo_inviolabilem"/>
+<oratio_9 id="COL_Da_quaesumus_Domine_populo_tuo_inviolabilem"/>
+
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<ant4 id="AN_Erant_Ioseph_et"/>
+<LB_3 id="LB_1_Tim_1_15"/>
+<RB_3 id="VERS_Recordatus_est_Dominus_misericordiae_suae"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<ant5 id="AN_Maria_autem_conservabat"/>
+<LB_6 id="LB_Ap_21_23-24"/>
+<RB_6 id="VERS_Viderunt_omnes_fines_terrae_alleluia"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant6 id="AN_Viderunt_oculi_mei"/>
+<LB_9 id="LB_1_Io_1_5"/>
+<RB_9 id="VERS_Misericordia_et_veritas_obviaverunt_sibi"/>
+<messe> 
+<IN id="IN_Dum_medium_silentium"/>
+<PS1 id="GR_Speciosus"/>
+<PS2 id="AL_Dominus_regnavit_decorem"/>
+<OF id="OF_Benedic_anima_mea"/>
+<CO id="CO_Domine_Deus_noster"/>
+<LEC id="LEC_1Jn2,22-28"/>
+<PR id="PR_Ps98,1"/>
+<EV id="EV_Jn1,19-28"/>
+</messe>
+</liturgia>

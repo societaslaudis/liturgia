@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 20 septembris</la>
+<fr>Le 20 septembre</fr>
+</jour>
+<intitule>
+<la>SS. ANDRE&#xC6; KIM TAEG&#xD5;N, PRESBYTERI ET PAULI CH&#xD5;NG HASANG, ET SOCIORUM, MARTYRUM</la>
+<fr>Sts ANDRE KIM TAEG&#xD5;N, PRETRE ET PAUL CH&#xD5;NG HASANG, ET LEURS COMPAGNONS, MARTYRS</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_martyrum_Dominum"/>
+<HYMNUS_laudes id="hy_Aterna_Christi_munera"/>
+<LB_matin id="LB_2_Cor_1_3-5"/>
+<RB_matin id="RB_Iusti_autem_In_perpetuum"/>
+<benedictus id="AN_Beati_qui_persecutionem"/>
+<oratio id="COL_Deus_omnium_gentium_creator_et_salus"/>
+<HYMNUS_vesperas id="hy_Sanctorum_meritis_inclita_gaudia"/>
+<LB_soir id="LB_1_Petr_4_13-14"/>
+<RB_soir id="RB_Laetamini_in_Domino_Et"/>
+<magnificat id="AN_Gaudent_in_caelis"/>
+
+<messe>
+<IN id="IN_Iusti_epulentur"/>
+<COL id="COL_Deus_omnium_gentium_creator_et_salus"/>
+<PS1 id="GR_Gloriosus_Deus"/>
+<PS2 id="AL_Iustorum_animae"/>
+<OF id="OF_Anima_nostra"/>
+<CO id="CO_Dico_autem_vobis"/>
+</messe>
+</liturgia>

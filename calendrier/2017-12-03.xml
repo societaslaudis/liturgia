@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>2</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Adventus</la><fr>Temps de l'Avent</fr></tempus>
+<hebdomada><la>Hebdomada I Adventus</la><fr>I&#xE8;re semaine de l'Avent</fr></hebdomada>
+<intitule><la>Dominica I Adventus</la><fr>Ier dimanche de l'Avent</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_venturum_Dominum</invitatoire>
+
+<HYMNUS_lectures>HY_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>HY_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Lignum_vitae_in</antL1>
+
+<psL1>ps1</psL1>
+
+<antL2>AN_Ego_constitui_Regem</antL2>
+
+<psL2>ps2</psL2>
+
+<antL3>AN_Tu_Domine_protector</antL3>
+
+<psL3>ps3</psL3>
+
+<LVers>VERS_Verbum_Christi</LVers>
+n<Llec1>L1_Dominica_I_Adventus</Llec1>
+
+<Lrep1>R1_Dominica_I_Adventus</Lrep1>
+
+<Llec2>L2_Dominica_I_Adventus</Llec2>
+
+<Lrep2>R2_Dominica_I_Adventus</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>adventus_11-NOCT1-2</LEC_NOCT1>
+
+<LEC_NOCT3>adventus_11-NOCT3-B</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Vox_clara_ecce_intonat</HYMNUS_laudes>
+ 
+<ant1>AN_In_illa_die</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Montes_et_colles</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Ecce_veniet_Propheta</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Rom_13_11-12</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi_</RB_matin>  
+<benedictus>AN_Vigilate_ergo_nescitis</benedictus> 
+<laudes_preces>perannum_11</laudes_preces><oratio_laudes>COL_Da_quaesumus_omnipotens_Deus_hanc_tuis</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Bonum_est_confugere</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Fortitudo_mea_et</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Confitebor_tibi_Domine</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_I_Io4.16</LB_3>
+ 
+<RB_3>VERS_Inclina_cor</RB_3>
+ 
+<LB_6>LB_Gal6.7-8</LB_6>
+ 
+<RB_6>VERS_In_aeternum</RB_6>
+ 
+<LB_9>LB_CfGal6,9-10</LB_9>
+ 
+<RB_9>VERS_Clamavi_in</RB_9>
+ 
+<oratio_3>COL_Da_quaesumus_omnipotens_Deus_hanc_tuis</oratio_3>
+ 
+<oratio_6>COL_Da_quaesumus_omnipotens_Deus_hanc_tuis</oratio_6>
+ 
+<oratio_9>COL_Da_quaesumus_omnipotens_Deus_hanc_tuis</oratio_9>
+ 
+<intitule_soir><la>Dominica I Adventus</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Conditor_alme_siderum</HYMNUS_vepres>
+ 
+<ant7>AN_Iucundare_filia_Sion</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Rex_noster_adveniet</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Ecce_venio_cito</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Phil4,4-5</LB_soir>
+ 
+<RB_soir>RB_Ostende_nobis_Domine_Misericordiam</RB_soir>
+ 
+<magnificat>AN_Ne_timeas_Maria</magnificat>
+ 
+<vepres_preces>perannum_11</vepres_preces>
+ 
+<oratio_vepres>COL_Da_quaesumus_omnipotens_Deus_hanc_tuis</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Ad_te_levavi</IN>
+<COL>COL_Da_quaesumus_omnipotens_Deus_hanc_tuis</COL>
+<LEC>LEC_Is63,16-17,19.64,2-7</LEC>
+<PS1>GR_Universi_qui_te_exspectant</PS1>
+<LEC2>LEC_1Co1,3-9</LEC2>
+
+<PS2>AL_Ostende_nobis</PS2>
+<EV>EV_Mc13,33-37</EV>
+<OF>OF_Ad_te_Domine_levavi</OF>
+<PRE>PRE_Pr&#xE9;facedel'Aventn1.</PRE>
+<CO>CO_Dominus_dabit_benignitatem</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Allumer la 1&#xE9;re des quatre bougies de l'Avent</intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Fran&#xE7;ois-Xavier, pr&#xEA;tre</intitule>
+ <biographiecourte>Un des premiers compagnons de St Ignace de Loyola, missionnaire en Inde et au Japon (&#x2020;1552)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Premier dimanche de l&#x2019;Avent</para><para>Le premier dimanche de l&#x2019;Avent de notre Seigneur J&#xE9;sus Christ, temps au cours duquel nous nous souvenons de la premi&#xE8;re venue du Fils de Dieu parmi les hommes, et o&#xF9; nous attendons Sa seconde venue &#xE0; la fin des temps.</para><para>
+            Le 3 d&#xE9;cembre</para><para>1. M&#xE9;moire de saint Fran&#xE7;ois Xavier, pr&#xEA;tre de la Compagnie de J&#xE9;sus, &#xE9;vang&#xE9;lisateur des Indes. N&#xE9; en Navarre, il fut &#xE0; Paris l&#x2019;un des premiers compagnons de saint Ignace. Pouss&#xE9; par l&#x2019;ardeur de r&#xE9;pandre l&#x2019;&#xC9;vangile, il se d&#xE9;pensa sans compter pour annoncer le Christ &#xE0; des peuples innombrables en Inde, dans les Molusques et d&#x2019;autres &#xEE;les, et de l&#xE0; au Japon, convertissant beaucoup &#xE0; la foi. Enfin, consum&#xE9; par la maladie et les travaux, il mourut sur l&#x2019;&#xEE;le de Sancian, aux portes de la Chine, en 1552.</para><para>2. Comm&#xE9;moraison de saint Sophrone, proph&#xE8;te, qui, vers 630 avant le Christ, aux jours de Josias, roi de Juda, annon&#xE7;a la ruine des impies au jour de la col&#xE8;re du Seigneur et r&#xE9;conforta les pauvres dans l&#x2019;esp&#xE9;rance du salut. </para><para>3. &#xC0; Tanger en Maur&#xE9;tanie, au IIIe ou IVe si&#xE8;cle, saint Cassien, martyr. </para><para>4. &#xC0; Dorchester en Angleterre, vers 650, saint Birin, &#xE9;v&#xEA;que. Envoy&#xE9; par le pape Honorius Ier dans l&#x2019;int&#xE9;rieur de la Grande Bretagne, il &#xE9;tablit son si&#xE8;ge &#xE0; Dorchester et se d&#xE9;pensa sans compter pour r&#xE9;pandre l&#x2019;annonce du salut au peuple des Saxons de l&#x2019;ouest. </para><para>5. &#xC0; Coire en Suisse, peut-&#xEA;tre au VIIe si&#xE8;cle, saint Lucius, ermite. </para><para>6*. &#xC0; Londres, en 1678, le bienheureux &#xC9;douard Coleman, martyr. Fils d&#x2019;un ministre anglican, il embrassa la foi catholique et fut accus&#xE9; faussement d&#x2019;un pr&#xE9;tendu complot contre le roi Charles II. Condamn&#xE9; &#xE0; mort, il fut pendu au gibet de Tyburn et &#xE9;ventr&#xE9; alors qu&#x2019;il vivait encore. </para><para>7*. &#xC0; Trente en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1860, le bienheureux Jean-N&#xE9;pomuc&#xE8;ne de Tschiderer, &#xE9;v&#xEA;que. Il gouverna son &#xC9;glise avec une ardeur de foi tout &#xE9;vang&#xE9;lique et avec douceur et, &#xE0; une p&#xE9;riode d&#x2019;affliction, il donna un admirable t&#xE9;moignage d&#x2019;amour pour son peuple. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

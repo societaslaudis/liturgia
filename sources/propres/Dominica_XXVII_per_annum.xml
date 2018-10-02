@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXVII per annum</la>
+<fr>XXVII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+
+<HYMNUS_1V id="hy_Deus_creator_omnium"/>
+ <ps01 id="ps112"/>
+<ps02 id="ps115"/>
+<ps03 id="NT5"/>
+<ant01 id="AN_A_solis_ortu"/>
+<ant02 id="AN_Calicem_salutaris_accipiam"/>
+<ant03 id="AN_Humiliavit_semetipsum_Dominus"/>
+<LB_1V id="LB_Hebr_13_20-21"/>
+<RB_1V id="RB_Quam_magnificata_sunt"/>
+
+
+<magnificat1_A id="AN_Cum_tempus_fructuum"/>
+<magnificat1_B id="AN_Accedentes_pharisaei_interrogabant"/>
+<magnificat1_C id="AN_Dixerunt_apostoli_Domino"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_qui_abundantia_pietatis"/>
+<oratio_3 id="COL_Omnipotens_sempiterne_Deus_qui_abundantia_pietatis"/>
+<oratio_6 id="COL_Omnipotens_sempiterne_Deus_qui_abundantia_pietatis"/>
+<oratio_9 id="COL_Omnipotens_sempiterne_Deus_qui_abundantia_pietatis"/>
+
+<benedictus_A id="AN_Dominus_vineae_malos"/>
+<benedictus_B id="AN_Sinite_parvulos"/>
+<benedictus_C id="AN_Si_haberetis_fidem"/>
+<magnificat_A id="AN_Lapidem_quem_reprobaverunt"/>
+<magnificat_B id="AN_Amen_dico_vobis"/>
+<magnificat_C id="AN_Cum_feceritis_omnia"/>
+</liturgia>

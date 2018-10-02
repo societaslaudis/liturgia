@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica III Quadragesimae</la>
+<fr>III&#xB0; dimanche de Car&#xEA;me</fr>
+</intitule>
+<HYMNUS_1V id="hy_Audi_benigne_Conditor"/>
+<ant01 id="AN_Paenitemini_et_credite"/>
+<ant02 id="AN_Sacrificabo_hostiam_laudis"/>
+<ant03 id="AN_Nemo_tollit_a_me"/>
+<LB_1V id="LB_2Cor6,1-4a"/>
+<RB_1V id="RB_Att&#xE9;nde_Domine_et_miserere"/>
+<magnificat1_A id="AN_Dicit_Dominus_Si_quis_biberit_aquam_quam"/>
+<magnificat1_B id="AN_Dixit_Iesus_Auferte_ista_hinc_Nolite"/>
+<magnificat1_C id="AN_Dico_vobis_Nisi_paenitentiam_egeritis"/>
+
+<HYMNUS_vesperas id="hy_Audi_benigne_Conditor"/>
+<ant7 id="AN_Paenitemini_et_credite"/>
+<ant8 id="AN_Sacrificabo_hostiam_laudis"/>
+<ant9 id="AN_Nemo_tollit_a"/>
+<LB_soir id="LB_2_Cor_6_1-4a"/>
+<RB_soir id="RB_Attende_Domine_et_miserere_Quia"/>
+<magnificat1_A id="AN_Rabbi_quis_peccavit"/>
+<magnificat1_A id="AN_Dicit_Dominus_Si"/>
+<magnificat1_B id="AN_Dixit_Iesus_Auferte"/>
+<magnificat1_C id="AN_Dico_vobis_Nisi"/>
+<oratio id="COL_Deus_omnium_misericordiarum_et_totius_bonitatis"/>
+<oratio3 id="COL_Deus_omnium_misericordiarum_et_totius_bonitatis"/>
+<oratio6 id="COL_Deus_omnium_misericordiarum_et_totius_bonitatis"/>
+<oratio9 id="COL_Deus_omnium_misericordiarum_et_totius_bonitatis"/>
+<benedictus_A id="AN_Venit_hora_et"/>
+<benedictus_B id="AN_Solvite_templum_hoc"/>
+<benedictus_C id="AN_Iustificati_ex_fide"/>
+<magnificat_A id="AN_Multo_plures_crediderunt"/>
+<magnificat_B id="AN_Cum_esset_Iesus"/>
+<magnificat_C id="AN_Domine_dimitte_illam"/>
+</liturgia>

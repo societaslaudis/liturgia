@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<liturgia>
+	<messe>
+	<EV id="EV_Mt5,13-19"/>
+	<LEC id="LEC_2Tm4,1-5"/>
+	<IN id="IN_Lex_Domini"/>
+	<PS1 id="GR_Os_iusti"/>
+	<PS2 id="AL_Beatus_vir_qui_timet"/>
+	<OF id="OF_Meditabor"/>
+	<CO id="CO_Quod_dico_vobis"/>
+	 </messe>
+</liturgia>

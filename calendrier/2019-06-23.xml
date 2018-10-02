@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>3</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XII per annum</la><fr>XII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>SS.MI CORPORIS ET SANGUINIS CHRISTI</la><fr>TRES SAINT CORPS ET SANG DU CHRIST</fr></intitule>
+<rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Panem_vitae_Christum</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1/>
+
+<antL2/>
+
+<psL2/>
+
+<antL3/>
+
+<psL3/>
+
+<LVers/>
+n<Llec1>L1_SS.MI_CORPORIS_ET_SANGUINIS_CHRISTI</Llec1>
+
+<Lrep1>R1_SS.MI_CORPORIS_ET_SANGUINIS_CHRISTI</Lrep1>
+
+<Llec2>L2_SS.MI_CORPORIS_ET_SANGUINIS_CHRISTI</Llec2>
+
+<Lrep2>R2_SS.MI_CORPORIS_ET_SANGUINIS_CHRISTI</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>SS._MI_CORPORIS_ET_SANGUINIS_CHRISTI-NOCT1</LEC_NOCT1>
+
+<LEC_NOCT2>SS._MI_CORPORIS_ET_SANGUINIS_CHRISTI-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>SS._MI_CORPORIS_ET_SANGUINIS_CHRISTI-NOCT3-C</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Verbum_supernum_prodiens</HYMNUS_laudes>
+ 
+<ant1>AN_Angelorum_esca_nutrivisti</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Sacerdotes_sancti_incensum</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Vincenti_dabo_manna</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Mal_1_11</LB_matin> 
+ 
+<RB_matin>RB_Educas_panem_de_terra_Alleluia</RB_matin>  
+<benedictus>AN_Ego_sum_panis</benedictus> 
+<laudes_preces>perannum_41</laudes_preces><oratio_laudes>COL_Deus_qui_nobis_sub_sacramento_mirabili</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Desiderio_desideravi_hoc</ant4>
+ 
+<ps4>ps122</ps4>
+ 
+<ant5>AN_Cenantibus_illis_accepit</ant5>
+ 
+<ps5>ps123</ps5>
+ 
+<ant6>AN_Cognoverunt_Dominum_Iesum</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_Sap_16_20</LB_3>
+ 
+<RB_3>VERS_Introibo_ad_altare_Dei_alleluia</RB_3>
+ 
+<LB_6>LB_Prov_9_1-2</LB_6>
+ 
+<RB_6>VERS_Panem_de_caelo_praestitisti_eis</RB_6>
+ 
+<LB_9>LB_Act_2_42._47a</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3/>
+ 
+<oratio_6/>
+ 
+<oratio_9/>
+ 
+<intitule_soir><la>SS.MI CORPORIS ET SANGUINIS CHRISTI</la></intitule_soir>
+ 
+<rang_soir><la>Sollemnitas</la></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Pange_lingua_gloriosi</HYMNUS_vepres>
+ 
+<ant7>AN_Sacerdos_in_aeternum</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+ 
+<ps8>ps115</ps8>
+ 
+<ant9>AN_Tu_es_via</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_1_Cor_11_23-25</LB_soir>
+ 
+<RB_soir>RB_Panem_caeli_dedit_eis_Alleluia</RB_soir>
+ 
+<magnificat>AN_O_sacrum_convivium</magnificat>
+ 
+<vepres_preces>perannum_41</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_nobis_sub_sacramento_mirabili</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+	 
+<comp_ps1>ps4</comp_ps1>
+	 
+<comp_ant2>AN_In_noctibus</comp_ant2>
+	 
+<comp_ps2>ps133</comp_ps2>
+	 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+	 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	 
+<comp_AM>AM_Sub_tuum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Cibavit_eos</IN>
+<LEC>LEC_Gn14,18-20</LEC>
+<PS1>GR_Oculi_omnium</PS1>
+<LEC2>LEC_1Co11,23-26</LEC2>
+
+<PS2>AL_Caro_mea</PS2>
+<EV>EV_Lc9,11b-17</EV>
+<OF>OF_Portas_caeli</OF>
+<CO>CO_Qui_manducat</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Audrey</intitule>
+ <biographiecourte>Veuve puis religieuse, elle fonda l'abbaye d'Ely en Angleterre, o&#xF9; elle mena une vie tr&#xE8;s aust&#xE8;re (&#x2020;679)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Solennit&#xE9; du Corps et du sang du Christ</para><para>Solennit&#xE9; des tr&#xE8;s Saints Corps et Sang du Christ, dont la nourriture sacr&#xE9;e est le pr&#xE9;mice de l&#x2019;immortalit&#xE9; et la promesse du gage de la r&#xE9;surrection.</para><para>
+            Le 23 juin</para><para>1. Comm&#xE9;moraison de nombreux saints martyrs de Nicom&#xE9;die en 303, au temps de l&#x2019;empereur Diocl&#xE9;tien. Apr&#xE8;s s&#x2019;&#xEA;tre cach&#xE9;s dans les montagnes et les cavernes, ils souffrirent le martyre avec joie pour le nom du Christ. </para><para>2. Au monast&#xE8;re d&#x2019;Ely, en Grande Bretagne, l&#x2019;an&#xA0;679, sainte &#xC9;thelr&#xE8;de (Audrey), abbesse. Fille de roi, et reine de Northumbrie, mari&#xE9;e deux fois, elle re&#xE7;ut des mains de l&#x2019;&#xE9;v&#xEA;que saint Wilfrid le voile des moniales dans le monast&#xE8;re qu&#x2019;elle avait elle-m&#xEA;me fond&#xE9;, et o&#xF9; elle dirigea avec l&#x2019;autorit&#xE9; d&#x2019;une m&#xE8;re, par ses exemples et ses avertissements, un grand nombre de vierges. </para><para>3*. &#xC0; Vannes en Bretagne, vers&#xA0;914, saint Bili &#xA0;, &#xE9;v&#xEA;que et martyr, qui aurait &#xE9;t&#xE9; tu&#xE9; quand les Normands d&#xE9;vastaient la cit&#xE9;. </para><para>4*. &#xC0; Pavie en Lombardie, l&#x2019;an&#xA0;1194, le bienheureux Lanfranc, &#xE9;v&#xEA;que, homme pacifique, qui souffrit beaucoup en faveur de la paix et de la concorde dans la cit&#xE9;. </para><para>5*. &#xC0; Onhaye en Hannonie, au XIIIe si&#xE8;cle, saint Walter, pr&#xEA;tre. Alors qu&#x2019;il traversait la Meuse, rapporte-t-on, un pr&#xEA;tre du voisinage, &#xE0; qui il reprochait ses vices, l&#x2019;assassina &#xE0; coups de rame. </para><para>6*. &#xC0; Oignies, &#xE9;galement en Hannonie, l&#x2019;an&#xA0;1213, la bienheureuse Marie. Dot&#xE9;e de dons mystiques, elle v&#xE9;cut, avec le consentement de son &#xE9;poux, en recluse dans une cellule, et fut ainsi &#xE0; l&#x2019;origine et &#xE0; l&#x2019;organisation du mouvement des b&#xE9;guines.</para><para>7*. Dans l&#x2019;ermitage de Valmanente dans les Marches, vers&#xA0;1496, le bienheureux Pierre-Jacques de Pesaro, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin. </para><para>8. &#xC0; Londres, en 1608, saint Thomas Garnet, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. Apr&#xE8;s son ordination au Coll&#xE8;ge anglais de Valladolid, en Espagne, il retourna en Angleterre, fut emprisonn&#xE9; deux fois, condamn&#xE9; &#xE0; mort sous le roi Jacques Ier, parce que pr&#xEA;tre, et men&#xE9; &#xE0; la potence. </para><para>9. &#xC0; Turin, en 1860, saint Joseph Cafasso, pr&#xEA;tre, qui se consacra &#xE0; accro&#xEE;tre la pi&#xE9;t&#xE9; et la science du clerg&#xE9; pi&#xE9;montais et &#xE0; r&#xE9;concilier avec Dieu les malheureux emprisonn&#xE9;s et m&#xEA;me les condamn&#xE9;s &#xE0; mort. </para><para>10*. &#xC0; Alatri dans le Latium, en 1945, la bienheureuse Marie-Rapha&#xEB;lle (Saintine Cimatti), vierge, des S&#x153;urs de la Mis&#xE9;ricorde pour les malades, qui mena une vie humble et cach&#xE9;e, en donnant tous ses soins continuellement, avec une exquise charit&#xE9;, en particulier aux malades et aux pauvres. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Violet</couleur>
+<code>adventus_13</code>
+<propre/>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Adventus</la><fr>Temps de l'Avent</fr></tempus>
+<hebdomada><la>Hebdomada I Adventus</la><fr>I&#xE8;re semaine de l'Avent</fr></hebdomada>
+<intitule><la>S. Ioannis Damasceni, presbyteri et Ecclesiae doctoris</la><fr>St Jean Damasc&#xE8;ne, pr&#xEA;tre et docteur de l'&#xC9;glise</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_venturum_Dominum</invitatoire>
+
+<HYMNUS_lectures>hy_Consors_paterni_luminis</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
+
+<antL1/>
+
+<psL1/>
+
+<antL2/>
+
+<psL2/>
+
+<antL3/>
+
+<psL3/>
+
+<LVers>VERS_Diriget_Dominus</LVers>
+n<Llec1>L1_adventus_13</Llec1>
+
+<Lrep1>R1_adventus_13</Lrep1>
+
+<Llec2>L2_adventus_13</Llec2>
+
+<Lrep2>R2_adventus_13</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>adventus_13-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>adventus_13-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Vox_clara_ecce_intonat</HYMNUS_laudes>
+ 
+<ant1>AN_Innocens_manibus_et</ant1>
+ 
+<ps1>ps23</ps1>
+ 
+<ant2>AN_Exaltate_Regem_saeculorum</ant2>
+ 
+<ps2>AT5</ps2>
+ 
+<ant3>AN_Rectos_decet_collaudatio.</ant3>
+ 
+<ps3>ps32</ps3>
+ 
+<LB_matin>LB_Gen_49_10</LB_matin> 
+ 
+<RB_matin>RB_Super_te_Ierusalem_Orietur_Dominus</RB_matin>  
+<benedictus>AN_Egredietur_virga_de</benedictus> 
+<laudes_preces>perannum_13</laudes_preces><oratio_laudes>COL_Propitiare_Domine_Deus_supplicationibus_nostris_et</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Prophetae_praedicaverunt_nasci</ant4>
+ 
+<ps4>ps118I</ps4>
+ 
+<ant5>AN_Gabriel_angelus_locutus</ant5>
+ 
+<ps5>ps12</ps5>
+ 
+<ant6>AN_Maria_dixit_Qualis</ant6>
+ 
+<ps6>ps13</ps6>
+ 
+<LB_3>LB_Ier_23_5</LB_3>
+ 
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+ 
+<LB_6>LB_Ier_23_6</LB_6>
+ 
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+ 
+<LB_9>LB_Cf.Ez_34_15-16</LB_9>
+ 
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Conditor_alme_siderum</HYMNUS_vepres>
+ 
+<ant7>AN_Tribuit_Dominus_victoriam</ant7>
+ 
+<ps7>ps19</ps7>
+ 
+<ant8>AN_Cantabimus_et_psallemus</ant8>
+ 
+<ps8>ps20</ps8>
+ 
+<ant9>AN_Fecisti_nos_Domine</ant9>
+ 
+<ps9>NT9</ps9>
+ 
+<LB_soir>LB_Cf_1_Cor_1_7b-9</LB_soir>
+ 
+<RB_soir>RB_Veni_ad_liberandum_nos_Domine</RB_soir>
+ 
+<magnificat>AN_Quaerite_Dominum_dum</magnificat>
+ 
+<vepres_preces>perannum_13</vepres_preces>
+ 
+<oratio_vepres>COL_Propitiare_Domine_Deus_supplicationibus_nostris_et</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+ 
+<comp_ps1>ps142</comp_ps1> 
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+ 
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Ad_te_levavi</IN>
+<COL>COL_Propitiare_Domine_Deus_supplicationibus_nostris_et</COL>
+<LEC>LEC_Is11,1-10</LEC>
+<PS1>GR_Universi_qui_te_exspectant</PS1>
+<PS2>AL_Ostende_nobis</PS2>
+<EV>EV_Lc10,21-24</EV>
+<OF>OF_Ad_te_Domine_levavi</OF>
+<CO>CO_Dominus_dabit_benignitatem</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>St Jean Damasc&#xE8;ne, pr&#xEA;tre et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>Originaire de Damas, moine de St-Sabas en Terre Sainte, th&#xE9;ologien, il d&#xE9;fendit le culte des images (&#x2020; vers 750)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Ste Barbe</intitule>
+ <biographiecourte/>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 4 d&#xE9;cembre</para><para>1. M&#xE9;moire de saint Jean Damasc&#xE8;ne, pr&#xEA;tre et docteur de l&#x2019;&#xC9;glise, c&#xE9;l&#xE8;bre par sa saintet&#xE9; et sa doctrine. Pour le culte des saintes images, il combattit avec vigueur par sa parole et ses &#xE9;crits contre l&#x2019;empereur L&#xE9;on l&#x2019;Isaurien et, devenu moine et pr&#xEA;tre dans la laure de Saint-Sabas pr&#xE8;s de J&#xE9;rusalem, il composa des hymnes sacr&#xE9;es et y mourut, vers 749. </para><para>2. Comm&#xE9;moraison de sainte Barbe, martyre &#xE0; Nicom&#xE9;die. </para><para>3. &#xC0; Alexandrie, en 247 ou 248, saint H&#xE9;raclas, &#xE9;v&#xEA;que. Disciple d&#x2019;Orig&#xE8;ne, son associ&#xE9;, puis son successeur &#xE0; l&#x2019;&#xE9;cole th&#xE9;ologique de la ville, il acquit une grande c&#xE9;l&#xE9;brit&#xE9; et fut appel&#xE9; &#xE0; gouverner cette &#xC9;glise. </para><para>4. &#xC0; S&#xE9;bastopol dans le Pont, au IVe si&#xE8;cle, saint M&#xE9;l&#xE8;ce, &#xE9;v&#xEA;que. D&#xE9;j&#xE0; &#xE9;minent par le t&#xE9;moignage de sa science, il fut de loin encore plus illustre par sa force d&#x2019;&#xE2;me et sa puret&#xE9; de vie. </para><para>5. &#xC0; Bologne en &#xC9;milie, l&#x2019;an&#xA0;431 ou 432, saint F&#xE9;lix, &#xE9;v&#xEA;que, qui avait &#xE9;t&#xE9; diacre de l&#x2019;&#xC9;glise de Milan sous saint Ambroise. </para><para>6*. A Lyon en Gaulle, saint Apri, pr&#xEA;tre</para><para>7*. Dans le Berry, vers 655, saint Sigiramne ou Cyran, qui fut moine, p&#xE8;lerin et abb&#xE9; du monast&#xE8;re de Longorit, qui prit ensuite son nom (Saint-Cyran). </para><para>8*. Au Mans, au VIe si&#xE8;cle, sainte Adrehilde (Ada ou Adnette), abbesse du monast&#xE8;re de Sainte-Marie.</para><para>9*. Au monast&#xE8;re d&#x2019;Ellwangen en Bavi&#xE8;re, l&#x2019;an&#xA0;794, saint Sola, pr&#xEA;tre et ermite.</para><para>10. &#xC0; Polybote en Phrygie, au d&#xE9;but du VIIIe si&#xE8;cle, saint Jean, &#xE9;v&#xEA;que, surnomm&#xE9; le Thaumaturge, qui travailla beaucoup, contre l&#x2019;empereur L&#xE9;on l&#x2019;Arm&#xE9;nien, pour le culte des saintes images. 1</para><para>11. Au monast&#xE8;re de Siegburg en Rh&#xE9;nanie, l&#x2019;an&#xA0;1075, le tr&#xE9;pas de saint Annon, &#xE9;v&#xEA;que de Cologne. Homme d&#x2019;un caract&#xE8;re &#xE9;nergique, il re&#xE7;ut les plus grands honneurs sous le r&#xE8;gne de l&#x2019;empereur Henri IV, aussi bien dans l&#x2019;&#xC9;glise que dans les affaires publiques et il prit soin de faire construire un grand nombre d&#x2019;&#xE9;glises et de monast&#xE8;res pour accro&#xEE;tre la foi et la pi&#xE9;t&#xE9;. </para><para>12. &#xC0; Salisbury en Angleterre, l&#x2019;an&#xA0;1099, saint Osmond, &#xE9;v&#xEA;que. De Normandie, il passa en Angleterre avec Guillaume le Conqu&#xE9;rant et, promu bient&#xF4;t &#xE0; l&#x2019;&#xE9;piscopat, il termina l&#x2019;&#xE9;glise cath&#xE9;drale de Sarum, en fit la d&#xE9;dicace et s&#x2019;employa de mani&#xE8;re irr&#xE9;prochable &#xE0; l&#x2019;administration de son dioc&#xE8;se et au culte divin. </para><para>13. &#xC0; Parme en &#xC9;milie, l&#x2019;an&#xA0;1133, saint Bernard, &#xE9;v&#xEA;que, qui chercha toujours, comme moine, la perfection de la vie&#xA0;; comme cardinal, le bien de l&#x2019;&#xC9;glise&#xA0;; comme &#xE9;v&#xEA;que enfin, le salut des &#xE2;mes. </para><para>14*. &#xC0; Sienne en Toscane, l&#x2019;an&#xA0;1289, le bienheureux Pierre. Marchand de peignes, devenu veuf, il entra dans le Tiers-Ordre de Saint-Fran&#xE7;ois, et se fit remarquer par sa charit&#xE9;, en particulier pour les indigents et les malades, par son humilit&#xE9; et par son silence. </para><para>15*. &#xC0; Edo au Japon, en 1623, les bienheureux martyrs Fran&#xE7;ois Galvez, pr&#xEA;tre franciscain, J&#xE9;r&#xF4;me des Anges, pr&#xEA;tre j&#xE9;suite, et Simon Yempo, ancien moine bouddhiste devenu religieux j&#xE9;suite, tous trois livr&#xE9;s au b&#xFB;cher en haine de la foi. </para><para>16*. &#xC0; Cologne en Rh&#xE9;nanie, l&#x2019;an&#xA0;1845, le bienheureux Adolphe Kolping, pr&#xEA;tre. Avec le souci ardent des ouvriers et de la justice sociale, il fonda une association de jeunes travailleurs et la diffusa en beaucoup d&#x2019;endroits. </para><para>17. &#xC0; V&#xE9;rone en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1954, saint Jean Calabria, pr&#xEA;tre, fondateur des deux Congr&#xE9;gations des Pauvres serviteurs, et des Pauvres servantes de la divine Providence. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

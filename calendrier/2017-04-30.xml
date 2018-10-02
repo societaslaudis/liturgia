@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>2</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada III Paschae</la><fr>III&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la>Dominica III Paschae</la><fr>III&#xE8;me dimanche de P&#xE2;ques</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_III_Paschae</Llec1>
+
+<Lrep1>R1_Dominica_III_Paschae</Lrep1>
+
+<Llec2>L2_Dominica_III_Paschae</Llec2>
+
+<Lrep2>R2_Dominica_III_Paschae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ 
+<ant1>AN_Dominus_regnavit_decorem</ant1>
+ 
+<ps1>ps92</ps1>
+ 
+<ant2>AN_Liberabitur_creatura_in</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Exaltatum_est_nomen</ant3>
+ 
+<ps3>ps148</ps3>
+ 
+<LB_matin>LB_ap10.40-43</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi_alleluia</RB_matin>  
+<benedictus>AN_Oportebat_Christum_pati</benedictus> 
+<laudes_preces>pascha_31</laudes_preces><oratio_laudes>COL_Semper_exsultet_populus_tuus_Deus_renovata</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Cf.1Cor15,3b-5</LB_3>
+ 
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+ 
+<LB_6>LB_Eph2,4-6</LB_6>
+ 
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+ 
+<LB_9>LB_Rom6,4</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3>COL_Semper_exsultet_populus_tuus_Deus_renovata</oratio_3>
+ 
+<oratio_6>COL_Semper_exsultet_populus_tuus_Deus_renovata</oratio_6>
+ 
+<oratio_9>COL_Semper_exsultet_populus_tuus_Deus_renovata</oratio_9>
+ 
+<intitule_soir><la>Dominica III Paschae</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+ 
+<ant7>AN_Excelsus_super_omnes</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Dirupisti_Domine_vincula</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Filius_Dei_didicit</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>Hebr10,12-14</LB_soir>
+ 
+<RB_soir>RB_Surrexit_Dominus_vere</RB_soir>
+ 
+<magnificat>AN_Dum_recumberet_cum</magnificat>
+ 
+<vepres_preces>pascha_31</vepres_preces>
+ 
+<oratio_vepres>COL_Semper_exsultet_populus_tuus_Deus_renovata</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Iubilate_Deo</IN>
+<LEC>LEC_Ac2,14.22-33</LEC>
+<PS1>AL_Cognoverunt</PS1>
+<LEC2>LEC_1P1,17-21</LEC2>
+
+<PS2>AL_Oportebat</PS2>
+<EV>EV_       </EV>
+<EV>EV_Lc24,13-35</EV>
+<OF>OF_Lauda_anima_mea</OF>
+<CO>CO_Simon_Ioannis</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Pie V, pape</intitule>
+ <biographiecourte>Pape de la contre-r&#xE9;forme et d&#xE9;fenseur de la chr&#xE9;tient&#xE9; (&#x2020;1572)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 30 avril</para><para>1. M&#xE9;moire de saint Pie V, pape, de l&#x2019;Ordre des Pr&#xEA;cheurs. Plac&#xE9; sur la chaire de Pierre, il apporta une grande pi&#xE9;t&#xE9; et une vigueur apostolique pour appliquer les d&#xE9;crets du Concile de Trente, restaurer le culte divin, la doctrine chr&#xE9;tienne et la discipline de l&#x2019;&#xC9;glise, et veiller &#xE0; la propagation de la foi. Il s&#x2019;endormit dans le Seigneur le 1er mai 1572.</para><para>2. &#xC0; Fermo dans les Marches, sainte Sophie, vierge et martyre. </para><para>3. &#xC0; Rome, au cimeti&#xE8;re de Pr&#xE9;textat sur la voie Appienne, au d&#xE9;but du IVe si&#xE8;cle, saint Quirin, martyr. Tribun &#xE0; l&#x2019;arm&#xE9;e, il a couronn&#xE9; par le martyre sa profession de foi. </para><para>4. &#xC0; Saintes, au IIIe si&#xE8;cle, saint Eutrope, premier &#xE9;v&#xEA;que de la cit&#xE9;, qui aurait &#xE9;t&#xE9; dirig&#xE9; vers la Gaule par l&#x2019;&#xE9;v&#xEA;que de Rome. </para><para>5. &#xC0; Aphrodisie en Carie, au d&#xE9;but du IVe si&#xE8;cle, les saints martyrs Diodore et Rhodopien, qui, durant la pers&#xE9;cution de Diocl&#xE9;tien, furent lapid&#xE9;s par leurs concitoyens. </para><para>6. &#xC0; Euria en &#xC9;pire, vers la fin du IVe si&#xE8;cle, saint Donat, &#xE9;v&#xEA;que, qui v&#xE9;cut en grande r&#xE9;putation de saintet&#xE9;, au temps de l&#x2019;empereur Th&#xE9;odose. </para><para>7. &#xC0; Novare en Ligurie, &#xE0; la fin du IVe si&#xE8;cle, saint Laurent, pr&#xEA;tre et martyr. Il avait am&#xE9;nag&#xE9; une fontaine sacr&#xE9;e o&#xF9; il baptisait les enfants qu&#x2019;il recevait pour les instruire. Un jour, o&#xF9; il avait amen&#xE9; &#xE0; Dieu un grand nombre d&#x2019;enfants par le bain de vie, il fut mis &#xE0; mort par des impies avec ces enfants. </para><para>8. &#xC0; Forli en &#xC9;milie, &#xE0; la fin du IVe si&#xE8;cle, saint Mercurial, &#xE9;v&#xEA;que, dont on croit qu&#x2019;il &#xE9;tablit le si&#xE8;ge &#xE9;piscopal dans cette cit&#xE9;. </para><para>9. &#xC0; Naples, au VIe si&#xE8;cle, saint Pomponius, &#xE9;v&#xEA;que, qui construisit &#xE0; l&#x2019;int&#xE9;rieur de la ville une &#xE9;glise au nom de Marie M&#xE8;re de Dieu et, sous l&#x2019;occupation des Goths, pr&#xE9;serva son peuple de l&#x2019;h&#xE9;r&#xE9;sie arienne. </para><para>10*. &#xC0; Rome, en 605, le bienheureux Pierre L&#xE9;vite, moine du C&#xE9;lius, qui, sur mandat du pape saint Gr&#xE9;goire le Grand, administra avec prudence le patrimoine de l&#x2019;&#xC9;glise romaine et, ordonn&#xE9; diacre, fut un fid&#xE8;le ministre du pontife. </para><para>11*. &#xC0; Viviers, au VIIe si&#xE8;cle, saint Augule, &#xE9;v&#xEA;que, qui aurait &#xE9;tabli dans la ville le premier h&#xF4;pital et &#xE9;mancip&#xE9; beaucoup d&#x2019;esclaves. </para><para>12. &#xC0; Barking en Angleterre, l&#x2019;an&#xA0;693, le tr&#xE9;pas de saint Erconwald, &#xE9;v&#xEA;que de Londres, qui fonda deux monast&#xE8;res, l&#x2019;un pour les hommes, &#xE0; Barking, qu&#x2019;il gouverna lui-m&#xEA;me, l&#x2019;autre pour les femmes, &#xE0; qui il donna pour abbesse sa s&#x153;ur sainte &#xC9;thelburge. </para><para>13. &#xC0; Cordoue en Andalousie, l&#x2019;an&#xA0;855, les saints martyrs Amateur, pr&#xEA;tre, Pierre, moine, et Louis. Alors que la pers&#xE9;cution des Maures faisait rage, ils furent cruellement mis &#xE0; mort, pour n&#x2019;avoir pas cess&#xE9; de pr&#xEA;cher l&#x2019;&#xC9;vangile du Christ.</para><para>14*. &#xC0; V&#xE9;rone en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1127, saint Gualfard, bourrelier originaire d&#x2019;Allemagne, qui, apr&#xE8;s de nombreuses ann&#xE9;es pass&#xE9;es dans la solitude, fut accueilli dans cette ville par les moines de Saint-Sauveur. </para><para>15*. &#xC0; Vernon en Normandie, vers&#xA0;1131, saint Adjuteur. Fait prisonnier &#xE0; la croisade sous les murs de J&#xE9;rusalem, il subit des s&#xE9;vices &#xE0; cause de sa foi&#xA0;; revenu dans son pays, il mena une vie p&#xE9;nitente, reclus dans une cellule. </para><para>16*. &#xC0; Newcastle sur la Tyne en Angleterre, l&#x2019;an&#xA0;1618, le bienheureux Guillaume Southerne, pr&#xEA;tre et martyr. Apr&#xE8;s des &#xE9;tudes en Lituanie, en Espagne et &#xE0; Douai, il fut ordonn&#xE9; pr&#xEA;tre et gagna l&#x2019;Angleterre, ce qui lui valut d&#x2019;&#xEA;tre livr&#xE9; aux supplices atroces de la pendaison, sous le roi Jacques Ier.</para><para>17*. &#xC0; Fossombrone dans les Marches, en 1625, le bienheureux Beno&#xEE;t d&#x2019;Urbino, pr&#xEA;tre capucin, qui fut le compagnon de saint Laurent de Brindisi dans sa pr&#xE9;dication aupr&#xE8;s des hussites et des luth&#xE9;riens. </para><para>18*. &#xC0; Qu&#xE9;bec au Canada, en 1672, la bienheureuse Marie de l&#x2019;Incarnation (Marie Guyart Martin). M&#xE8;re de famille &#xE0; Tours, apr&#xE8;s la mort de son mari, elle confia son tout jeune fils Claude aux soins de sa s&#x153;ur, fit profession religieuse chez les Ursulines, fonda leur premi&#xE8;re maison au Canada et r&#xE9;alisa beaucoup de choses remarquables. </para><para>19. &#xC0; Chiesi pr&#xE8;s de Turin, dans le Pi&#xE9;mont, en 1842, saint Beno&#xEE;t-Joseph Cottolengo, pr&#xEA;tre. Mettant uniquement sa confiance dans l&#x2019;aide de la divine Providence, il ouvrit une maison, o&#xF9; il s&#x2019;effor&#xE7;a de recevoir les pauvres, les malades de tout genre et les abandonn&#xE9;. </para><para>20. &#xC0; An Bai au Tonkin, en 1861, saint Joseph Tuan, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs et martyr. D&#xE9;nonc&#xE9; par le fils d&#x2019;une mourante &#xE0; qui il avait administr&#xE9; les derniers sacrements, il fut condamn&#xE9; &#xE0; mort sous l&#x2019;empereur Tu Duc. </para><para>21*. &#xC0; Paderborn en Allemagne, l&#x2019;an&#xA0;1881, la bienheureuse Pauline von Mallinckrodt, vierge, fondatrice des S&#x153;urs de la Charit&#xE9; chr&#xE9;tienne, qui eut &#xE0; c&#x153;ur d&#x2019;instruire les pauvres et les aveugles et de porter secours aux malades et aux indigents.</para><para>&#xA0;</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

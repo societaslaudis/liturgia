@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXX per annum</la>
+<fr>XXX&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+
+<HYMNUS_1V id="hy_Deus_creator_omnium"/>
+ <ps01 id="ps112"/>
+<ps02 id="ps115"/>
+<ps03 id="NT5"/>
+<ant01 id="AN_A_solis_ortu"/>
+<ant02 id="AN_Calicem_salutaris_accipiam"/>
+<ant03 id="AN_Humiliavit_semetipsum_Dominus"/>
+<LB_1V id="LB_Hebr_13_20-21"/>
+<RB_1V id="RB_Quam_magnificata_sunt"/>
+
+<magnificat1_A id="AN_Magister_quod_est"/>
+<magnificat1_B id="AN_Iter_faciente_Iesu"/>
+<magnificat1_C id="AN_Stans_a_longe"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_da_nobis_fidei"/>
+<oratio_3 id="COL_Omnipotens_sempiterne_Deus_da_nobis_fidei"/>
+<oratio_6 id="COL_Omnipotens_sempiterne_Deus_da_nobis_fidei"/>
+<oratio_9 id="COL_Omnipotens_sempiterne_Deus_da_nobis_fidei"/>
+
+<benedictus_A id="AN_Diliges_proximum_tuum"/>
+<benedictus_B id="AN_Iesu_Fili_David"/>
+<benedictus_C id="AN_Descendit_publicanus_iustificatus"/>
+<magnificat_A id="AN_Diliges_Dominum_Deum"/>
+<magnificat_B id="AN_Ait_Iesus_caeco"/>
+<magnificat_C id="AN_Omnis_qui_se"/>
+</liturgia>

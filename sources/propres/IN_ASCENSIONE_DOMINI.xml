@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>IN ASCENSIONE DOMINI</la>
+<fr>ASCENSION DU SEIGNEUR</fr>
+</intitule>
+<rang>
+<la>Solemnitas</la>
+<fr>Sollennit&#xE9;</fr>
+</rang>
+
+<HYMNUS_1V id="HY_Iesu_nostra_redemptio"/>
+<ant01 id="AN_Exívi_a_Patre"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Dominus_Iesus_postquam"/>
+<ps02 id="ps116"/>
+<ant03 id="AN_Nemo_ascendit_in"/>
+<ps03 id="NT10"/>
+<LB_1V id="LB_Eph2,4-6"/>
+<RB_1V id="RB_Ascendit_Deus_in_iubilatione_Alleluia"/>
+<magnificat_1V id="AN_Pater_manifestavi"/>
+<HYMNUS_laudes id="HY_Optatus_votis_omnium"/>
+<ant1 id="AN_Viri_Galilaei"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Exaltate_regem_regum"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Videntibus_illis"/>
+<ps3 id="ps149"/>
+<HYMNUS_3 id="HY_Iam_surgit_hora_tertia"/>
+<ant4 id="AN_Elevata_est_magnificentia"/>
+<ps4 id="ps8"/>
+<ant5 id="AN_A_summo_caelo"/>
+<ps5 id="ps18A"/>
+<ant6 id="AN_Elevatis_manibus"/>
+<ps6 id="ps18B"/>
+<LB_3 id="LB_Cf.Ap1,17c-18"/>
+<RB_3 id="VERS_Non_turbetur_cor"/>
+<oratio_3 id="COL_IN_ASCENSIONE_DOMINI"/>
+<HYMNUS_6 id="hy_Venite_servi_supplices"/>
+<LB_6 id="LB_Hebr8,1b-3a"/>
+<RB_6 id="VERS_Dominus_in_caelo"/>
+<oratio_6 id="COL_IN_ASCENSIONE_DOMINI"/>
+<HYMNUS_9 id="HY_Haec_hora_quae_resplenduit"/>
+<LB_9 id="LB_Col3,1-2"/>
+<RB_9 id="VERS_ Exaltate_regem_regum"/>
+<oratio_9 id="COL_IN_ASCENSIONE_DOMINI"/>
+<oratio_1V id="COL_IN_ASCENSIONE_DOMINI_in_vigilia"/>
+<oratio id="COL_IN_ASCENSIONE_DOMINI"/>
+<benedictus id="AN_Ascendo_ad_Patrem"/>
+<magnificat id="AN_O_rex_gloriae"/>
+<ant7 id="AN_Ascendit_in_caelos"/>
+<ps7 id="ps109"/>
+<ant8 id="AN_Ascendit_Deus_in"/>
+<ps8 id="ps46"/>
+<ant9 id="AN_Nunc_clarificatus_est"/>
+<ps9 id="NT10"/>
+<LB_matin id="LB_Hebr10,12-14"/>
+<RB_matin id="RB_Ascendens_Christus"/>
+<LB_soir id="LB_1_Petr_3_18._21b-22"/>
+<RB_soir id="RB_Ascendo_ad_Patrem_meum_et"/>
+<HYMNUS_vesperas id="HY_Iesu_nostra_redemptio"/>
+<HYMNUS_lectures id="HY_aeterne_rex_altissime"/>
+<HYMNUS_lec_jour id=""/>
+<preces id="IN_ASCENSIONE_DOMINI"/>
+
+<messe>
+	<intitule>Ad missam in vigilia</intitule>
+	<IN id="IN_Vocem_iucunditatis"/>
+	<PS1 id="AL_Surrexit_Christus_et_illuxit"/>
+	<PS2 id="AL_Non_vos_relinquam"/>
+	<CO id="CO_Non_vos_relinquam_orphanos"/>
+	<PS1>  
+		<A id="AL_Surrexit_Christus_et_illuxit"/>
+		<B id="AL_Exivi_a_patre"/>
+		<C id="AL_Exivi_a_patre"/>
+	</PS1>
+	<PS2>
+		<A id="AL_Non_vos_relinquam"/>
+		<B id="AL_Ego_vos_elegi"/>
+		<C id="AL_Spiritus_Sanctus_docebit"/>
+	</PS2>
+	<OF id="OF_Benedicite_gentes"/>
+	<CO>
+		<A id="CO_Non_vos_relinquam_orphanos"/>
+		<B id="CO_Non_vos_relinquam_orphanos"/>
+		<C id="CO_Spiritus_Sanctus_docebit_vos"/>
+	</CO>
+	<COL id="COL_IN_ASCENSIONE_DOMINI_in_vigilia"/>
+<LEC>
+			<A id="LEC_Ac8,5-17"/>
+			<B id="LEC_Ac10,25-26.34-35.44-48"/>
+			<C id="LEC_Ac15,1-2.22-29"/>
+		</LEC>
+		<PR>
+			<A id="PR_Ps66,1"/>
+			<B id="PR_Ps98,1"/>
+			<C id="PR_Ps67,2"/>
+		</PR>
+		<LEC2>
+			<A id="LEC_1P3,15-18"/>
+			<B id="LEC_1Jn4,7-10"/>
+			<C id="LEC_Ap21,10-14.22-23"/>
+		</LEC2>
+		<EV>
+			<A id="EV_Jn14,15-21"/>
+			<B id="EV_Jn15,9-17"/>
+			<C id="EV_Jn14,23-29"/>
+		</EV>
+
+
+
+	<SO id="SO_IN_ASCENSIONE_DOMINI_in_vigilia"/>
+	<PC id="PC_IN_ASCENSIONE_DOMINI_in_vigilia"/>
+	<IN_L id="IN_L_IN_ASCENSIONE_DOMINI_in_vigilia"/>
+	<PR id="PR_IN_ASCENSIONE_DOMINI_in_vigilia"/>
+	<PS2_L id="AL_L_IN_ASCENSIONE_DOMINI_in_vigilia"/>
+	<CO_L id="CO_L_IN_ASCENSIONE_DOMINI_in_vigilia"/>
+</messe>
+
+<messe>
+	<intitule>Ad missam in die</intitule>
+	<IN id="IN_Viri_Galilaei"/>
+	<COL id="COL_IN_ASCENSIONE_DOMINI1"/>
+	<COL id="COL_IN_ASCENSIONE_DOMINI2"/>
+	<PS1 id="AL_Ascendit_Deus"/>
+	<LEC2>
+		<A id="LEC_Ep1,17-23"/>
+		<B id="LEC_Ep4,1-13"/>
+		<C id="LEC_He9,24-28;10,19-23"/>
+	</LEC2>
+	<PS2 id="AL_Dominus_in_Sina"/>
+	<EV>
+		<A id="EV_Mt28,16-20"/>
+		<B id="EV_Mc16,15-20"/>
+		<C id="EV_Lc24,46-53"/>
+	</EV>
+	<OF id="OF_Ascendit_Deus"/>
+	<CO> 
+		<A id="CO_Data_est_mihi"/>
+		<B id="CO_Signa"/>
+		<C id="CO_Psallite_Domino"/>
+	</CO> 
+<PRE id="PRE_IN_ASCENSIONE_DOMINI1"/>
+
+<LEC>
+	<A id="LEC_Ac1,1-11"/>
+	<B id="LEC_Ac1,1-11"/>
+	<C id="LEC_Ac1,1-11"/>
+</LEC>
+	<SO id="SO_IN_ASCENSIONE_DOMINI"/>
+	<PC id="PC_IN_ASCENSIONE_DOMINI"/>
+	<IN_L id="IN_L_IN_ASCENSIONE_DOMINI"/>
+	<PR id="PR_IN_ASCENSIONE_DOMINI"/>
+	<PS2_L id="AL_L_IN_ASCENSIONE_DOMINI"/>
+	<CO_L id="CO_L_IN_ASCENSIONE_DOMINI"/>
+</messe>
+</liturgia>

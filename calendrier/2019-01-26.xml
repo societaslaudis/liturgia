@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada III per annum</la><fr>III&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Ss. Timothei et Titi, episcoporum</la><fr>Sts Timoth&#xE9;e et Tite, &#xE9;v&#xEA;ques.</fr></intitule>
+<rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_pastorum_principem</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps106I</psL1>
+
+<antL2/>
+
+<psL2>ps106II</psL2>
+
+<antL3/>
+
+<psL3>ps106III</psL3>
+
+<LVers/>
+n<Llec1>L1_Ss._Timothei_et_Titi_episcoporum</Llec1>
+
+<Lrep1>R1_Ss._Timothei_et_Titi_episcoporum</Lrep1>
+
+<Llec2>L2_Ss._Timothei_et_Titi_episcoporum</Llec2>
+
+<Lrep2>R2_Ss._Timothei_et_Titi_episcoporum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_3-7-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>perannum_3-7-NOCT2-1</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Inclitus_rector_pater_atque_prudens</HYMNUS_laudes>
+ 
+<ant1>AN_Prope_es_tu</ant1>
+ 
+<ps1>ps118XIX</ps1>
+ 
+<ant2>AN_Mecum_sit_Domine</ant2>
+ 
+<ps2>AT10</ps2>
+ 
+<ant3>AN_Veritas_Domini_manet</ant3>
+ 
+<ps3>ps116</ps3>
+ 
+<LB_matin>LB_Hebr_13_7-9a</LB_matin> 
+ 
+<RB_matin>RB_Super_te_Ierusalem_Constitui</RB_matin>  
+<benedictus>AN_Praedica_verbum_insta</benedictus> 
+<laudes_preces>COMMUNE_PASTORUM</laudes_preces><oratio_laudes>COL_Deus_qui_beatos_Timotheum_et_Titum</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Suscipe_Domine_servum</ant4>
+ 
+<ps4>ps118XVI</ps4>
+ 
+<ant5>AN_Respicite_ad_Dominum</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Iuxta_est_Dominus</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_1_Sam_15_22</LB_3>
+ 
+<RB_3>VERS_Sacrificium_laudis</RB_3>
+ 
+<LB_6>LB_Gal_5_26;_6_2</LB_6>
+ 
+<RB_6>VERS_Ecce_quam</RB_6>
+ 
+<LB_9>LB_Mic_6_8</LB_9>
+ 
+<RB_9>VERS_In_via</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica IV per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Rerum_Deus_fons_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_Rogate_quae_ad</ant7>
+ 
+<ps7>ps121</ps7>
+ 
+<ant8>AN_A_custodia_matutina</ant8>
+ 
+<ps8>ps129</ps8>
+ 
+<ant9>AN_In_nomine_Iesu</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_2_Petr_1_19-21</LB_soir>
+ 
+<RB_soir>RB_A_solis_ortu</RB_soir>
+ 
+<magnificat>AN_Mirabantur_omnes_in</magnificat>
+ 
+<vepres_preces>COMMUNE_PASTORUM</vepres_preces>
+ 
+<oratio_vepres>COL_Concede_nobis_Domine_Deus_noster_ut</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Sacerdotes_eius</IN>
+<LEC>2Tm1,1-8</LEC>
+<PS1>GR_Beata_gens</PS1>
+<PS2>AL_Ego_vos_elegi</PS2>
+<EV>Lc10,1-9</EV>
+<OF>OF_Gloriabuntur</OF>
+<CO>CO_Amen_dico_vobis_quod_vos</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Sts Timoth&#xE9;e et Tite, &#xE9;v&#xEA;ques.</intitule>
+ <biographiecourte>&#xC9;v&#xEA;ques et compagnons de St Paul </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 26 janvier</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire des saints Timoth&#xE9;e et Tite, &#xE9;v&#xEA;ques. Disciples de l&#x2019;ap&#xF4;tre saint Paul, ils furent ses collaborateurs d&#x2019;apostolat et dirig&#xE8;rent, l&#x2019;un l&#x2019;&#xC9;glise d&#x2019;&#xC9;ph&#xE8;se, l&#x2019;autre celle de Cr&#xEA;te. Les trois lettres qui leur sont adress&#xE9;es fournissent de sages avertissements sur la formation des pasteurs et des fid&#xE8;les. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Hippone en Numidie, vers&#xA0;257, saint Th&#xE9;og&#xE8;ne, martyr, dont parle saint Augustin dans un sermon. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Bethl&#xE9;em de Juda, en 404, la dormition de sainte Paule, veuve. D&#x2019;une tr&#xE8;s noble famille de s&#xE9;nateurs romains, elle renon&#xE7;a au monde, distribua aux pauvres toutes ses richesses et, avec sa fille Eustochium, bienheureuse vierge du Christ, elle se retira aupr&#xE8;s de la cr&#xE8;che du Seigneur. </para><para>4*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; J&#xE9;rusalem, au Ve si&#xE8;cle, les saints X&#xE9;nophon, Marie et leurs enfants Jean et Arcada. On rapporte d&#x2019;eux qu&#x2019;ils se d&#xE9;firent de la dignit&#xE9; s&#xE9;natoriale et de leurs immenses possessions et que, d&#x2019;une &#xE9;gale ardeur, ils firent profession de vie monastique dans la Cit&#xE9; sainte.</para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; C&#xEE;teaux en Bourgogne, l&#x2019;an&#xA0;1109, saint Alb&#xE9;ric, abb&#xE9;. Il fut parmi les premiers moines de Molesmes &#xE0; venir au Nouveau Monast&#xE8;re, dont il fut ensuite &#xE9;lu abb&#xE9; et qu&#x2019;il gouverna, en se signalant par son z&#xE8;le en tout et son soin pour les institutions monastiques en v&#xE9;ritable ami de la R&#xE8;gle et de ses fr&#xE8;res. </para><para>6*. &#xC0; Nidaros en Norv&#xE8;ge, l&#x2019;an&#xA0;1188, saint Augustin Erlandss&#xF6;n, &#xE9;v&#xEA;que, qui d&#xE9;veloppa avec un soin extr&#xEA;me l&#x2019;&#xC9;glise qui lui fut confi&#xE9;e, et la d&#xE9;fendit fortement contre les princes. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Angers, en 1794, la bienheureuse Marie de la Dive, veuve et martyre, qui, sous la R&#xE9;volution fran&#xE7;aise fut guillotin&#xE9;e &#xE0; cause de sa fid&#xE9;lit&#xE9; &#xE0; l&#x2019;&#xC9;glise.</para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1943, le bienheureux Michel Kozal, &#xE9;v&#xEA;que auxiliaire de Wladislawe et martyr. Pendant la Seconde Guerre mondiale, alors que la Pologne &#xE9;tait soumise au r&#xE9;gime nazi, il supporta, avec une patience invincible, pour la d&#xE9;fense de la foi et la libert&#xE9; de l&#x2019;&#xC9;glise, trois ans de d&#xE9;portation jusqu&#x2019;&#xE0; la mort. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Chine, en 1976, le bienheureux Gabriele Maria Allegra, franciscain Italien, missionnaire traducteur de la bible en chinois et fondateur &#xE0; P&#xE9;kin de l&#x2019;Institut Biblique et &#xE0; Singapour de l&#x2019;Institut de Sociologie. &#xA0; &#xA0;(b&#xE9;atifi&#xE9; le 29 septembre 2012 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

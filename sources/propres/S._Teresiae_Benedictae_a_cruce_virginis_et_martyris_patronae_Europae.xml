@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 9 augusti.</la>
+<fr>Le 9 ao&#xFB;t.</fr>
+</jour>
+<intitule>
+<la>S. Teresiae Benedictae a Cruce, virginis et martyris, patronae Europae</la>
+<fr>Ste Th&#xE9;r&#xE8;se B&#xE9;n&#xE9;dicte de la Croix, vierge et martyre, patronne de l'Europe</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<ant_invit id="INV_Regem_martyrum_Dominum"/>
+<HYMNUS_laudes id="hy_O_castitatis_signifer"/>
+<ant1 id="AN_Labia_mea_laudabunt_te"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Martyres_Domini_Dominum"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Qui_vicerit_faciam_illum"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_2Cor1,3-5"/>
+<RB_matin id="RB_Fortitudo_mea_Et"/>
+<benedictus id="AN_Qui_odit_animam_suam"/>
+<oratio id="COL_Deus_patrum_nostrorum_qui_beatam_Teresiam_Benedictam"/>
+<ant4 id="AN_Certamen_forte_dedit"/>
+<LB_3 id="LB_1Petr5,10-11"/>
+<RB_3 id="VERS_Stola_iucunditatis_induit_eam"/>
+<oratio_3 id="COL_Deus_patrum_nostrorum_qui_beatam_Teresiam_Benedictam"/>
+<ant5 id="AN_Coronavit_eam_Dominus"/>
+<LB_6 id="LB_Iac1,12"/>
+<RB_6 id="VERS_In_Deo_speravi"/>
+<oratio_6 id="COL_Deus_patrum_nostrorum_qui_beatam_Teresiam_Benedictam"/>
+<ant6 id="AN_Euntes_ibant_et"/>
+<LB_9 id="LB_Sap3,1-2a.3b"/>
+<RB_9 id="VERS_Venientes_venient_cum"/>
+<oratio_9 id="COL_Deus_patrum_nostrorum_qui_beatam_Teresiam_Benedictam"/>
+
+<HYMNUS_vesperas id="hy_Virginis_Proles_opifexque_Matris"/>
+<preces id="Pro_uno_Martyre"/>
+<ant7 id="AN_Qui_vult_venire_post_me"/>
+<ps7 id="ps114"/>
+<ant8 id="AN_Si_quis_mihi_ministraverit"/>
+<ps8 id="ps115"/>
+<ant9 id="AN_Qui_perdiderit_animam"/>
+<ps9 id="NT9"/>
+<LB_soir id="LB_1Petr4,13-14"/>
+<RB_soir id="RB_Probasti_nos_Deus"/>
+<magnificat id="AN_In_caelestibus_regnis_sanctorum"/>
+<messe>
+<EV id="EV_Mt25,1-13"/>
+<LEC id="LEC_Os2,16b.17b.21-22"/>
+<IN id="IN_Loquebar"/>
+<PS1 id="GR_Audi_filia"/>
+<PS2 id="AL_Quinque_prudentes_virgines"/>
+<OF id="OF_Afferentur_proximae"/>
+<CO id="CO_Confundantur_superbi"/>
+</messe>
+</liturgia>

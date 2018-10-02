@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<code>perannum_26-3</code>
+<propre>Ss._Angelorum_Custodum</propre>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXVI per annum</la><fr>XXVI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Ss. Angelorum Custodum</la><fr>Saints Anges Gardiens</fr></intitule>
+<rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Dominum_cui_ministrant</invitatoire>
+
+<HYMNUS_lectures>hy_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+
+<antL1>AN_Committe_Domino_viam</antL1>
+
+<psL1>ps36I</psL1>
+
+<antL2>AN_Declina_a_malo</antL2>
+
+<psL2>ps36II</psL2>
+
+<antL3>AN_Exspecta_Dominum_et</antL3>
+
+<psL3>ps36III</psL3>
+
+<LVers>VERS_Bonitatem_et</LVers>
+n<Llec1>L1_Ss._Angelorum_Custodum</Llec1>
+
+<Lrep1>R1_Ss._Angelorum_Custodum</Lrep1>
+
+<Llec2>L2_Ss._Angelorum_Custodum</Llec2>
+
+<Lrep2>R2_Ss._Angelorum_Custodum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Orbis_patrator_optime</HYMNUS_laudes>
+ 
+<ant1>AN_Dominus_mittet_angelum</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Benedictus_Deus_qui</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Angeli_et_omnes</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Ex_23_20-21a</LB_matin> 
+ 
+<RB_matin>RB_In_conspectu_angelorum_Psallam</RB_matin>  
+<benedictus>AN_Omnes_sunt_administratorii</benedictus> 
+<laudes_preces>perannum_23</laudes_preces><oratio_laudes>COL_Deus_qui_ineffabili_providentia_sanctos_angelos</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_In_loco_peregrinationis</ant4>
+ 
+<ps4>ps118VII</ps4>
+ 
+<ant5>AN_Convertet_Dominus_captivitatem</ant5>
+ 
+<ps5>ps52</ps5>
+ 
+<ant6>AN_Deus_adiuvat_me</ant6>
+ 
+<ps6>ps53</ps6>
+ 
+<LB_3>LB_Act_5_17-20</LB_3>
+ 
+<RB_3>VERS_In_conspectu_angelorum_psallam_tibi</RB_3>
+ 
+<LB_6>LB_Act_12_7</LB_6>
+ 
+<RB_6>VERS_Misit_Dominus_angelum_suum</RB_6>
+ 
+<LB_9>LB_Act_10_3-5</LB_9>
+ 
+<RB_9>VERS_Ascendit_fumus_incensorum_de_orationibus</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+ 
+<intitule_soir><la>SS. ANGELORUM CUSTODUM. </la></intitule_soir>
+ 
+<rang_soir><la>Memoria</la></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Custodes_hominum_psallimus_angelos</HYMNUS_vepres>
+ 
+<ant7>AN_Vallabit_angelus_Domini</ant7>
+ 
+<ps7>ps33I</ps7>
+ 
+<ant8>AN_Vivit_Dominus_quoniam</ant8>
+ 
+<ps8>ps33II</ps8>
+ 
+<ant9>AN_Benedicite_Deum_caeli</ant9>
+ 
+<ps9>NT10</ps9>
+ 
+<LB_soir>LB_Ap_8_3-4</LB_soir>
+ 
+<RB_soir>RB_Angelis_suis_Deus_mandavit</RB_soir>
+ 
+<magnificat>AN_Angeli_eorum_semper</magnificat>
+ 
+<vepres_preces>perannum_23</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_ineffabili_providentia_sanctos_angelos</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_non_abscondas_faciem</comp_ant1>
+ 
+<comp_ps1>ps142</comp_ps1> 
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+ 
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Benedicite_Dominum</IN>
+<COL>COL_Deus_qui_ineffabili_providentia_sanctos_angelos</COL>
+<LEC>LEC_Ex23,20-23</LEC>
+<PS1>GR_Angelis_suis</PS1>
+<PS2>AL_Benedicite_Domino</PS2>
+<EV>EV_Mt18,1-5.10</EV>
+<OF>OF_Immittet_angelus</OF>
+<CO>CO_Benedicite_omnes_angeli</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+<piete><intitule/></piete>
+<biographie>
+ <intitule>Saints Anges Gardiens</intitule>
+ <biographiecourte>M&#xE9;moire inscrite au calendrier depuis 1608, elle prolonge la f&#xEA;te des Sts Archanges et souligne l'admirable providence divine</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Bx Antoine Chevier, pr&#xEA;tre</intitule>
+ <biographiecourte>Pr&#xEA;tre, qui fonda l&#x2019;&#x152;uvre de la Providence du Prado, pour la formation de pr&#xEA;tres capables d&#x2019;enseigner la religion chr&#xE9;tienne aux jeunes gens pauvres</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 2 octobre</para><para>1. M&#xE9;moire des saints Anges gardiens. Appel&#xE9;s d&#x2019;abord &#xE0; contempler dans sa splendeur la face de Dieu, ils sont aussi mis par le Seigneur au service des hommes, pour &#xEA;tre &#xE0; leurs c&#xF4;t&#xE9;s et veiller sur eux, d&#x2019;une mani&#xE8;re invisible, mais tr&#xE8;s attentive. </para><para>2. &#xC0; Nicom&#xE9;die en Bithynie, au IIIe ou IVe si&#xE8;cle, saint &#xC9;leuth&#xE8;re, martyr. </para><para>3. &#xC0; Numance en Espagne, l&#x2019;an&#xA0;606, saint Saturius, ermite.</para><para>4. Sur le territoire d&#x2019;Arras, en 679 ou 680, la passion de saint L&#xE9;ger, &#xE9;v&#xEA;que d&#x2019;Autun. Il fut en butte &#xE0; la haine d&#x2019;&#xC9;bro&#xEF;n, maire du palais du roi de Neustrie Th&#xE9;odoric, qui le fit assassiner, apr&#xE8;s lui avoir fait crever les yeux et subir d&#x2019;autres tortures. Avec lui on v&#xE9;n&#xE8;re la m&#xE9;moire de son fr&#xE8;re saint Gu&#xE9;rin, martyr, lapid&#xE9; deux ans auparavant sur l&#x2019;ordre du m&#xEA;me &#xC9;bro&#xEF;n. </para><para>5*. &#xC0; Andain, dans un col des Ardennes, apr&#xE8;s 725, saint B&#xE9;r&#xE9;gise, abb&#xE9;, qui fonda en cet endroit un monast&#xE8;re de clercs r&#xE9;guliers et le gouverna avec soin. </para><para>6*. En Rh&#xE9;tie, au VIIIe si&#xE8;cle, saint Ursicin, &#xE9;v&#xEA;que de Coire, fondateur et premier abb&#xE9; du monast&#xE8;re de Disentis. </para><para>7*. &#xC0; Constantinople, comm&#xE9;moraison de saint Th&#xE9;ophile, moine. Pour la d&#xE9;fense des saintes images, il fut bless&#xE9; gri&#xE8;vement par l&#x2019;empereur L&#xE9;on l&#x2019;Arm&#xE9;nien et envoy&#xE9; en exil, o&#xF9; il mourut vers 795. </para><para>8*. &#xC0; Nagasaki au Japon, en 1622, les bienheureux martyrs Louis Yakichi, Lucie, son &#xE9;pouse et leurs fils Andr&#xE9; et Fran&#xE7;ois, qui all&#xE8;rent &#xE0; la mort pour le Christ, les enfants et leur m&#xE8;re d&#xE9;capit&#xE9;s devant le p&#xE8;re, et lui-m&#xEA;me ensuite br&#xFB;l&#xE9; vif. </para><para>9*. Sur l&#x2019;&#xEE;le Madame, au large du port de Rochefort, en 1794, le bienheureux Georges-Edmond Ren&#xE9;, pr&#xEA;tre et martyr. Chanoine de V&#xE9;zelay, il fut d&#xE9;port&#xE9;, sous la R&#xE9;volution fran&#xE7;aise, &#xE0; cause de son sacerdoce, sur un bateau n&#xE9;grier, et mourut, &#xE9;puis&#xE9; par la fi&#xE8;vre. </para><para>10*. &#xC0; Lyon, en 1879, le bienheureux Antoine Chevrier, pr&#xEA;tre, qui fonda l&#x2019;&#x152;uvre de la Providence du Prado, pour la formation de pr&#xEA;tres capables d&#x2019;enseigner la religion chr&#xE9;tienne aux jeunes gens pauvres. </para><para>11*. &#xC0; Fianarantsoa &#xE0; Madagascer, en 1912, le bienheureux Jean Beyzym, pr&#xEA;tre de la Compagnie de J&#xE9;sus, qui exer&#xE7;a de grand c&#x153;ur son activit&#xE9; dans l&#x2019;&#xEE;le en faveur des l&#xE9;preux, dont il s&#x2019;employa &#xE0; soulager les corps et les esprits avec beaucoup de charit&#xE9;. </para><para>12*. En divers lieux d&#x2019;Espagne, dans la pers&#xE9;cution men&#xE9;e contre les pr&#xEA;tres et les religieux au cours de la guerre civile, en 1936, cinq bienheureux martyrs&#xA0;: Fran&#xE7;ois Carceller, pr&#xEA;tre, des Clercs r&#xE9;guliers des &#xC9;coles religieuses, et Isidore Bover, de la Fraternit&#xE9; des pr&#xEA;tres ouvriers dioc&#xE9;sains, fusill&#xE9;s devant le mur du cimeti&#xE8;re de Forcall, pr&#xE8;s de Castillon de la Plana</para><para>13*. En Espagne, les bienheureux fr&#xE8;res &#xC9;lie et Jean-Baptiste Carbonell Molla, pr&#xEA;tres, fusill&#xE9; &#xE0; Sax, pr&#xE8;s de Lugo en Galice&#xA0;</para><para>14*. En Espagne, la bienheureuse Marie-Guadeloupe (Marie-Fran&#xE7;oise Ricart Olmos), religieuse de l&#x2019;Ordre des Servites de Marie, tortur&#xE9;e sauvagement et d&#xE9;figur&#xE9;e, &#xE0; Silla, dans la r&#xE9;gion de Valence.</para><para>15*. &#xC0; Stanislawow en Pologne, l&#x2019;an&#xA0;1942, la bienheureuse Marie-Antonine Kratochwil, vierge, des S&#x153;urs des &#xE9;coles de Notre-Dame, et martyre. Sup&#xE9;rieure de son couvent, arr&#xEA;t&#xE9;e avec les autres s&#x153;urs par l&#x2019;occupant nazi, sur d&#xE9;nonciation, et intern&#xE9;e, elle mourut &#xE0; l&#x2019;h&#xF4;pital des suites des mauvais traitements subis en prison.</para><para>** &#xA0; &#xA0; &#xA0; &#xA0; A Castres, en 1854 la bienheureuse &#xC9;milie de Villeneuve fondatrice de la congr&#xE9;gation de Notre Dame de l&#x2019;Immacul&#xE9;e Conception. (b&#xE9;atifi&#xE9;e le 5 juillet 2009 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

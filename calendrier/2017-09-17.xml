@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXIV per annum</la><fr>XXIV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XXIV per annum</la><fr>XXIV&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Populus_Domini_et</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1/>
+
+<antL2/>
+
+<psL2/>
+
+<antL3/>
+
+<psL3/>
+
+<LVers/>
+n<Llec1>L1_Dominica_XXIV_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XXIV_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XXIV_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XXIV_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Ecce_iam_noctis_tenuatur_umbra</HYMNUS_laudes>
+ 
+<ant1>AN_Confitemini_Domino_quoniam</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Alleluia_benedicite_omnia</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Omnis_spiritus_laudet</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_2_Tim_2_8._11-13</LB_matin> 
+ 
+<RB_matin>RB_Confitebimur_tibi_Deus_Et</RB_matin>  
+<benedictus>AN_Misertus_dominus_servi</benedictus> 
+<laudes_preces>perannum_41</laudes_preces><oratio_laudes>COL_Respice_nos_rerum_omnium_Deus_creator</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Qui_manducat_ex_hoc</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_Veniet_Dominus_glorificari</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Vovete_et_munera</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_1_Cor_6_19-20</LB_3>
+ 
+<RB_3>VERS_Concupiscit_et_deficit</RB_3>
+ 
+<LB_6>LB_Deut_10_12</LB_6>
+ 
+<RB_6>VERS_Domine_quis_habitabit</RB_6>
+ 
+<LB_9>LB_Cant_8_6b-7a</LB_9>
+ 
+<RB_9>VERS_Diligam te, Domine</RB_9>
+ 
+<oratio_3>COL_Respice_nos_rerum_omnium_Deus_creator</oratio_3>
+ 
+<oratio_6>COL_Respice_nos_rerum_omnium_Deus_creator</oratio_6>
+ 
+<oratio_9>COL_Respice_nos_rerum_omnium_Deus_creator</oratio_9>
+ 
+<intitule_soir><la>Dominica XXIV per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_O_lux_beata_Trinitas</HYMNUS_vepres>
+ 
+<ant7>AN_In_splendoribus_sanctis</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Beati_qui_esuriunt_et</ant8>
+ 
+<ps8>ps111</ps8>
+ 
+<ant9>AN_Laudem_dicite_Deo</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Hebr_12_22-24</LB_soir>
+ 
+<RB_soir>RB_Magnus_Dominus_noster</RB_soir>
+ 
+<magnificat>AN_Serve_nequam_omne</magnificat>
+ 
+<vepres_preces>perannum_41</vepres_preces>
+ 
+<oratio_vepres>COL_Respice_nos_rerum_omnium_Deus_creator</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Da_pacem</IN>
+<IN_L>IN_L_perannum_24</IN_L>
+<COL>COL_perannum_24</COL>
+<LEC>LEC_Is55,6-9</LEC>
+<PS1>GR_Laetatus_sum</PS1>
+<LEC2>LEC_Rm14,7-9</LEC2>
+
+<PS2>AL_Timebunt_gentes</PS2>
+<EV>EV_Mt18,21-35</EV>
+<OF>OF_Sanctificavit</OF>
+<SO>SO_perannum_24</SO>
+<CO>CO_Tollite_hostias</CO>
+<CO_L>CO_L_perannum_24</CO_L>
+<PC>PC_perannum_24</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>St Alber, patriarche</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Robert Bellarmin, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>J&#xE9;suite, archev&#xEA;que de Capoue, auteur d'un cat&#xE9;chisme, docteur de l&#x2019;&#xC9;glise (&#x2020;1621)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Ste Hildegarde de Bingen, religieuse, Docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>Religieuse et docteur de l'Eglise</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 17 septembre</para><para>(En Belgique&#xA0;: M&#xE9;moire de saint Lambert, n&#xB0;&#xA0;3).</para><para>1. M&#xE9;moire de saint Robert Bellarmin, &#xE9;v&#xEA;que et docteur de l&#x2019;&#xC9;glise. Membre de la Compagnie de J&#xE9;sus, il exer&#xE7;a un r&#xF4;le &#xE9;minent de mani&#xE8;re singuli&#xE8;re et fine dans les controverses th&#xE9;ologiques de son temps&#xA0;; nomm&#xE9; &#xE9;v&#xEA;que et cardinal, il se d&#xE9;pensa avec ardeur dans son minist&#xE8;re pastoral au service de l&#x2019;&#xC9;glise de Capoue&#xA0;; enfin, &#xE0; Rome, o&#xF9; il mourut en 1621, il entreprit de nombreux travaux pour la d&#xE9;fense du Si&#xE8;ge apostolique et de la doctrine de la foi. </para><para>2. &#xC0; Milan, vers 377, la mise au tombeau de saint Satyre, dont les m&#xE9;rites insignes sont rappel&#xE9;s par saint Ambroise, son fr&#xE8;re. Il n&#x2019;&#xE9;tait pas encore initi&#xE9; aux sacrements du Christ, lorsqu&#x2019;il fit naufrage. Il ne craignit pas la mort, mais plut&#xF4;t de quitter cette vie sans &#xEA;tre baptis&#xE9;. Sauv&#xE9; des eaux, il demanda d&#x2019;entrer dans l&#x2019;&#xC9;glise de Dieu. Il fut uni d&#x2019;une charit&#xE9; intime et mutuelle &#xE0; son fr&#xE8;re Ambroise, qui l&#x2019;ensevelit pr&#xE8;s du martyr saint Victor. </para><para>3. &#xC0; Li&#xE8;ge, vers 705, la passion de saint Lambert, &#xE9;v&#xEA;que de Maastricht et martyr. Oblig&#xE9; de s&#x2019;exiler, il trouva refuge au monast&#xE8;re de Stavelot, o&#xF9; il suivit l&#x2019;observance monastique. Quant il retrouva son si&#xE8;ge &#xE9;piscopal, il fut un pasteur remarquable et un ardent &#xE9;vang&#xE9;lisateur de la Campie et du Brabant, et p&#xE9;rit, innocent, frapp&#xE9; par des criminels.</para><para>(Au Luxembourg sa m&#xE9;moire est c&#xE9;l&#xE9;br&#xE9;e le lendemain.)</para><para>4*. Dans la for&#xEA;t d&#x2019;Argonne, pr&#xE8;s de la Meuse, au d&#xE9;but du VIIIe si&#xE8;cle, saint Rouin, abb&#xE9;, qui fonda l&#xE0; le monast&#xE8;re de Beaulieu et le gouverna saintement.</para><para>5. &#xC0; Cordoue en Andalousie, l&#x2019;an&#xA0;853, sainte Colombe, vierge et martyre. Lors de la pers&#xE9;cution des Maures, elle se pr&#xE9;senta d&#x2019;elle-m&#xEA;me devant le groupe du consul et des satrapes et professa sa foi. Elle fut aussit&#xF4;t d&#xE9;capit&#xE9;e devant la porte du palais. </para><para>6*. &#xC0; M&#xE9;linais pr&#xE8;s de La Fl&#xE8;che, aux confins de l&#x2019;Anjou, vers 1104, saint Regnauld, ermite, qui se forma, dans la for&#xEA;t de Craon, aupr&#xE8;s du bienheureux Robert d&#x2019;Arbrissel &#xE0; accomplir pleinement les pr&#xE9;ceptes du Seigneur.</para><para>7. Au monast&#xE8;re de Rupertsberg, pr&#xE8;s de Bingen en Hesse rh&#xE9;nane, en 1179, sainte Hildegarde, vierge moniale, docteur de l&#x2019;&#xC9;glise. Experte en sciences naturelles, en m&#xE9;decine et en musique, elle composa plusieurs ouvrages o&#xF9; elle d&#xE9;crivit religieusement les visions mystiques qu&#x2019;il lui fut donn&#xE9; de contempler. </para><para>8*. &#xC0; Avigliana dans la r&#xE9;gion de Turin, en 1479, le bienheureux Ch&#xE9;rubin Testa, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin, qui eut une grande d&#xE9;votion &#xE0; la Passion du Seigneur. </para><para>9. &#xC0; Saragosse en Aragon, l&#x2019;an&#xA0;1485, saint Pierre d&#x2019;Arbues, pr&#xEA;tre et martyr. Chanoine r&#xE9;gulier de Saint-Augustin, il eut &#xE0; c&#x153;ur de lutter contre les superstitions et les h&#xE9;r&#xE9;sies dans le royaume d&#x2019;Aragon, et fut bless&#xE9; mortellement devant l&#x2019;autel de la cath&#xE9;drale par quelques personnes qui avaient &#xE9;t&#xE9; soumises par lui &#xE0; une enqu&#xEA;te. </para><para>10. &#xC0; Hu&#xE9; en Annam, l&#x2019;an&#xA0;1798, saint Emmanuel Nguyen Van Trieu, pr&#xEA;tre et martyr, sous le gouvernement du grand mandarin Canh Thinh. </para><para>11. &#xC0; G&#xEA;nes en Ligurie, l&#x2019;an&#xA0;1826, saint Fran&#xE7;ois-Marie de Camporosso, capucin, remarquable par sa charit&#xE9; envers les pauvres. Quand survint la peste, il s&#x2019;offrit comme victime pour le salut du prochain et mourut, atteint lui-m&#xEA;me par l&#x2019;&#xE9;pid&#xE9;mie. </para><para>12*. &#xC0; Cracovie en Pologne, l&#x2019;an&#xA0;1895, le tr&#xE9;pas du saint Sigismond-F&#xE9;lix Felinski, &#xE9;v&#xEA;que de Varsovie, qui travailla, au milieu de grandes &#xE9;preuves, pour la libert&#xE9; et la restauration de l&#x2019;&#xC9;glise, et fonda pour tous les besoins du peuple l&#x2019;Institut des S&#x153;urs franciscaines de la Famille de Marie. (canonis&#xE9; le 11 octobre 2009 par Beno&#xEE;t XVI)</para><para>13*. &#xC0; Castillo de Villamalefa en Castille, l&#x2019;an&#xA0;1936, le bienheureux Jean Ventura Solsona, pr&#xEA;tre, et &#xE0; Madrid le bienheureux Timoth&#xE9;e Valero Perez, pr&#xEA;tre du Tiers-Ordre de Saint-Fran&#xE7;ois, martyrs dans la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e au cours de la guerre civile espagnole. </para><para>14*. Pr&#xE8;s de Varsovie, en 1940, le bienheureux Sigismond Sajna, pr&#xEA;tre et martyr. Cur&#xE9; de Gora Kalvaria, sous l&#x2019;occupation de la Pologne par le r&#xE9;gime nazi, il fut d&#x2019;abord mis aux arr&#xEA;ts domiciliaires, puis intern&#xE9; &#xE0; Varsovie et enfin envoy&#xE9;, avec deux cents autres personnes, au bloc de Palmiry o&#xF9; il fut fusill&#xE9;. </para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; En Pologne, en 1701, le bienheureux Stanislas de J&#xE9;sus et Marie pr&#xEA;tre fondateur de la Congr&#xE9;gation des Clercs Mariaux de l&#x2019;Immacul&#xE9;e Conception de la Bienheureuse Vierge Marie. (b&#xE9;atifi&#xE9; le 16 septembre 2007 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

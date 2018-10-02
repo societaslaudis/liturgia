@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>2</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus passionis</la><fr>Temps de la Passion</fr></tempus>
+<hebdomada><la>Hebdomada Sancta</la><fr>Semaine sainte</fr></hebdomada>
+<intitule><la>DOMINICA IN PALMIS DE PASSIONE DOMINI</la><fr>DIMANCHE DES RAMEAUX ET DE LA PASSION DU SEIGNEUR</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+
+<antL1>AN_Domine_Deus_meus</antL1>
+
+<psL1>ps103I</psL1>
+
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+
+<psL2>ps103II</psL2>
+
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+
+<psL3>ps103III</psL3>
+
+<LVers/>
+n<Llec1>L1_DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI</Llec1>
+
+<Lrep1>R1_DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI</Lrep1>
+
+<Llec2>L2_DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI</Llec2>
+
+<Lrep2>R2_DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI-NOCT3-C</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_En_acetum_fel_arundo</HYMNUS_laudes>
+ 
+<ant1>AN_Turba_multa</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Cum_Angelis</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Benedictus_qui_venit</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_Zac_9_9</LB_matin> 
+ 
+<RB_matin>RB_Redemisti_nos_Domine_In</RB_matin>  
+<benedictus>AN_Coeperunt_omnes_turbae</benedictus> 
+<laudes_preces>perannum_21</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_humano_generi</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Celsae_salutis_gaudia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Celsae_salutis_gaudia</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Celsae_salutis_gaudia</HYMNUS_9>
+ 
+ 
+<ant4>AN_Ante_diem_festum</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_Sicut_novit_me</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Mihi_vivere_Christus</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_Cf._2_Cor_4_10-11</LB_3>
+ 
+<RB_3>VERS_Oblatus_est_quia_ipse_voluit</RB_3>
+ 
+<LB_6>LB_1_Petr_4_13-14</LB_6>
+ 
+<RB_6>VERS_Vere_languores_nostros_ipse_tulit</RB_6>
+ 
+<LB_9>LB_1_Petr_5_10-11</LB_9>
+ 
+<RB_9>VERS_Adoremus_crucis_signaculum_Per</RB_9>
+ 
+<oratio_3/>
+ 
+<oratio_6/>
+ 
+<oratio_9/>
+ 
+<intitule_soir><la>DOMINICA IN PALMIS DE PASSIONE DOMINI</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Vexilla_regis_prodeunt</HYMNUS_vepres>
+ 
+<ant7>AN_Percussum_et_humiliatum</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Sanguis_Christi_emundat</ant8>
+ 
+<ps8>ps113B</ps8>
+ 
+<ant9>AN_Peccata_nostra_ipse</ant9>
+ 
+<ps9>Canticum_1_Petr_2_21-24</ps9>
+ 
+<LB_soir>LB_Act_13_26-30a</LB_soir>
+ 
+<RB_soir>RB_Adoramus_te_Christe_Et</RB_soir>
+ 
+<magnificat>AN_Dico_enim_vobis</magnificat>
+ 
+<vepres_preces>perannum_21</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_humano_generi</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN/>
+<LEC>Is50,4-7</LEC>
+<PR>PR_Ps22,8</PR>
+<PS1>TR_Deus_Deus_meus</PS1><LEC2>LEC_Phil2,6-11</LEC2>
+<PS2>GR_Christus_factus_est</PS2>
+<EV>EV_Lc19,28-40</EV>
+<OF>OF_Improperium</OF>
+<CO>CO_Pater_si_non_potest</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Lidwine</intitule>
+ <biographiecourte>Mystique hollandaise, elle s'unit &#xE0; la Passion du Christ (&#x2020;1433)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Dimanche des rameaux et de la Passion du Seigneur</para><para>Dimanche des Rameaux de la Passion du Seigneur, lorsque notre Seigneur J&#xE9;sus-Christ, r&#xE9;alisant la proph&#xE9;tie de Zacharie, assis sur le petit d&#x2019;une &#xE2;nesse, entra dans J&#xE9;rusalem, et que la foule vint f&#xEA;ter avec des rameaux de palmes.</para><para>
+            Le 14 avril</para><para>1. &#xC0; Rome, au cimeti&#xE8;re de Pr&#xE9;textat sur la voie Appienne, les saints martyrs Tiburce, Val&#xE9;rien et Maxime. </para><para>2. &#xC0; Antioche de Syrie, au IVe si&#xE8;cle, les saintes martyres Bernice et Prosdoc&#xE9;, vierges, avec leur m&#xE8;re Domine. Au temps de la pers&#xE9;cution, pour &#xE9;chapper &#xE0; leurs poursuivants qui en voulaient &#xE0; leur pudeur, elles cherch&#xE8;rent leur salut dans la fuite et trouv&#xE8;rent enfin leur martyre dans le fleuve.</para><para>3. Dans le d&#xE9;sert de Nitrie en &#xC9;gypte, au IVe si&#xE8;cle, saint Fronton, abb&#xE9;, qui se retira dans ce d&#xE9;sert avec environ soixante-dix compagnons. </para><para>4*. &#xC0; Elphin en Irlande, au Ve si&#xE8;cle, saint Asicus, &#xE9;v&#xEA;que, dont on dit qu&#x2019;il fut disciple de saint Patrice et premier &#xE9;v&#xEA;que de cette &#xC9;glise. </para><para>5. &#xC0; Alexandrie, en 476, sainte Thoma&#xEF;de, martyre de la chastet&#xE9;. </para><para>6*. &#xC0; Lyon, vers 688, saint Lambert, &#xE9;v&#xEA;que, qui fut auparavant moine puis abb&#xE9; de Fontenelle. </para><para>7*. &#xC0; Montemarano en Campanie, au XIe ou XIIe si&#xE8;cle, saint Jean, &#xE9;v&#xEA;que, qui, dit-on, travaillait lui-m&#xEA;me &#xE0; d&#xE9;fricher la terre pour nourrir les pauvres et montrer aux clercs un moyen de se sanctifier. </para><para>8*. Au monast&#xE8;re de Tiron pr&#xE8;s de Chartres, en 1117, saint Bernard, abb&#xE9;, qui mena d&#x2019;abord une vie d&#x2019;ermite en divers endroits, en for&#xEA;t et &#xE0; l&#x2019;&#xEE;le Chausey, mais, des disciples venant &#xE0; lui en foule, il se fixa avec eux dans la for&#xEA;t de Tiron, les forma et les conduisit &#xE0; la perfection selon l&#x2019;&#xC9;vangile. </para><para>9*. &#xC0; Avignon, en 1184, saint B&#xE9;nezet (Beno&#xEE;t), jeune berger, gr&#xE2;ce &#xE0; qui, avec l&#x2019;aide du Seigneur, fut construit sur le Rh&#xF4;ne un pont tr&#xE8;s utile aux habitants de la ville. Il mourut &#xE0; dix-neuf ans et son corps fut d&#xE9;pos&#xE9; sur le pont. </para><para>10*. &#xC0; Tuy en Galice, l&#x2019;an&#xA0;1246, le bienheureux Pierre Gonzalez, appel&#xE9; Telme par les marins, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs. Il devint aussi humble qu&#x2019;il avait recherch&#xE9; la gloire et se d&#xE9;pensa pour venir en aide aux mis&#xE9;reux, surtout aux marins et p&#xEA;cheurs. </para><para>11*. &#xC0; Schiedam en Hollande, l&#x2019;an&#xA0;1453, sainte Lidwine, vierge, qui supporta avec patience pendant presque toute sa vie les infirmit&#xE9;s corporelles pour la conversion des p&#xE9;cheurs et la lib&#xE9;ration des &#xE2;mes. </para><para>12*. &#xC0; Cuevas de Vinroma en Espagne, l&#x2019;an&#xA0;1937, la bienheureuse Isabelle Calduch Rovira, vierge, clarisse capucine et martyre, victime de la pers&#xE9;cution religieuse au cours de la guerre civile. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXXI per annum</la><fr>XXXI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XXXI per annum</la><fr>XXXI&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_XXXI_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XXXI_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XXXI_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XXXI_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ 
+<ant1>AN_Mirabilis_in_altis</ant1>
+ 
+<ps1>ps92</ps1>
+ 
+<ant2>AN_Laudabilis_es_Domine</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Laudate_Dominum_de</ant3>
+ 
+<ps3>ps148</ps3>
+ 
+<LB_matin>LB_Ez_37,12b-14</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin>  
+<benedictus>AN_Hodie_salus_domui</benedictus> 
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Omnipotens_et_misericors_Deus_de_cuius</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_De_tribulatione_invocavi</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Dextera_Domini_fecit</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Rom_8_15-16</LB_3>
+ 
+<RB_3>VERS_Apud_te_Domine</RB_3>
+ 
+<LB_6>LB_Rom_8,_22-23</LB_6>
+ 
+<RB_6>VERS_Benedic_anima</RB_6>
+ 
+<LB_9>LB_2Tim1,9</LB_9>
+ 
+<RB_9>VERS_Deduxit_eos_Dominus</RB_9>
+ 
+<oratio_3>COL_Omnipotens_et_misericors_Deus_de_cuius</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_et_misericors_Deus_de_cuius</oratio_6>
+ 
+<oratio_9>COL_Omnipotens_et_misericors_Deus_de_cuius</oratio_9>
+ 
+<intitule_soir><la>Dominica XXXI per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+ 
+<ant7>AN_Dixit_Dominus_Domino</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Memoriam_fecit_mirabilium</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_1_Petr1,3-5</LB_soir>
+ 
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+ 
+<magnificat>AN_Venit_Filius_hominis</magnificat>
+ 
+<vepres_preces>perannum_31</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_et_misericors_Deus_de_cuius</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Ne_derelinquas_me</IN>
+<IN_L>IN_L_perannum_31</IN_L>
+<COL>COL_perannum_31</COL>
+<LEC>LEC_Sg11,22-12,2</LEC>
+<PS1>GR_Suscepimus</PS1>
+<LEC2>LEC_2Th1,11-2,2</LEC2>
+
+<PS2>AL_Verbo_Domini</PS2>
+<EV>EV_Lc19,1-10</EV>
+<OF>OF_Benedic_anima_mea</OF>
+<SO>SO_perannum_31</SO>
+<CO>CO_Notas_mihi_fecisti</CO>
+<CO_L>CO_L_perannum_31</CO_L>
+<PC>PC_perannum_31</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Martin de Porr&#xE8;s, religieux</intitule>
+ <biographiecourte>Dominicain &#xE0; Lima, il rayonna de simplicit&#xE9; et de charit&#xE9;. Il est v&#xE9;n&#xE9;r&#xE9; par tous les Indiens et les Noirs d'Am&#xE9;rique (&#x2020;1639)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 3 novembre</para><para>(En Belgique et au Luxembourg, m&#xE9;moire de saint Hubert, &#xE9;v&#xEA;que. Texte le 30 mai n&#xA0;5.)</para><para>1. M&#xE9;moire de saint Martin de Porr&#xE8;s, religieux dominicain. N&#xE9; hors mariage &#xE0; Lima, au P&#xE9;rou, d&#x2019;un chevalier espagnol et d&#x2019;une mul&#xE2;tresse, il dut traverser les difficult&#xE9;s provenant de sa condition de fils ill&#xE9;gitime et de sang m&#xEA;l&#xE9;, mais d&#xE8;s son enfance il apprit l&#x2019;art des m&#xE9;dicaments, qu&#x2019;il exer&#xE7;a ensuite largement, devenu religieux, en faveur des pauvres, menant une vie dure et humble de p&#xE9;nitence et de pri&#xE8;re, irradi&#xE9;e de charit&#xE9;, jusqu&#x2019;&#xE0; sa mort en 1639.</para><para>2. &#xC0; C&#xE9;sar&#xE9;e de Cappadoce, les saints martyrs Germain, Th&#xE9;ophile et Cyrille, pr&#xEA;tre.</para><para>3*. &#xC0; Agrigente en Sicile, saint Libertin, &#xE9;v&#xEA;que et martyr.</para><para>4*. Dans le Lauragais, saint Papoul, v&#xE9;n&#xE9;r&#xE9; comme martyr. </para><para>5. en Tuscia, en Italie, Saint Valentin, pr&#xEA;tre et saint Hilaire diacre, martyrs</para><para>6*. En Bretagne, au VIe si&#xE8;cle, saint Gu&#xE9;na&#xEB;l, abb&#xE9;. </para><para>7. &#xC0; Rome, comm&#xE9;moraison de sainte Sylvie, m&#xE8;re du pape saint Gr&#xE9;goire le Grand. Celui-ci rapporte lui-m&#xEA;me, dans ses &#xE9;crits, qu&#x2019;elle atteignit le sommet de la pri&#xE8;re et de la p&#xE9;nitence et qu&#x2019;elle fut un exemple excellent pour les autres. Elle mourut vers 590.</para><para>8. Au monast&#xE8;re d&#x2019;Hornbach pr&#xE8;s de Strasbourg, vers 755, la mise au tombeau de saint Pirmin, &#xE9;v&#xEA;que et abb&#xE9; de Reichenau, qui &#xE9;vang&#xE9;lisa les Alamans et les Bavarois et composa &#xE0; l&#x2019;intention de ses disciples un manuel de cat&#xE9;ch&#xE8;se pour les gens simples. </para><para>9. Au monast&#xE8;re d&#x2019;Antidium en Bithynie, l&#x2019;an&#xA0;846, saint Joannice, moine. Apr&#xE8;s plus de vingt ans dans l&#x2019;arm&#xE9;e, il mena une vie solitaire dans diverses for&#xEA;ts de l&#x2019;Olympe et aimait prolonger sa pri&#xE8;re par ces mots&#xA0;: &#x201C;Dieu mon esp&#xE9;rance, Christ mon refuge, Esprit Saint mon protecteur&#x201D;. </para><para>10*. &#xC0; Alem en Flandre, comm&#xE9;moraison de sainte Odrade, vierge, au XIe si&#xE8;cle. </para><para>11. &#xC0; Urgel en Catalogne, l&#x2019;an&#xA0;1035, saint Ermengaud, &#xE9;v&#xEA;que, qui fut l&#x2019;un des remarquables pr&#xE9;lats qui veill&#xE8;rent &#xE0; restaurer l&#x2019;&#xC9;glise sur les terres lib&#xE9;r&#xE9;es des Maures. Lui-m&#xEA;me travaillait de ses propres mains &#xE0; construire un pont, lorsqu&#x2019;il fit une chute et mourut, le cr&#xE2;ne bris&#xE9; sur des pierres. </para><para>12*. Chez les Marses dans les Abruzzes, en 1130, saint B&#xE9;rard, &#xE9;v&#xEA;que, pasteur z&#xE9;l&#xE9; pour extirper la simonie, pour r&#xE9;tablir la discipline du clerg&#xE9;, pour aider et prot&#xE9;ger les pauvres.</para><para>13*. &#xC0; Cudot au pays de Sens, en 1211, la bienheureuse Alpais, vierge. Bris&#xE9;e toute jeune par le travail, atteinte d&#x2019;un mal repoussant, abandonn&#xE9;e par les siens, elle v&#xE9;cut recluse dans une cellule jusqu&#x2019;&#xE0; sa vieillesse, dans l&#x2019;intimit&#xE9; du Christ et de sa m&#xE8;re.</para><para>14*. Pr&#xE8;s de Fischingen en Suisse, sans doute au XIIe si&#xE8;cle, sainte Ida, recluse. </para><para>15*. &#xC0; Rimini sur la c&#xF4;te d&#x2019;&#xC9;milie, vers 1329, le bienheureux Simon Balacchi, religieux de l&#x2019;Ordre des Pr&#xEA;cheurs, qui mena une vie tout enti&#xE8;re consacr&#xE9;e au service de ses fr&#xE8;res, &#xE0; la p&#xE9;nitence et &#xE0; la pri&#xE8;re. </para><para>16. &#xC0; Milan, en 1584, la naissance au ciel de saint Charles Borrom&#xE9;e, &#xE9;v&#xEA;que, dont la m&#xE9;moire sera c&#xE9;l&#xE9;br&#xE9;e demain. </para><para>17. &#xC0; Xa Doai au Tonkin, en 1860, saint Pierre-Fran&#xE7;ois N&#xE9;ron, pr&#xEA;tre des Missions &#xE9;trang&#xE8;res de Paris et martyr. Sous l&#x2019;empereur Tu Duc, il v&#xE9;cut trois mois enferm&#xE9; dans une cage minuscule, atrocement battu de verges, priv&#xE9; de tout aliment pendant trois semaines et finalement d&#xE9;capit&#xE9;, achevant ainsi son martyre. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Italie, en 1876, la bienheureuse Teresa Manganiello, tertiaire franciscaine. (b&#xE9;atifi&#xE9;e le 22 mai 2010 par Beno&#xEE;t XVI)</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1971, le bienheureux Manuel Lozano Garrido, la&#xEF;c et journaliste chr&#xE9;tien, invalide. (b&#xE9;atifi&#xE9; le 12 juin 2010 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

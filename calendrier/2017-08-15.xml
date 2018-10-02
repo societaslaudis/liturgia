@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>4</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XIX per annum</la><fr>XIX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>IN ASSUMPTIONE B. MARIAE VIRGINIS</la><fr>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</fr></intitule>
+<rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_adoremus_Regem</invitatoire>
+
+<HYMNUS_lectures>HY_Aurora_velut_fulgida</HYMNUS_lectures>
+
+<HYMNUS_lec_jour/>
+
+<antL1>AN_Exsurgit_Deus_et</antL1>
+
+<psL1>ps67I</psL1>
+
+<antL2>AN_Deus_noster_Deus</antL2>
+
+<psL2>ps67II</psL2>
+
+<antL3>AN_Regna_terrae_cantate</antL3>
+
+<psL3>ps67III</psL3>
+
+<LVers>VERS_Audiam_quid</LVers>
+n<Llec1>L1_IN_ASSUMPTIONE_B._MARIAE_VIRGINIS</Llec1>
+
+<Lrep1>R1_IN_ASSUMPTIONE_B._MARIAE_VIRGINIS</Lrep1>
+
+<Llec2>L2_IN_ASSUMPTIONE_B._MARIAE_VIRGINIS</Llec2>
+
+<Lrep2>R2_IN_ASSUMPTIONE_B._MARIAE_VIRGINIS</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Solis_o_Virgo_radiis_amicta</HYMNUS_laudes>
+ 
+<ant1>AN_Beata_es_Maria</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Exaltata_est_Virgo</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Nomen_tuum_ita</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Cf._Is_61_10</LB_matin> 
+ 
+<RB_matin>RB_Hodie_Maria_Virgo_Ad_caelos</RB_matin>  
+<benedictus>AN_Pulchra_es</benedictus> 
+<laudes_preces>ASSUMPTIONE</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_immaculatam_Virginem</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Quasi_cedrus_exaltata</ant4>
+ 
+<ps4>ps122</ps4>
+ 
+<ant5>AN_Caeli_reginam_Maria</ant5>
+ 
+<ps5>ps123</ps5>
+ 
+<ant6>AN_Exaltata_est_sancta</ant6>
+ 
+<ps6>ps124</ps6>
+ 
+<LB_3>LB_Iudt_13_17-18</LB_3>
+ 
+<RB_3>VERS_Assumpta_est_Maria_in_caelum</RB_3>
+ 
+<LB_6>LB_Ap_12_1</LB_6>
+ 
+<RB_6>VERS_Exaltata_est_sancta_Dei_Genetrix</RB_6>
+ 
+<LB_9>LB_2_Cor_5_1</LB_9>
+ 
+<RB_9>VERS_Maria_Virgo_assumpta_est_ad</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+ 
+<intitule_soir><la>IN ASSUMPTIONE B. MARIAE VIRGINIS</la></intitule_soir>
+ 
+<rang_soir><la>Sollemnitas</la></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Gaudium_mundi_nova_stella_caeli</HYMNUS_vepres>
+ 
+<ant7>AN_Assumpta_est_Maria</ant7>
+ 
+<ps7>ps121</ps7>
+ 
+<ant8>AN_Maria_Virgo_assumpta</ant8>
+ 
+<ps8>ps126</ps8>
+ 
+<ant9>AN_Benedicta_filia_tu</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_1_Cor_15_22-23</LB_soir>
+ 
+<RB_soir>RB_Maria_Virgo_exaltata_est_Super</RB_soir>
+ 
+<magnificat>AN_Beatam_me_dicent_omnes_generationes</magnificat>
+ 
+<vepres_preces>ASSUMPTIONE</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_immaculatam_Virginem</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	 
+<comp_ps1>ps90</comp_ps1>
+	 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>Ad missam in vigilia
+</Intitule_messe>
+<IN>IN_Vultum_tuum</IN>
+<PS1>GR_Benedicta_et_venerabilis</PS1>
+<PS2>AL_Felix_es_sacra_Virgo</PS2>
+<SEQ/>
+<OF>OF_Beata_es_Virgo_Maria</OF>
+<CO>CO_Beata_viscera</CO>
+</messe>
+<messe>
+<Intitule_messe>Ad Missam in Die
+</Intitule_messe>
+<IN>IN_Signum_magnum</IN>
+<IN>IN_Gaudeamus_Mariae</IN>
+<PS1>GR_Audi_filia</PS1>
+<PS2>AL_Assumpta_est_Maria</PS2>
+<SEQ/>
+<OF>OF_Assumpta_est_Maria</OF>
+<CO>CO_Beatam_me_dicent</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule>F&#xE9;ri&#xE9;</intitule></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</intitule>
+ <biographiecourte>Marie entra corps et &#xE2;me dans le paradis</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 15 ao&#xFB;t.</para><para>Solennit&#xE9; de l&#x2019;Assomption de la bienheureuse Vierge Marie, M&#xE8;re de notre Dieu et Seigneur J&#xE9;sus Christ, qui, au terme de sa vie terrestre, fut &#xE9;lev&#xE9;e en son corps et en son &#xE2;me &#xE0; la gloire du ciel. C&#x2019;est la doctrine de foi, re&#xE7;ue de la Tradition de l&#x2019;&#xC9;glise, que le pape Pie XII a d&#xE9;finie solennellement en 1950.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Tarcisius, martyr, et inhum&#xE9; &#xE0; Rome, au cimeti&#xE8;re de Calliste sur la voie Appienne, au IIIe si&#xE8;cle. Comme le rapporte le pape saint Damase, alors que Tarcisius portait le sacrement du Christ, il voulut &#xE9;viter que l&#x2019;Eucharistie soit profan&#xE9;e par la foule furieuse des pa&#xEF;ens et pr&#xE9;f&#xE9;ra &#xEA;tre lapid&#xE9; jusqu&#x2019;&#xE0; la mort plut&#xF4;t que de livrer les choses saintes aux chiens.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nicom&#xE9;die en Bithynie, les saints martyrs Straton, Philippe et Eutychien.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Milan, en 404, saint Simplicien, &#xE9;v&#xEA;que, que saint Ambroise d&#xE9;signa pour lui succ&#xE9;der et que saint Augustin a couvert de louanges.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Alypius, &#xE9;v&#xEA;que de Thagaste en Numidie qui fut disciple et confident de saint Augustin, ensuite son compagnon de conversion, son coll&#xE8;gue dans la charge pastorale, son associ&#xE9; intr&#xE9;pide dans les luttes contre les h&#xE9;r&#xE9;tiques&#xA0;; il partagea enfin son sort dans la patrie du ciel, vers 430.</para><para>6*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Hildesheim en Saxe, l&#x2019;an&#xA0;876, saint Altfrid, &#xE9;v&#xEA;que, qui construisit la cath&#xE9;drale et encouragea l&#x2019;&#xE9;dification de monast&#xE8;res.</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s d&#x2019;Albe-Royale en Pannonie, l&#x2019;an&#xA0;1038, la naissance au ciel de saint , roi de Hongrie, dont la m&#xE9;moire sera c&#xE9;l&#xE9;br&#xE9;e demain.</para><para>8.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cracovie en Pologne, l&#x2019;an&#xA0;1257, saint Hyacinthe, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, que saint Dominique d&#xE9;signa pour propager l&#x2019;Ordre dans ce pays, et qui, avec le bienheureux  et Henri le Germanique, ses compagnons, pr&#xEA;cha l&#x2019;&#xC9;vangile en Boh&#xEA;me et en Sil&#xE9;sie.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Savigliano dans le Pi&#xE9;mont, en 1495, le bienheureux Aymon Taparelli, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, d&#xE9;fenseur inlassable de la v&#xE9;rit&#xE9;.</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Sainte-Marie-du-Mont pr&#xE8;s de Var&#xE8;se, en Lombardie, en 1501, la bienheureuse Julienne de Busto Arsizio, vierge, religieuse converse augustine, remarquable par sa force d&#x2019;&#xE2;me invincible, sa patience admirable et sa contemplation continuelle des r&#xE9;alit&#xE9;s c&#xE9;lestes.</para><para>11.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, en 1568, saint Stanislas Kostka. N&#xE9; en Pologne et d&#xE9;sireux, malgr&#xE9; son p&#xE8;re, d&#x2019;entrer dans la Compagnie de J&#xE9;sus, il prit la fuite pour quitter la maison familiale et gagner Rome &#xE0; pied. L&#xE0;, saint Fran&#xE7;ois de Borgia l&#x2019;admit au noviciat, mais, arriv&#xE9; au but en peu de temps, il mourut rayonnant d&#x2019;une saintet&#xE9; pr&#xE9;coce, &#xE0; l&#x2019;&#xE2;ge de dix-huit ans.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Wenga, pr&#xE8;s de Busira au Congo belge, en 1909, le bienheureux Isidore Bankanja, martyr. Devenu chr&#xE9;tien &#xE0; l&#x2019;adolescence, il entretint soigneusement sa foi et en t&#xE9;moigna sans peur dans son travail, &#xE0; tel point que le directeur de la colonie lui fit subir longuement la flagellation en haine de la religion chr&#xE9;tienne et, au bout de quelques jours, Isidore rendit l&#x2019;&#xE2;me en pardonnant &#xE0; son pers&#xE9;cuteur.</para><para>13.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Chalchihuites, sur le territoire de Durango au Mexique, en 1926, les saints martyrs Louis Batis Sainz, pr&#xEA;tre, Emmanuel Morales, p&#xE8;re de famille, Sauveur Lara Puente et David Roldan Lara, fusill&#xE9;s par des soldats en haine du nom chr&#xE9;tien durant la pers&#xE9;cution en ce pays.</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, durant la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, en Aragon, le bienheureux Louis Masferrer Vila, pr&#xEA;tre, missionnaire fils du C&#x153;ur immacul&#xE9; de Marie.</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, durant la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, dans la r&#xE9;gion du Levant, le bienheureux Joseph-Marie Peris Polo, de la Fraternit&#xE9; des pr&#xEA;tres ouvriers dioc&#xE9;sains, fusill&#xE9; dans le cimeti&#xE8;re d&#x2019;Almazora.</para><para>16*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, durant la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, la bienheureuse Marie du Sanctuaire de Saint-Louis de Gonzague (Elvire Moragas Cantarero), vierge carm&#xE9;lite.</para><para>17*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, durant la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, &#xE0; Madrid, le bienheureux Dominique (Augustin Hurtado Soler), pr&#xEA;tre du Tiers-Ordre franciscain.</para><para>18*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, durant la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, en Andalousie, le bienheureux Vincent Soler, pr&#xEA;tre augustin, qui pr&#xE9;para d&#x2019;autres, prisonniers comme lui, &#xE0; mourir pieusement et fut fusill&#xE9; devant le mur du cimeti&#xE8;re de Motril, pr&#xE8;s de Grenade.</para><para>19*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, durant la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, &#xE0; Palma de Gandia, au pays de Valence, le bienheureux Carmel Sastre Sastre.</para><para>20*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, durant la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, en Catalogne, le bienheureux Jacques Bonet Nadal, pr&#xEA;tre sal&#xE9;sien, tu&#xE9; &#xE0; Tarrega pr&#xE8;s de Barcelone</para><para>21*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pavie, en Italie, le bienheureux Claude Granzotto, religieux</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

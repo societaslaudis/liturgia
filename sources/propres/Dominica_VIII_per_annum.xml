@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica VIII per annum</la>
+<fr>VIII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+
+<HYMNUS_1V id="hy_Rerum_Deus_fons_omnium"/>
+ <ps01 id="ps121"/>
+<ps02 id="ps129"/>
+<ps03 id="NT5"/>
+<ant01 id="AN_Rogate_quae_ad"/>
+<ant02 id="AN_A_custodia_matutina"/>
+<ant03 id="AN_In_nomine_Iesu"/>
+<LB_1V id="LB_2_Petr_1_19-21"/>
+<RB_1V id="RB_A_solis_ortu"/>
+
+<magnificat1_A id="AN_Respicite_volatilia_caeli"/>
+<magnificat1_B id="AN_Quanto_tempore_habent"/>
+<magnificat1_C id="AN_Eice_primum_trabem"/>
+<oratio id="COL_Da_nobis_quaesumus_Domine_ut_et"/>
+<oratio_3 id="COL_Da_nobis_quaesumus_Domine_ut_et"/>
+<oratio_6 id="COL_Da_nobis_quaesumus_Domine_ut_et"/>
+<oratio_9 id="COL_Da_nobis_quaesumus_Domine_ut_et"/>
+
+<benedictus_A id="AN_Nolite_solliciti_esse"/>
+<benedictus_B id="AN_Loquar_ad_cor"/>
+<benedictus_C id="AN_Non_potest_arbor"/>
+<magnificat_A id="AN_Quaerite_primum_regnum"/>
+<magnificat_B id="AN_Nemo_mittit_vinum"/>
+<magnificat_C id="AN_Bonus_homo_de"/>
+</liturgia>

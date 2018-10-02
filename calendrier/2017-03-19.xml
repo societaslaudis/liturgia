@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>2</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Quadragesimae</la><fr>Temps du Car&#xEA;me</fr></tempus>
+<hebdomada><la>Hebdomada III Quadragesimae</la><fr>III&#xE8;me semaine de Car&#xEA;me</fr></hebdomada>
+<intitule><la>Dominica III Quadragesimae</la><fr>III&#xE8;me dimanche de Car&#xEA;me</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Per_Singluos_dies</antL1>
+
+<psL1>ps144I</psL1>
+
+<antL2>AN_Regnum_tuum_Domine</antL2>
+
+<psL2>ps144II</psL2>
+
+<antL3>AN_Fidelis_Dominus_in</antL3>
+
+<psL3>ps144III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_III_Quadragesimae</Llec1>
+
+<Lrep1>R1_Dominica_III_Quadragesimae</Lrep1>
+
+<Llec2>L2_Dominica_III_Quadragesimae</Llec2>
+
+<Lrep2>R2_Dominica_III_Quadragesimae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>quadragesima_31-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>quadragesima_31-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>quadragesima_31-NOCT3-A</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Precemur_omnes_cernui</HYMNUS_laudes>
+ 
+<ant1>AN_Super_voces_aquarum</ant1>
+ 
+<ps1>ps92</ps1>
+ 
+<ant2>AN_Benedicite_fontes_Domino;</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Reges_terrae_et</ant3>
+ 
+<ps3>ps148</ps3>
+ 
+<LB_matin>LB_Neh_8_9b._l0b</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi_</RB_matin>  
+<benedictus>AN_Venit_hora_et</benedictus> 
+<laudes_preces>quadragesima_31</laudes_preces><oratio_laudes>COL_Deus_omnium_misericordiarum_et_totius_bonitatis</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+ 
+ 
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Vivo_ego_dicit</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Per_arma_iustitiae</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_1_Th_4_1._7</LB_3>
+ 
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+ 
+<LB_6>LB_Is_30_15._18</LB_6>
+ 
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+ 
+<LB_9>LB_Deut_4_29-31</LB_9>
+ 
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+ 
+<oratio_3/>
+ 
+<oratio_6/>
+ 
+<oratio_9/>
+ 
+<intitule_soir><la>Dominica III Quadragesimae</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Audi_benigne_Conditor</HYMNUS_vepres>
+ 
+<ant7>AN_Paenitemini_et_credite</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Sacrificabo_hostiam_laudis</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Nemo_tollit_a</ant9>
+ 
+<ps9>NT8</ps9>
+ 
+<LB_soir>LB_2_Cor_6_1-4a</LB_soir>
+ 
+<RB_soir>RB_Attende_Domine_et_miserere_Quia</RB_soir>
+ 
+<magnificat>AN_Multo_plures_crediderunt</magnificat>
+ 
+<vepres_preces>quadragesima_31</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_omnium_misericordiarum_et_totius_bonitatis</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Ave_regina_caelorum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Dum_sanctificatus_fuero</IN>
+<COL>COL_Deus_omnium_misericordiarum_et_totius_bonitatis</COL>
+<LEC>LEC_Ex17,3-7</LEC>
+<PS1>GR_Exsurge_non_praelevat</PS1>
+<LEC2>LEC_Rm5,1-2.5-8</LEC2>
+
+<PS2>TR_Ad_te_levavi</PS2>
+<EV>EV_Jn4,5-42</EV>
+<OF>OF_Iustitiae_Domini</OF>
+<PRE>PRE_Pr&#xE9;facepropreouIouII</PRE>
+<CO>CO_Qui_biberit_aquam</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>St Cyrille de J&#xE9;rusalem</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>ST JOSEPH, &#xC9;POUX DE LA BIENHEUREUSE VIERGE MARIE</intitule>
+ <biographiecourte>Homme juste, gardien des myst&#xE8;res du Salut</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Bx Marcel Callo</intitule>
+ <biographiecourte/>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 19 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; Solennit&#xE9; de saint Joseph, &#xE9;poux de la bienheureuse Vierge Marie. Il fut l&#x2019;homme juste, issu de la famille de David, qui a servi de p&#xE8;re au Fils de Dieu, le Christ J&#xE9;sus, qui a voulu &#xEA;tre appel&#xE9; fils de Joseph et lui a &#xE9;t&#xE9; soumis comme un fils &#xE0; son p&#xE8;re. L&#x2019;&#xC9;glise v&#xE9;n&#xE8;re d&#x2019;une mani&#xE8;re toute sp&#xE9;ciale le patron que le Seigneur a &#xE9;tabli sur toute sa famille. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Jean, abb&#xE9; de Parrano, au dioc&#xE8;se de Spol&#xE8;te en Ombrie, au VIe si&#xE8;cle. Originaire de Syrie, il fut pendant plus de quarante ans le p&#xE8;re d&#x2019;un grand nombre de serviteurs de Dieu. </para><para>3*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pavie en Lombardie, l&#x2019;an&#xA0;1244, le bienheureux Isnard de Chiampo, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, qui fonda dans cette ville un couvent de son Ordre. </para><para>4*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Sienne en Toscane, l&#x2019;an&#xA0;1251, le bienheureux Andr&#xE9; Gallerani, qui visita avec soin et consola les malades et les afflig&#xE9;s. Il rassembla aussi les Fr&#xE8;res de la Mis&#xE9;ricorde, des la&#xEF;cs sans v&#x153;ux, qui devaient servir les pauvres et les malades. </para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Camerino dans les Marches, en 1289, le bienheureux Jean Buralli de Parme, pr&#xEA;tre de l&#x2019;Ordre des Mineurs, que le pape Innocent IV envoya comme l&#xE9;gat chez les Grecs, pour r&#xE9;tablir leur communion avec les Latins. </para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pavie en Lombardie, l&#x2019;an&#xA0;1367, la bienheureuse Sibylline Biscossi, vierge, s&#x153;ur de la P&#xE9;nitence de Saint Dominique. Priv&#xE9;e de la vue &#xE0; l&#x2019;&#xE2;ge de douze ans, elle v&#xE9;cut soixante-cinq ans en recluse pr&#xE8;s de l&#x2019;&#xE9;glise des Pr&#xEA;cheurs, &#xE9;clairant d&#x2019;une lumi&#xE8;re int&#xE9;rieure des visiteurs de plus en plus nombreux qui avaient recours &#xE0; elle. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Vicence en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1496, le bienheureux Marc de Montegallo, pr&#xEA;tre de l&#x2019;Ordre des Mineurs, qui fut le cr&#xE9;ateur des &#x201C;Mont-de-pi&#xE9;t&#xE9;&#x201D;, &#x153;uvre destin&#xE9;e &#xE0; rem&#xE9;dier aux mis&#xE8;res des pauvres. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, le bienheureux Narcisse Turchan, pr&#xEA;tre de l&#x2019;Ordre des Fr&#xE8;res Mineurs et martyr, qui fut d&#xE9;port&#xE9; &#xE0; cause de sa foi quand la Pologne fut soumise au r&#xE9;gime nazi, et succomba aux tourments du camp. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; Au camp de concentration de Mauthausen en Autriche, l&#x2019;an&#xA0;1945, le bienheureux Marcel Callo, martyr. Jeune ouvrier de Rennes requis en Allemagne, pendant la guerre, au titre du service de travail obligatoire, puis intern&#xE9;, il r&#xE9;confortait par sa foi ardente, ses cod&#xE9;tenus &#xE0; bout de forces &#xE0; cause des travaux p&#xE9;nibles, et fut pour cela r&#xE9;duit &#xE0; la mort. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

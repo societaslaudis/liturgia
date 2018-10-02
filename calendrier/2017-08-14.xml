@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>10</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XIX per annum</la><fr>XIX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Maximiliani Mariae Kolbe, presbyteri et martyris</la><fr>St Maximilien-Marie Kolbe, pr&#xEA;tre et martyr</fr></intitule>
+<rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_martyrum_Dominum</invitatoire>
+
+<HYMNUS_lectures>hy_Somno_refectis_artubus</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Aterna_lux_divinitas</HYMNUS_lec_jour>
+
+<antL1>AN_Deus_noster_manifeste</antL1>
+
+<psL1>ps49I</psL1>
+
+<antL2>AN_Immola_Deo_sacrificium</antL2>
+
+<psL2>ps49II</psL2>
+
+<antL3>AN_Misericordiam_volui_et</antL3>
+
+<psL3>ps49III</psL3>
+
+<LVers>VERS_Audi_popule</LVers>
+n<Llec1>L1_S._Maximiliani_Mariae_Kolbe_presbyteri_et_martyris</Llec1>
+
+<Lrep1>R1_S._Maximiliani_Mariae_Kolbe_presbyteri_et_martyris</Lrep1>
+
+<Llec2>L2_S._Maximiliani_Mariae_Kolbe_presbyteri_et_martyris</Llec2>
+
+<Lrep2>R2_S._Maximiliani_Mariae_Kolbe_presbyteri_et_martyris</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Martyr_Dei</HYMNUS_laudes>
+ 
+<ant1>AN_Beati_qui_habitant</ant1>
+ 
+<ps1>ps83</ps1>
+ 
+<ant2>AN_Venite_et_ascendamus</ant2>
+ 
+<ps2>AT17</ps2>
+ 
+<ant3>AN_Cantate_Domino_benedicite</ant3>
+ 
+<ps3>ps95</ps3>
+ 
+<LB_matin>LB_2_Cor_1_3-5</LB_matin> 
+ 
+<RB_matin>RB_Fortitudo_mea_Et_laus</RB_matin>  
+<benedictus>AN_Magnificabitur_Christus_in</benedictus> 
+<laudes_preces>perannum_32</laudes_preces><oratio_laudes>COL_Deus_qui_sanctum_Maximilianum_Mariam_presbyterum</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Mandata_tua_exquisivi</ant4>
+ 
+<ps4>ps118XII</ps4>
+ 
+<ant5>AN_Domine_spes_mea</ant5>
+ 
+<ps5>ps70I</ps5>
+ 
+<ant6>AN_Usque_in_senectam</ant6>
+ 
+<ps6>ps70II</ps6>
+ 
+<LB_3>LB_2_Cor_13_11</LB_3>
+ 
+<RB_3>VERS_Oculi_Domini</RB_3>
+ 
+<LB_6>LB_Rom_6_22</LB_6>
+ 
+<RB_6>VERS_Deus_tu</RB_6>
+ 
+<LB_9>LB_Col_1_21-22</LB_9>
+ 
+<RB_9>VERS_Psallite_Domino</RB_9>
+ 
+<oratio_3>COL_Deus_Pater_optime_qui_laborem_hominibus</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_messis_ac_vineae_dominus</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_nos_advocas_illa_hora</oratio_9>
+ 
+<intitule_soir><la>IN ASSUMPTIONE BEAT&#xC6; MARI&#xC6; VIRGINIS</la></intitule_soir>
+ 
+<rang_soir><la>Sollemnitas</la></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Gaudium_mundi_nova_stella_caeli</HYMNUS_vepres>
+ 
+<ant7>AN_Ascendit_Christus_super</ant7>
+ 
+<ps7>ps112</ps7>
+ 
+<ant8>AN_Paradisi_porta_per</ant8>
+ 
+<ps8>ps147</ps8>
+ 
+<ant9>AN_Exaltata_est_Virgo</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_Rom_8_30</LB_soir>
+ 
+<RB_soir>RB_Assumpta_est_Maria_in_caelum</RB_soir>
+ 
+<magnificat>AN_Domine_Deus_omnipotens</magnificat>
+ 
+<vepres_preces>ASSUMPTIONE</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_immaculatam_Virginem</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+	 
+<comp_ps1>ps4</comp_ps1>
+	 
+<comp_ant2>AN_In_noctibus</comp_ant2>
+	 
+<comp_ps2>ps133</comp_ps2>
+	 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+	 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	 
+<comp_AM>AM_Sub_tuum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Sacerdotes_Dei</IN>
+<COL>COL_Deus_qui_sanctum_Maximilianum_Mariam_presbyterum</COL>
+<PS1>GR_Si_ambulem</PS1>
+<PS2>AL_Beatus_vir_qui_suffert</PS2>
+<OF>OF_Deus_Deus_meus</OF>
+<CO>CO_Et_si_coram_hominibus</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Maximilien-Marie Kolbe, pr&#xEA;tre et martyr</intitule>
+ <biographiecourte>Pr&#xEA;tre franciscain, "homme de l'Immacul&#xE9;e Conception&#xA0;", il donna sa vie &#xE0; Auschwitz en 1941 </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 14 ao&#xFB;t.</para><para>M&#xE9;moire de saint Maximilien-Marie Kolbe, pr&#xEA;tre franciscain conventuel et martyr. Fondateur de la Milice de Marie immacul&#xE9;e, il fut d&#xE9;port&#xE9; pendant la Seconde Guerre mondiale dans diff&#xE9;rents lieux d&#x2019;internement, pour finir au camp d&#x2019;extermination d&#x2019;Auschwitz, pr&#xE8;s de Cracovie, o&#xF9; il se livra aux bourreaux &#xE0; la place d&#x2019;un co-d&#xE9;tenu, en 1941, achevant ainsi sa vie d&#x2019;apostolat comme un sacrifice de charit&#xE9; et un exemple de fid&#xE9;lit&#xE9; &#xE0; Dieu et aux hommes.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; Dans l&#x2019;Illyricum, au IVe si&#xE8;cle, saint Ursicin, martyr.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Apam&#xE9;e en Syrie, vers 390, saint Marcel, &#xE9;v&#xEA;que et martyr. Ayant renvers&#xE9; un temple de Jupiter, il fut massacr&#xE9; par les pa&#xEF;ens furieux.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, peut-&#xEA;tre au IVe si&#xE8;cle, saint Eus&#xE8;be, fondateur du titre de son nom sur l&#x2019;Esquilin.</para><para>5*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ross en Irlande, au VIe si&#xE8;cle, saint Fachanan, &#xE9;v&#xEA;que et abb&#xE9;, qui &#xE9;tablit en ce lieu un monast&#xE8;re, &#xE9;cole c&#xE9;l&#xE8;bre en sciences divines et humaines.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ondenbourg en Flandre, l&#x2019;an&#xA0;1087, le tr&#xE9;pas de saint Arnoul, &#xE9;v&#xEA;que de Soissons. De soldat devenu moine, puis &#xE9;v&#xEA;que, il se d&#xE9;pensa en faveur de la paix et de la concorde, et mourut dans le monast&#xE8;re qu&#x2019;il avait fait construire.</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Mombaroccio dans les Marches, en 1390, le bienheureux Sanct&#xE8;s d&#x2019;Urbino, fr&#xE8;re convers franciscain.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Otrante dans les Pouilles, en 1480, saint Antonio Primaldo et huit cents martyrs, qui furent emmen&#xE9;s hors les murs par les Turcs, quand ceux-ci s&#x2019;empar&#xE8;rent de la ville, et somm&#xE9;s de renier leur foi. Encourag&#xE9;s par l&#x2019;un d&#x2019;eux, Antoine Primaldo, un tisserand &#xE2;g&#xE9;, &#xE0; pers&#xE9;v&#xE9;rer dans la foi du Christ, ils pr&#xE9;f&#xE9;r&#xE8;rent se laisser &#xE9;gorger, et re&#xE7;urent la couronne du martyre. (canonis&#xE9;s le 12 mai 2013 par le pape Fran&#xE7;ois)</para><para>9.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nagasaki au Japon, en 1633, les saints martyrs Dominique Iba&#xF1;ez de Erquicia, pr&#xEA;tre dominicain, et Fran&#xE7;ois Shoyemon, coop&#xE9;rateur des Fr&#xE8;res pr&#xEA;cheurs et cat&#xE9;chiste, mis &#xE0; mort sous le chef supr&#xEA;me Tokugava Yemitsu, en haine du nom chr&#xE9;tien.</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Coriano en &#xC9;milie, l&#x2019;an&#xA0;1859, la bienheureuse &#xC9;lisabeth Renzi, vierge, fondatrice des Ma&#xEE;tresses religieuses de la Vierge des douleurs, qui porta toute son attention &#xE0; donner dans ses &#xE9;coles une formation humaine et chr&#xE9;tienne aux jeunes filles pauvres.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; Dans la r&#xE9;gion de Valence en Espagne, en 1936, &#xE0; Picassent, le bienheureux Vincent Rubiols Castello, pr&#xEA;tre et martyr, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; Dans la r&#xE9;gion de Valence en Espagne, en 1936, &#xE0; El Saler, le bienheureux F&#xE9;lix Yuste Cava, pr&#xEA;tre et martyr, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

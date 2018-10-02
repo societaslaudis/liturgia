@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 14 decembris </la>
+<fr>Le 14 d&#xE9;cembre</fr>
+</jour>
+<intitule>
+<la>S. IOANNIS A CRUCE, PRESBYTERI ET ECCLESI&#xC6; DOCTORIS </la>
+<fr>S. JEAN JEAN DE LA CROIX, PRETRE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Fontem_sapientiae_Dominum"/>
+<HYMNUS_laudes id="hy_Doctor_aeternus_coleris_piusque"/>
+<LB_matin id="LB_Sap_7_13-14"/>
+<RB_matin id="RB_Sapientiam_sanctorum_Narrent_populi"/>
+<benedictus id="AN_Qui_docti_fuerint"/>
+<oratio id="COL_Deus_qui_sanctum_Ioannem_presbyterum_perfectae"/>
+<oratio_3 id="COL_Deus_qui_sanctum_Ioannem_presbyterum_perfectae"/>
+<oratio_6 id="COL_Deus_qui_sanctum_Ioannem_presbyterum_perfectae"/>
+<oratio_9 id="COL_Deus_qui_sanctum_Ioannem_presbyterum_perfectae"/>
+<HYMNUS_vesperas id="hy_Aterne_sol_qui_lumine"/>
+<LB_soir id="LB_Iac_3_17-18"/>
+<RB_soir id="RB_In_medio_Ecclesiae_Aperuit"/>
+<magnificat id="AN_O_doctor_optime"/>
+<messe>
+	<EV id="EV_Lc14,25-33"/>
+	<LEC id="LEC_1Co2,1-10a"/>
+	<IN id="IN_Os_iusti"/>
+	<COL id="COL_Deus_qui_sanctum_Ioannem_presbyterum_perfectae"/>
+	<PS1 id="GR_Iustus_ut_palma"/>
+	<PS2 id="AL_Beatus_vir_qui_suffert"/>
+	<OF id="OF_Veritas_mea"/>
+	<CO id="CO_Qui_vult_venire"/>
+</messe>
+</liturgia>

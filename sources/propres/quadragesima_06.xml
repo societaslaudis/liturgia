@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_Iam_Christe_sol_iustitiae"/>
+<ant1 id="AN_Cor_mundum_crea"/>
+<ant2 id="AN_Aedificans_Ierusalem_Dominus"/>
+<ant3 id="AN_Benedixit_filis_tuis"/>
+<LB_matin id="LB_Is_53_11b-12"/>
+<RB_matin id="RB_Ipse_liberabit_me_De"/>
+<benedictus id="AN_Quare_ieiunavimus_et"/>
+<oratio id="COL_Inchoata_paenitentiae_opera_quaesumus_Domine_benigno"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_Is_55_3"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_Cf._Ier_3_12b._14a"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<LB_9 id="LB_Iac_1_27"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus"/>
+<HYMNUS_vesperas id="hy_Iesu_quadragenariae"/>
+<ant7 id="AN_Per_singulos_dies"/>
+<ant8 id="AN_Oculi_omnium_in"/>
+<ant9 id="AN_Iustae_et_verae"/>
+<LB_soir id="LB_Iac_5_16._19-20"/>
+<RB_soir id="RB_Ego_dixi_Domine_Miserere"/>
+<magnificat id="AN_Cum_auferetur_ab"/>
+<preces id="quadragesima_06"/>
+<LEC_1_impaire id="Is58,1-9"/><PR_impaire id="Ps51,3"/><LEC_1_paire id="Is58,1-9"/><PR_paire id="Ps51,3"/><EV id="Mt9,14-15"/><LEC_1_impaire id="Is58,1-9"/><PR_impaire id="Ps51,3"/><LEC_1_paire id="Is58,1-9"/><PR_paire id="Ps51,3"/><EV id="Mt9,14-15"/><annoA><IN id="IN_Audivit_Dominus"/><PS1 id="GR_Unam_petii"/><PS2 id=""/><SEQ id=""/><OF id="OF_Domine_vivifica_me"/><CO id="CO_Servite_Domino"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoA><annoB><IN id="IN_Audivit_Dominus"/><PS1 id="GR_Unam_petii"/><PS2 id=""/><SEQ id=""/><OF id="OF_Domine_vivifica_me"/><CO id="CO_Servite_Domino"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoB><annoC><IN id="IN_Audivit_Dominus"/><PS1 id="GR_Unam_petii"/><PS2 id=""/><SEQ id=""/><OF id="OF_Domine_vivifica_me"/><CO id="CO_Servite_Domino"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoC><messe><IN id="IN_Audivit_Dominus"/><LEC><impaire id="LEC_Is58,1-9"/><paire id="LEC_Is58,1-9"/></LEC><PS1 id="GR_Unam_petii"/><PS2 id=""/><EV id="EV_Mt9,14-15"/><OF id="OF_Domine_vivifica_me"/><CO id="CO_Servite_Domino"/></messe></liturgia>

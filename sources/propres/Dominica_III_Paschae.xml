@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica III Paschae</la>
+<fr>III&#xB0; dimanche de P&#xE2;ques</fr>
+</intitule>
+<HYMNUS_1V id="hy_Ad_cenam_Agni_providi"/>
+
+<ant7 id="AN_Excelsus_super_omnes"/>
+<ant8 id="AN_Dirupisti_Domine_vincula"/>
+<ant9 id="AN_Filius_Dei_didicit"/>
+<LB_1V id="LB_1_Petr_2_9-10"/>
+<RB_1V id="RB_Gavisi_sunt_discipuli_Alleluia_alleluia"/>
+<magnificat1_A id="AN_Mane_nobiscum_quoniam"/>
+<magnificat1_B id="AN_Ipse_Iesus_stetit"/>
+<magnificat1_C id="AN_Dixit_Iesus_discipulis"/>
+<oratio id="COL_Semper_exsultet_populus_tuus_Deus_renovata"/>
+<oratio_3 id="COL_Semper_exsultet_populus_tuus_Deus_renovata"/>
+<oratio_6 id="COL_Semper_exsultet_populus_tuus_Deus_renovata"/>
+<oratio_9 id="COL_Semper_exsultet_populus_tuus_Deus_renovata"/>
+<benedictus_A id="AN_Oportebat_Christum_pati"/>
+<benedictus_B id="AN_Videte_manus_meas"/>
+<benedictus_C id="AN_Venit_Iesus_et"/>
+<HYMNUS_vesperas id="hy_Ad_cenam_Agni_providi"/>
+<magnificat_A id="AN_Dum_recumberet_cum"/>
+<magnificat_B id="AN_Sic_scriptum_est"/>
+<magnificat_C id="AN_Simon_Ioannis_amas"/>
+</liturgia>

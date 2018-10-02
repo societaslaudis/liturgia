@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>3</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXXIV per annum</la><fr>XXXIV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>D.N. IESU CHRISTI UNIVERSORUM REGIS</la><fr>N. S. J. C. ROI DE L'UNIVERS</fr></intitule>
+<rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Iesum_Christum_regem</invitatoire>
+
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+
+<antL1>AN_Domine_Deus_meus</antL1>
+
+<psL1>ps103I</psL1>
+
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+
+<psL2>ps103II</psL2>
+
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+
+<psL3>ps103III</psL3>
+
+<LVers/>
+n<Llec1>L1_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Llec1>
+
+<Lrep1>R1_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Lrep1>
+
+<Llec2>L2_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Llec2>
+
+<Lrep2>R2_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aterna_imago_Altissimi</HYMNUS_laudes>
+ 
+<ant1>AN_Ecce_vir_Oriens</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Magnificabitur_usque_ad</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Dedit_ei_Dominus</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Eph_4_15-16</LB_matin> 
+ 
+<RB_matin>RB_Sancti_tui_Domine_Gloriam</RB_matin>  
+<benedictus>AN_Fecit_nos_Deo</benedictus> 
+<laudes_preces>perannum_21</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_in_dilecto</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Dominus_iudex_noster</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Exibunt_aquae_vivae</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Multiplicabitur_eius_imperium</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_Cf._Col_1_12-13</LB_3>
+ 
+<RB_3>VERS_Sedebit_Dominus_rex_in_aeternum</RB_3>
+ 
+<LB_6>LB_Col_1_16b-18</LB_6>
+ 
+<RB_6>VERS_Psallite_regi_nostro_psallite</RB_6>
+ 
+<LB_9>LB_Col_1_19-20</LB_9>
+ 
+<RB_9>VERS_Iubilate_in_conspectu_regis_Domini</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_in_dilecto</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_sempiterne_Deus_qui_in_dilecto</oratio_6>
+ 
+<oratio_9>COL_Omnipotens_sempiterne_Deus_qui_in_dilecto</oratio_9>
+ 
+<intitule_soir><la>D.N. IESU CHRISTI UNIVERSORUM REGIS</la></intitule_soir>
+ 
+<rang_soir><la>Sollemnitas</la></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Te_saeculorum_principem</HYMNUS_vepres>
+ 
+<ant7>AN_Super_solium_David</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Regnum_tuum_regnum</ant8>
+ 
+<ps8>ps109</ps8>
+ 
+<ant9>AN_Habet_in_vestimento</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_1_Cor_15_25-28</LB_soir>
+ 
+<RB_soir>RB_Sedes_tua_Deus_In</RB_soir>
+ 
+<magnificat>AN_Data_est_mihi</magnificat>
+ 
+<vepres_preces>perannum_21</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_in_dilecto</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	 
+<comp_ps1>ps90</comp_ps1>
+	 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Dignus_est_Agnus</IN>
+<COL>COL_Omnipotens_sempiterne_Deus_qui_in_dilecto</COL>
+<PS1>GR_Dominabitur</PS1>
+<PS2>AL_Potestas_eius</PS2>
+<OF>OF_Postula_a_me</OF>
+<CO>CO_Amen_dico_vobis_quod_uni</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St-Andr&#xE9; Dung-Lac, pr&#xEA;tre et ses compagnons martyrs</intitule>
+ <biographiecourte>Et ses 117 compagnons martyrs au Vietnam. Andr&#xE9;, pr&#xEA;tre, annon&#xE7;a l'&#xE9;vangile au p&#xE9;ril de sa vie. Mort martyr &#xE0; Hano&#xEF; en 1839</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 24 novembre</para><para>1. M&#xE9;moire de saint Andr&#xE9; Dung Lac, pr&#xEA;tre, et ses compagnons, martyrs. Une c&#xE9;l&#xE9;bration commune honore cent-dix-sept martyrs mis &#xE0; mort entre 1745 et 1862 dans diverses r&#xE9;gions du Viet Nam ns </para><para>2. Comm&#xE9;moraison de saint Chrysogone, martyr &#xE0; Aquil&#xE9;e en V&#xE9;n&#xE9;tie, au jour anniversaire de la d&#xE9;dicace de l&#x2019;&#xE9;glise du titre qui porte son nom &#xE0; Rome. </para><para>3. &#xC0; Amelia en Ombrie, sainte Firmine, martyre. </para><para>4. &#xC0; Milan vers 356, saint Protais, &#xE9;v&#xEA;que, qui d&#xE9;fendit la cause de saint Athanase devant l&#x2019;empereur Constant et si&#xE9;gea au concile de Sardique. </para><para>5. Dans la place forte de Blaye sur le territoire de Bordeaux, vers 380, saint Romain, pr&#xEA;tre.</para><para>6*. &#xC0; Cluain (Cloyne) en Irlande vers 606, saint Colman, premier &#xE9;v&#xEA;que du lieu, qui fut barde &#xE0; la cour de Cashel avant de devenir chr&#xE9;tien, gr&#xE2;ce &#xE0; saint Brendan, &#xE0; l&#x2019;&#xE2;ge de cinquante ans.</para><para>7. Au pays arverne, apr&#xE8;s 532, saint Pour&#xE7;ain, abb&#xE9;. Esclave dans sa jeunesse, il trouva refuge et libert&#xE9; dans un monast&#xE8;re, o&#xF9; il devint moine, puis abb&#xE9; et mourut tr&#xE8;s &#xE2;g&#xE9;, ext&#xE9;nu&#xE9; par les je&#xFB;nes. </para><para>8. &#xC0; Cordoue en Andalousie, l&#x2019;an&#xA0;854, les saintes Flora et Marie, vierges et martyres, qui, durant la pers&#xE9;cution des Maures, furent jet&#xE9;es en prison en m&#xEA;me temps que saint Euloge et p&#xE9;rirent par l&#x2019;&#xE9;p&#xE9;e.</para><para>9. &#xC0; Reims, en 1192, la passion de saint Albert de Louvain, &#xE9;v&#xEA;que de Li&#xE8;ge et martyr. Envoy&#xE9; en exil pour sa d&#xE9;fense des libert&#xE9;s de l&#x2019;&#xC9;glise, il fut, la m&#xEA;me ann&#xE9;e, ordonn&#xE9; &#xE9;v&#xEA;que et tu&#xE9; dans la m&#xEA;me ville. </para><para>10*. Au monast&#xE8;re de Cava en Campanie, l&#x2019;an&#xA0;1252, le bienheureux Balsame, abb&#xE9;, qui remplit sa charge avec sagesse et prudence parmi les troubles et les conflits de son temps. </para><para>11. &#xC0; Dong Hoi en Annam, l&#x2019;an&#xA0;1838, les saints martyrs Pierre Dumoulin-Borie, &#xE9;v&#xEA;que, de la Soci&#xE9;t&#xE9; des Missions &#xE9;trang&#xE8;res de Paris, Pierre Vo Dang Khoa et Vincent Nguy&#xEA;n Th&#xEA; Di&#xEA;m, pr&#xEA;tres. L&#x2019;&#xE9;v&#xEA;que fut d&#xE9;capit&#xE9; et les pr&#xEA;tres &#xE9;trangl&#xE9;s sur l&#x2019;ordre de l&#x2019;empereur Minh Mang. </para><para>12*. &#xC0; Milan, en 1891, la bienheureuse Marie-Anne Sala, vierge de la Congr&#xE9;gation des S&#x153;urs de Sainte-Marceline, qui s&#x2019;occupa enti&#xE8;rement de la formation des jeunes filles et se r&#xE9;v&#xE9;la ma&#xEE;tresse de science, soutenue par la foi et la pi&#xE9;t&#xE9;. </para><para>13*. &#xC0; Picadero de Paterna dans la r&#xE9;gion de Valence en Espagne, en 1936, la bienheureuse martyre Nic&#xE9;ta Plaja Xifra et ses onze compagnes, vierges et martyres, Carm&#xE9;lites de la Charit&#xE9;, victimes de la pers&#xE9;cution contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para><para>**. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nagasaki, en 1639, les bienheureux Peter Kibe Kasui, j&#xE9;suite et 187 compagnons martyrs (b&#xE9;atifi&#xE9;s par Benoit XVI le 24 novembre 2008) D&#xE9;c&#xE9;d&#xE9; le 5 f&#xE9;vrier, f&#xEA;t&#xE9; le 24 novembre.(martyrs du Japon)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

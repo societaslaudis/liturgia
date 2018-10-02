@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada IV per annum</la><fr>IV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica IV per annum</la><fr>IV&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Populus_Domini_et</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1/>
+
+<antL2/>
+
+<psL2/>
+
+<antL3/>
+
+<psL3/>
+
+<LVers/>
+n<Llec1>L1_Dominica_IV_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_IV_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_IV_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_IV_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>perannum_4-1-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>perannum_4-1-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>perannum_4-1-NOCT3-A</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Ecce_iam_noctis_tenuatur_umbra</HYMNUS_laudes>
+ 
+<ant1>AN_Confitemini_Domino_quoniam</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Alleluia_benedicite_omnia</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Omnis_spiritus_laudet</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_2_Tim_2_8._11-13</LB_matin> 
+ 
+<RB_matin>RB_Confitebimur_tibi_Deus_Et</RB_matin>  
+<benedictus>AN_Beati_mundo_corde</benedictus> 
+<laudes_preces>perannum_41</laudes_preces><oratio_laudes>COL_Concede_nobis_Domine_Deus_noster_ut</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Qui_manducat_ex_hoc</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_Veniet_Dominus_glorificari</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Vovete_et_munera</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_1_Cor_6_19-20</LB_3>
+ 
+<RB_3>VERS_Concupiscit_et_deficit</RB_3>
+ 
+<LB_6>LB_Deut_10_12</LB_6>
+ 
+<RB_6>VERS_Domine_quis_habitabit</RB_6>
+ 
+<LB_9>LB_Cant_8_6b-7a</LB_9>
+ 
+<RB_9>VERS_Diligam te, Domine</RB_9>
+ 
+<oratio_3>COL_Concede_nobis_Domine_Deus_noster_ut</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_Deus_noster_ut</oratio_6>
+ 
+<oratio_9>COL_Concede_nobis_Domine_Deus_noster_ut</oratio_9>
+ 
+<intitule_soir><la>Dominica IV per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_O_lux_beata_Trinitas</HYMNUS_vepres>
+ 
+<ant7>AN_In_splendoribus_sanctis</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Beati_qui_esuriunt_et</ant8>
+ 
+<ps8>ps111</ps8>
+ 
+<ant9>AN_Laudem_dicite_Deo</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Hebr_12_22-24</LB_soir>
+ 
+<RB_soir>RB_Magnus_Dominus_noster</RB_soir>
+ 
+<magnificat>AN_Beati_pacifici_quoniam</magnificat>
+ 
+<vepres_preces>perannum_41</vepres_preces>
+ 
+<oratio_vepres>COL_Concede_nobis_Domine_Deus_noster_ut</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Laetetur_cor</IN>
+<IN_L>IN_L_perannum_4</IN_L>
+<COL>COL_perannum_4</COL>
+<LEC>LEC_Is58,7-10</LEC>
+<PS1>GR_Quis_sicut_Dominus</PS1>
+<LEC2>LEC_1Co1,26-31</LEC2>
+
+<PS2>AL_Adorabo</PS2>
+<EV>EV_Mt5,1-12a</EV>
+<OF>OF_Bonum_est_confiteri</OF>
+<SO>SO_perannum_4</SO>
+<CO>CO_Beati_mundo_corde</CO>
+<CO_L>CO_L_perannum_4</CO_L>
+<PC>PC_perannum_4</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Vincent, diacre et martyr.</intitule>
+ <biographiecourte>Diacre, il suivit son &#xE9;v&#xEA;que dans l'emprisonnement et le martyre (&#x2020; vers 304)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 22 janvier</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de saint Vincent, diacre de Saragosse et martyr. Dans la pers&#xE9;cution de Diocl&#xE9;tien, en 304, avec son &#xE9;v&#xEA;que saint Val&#xE8;re, il fut conduit &#xE0; Valence, et l&#xE0;, apr&#xE8;s avoir subi la prison, la faim, le chevalet, des plaques br&#xFB;lantes, il s&#x2019;envola au ciel, vainqueur, pour recevoir la couronne du martyre. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; On comm&#xE9;more aussi saint Val&#xE8;re, &#xE9;v&#xEA;que de Saragosse qui prit part au premier Concile d&#x2019;Elvire et, conduit &#xE0; Valence avec saint Vincent, fut condamn&#xE9; &#xE0; l&#x2019;exil. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Novare en Ligurie, avant 418, saint Gaudence, qui est tenu pour le premier &#xE9;v&#xEA;que de ce si&#xE8;ge. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Bethsalo&#xE9; en Perse, l&#x2019;an&#xA0;628, la passion de saint Anastase, moine et martyr. Apr&#xE8;s de nombreux tourments qu&#x2019;il avait endur&#xE9;s &#xE0; C&#xE9;sar&#xE9;e de Palestine, il fut encore &#xE9;prouv&#xE9; par les nombreux supplices que lui infligea le roi des Perses Chosro&#xE8;s. Il fut enfin &#xE9;trangl&#xE9; pr&#xE8;s du fleuve, apr&#xE8;s soixante-dix compagnons, et d&#xE9;capit&#xE9;. </para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Romans, pr&#xE8;s de l&#x2019;Is&#xE8;re, dans les Alpes, en 844, la mise au tombeau de saint Barnard, &#xE9;v&#xEA;que de Vienne. Apr&#xE8;s avoir quitt&#xE9; la cour et les arm&#xE9;es de Charlemagne pour la milice du Christ, il distribua aux pauvres les biens re&#xE7;us en h&#xE9;ritage et construisit deux monast&#xE8;res, &#xE0; Ambournay d&#x2019;abord, puis, devenu &#xE9;v&#xEA;que, dans son dioc&#xE8;se, &#xE0; Romans, o&#xF9; il mourut. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Sore dans le Latium, en 1034, saint Dominique, abb&#xE9;, qui construisit des monast&#xE8;res dans diverses r&#xE9;gions d&#x2019;Italie et en remit d&#x2019;autres, par son esprit de r&#xE9;forme, dans une vie r&#xE9;guli&#xE8;re.</para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pise en Toscane, l&#x2019;an&#xA0;1431, la bienheureuse Marie Mancini. Deux fois veuve, ayant perdu tous ses enfants, elle institua, avec les encouragements de sainte Catherine de Sienne, la vie commune au monast&#xE8;re de Saint-Dominique qu&#x2019;elle dirigea pendant dix ans. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; C&#xF4;me en Lombardie, l&#x2019;an&#xA0;1459, le bienheureux Antoine della Chiesa, pr&#xEA;tre dominicain, qui r&#xE9;tablit la vie r&#xE9;guli&#xE8;re dans un certain nombre de couvents de son Ordre, recherchant avec indulgence la fragilit&#xE9; humaine et la corrigeant avec fermet&#xE9;. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Londres, en 1592, le bienheureux Guillaume Patenson, pr&#xEA;tre et martyr. Sous la reine &#xC9;lisabeth I&#xE8;re, il fut condamn&#xE9; &#xE0; mort &#xE0; cause de son sacerdoce&#xA0;; en prison, il r&#xE9;concilia avec l&#x2019;&#xC9;glise catholique six de ses cod&#xE9;tenus et il acheva son martyre &#xE0; Tyburn par la pendaison et le d&#xE9;membrement. </para><para>10. &#xA0; &#xA0; &#xA0; &#xA0; Au Tonkin, en 1745, les saints martyrs Fran&#xE7;ois Gil de Federich et Matthieu Alonso de Leziniano, pr&#xEA;tres dominicains. Sous le r&#xE8;gne de Trinh Doanh, apr&#xE8;s avoir pr&#xEA;ch&#xE9; l&#x2019;&#xC9;vangile sans discontinuer et m&#xEA;me dans les cha&#xEE;nes, ils furent frapp&#xE9;s du sabre, allant glorieusement &#xE0; la mort pour le Christ. </para><para>11. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome en 1850, saint Vincent Palloti, pr&#xEA;tre, fondateur de la Soci&#xE9;t&#xE9; de l&#x2019;Apostolat catholique, qui stimula, par ses &#xE9;crits et ses &#x153;uvres, la vocation de tous ceux qui sont baptis&#xE9;s dans le Christ &#xE0; travailler activement en faveur de l&#x2019;&#xC9;glise. </para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Bordeaux, en 1850, le bienheureux Guillaume Chaminade, pr&#xEA;tre. &#xC0; l&#x2019;&#xE9;poque de la R&#xE9;volution fran&#xE7;aise, il exer&#xE7;a longtemps son z&#xE8;le en cachette avec audace, il eut &#xE0; c&#x153;ur de rassembler les fid&#xE8;les la&#xEF;cs pour honorer la bienheureuse Vierge Marie et agir en faveur des missions &#xE9;trang&#xE8;res et, pour cela, il fonda la Soci&#xE9;t&#xE9; de Marie et l&#x2019;Institut des Filles de Marie Immacul&#xE9;e. </para><para>13*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Junin dans les Andes en Argentine, en 1904, la bienheureuse Laure Vicu&#xF1;a, vierge. N&#xE9;e &#xE0; Santiago du Chili, &#xE9;l&#xE8;ve dans l&#x2019;Institut de Marie Auxiliatrice, elle offrit &#xE0; Dieu sa vie &#xE0; quinze ans pour la conversion de sa m&#xE8;re. </para><para>14*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Castelletto del Garda aux confins de la V&#xE9;n&#xE9;tie, en 1922, le bienheureux Joseph Nascimbeni, pr&#xEA;tre, fondateur de l&#x2019;Institut des Petites S&#x153;urs de la Sainte Famille. </para><para>15*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Vienne en Autriche, l&#x2019;an&#xA0;1931, le bienheureux Ladislas Batthyany-Stratmamn. P&#xE8;re de famille, il fut par sa vie et son action, un t&#xE9;moin de l&#x2019;&#xC9;vangile, aussi bien en famille que dans la soci&#xE9;t&#xE9;. M&#xE9;decin, il fit honneur &#xE0; son art et montra une grande charit&#xE9; en assistant les malades, pour qui il fonda des h&#xF4;pitaux, o&#xF9; il n&#x2019;accueillait que les pauvres et les indigents. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

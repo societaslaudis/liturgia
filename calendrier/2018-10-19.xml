@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<code>perannum_28-6</code>
+<propre/>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXVIII per annum</la><fr>XXVIII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Pauli a Cruce, presbyteri</la><fr>St Paul de la Croix, pr&#xEA;tre</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Suavis_est_Dominus</invitatoire>
+
+<HYMNUS_lectures>hy_Galli_cantu_mediante</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Adesto_rerum_conditor</HYMNUS_lec_jour>
+
+<antL1>AN_Deus_meus_ne</antL1>
+
+<psL1>ps54I</psL1>
+
+<antL2>AN_Liberabit_nos_Dominus</antL2>
+
+<psL2>ps54IIL</psL2>
+
+<antL3>AN_Iacta_super_Dominum</antL3>
+
+<psL3>ps54IIIL</psL3>
+
+<LVers>VERS_Fili_mi</LVers>
+n<Llec1>L1_perannum_28-6</Llec1>
+
+<Lrep1>R1_perannum_28-6</Lrep1>
+
+<Llec2>L2_perannum_28-6</Llec2>
+
+<Lrep2>R2_perannum_28-6</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Deus_qui_caeli_lumen_es</HYMNUS_laudes>
+ 
+<ant1>AN_Cor_mundum_crea</ant1>
+ 
+<ps1>ps50</ps1>
+ 
+<ant2>AN_Laetare_Ierusalem_quia</ant2>
+ 
+<ps2>AT6</ps2>
+ 
+<ant3>AN_Lauda_Deum_tuum</ant3>
+ 
+<ps3>ps147</ps3>
+ 
+<LB_matin>LB_Gal_2_19b-20</LB_matin> 
+ 
+<RB_matin>RB_Clamabo_ad_Dominum_altissimum</RB_matin>  
+<benedictus>AN_Per_viscera_misericordiae</benedictus> 
+<laudes_preces>perannum_46</laudes_preces><oratio_laudes>COL_Gratiae_tuae_quaesumus_Domine_supplicibus_tuis</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Pax_multa_diligentibus</ant4>
+ 
+<ps4>ps118XXI</ps4>
+ 
+<ant5>AN_Multitudinis_credentium_erat</ant5>
+ 
+<ps5>ps132</ps5>
+ 
+<ant6>AN_Custodi_me_de</ant6>
+ 
+<ps6>ps139</ps6>
+ 
+<LB_3>LB_Rom_12_17a._19b-20a._21</LB_3>
+ 
+<RB_3>VERS_Misericordia_Domini</RB_3>
+ 
+<LB_6>LB_1_Io_3_16</LB_6>
+ 
+<RB_6>VERS_Confitemini_Domino</RB_6>
+ 
+<LB_9>LB_1_Io_4_9-11</LB_9>
+ 
+<RB_9>VERS_Protector_noster</RB_9>
+ 
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+ 
+<oratio_6>COL_Domine_Iesu_Christe_qui_hora_sexta</oratio_6>
+ 
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Horis_peractis_undecim</HYMNUS_vepres>
+ 
+<ant7>AN_Per_singulos_dies</ant7>
+ 
+<ps7>ps144I</ps7>
+ 
+<ant8>AN_Oculi_omnium_in</ant8>
+ 
+<ps8>ps144II</ps8>
+ 
+<ant9>AN_Iustae_et_verae</ant9>
+ 
+<ps9>NT11</ps9>
+ 
+<LB_soir>LB_Rom_8_1-2</LB_soir>
+ 
+<RB_soir>RB_Christus_mortuus_est</RB_soir>
+ 
+<magnificat>AN_Recordare_Domine_misericordiae</magnificat>
+ 
+<vepres_preces>perannum_46</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_et_misericors_Deus_qui_Christum</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+ 
+<comp_ps1>ps87</comp_ps1> 
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+ 
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Si_iniquitates</IN>
+<IN_L>IN_L_perannum_28</IN_L>
+<COL>COL_perannum_28</COL>
+<LEC>LEC_Ep1,11-14</LEC>
+<PS1>GR_Ecce_quam_bonum</PS1>
+<PS2>AL_Qui_timent_Dominum</PS2>
+<EV>EV_Lc12,1-7</EV>
+<OF>OF_Recordare_mei</OF>
+<SO>SO_perannum_28</SO>
+<CO>CO_Dico_autem_vobis</CO>
+<CO_L>CO_L_perannum_28</CO_L>
+<PC>PC_perannum_28</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+<piete><intitule> Abstinence</intitule></piete>
+<biographie>
+ <intitule>Sts Jean de Br&#xE9;beuf et Isaac Jogues, pr&#xEA;tres et leurs compagnons martyrs</intitule>
+ <biographiecourte>J&#xE9;suites fran&#xE7;ais martyris&#xE9;s en Am&#xE9;rique du Nord avec leurs compagnons entre 1642 et 1649</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Paul de la Croix, pr&#xEA;tre</intitule>
+ <biographiecourte>Pr&#xEA;tre, fondateur de l'Ordre des Passionistes (&#x2020;1775)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 19 octobre</para><para>1. M&#xE9;moire des saints martyrs Jean de Br&#xE9;beuf, Isaac Jogues, pr&#xEA;tres et leurs compagnons de la Compagnie de J&#xE9;sus, au jour o&#xF9; saint Jean de la Lande, religieux, fut tu&#xE9;, en 1646, par des pa&#xEF;ens, &#xE0; Ossernenon, alors en territoire canadien, l&#xE0; o&#xF9;, quelques ann&#xE9;es auparavant, saint Ren&#xE9; Goupil avait obtenu la palme du martyre. On c&#xE9;l&#xE8;bre en ce jour dans une seule et m&#xEA;me v&#xE9;n&#xE9;ration, leurs autres confr&#xE8;res, les saints Gabriel Lalemant, Antoine Daniel, Charles Garnier et No&#xEB;l Chabanel, qui, sur le territoire du Canada, apr&#xE8;s beaucoup de travaux men&#xE9;s dans la mission apr&#xE8;s des Hurons pour annoncer aux peuples de cette r&#xE9;gion l&#x2019;&#xC9;vangile du Christ, sont tomb&#xE9;s, martyrs, &#xE0; des jours divers entre 1642 et 1649. </para><para>2. M&#xE9;moire de saint Paul de la Croix, pr&#xEA;tre, qui se fit remarquer d&#xE8;s sa jeunesse par sa p&#xE9;nitence et son z&#xE8;le, enflamm&#xE9; qu&#x2019;il &#xE9;tait d&#x2019;une charit&#xE9; tout &#xE0; fait particuli&#xE8;re envers le Christ crucifi&#xE9; contempl&#xE9; sur le visage des pauvres et des malades. Il fonda la Congr&#xE9;gation des Clercs r&#xE9;guliers de la Croix et de la Passion de notre Seigneur J&#xE9;sus Christ et mourut &#xE0; Rome le 18 octobre 1775. </para><para>3. Comm&#xE9;moraison de saint Jo&#xEB;l, proph&#xE8;te vers 350 avant le Christ, qui annon&#xE7;a le grand jour du Seigneur et le myst&#xE8;re de l&#x2019;effusion de son Esprit sur toute chair. </para><para>4. Comm&#xE9;moraison des saints martyrs Ptol&#xE9;m&#xE9;e, Lucius et un autre compagnon. Comme le rapporte saint Justin, chr&#xE9;tiens &#xE9;prouv&#xE9;s de Rome, ils furent condamn&#xE9;s &#xE0; mort, vers 160, sous Antonin le Pieux par le pr&#xE9;fet Lollus Urbicus, pour lui avoir reproch&#xE9; une vie dissolue ou une sentence injuste. </para><para>5. &#xC0; Ostie, au IIIe ou IVe si&#xE8;cle, saint Ast&#xE9;rius, martyr. </para><para>6*. &#xC0; Sens, comm&#xE9;moraison des saints Savinien et Potentien, consid&#xE9;r&#xE9;s comme les premiers pasteurs de la cit&#xE9;, qui achev&#xE8;rent leur confession de foi par le martyre, vers le IVe si&#xE8;cle. </para><para>7. En &#xC9;gypte, l&#x2019;an&#xA0;307, saint Varus, soldat, qui, sous l&#x2019;empereur Maximien, alors qu&#x2019;il visitait six saints ermites d&#xE9;tenus en prison pour les r&#xE9;conforter, voulut prendre la place d&#x2019;un septi&#xE8;me, qui &#xE9;tait mort dans le d&#xE9;sert. Il subit avec eux de cruels tourments et re&#xE7;ut la palme du martyre. </para><para>8*. &#xC0; Oloron, dans les Pyr&#xE9;n&#xE9;es, comm&#xE9;moraison de saint Grat, &#xE9;v&#xEA;que, qui, au temps du roi arien des Goths Alaric, participa au Concile d&#x2019;Agde pour restaurer l&#x2019;&#xC9;glise de cette r&#xE9;gion de la Gaule et mourut apr&#xE8;s 506. </para><para>9. En Bretagne, vers le VIe si&#xE8;cle, saint Ethbin, qui aurait men&#xE9; une vie de solitaire. </para><para>10. &#xC0; Cavaillon en Provence, apr&#xE8;s 589, saint V&#xE9;ran, &#xE9;v&#xEA;que, qui re&#xE7;ut de grands dons, surtout pour soulager les malades. </para><para>11. &#xC0; &#xC9;vreux, vers 690, saint Aquilin, &#xE9;v&#xEA;que. Alors qu&#x2019;il &#xE9;tait soldat, il se d&#xE9;vouait, dit-on, en bonnes &#x153;uvres, ainsi qu&#x2019;au v&#x153;u de continence, avec l&#x2019;accord de son &#xE9;pouse, avant d&#x2019;&#xEA;tre promu au si&#xE8;ge &#xE9;piscopal. </para><para>12. &#xC0; Oxford, vers 730, sainte Frideswide, vierge. De famille royale, elle devint abbesse et gouverna un double monast&#xE8;re, l&#x2019;un d&#x2019;hommes, l&#x2019;autre de moniales. </para><para>13*. &#xC0; Biville en Normandie, l&#x2019;an&#xA0;1257, le bienheureux Thomas H&#xE9;lye, pr&#xEA;tre, qui consacrait ses jours au minist&#xE8;re pastoral et ses nuits &#xE0; la pri&#xE8;re et &#xE0; la p&#xE9;nitence. </para><para>14. &#xC0; Londres, en 1595, saint Philippe Howard, martyr. Comte d&#x2019;Arundel et p&#xE8;re de famille, il fut condamn&#xE9; pour haute trahison sous la reine &#xC9;lisabeth I&#xE8;re, parce qu&#x2019;il avait embrass&#xE9; la foi catholique. Emprisonn&#xE9; &#xE0; la Tour de Londres pendant dix ans, il se donna admirablement &#xE0; la pri&#xE8;re et &#xE0; la p&#xE9;nitence et, consum&#xE9; de privations et de souffrances, priv&#xE9; de la visite de sa femme et de son fils, il m&#xE9;rita de recevoir la couronne du martyre. </para><para>15. &#xC0; Nagasaki au Japon, en 1634, les saints martyrs Luc-Alphonse Gorda, pr&#xEA;tre, et Matthieu Kohioye, religieux, tous deux dominicains, mis &#xE0; mort, sous le chef supr&#xEA;me Tokugawa avoir &#xE9;t&#xE9; un intr&#xE9;pide ministre de l&#x2019;&#xC9;vangile, d&#x2019;abord aux &#xEE;les Philippines, puis pendant dix ans au Japon, le second, &#xE2;g&#xE9; de dix-huit ans, son compagnon pour propager la foi et en t&#xE9;moigner. </para><para>16*. &#xC0; Langeac en Auvergne, l&#x2019;an&#xA0;1694, la bienheureuse Agn&#xE8;s de J&#xE9;sus (Galand), vierge de l&#x2019;Ordre des Pr&#xEA;cheurs. Prieure de son couvent, elle brilla d&#x2019;un ardent amour pour J&#xE9;sus Christ et d&#x2019;un grand z&#xE8;le pour l&#x2019;&#xC9;glise, offrant continuellement pri&#xE8;res et p&#xE9;nitences pour ses pasteurs. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Pologne, en 1984, le bienheureux, Jerzy Popielusko pr&#xEA;tre martyr. (b&#xE9;atifi&#xE9; le 6 juin 2010 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Surrexit_Dominus_vere"/>
+<HYMNUS_laudes id="hy_Aurora_lucis_rutilat"/>
+<ant1 id="AN_Non_moriar_sed"/>
+<ant2 id="AN_Benedictum_nomen_gloriae"/>
+<ant3 id="AN_Date_magnificentiam_Deo_alleluia"/>
+<LB_matin id="LB_ap10.40-43"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi_alleluia"/>
+<preces id="pascha_41"/>
+
+<HYMNUS_tertiam id="hy_Iam_surgit_hora_tertia"/>
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<ant4 id="AN_Alleluia_alleluia_alleluia."/>
+<ant5 id="AN_Alleluia_alleluia_alleluia."/>
+<ant6 id="AN_Alleluia_alleluia_alleluia."/>
+<LB_3 id="LB_Cf.1Cor15,3b-5"/>
+<RB_3 id="VERS_Surrexit_Dominus_vere_alleluia"/>
+
+<LB_6 id="LB_Eph2,4-6"/>
+<RB_6 id="VERS_Gavisi_sunt_discipuli_alleluia"/>
+
+<LB_9 id="LB_Rom6,4"/>
+<RB_9 id="VERS_Mane_nobiscum_Domine_alleluia"/>
+
+<ant7 id="AN_Quae_sursum_sunt_quaerite"/>
+<ant8 id="AN_Exortum_est_in_tenebris"/>
+<ant9 id="AN_Alleluia_salus_et_gloria"/>
+<LB_soir id="Hebr10,12-14"/>
+<RB_soir id="RB_Surrexit_Dominus_vere"/>
+
+
+
+<LEC>
+<A id="Ac2,14a.36-41"/>
+<B id="Ac4,8-12"/>
+<C id="Ac13,14.43-52"/>
+</LEC>
+
+
+<LEC_II>
+<A id="1P2,20b-25"/>
+<B id="1Jn3,1-2"/>
+<C id="Ap7,9.14b-17"/>
+</LEC_II>
+
+<EV>
+<A id="Jn10,1-10"/>
+<B id="Jn10,11-18"/>
+<C id="Jn10,27-30"/>
+</EV>
+
+
+<annoA>
+<IN id="IN_Misericordia_Domini"/>
+<PS1 id="AL_Redemptionem"/>
+<PS2 id="AL_Ego_sum_pastor_bonus"/>
+<SEQ id=""/>
+<OF id="OF_Deus_Deus_meus"/>
+<CO id="CO_Ego_sum_pastor_bonus"/>
+<autre1 id=""/>
+<autre2 id=""/>
+<autre3 id=""/>
+<autre4 id=""/>
+<autre5 id=""/>
+<autre6 id=""/>
+<autre7 id=""/>
+<autre8 id=""/>
+
+</annoA>
+<annoB>
+<IN id="IN_Misericordia_Domini"/>
+<PS1 id="AL_Redemptionem"/>
+<PS2 id="AL_Ego_sum_pastor_bonus"/>
+<SEQ id=""/>
+<OF id="OF_Deus_Deus_meus"/>
+<CO id="CO_Ego_sum_pastor_bonus"/>
+<autre1 id=""/>
+<autre2 id=""/>
+autre3 id=""/&gt;
+<autre4 id=""/>
+<autre5 id=""/>
+<autre6 id=""/>
+<autre7 id=""/>
+<autre8 id=""/>
+</annoB>
+
+<annoC>
+<IN id="IN_Misericordia_Domini"/>
+<PS1 id="AL_Redemptionem"/>
+<PS2 id="AL_Ego_sum_pastor_bonus"/>
+<SEQ id=""/>
+<OF id="OF_Deus_Deus_meus"/>
+<CO id="CO_Ego_sum_pastor_bonus"/>
+<autre1 id=""/><autre2 id=""/>
+<autre3 id=""/><autre4 id=""/>
+<autre5 id=""/><autre6 id=""/>
+<autre7 id=""/>
+<autre8 id=""/>
+</annoC>
+
+<messe><IN id="IN_Misericordia_Domini"/><PS1 id="AL_Redemptionem"/><LEC2><A id="LEC_1P2,20b-25"/><B id="LEC_1Jn3,1-2"/><C id="LEC_Ap7,9.14b-17"/></LEC2><PS2 id="AL_Ego_sum_pastor_bonus"/><EV><A id="EV_Jn10,1-10"/><B id="EV_Jn10,11-18"/><C id="EV_Jn10,27-30"/></EV><EV id="EV_    "/><OF id="OF_Deus_Deus_meus"/><CO id="CO_Ego_sum_pastor_bonus"/><PRE id="PRE_Pr&#xE9;facedutempspascal,nn.1-5"/><LEC><A id="LEC_Ac2,14Ac2,36-41"/><B id="LEC_Ac4,8-12"/><C id="LEC_Ac13,14.43-52"/></LEC><PR><A id="PR_Ps23,1"/><B id="PR_Ps118,1"/><C id="PR_Ps100,1"/></PR></messe></liturgia>

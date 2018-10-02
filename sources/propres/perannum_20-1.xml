@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+	<LEC_II>
+		<A id="Is56,1;6-7"/>
+		<B id="Ep5,15-20"/>
+		<C id="He12,1-4"/>
+	</LEC_II>
+	<EV>
+		<B id="Jn6,51-58"/>
+		<C id="Lc12,49-53"/>
+	</EV>
+	<LEC>
+		<A id="Is56,1.6-7"/>
+		<B id="Pr9,1-6"/>
+		<C id="Jr38,4-6.8-10"/>
+	</LEC>
+		<annoA><IN id="IN_Protector_noster"/><PS1 id="GR_Bonum_est_confidere"/><PS2 id="AL_Venite_exsultemus"/><SEQ id=""/><OF id="OF_Immittet_angelus"/><CO id="CO_Domus_mea"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoA><annoB><IN id="IN_Protector_noster"/><PS1 id="GR_Bonum_est_confidere"/><PS2 id="AL_Venite_exsultemus"/><SEQ id=""/><OF id="OF_Immittet_angelus"/><CO id="CO_Domus_mea"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoB><annoC><IN id="IN_Protector_noster"/><PS1 id="GR_Bonum_est_confidere"/><PS2 id="AL_Venite_exsultemus"/><SEQ id=""/><OF id="OF_Immittet_angelus"/><CO id="CO_Primum_quaerite"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoC><collecte_temporal id="COL_Deus_qui_diligentibus_te_bona_invisibilia"/><messe><IN id="IN_Protector_noster"/><COL id="COL_perannum_20"/><PS1 id="GR_Bonum_est_confidere"/><LEC2><A id="LEC_Is56,1;6-7"/><B id="LEC_Ep5,15-20"/><C id="LEC_He12,1-4"/></LEC2><PS2 id="AL_Venite_exsultemus"/><OF id="OF_Immittet_angelus"/><SO id="SO_perannum_20"/><CO id="CO_Domus_mea"/><PC id="PC_perannum_20"/><PR><A id="PR_Ps67,2"/><B id="PR_Ps34,2"/><C id="PR_Ps40,2"/></PR><EV><A id="EV_Mt15,21-28"/><B id="EV_Jn6,51-58"/><C id="EV_Lc12,49-53"/></EV><LEC><B id="LEC_Pr9,1-6"/><C id="LEC_Jr38,4-6.8-10"/><A id="LEC_Is22,19-23"/></LEC><IN_L id="IN_L_perannum_20"/><CO_L id="CO_L_perannum_20"/></messe></liturgia>

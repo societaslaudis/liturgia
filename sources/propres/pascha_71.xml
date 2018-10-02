@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Surrexit_Dominus_vere"/>
+<HYMNUS_laudes id="hy_Optatus_votis_omnium"/>
+<ant1 id="AN_Dominus_regnavit_decorem"/>
+<ant2 id="AN_Liberabitur_creatura_in"/>
+<ant3 id="AN_Exaltatum_est_nomen"/>
+<LB_matin id="LB_ap10.40-43"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi_alleluia"/>
+<LEC_II><A id="1P4,13-16"/><B id="1Jn4,11-16"/><C id="Ap22,12-14.16-17.20"/></LEC_II><EV><A id="Jn17,1-11a"/><B id="Jn17,11b-19"/><C id="Jn17,20-26"/></EV><LEC><A id="Ac1,12-14"/><B id="Ac1,15-17.20a.20c-26"/><C id="Ac7,55-60"/></LEC><annoA><IN id="IN_Exaudi_Domine_tibi_dixit"/><PS1 id="AL_Regnavit_Dominus"/><PS2 id="AL_Exivi_a_patre"/><SEQ id=""/><OF id="OF_Viri_Galilaei"/><CO id="CO_Pater_cum_essem"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoA><annoB><IN id="IN_Exaudi_Domine_tibi_dixit"/><PS1 id="AL_Regnavit_Dominus"/><PS2 id="AL_Non_vos_relinquam"/><SEQ id=""/><OF id="OF_Viri_Galilaei"/><CO id="CO_Pater_cum_essem"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoB><annoC><IN id="IN_Exaudi_Domine_tibi_dixit"/><PS1 id="AL_Regnavit_Dominus"/><PS2 id="AL_Non_vos_relinquam"/><SEQ id=""/><OF id="OF_Viri_Galilaei"/><CO id="CO_Pater_cum_essem"/><autre1 id=""/><autre2 id=""/><autre3 id=""/><autre4 id=""/><autre5 id=""/><autre6 id=""/><autre7 id=""/><autre8 id=""/></annoC><messe><IN id="IN_Exaudi_Domine_tibi_dixit"/><PS1 id="AL_Regnavit_Dominus"/><LEC2><A id="LEC_1P4,13-16"/><B id="LEC_1Jn4,11-16"/><C id="LEC_Ap22,12-14.16-17.20"/></LEC2><PS2 id="AL_Exivi_a_patre"/><EV><A id="EV_Jn17,1-11a"/><B id="EV_Jn17,11b-19"/><C id="EV_Jn17,20-26"/></EV><OF id="OF_Ascendit_Deus"/><CO id="CO_Pater_cum_essem"/><PRE id="PRE_Pr&#xE9;facedutempspascal,nn.1-5oudel'Ascension,nn.1ou2,"/><LEC><A id="LEC_Ac1,12-14"/><B id="LEC_Ac1,15-17.20-26"/><C id="LEC_Ac7,55-60"/></LEC><PR><A id="PR_Ps27,1"/><B id="PR_Ps103,1"/><C id="PR_Ps97,1"/></PR></messe></liturgia>

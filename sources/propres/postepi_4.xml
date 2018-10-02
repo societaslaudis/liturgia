@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<liturgia>
+	
+	<LEC_1_impaire id="1Jn4,11-18"/>
+	<PR_impaire id="Ps72,1"/>
+	<LEC_1_paire id="1Jn4,11-18"/>
+	<PR_paire id="Ps72,1"/>
+	<EV id="Mc6,45-52"/>
+	<annoA>
+		<IN id="IN_Lux_fulgebit"/>
+		<PS1 id="GR_Benedictus_qui_venit"/>
+		<PS2 id="AL_Dominus_regnavit_decorem"/>
+		<SEQ id=""/><OF id="OF_Deus_enim_firmavit"/>
+		<CO id="CO_Exsulta_filia_Sion"/>
+		<autre1 id=""/>
+		<autre2 id=""/>
+		<autre3 id=""/>
+		<autre4 id=""/>
+		<autre5 id=""/>
+		<autre6 id=""/>
+		<autre7 id=""/>
+		<autre8 id=""/>
+		</annoA>
+	<annoB>
+		<IN id="IN_Lux_fulgebit"/>
+		<PS1 id="GR_Benedictus_qui_venit"/>
+		<PS2 id="AL_Dominus_regnavit_decorem"/>
+		<SEQ id=""/><OF id="OF_Deus_enim_firmavit"/>
+		<CO id="CO_Exsulta_filia_Sion"/><autre1 id=""/>
+		<autre2 id=""/><autre3 id=""/><autre4 id=""/>
+		<autre5 id=""/><autre6 id=""/><autre7 id=""/>
+		<autre8 id=""/></annoB><annoC>
+		<IN id="IN_Lux_fulgebit"/>
+		<PS1 id="GR_Benedictus_qui_venit"/>
+		<PS2 id="AL_Dominus_regnavit_decorem"/>
+		<SEQ id=""/><OF id="OF_Deus_enim_firmavit"/>
+		<CO id="CO_Exsulta_filia_Sion"/><autre1 id=""/>
+		<autre2 id=""/><autre3 id=""/><autre4 id=""/>
+		<autre5 id=""/><autre6 id=""/><autre7 id=""/>
+		<autre8 id=""/>
+		</annoC>
+		<messe>
+			<IN id="IN_Lux_fulgebit"/>
+			<LEC>
+				<impaire id="LEC_1Jn4,11-18"/>
+				<paire id="LEC_1Jn4,11-18"/>
+			</LEC>
+			<PS1 id="GR_Benedictus_qui_venit"/>
+			<PS2 id="AL_Dominus_regnavit_decorem"/>
+			<EV id="EV_Mc6,45-52"/>
+			<OF id="OF_Deus_firmavit_orbem"/>
+			<CO id="CO_Exsulta_filia_Sion"/></messe></liturgia>

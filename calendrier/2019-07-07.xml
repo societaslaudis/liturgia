@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XIV per annum</la><fr>XIV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XIV per annum</la><fr>XIV&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Populus_Domini_et</invitatoire>
+
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+
+<antL1>AN_Domine_Deus_meus</antL1>
+
+<psL1>ps103I</psL1>
+
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+
+<psL2>ps103II</psL2>
+
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+
+<psL3>ps103III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_XIV_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XIV_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XIV_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XIV_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Ecce_iam_noctis_tenuatur_umbra</HYMNUS_laudes>
+ 
+<ant1>AN_Benedictus_qui_venit</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Hymnum_dicamus_Domino</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Laudate_Dominum</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_Ez_36_25-27</LB_matin> 
+ 
+<RB_matin>RB_Confitebimur_tibi_Deus_Et</RB_matin>  
+<benedictus>AN_In_quamcumque_domum</benedictus> 
+<laudes_preces>perannum_21</laudes_preces><oratio_laudes>COL_Deus_qui_in_Filii_tui_humilitate</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_In_pascuis_virentibus_Dominus</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_In_Israel_magnum</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Terra_tremuit</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_Rom_5_1-2._5</LB_3>
+ 
+<RB_3>VERS_Misericordias_Domini</RB_3>
+ 
+<LB_6>LB_Rom_8_26</LB_6>
+ 
+<RB_6>VERS_Appropinquet_deprecatio_mea</RB_6>
+ 
+<LB_9>LB_2_Cor_1_21-22</LB_9>
+ 
+<RB_9>VERS_Dominus_illuminatio_mea</RB_9>
+ 
+<oratio_3>COL_Deus_qui_in_Filii_tui_humilitate</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_in_Filii_tui_humilitate</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_in_Filii_tui_humilitate</oratio_9>
+ 
+<intitule_soir><la>Dominica XIV per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_O_lux_beata_Trinitas</HYMNUS_vepres>
+ 
+<ant7>AN_Sacerdos_in_aeternum</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Deus_noster_in_caelo</ant8>
+ 
+<ps8>ps113B</ps8>
+ 
+<ant9>AN_Laudem_dicite_Deo</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_2Th2,13-14</LB_soir>
+ 
+<RB_soir>RB_Magnus_Dominus_noster</RB_soir>
+ 
+<magnificat>AN_Gaudete_et_exsultate</magnificat>
+ 
+<vepres_preces>perannum_21</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_in_Filii_tui_humilitate</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Suscepimus</IN>
+<IN_L>IN_L_perannum_14</IN_L>
+<COL>COL_perannum_14</COL>
+<LEC>LEC_Is66,10-14c</LEC>
+<PS1>GR_Esto_mihi</PS1>
+<LEC2>LEC_Ga6,14-18</LEC2>
+
+<PS2>AL_Venite_ad_me</PS2>
+<EV>EV_Lc10,1-12.17-20</EV>
+<OF>OF_Populum_humilem</OF>
+<SO>SO_perannum_14</SO>
+<CO>CO_Gustate_et_videte</CO>
+<CO_L>CO_L_perannum_14</CO_L>
+<PC>PC_perannum_14</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Antonin Fantossati, pr&#xEA;tre</intitule>
+ <biographiecourte>Pr&#xEA;tre franciscain mort martyr en Chine en 1900</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 7 juillet.</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Panth&#xE8;ne d&#x2019;Alexandrie, homme apostolique, rempli de science et de sagesse&#xA0;; il eut tant de z&#xE8;le et d&#x2019;amour pour la parole de Dieu qu&#x2019;il alla, dit-on, pr&#xEA;cher l&#x2019;&#xC9;vangile du Christ, dans l&#x2019;ardeur de sa foi et de son d&#xE9;vouement, jusqu&#x2019;aux extr&#xE9;mit&#xE9;s de l&#x2019;Orient&#xA0;; puis revenu &#xE0; Alexandrie, il y reposa dans la paix, sous Antonin Caracalla, vers 215.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Eboriacum au pays de Meaux, l&#x2019;an&#xA0;695, sainte &#xC9;delburge, abbesse du monast&#xE8;re de Fare (Faremoutiers). Fille d&#x2019;un roi des Angles orientaux, par son abstinence s&#xE9;v&#xE8;re et sa virginit&#xE9; perp&#xE9;tuelle, elle rendit gloire &#xE0; Dieu.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Winchester en Angleterre, l&#x2019;an&#xA0;706, saint Hedde, &#xE9;v&#xEA;que des Saxons de l&#x2019;Ouest, homme de sagesse remarquable, qui transf&#xE9;ra de Dorchester dans cette cit&#xE9; le corps de saint Birin et y &#xE9;tablit son si&#xE8;ge &#xE9;piscopal.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Eichstadt en Franconie, l&#x2019;an&#xA0;787, saint Guillebaud (Willibald), &#xE9;v&#xEA;que. Il fut d&#x2019;abord moine et se fit longtemps p&#xE8;lerin dans les lieux saints et dans de nombreuses r&#xE9;gions o&#xF9; il restaura la vie monastique&#xA0;; enfin, ordonn&#xE9; premier &#xE9;v&#xEA;que d&#x2019;Eichstadt par saint Boniface, il coop&#xE9;ra &#xE0; l&#x2019;&#x153;uvre d&#x2019;&#xE9;vang&#xE9;lisation de la Germanie et convertit au Christ bien des peuples.</para><para>5*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tamlacht en Irlande, l&#x2019;an&#xA0;789, saint Ma&#xEB;l Ruain, &#xE9;v&#xEA;que et abb&#xE9;, qui se d&#xE9;pensa pour restaurer la c&#xE9;l&#xE9;bration de la liturgie, le culte des saints et la discipline monastique.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Urgell en Catalogne, l&#x2019;an&#xA0;1122, saint Odon, &#xE9;v&#xEA;que. Il &#xE9;tait la&#xEF;c quand il fut &#xE9;lu &#xE9;v&#xEA;que par acclamation du peuple&#xA0;; il prit la d&#xE9;fense des humbles et se montra bienveillant envers tous.</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; P&#xE9;rouse en Ombrie, l&#x2019;an&#xA0;1304, le tr&#xE9;pas du bienheureux Beno&#xEE;t XI, pape, de l&#x2019;Ordre des Pr&#xEA;cheurs. Plein de bienveillance et de douceur, redresseur des querelles et ami de la paix, il promut, pendant un bref pontificat, la paix de l&#x2019;&#xC9;glise, la restauration de la discipline et le d&#xE9;veloppement de la religion.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Fossano dans le Pi&#xE9;mont, en 1400, le bienheureux Oddin Barotti, pr&#xEA;tre. Cur&#xE9; pauvre et mortifi&#xE9;, alors que s&#xE9;vissait une &#xE9;pid&#xE9;mie, il d&#xE9;pensa toutes ses forces, nuit et jour, aupr&#xE8;s des malades et des moribonds.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Winchester en Angleterre, l&#x2019;an&#xA0;1591, les martyrs Roger Dickinson, pr&#xEA;tre, et Raoul Milner, paysan et p&#xE8;re de famille, pauvre et illettr&#xE9;, mais ferme dans la foi. Ils furent arr&#xEA;t&#xE9;s ensemble, sous la reine &#xC9;lisabeth I&#xE8;re, et condamn&#xE9;s aux supplices de la pendaison. On v&#xE9;n&#xE8;re en m&#xEA;me temps qu&#x2019;eux le bienheureux Laurent Humphrey, qui avait embrass&#xE9; dans sa jeunesse la foi catholique et qui fut pendu au gibet au m&#xEA;me lieu, un jour non pr&#xE9;cis&#xE9;.</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, le bienheureux Jean-Joseph Juge de Saint-Martin, pr&#xEA;tre et martyr. Chanoine de Limoges au moment de la R&#xE9;volution fran&#xE7;aise, il fut d&#xE9;tenu dans des conditions inhumaines sur un bateau n&#xE9;grier, &#xE0; cause de son sacerdoce, et y mourut de maladie par manque d&#x2019;eau douce.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0;  Orange de Provence, en 1794, la bienheureuse Iphig&#xE9;nie de Saint-Matthieu (Fran&#xE7;oise-Marie-Suzanne de Gaillard de La Vald&#xE8;ne), vierge et martyre. Sacramentine de Bell&#xE8;ne, elle fut guillotin&#xE9;e pour avoir refus&#xE9; de quitter la vie religieuse.</para><para>12.&#xA0; &#xA0; &#xA0; &#xA0; En Chine, pr&#xE8;s de la ville de Hengchow dans la province de Hunan, en 1900, les saints martyrs Antonin Fantosati, &#xE9;v&#xEA;que, et Joseph-Marie Gambaro, pr&#xEA;tre, tous deux franciscains. Dans la pers&#xE9;cution de la secte de Yihetuan, alors qu&#x2019;ils accostaient &#xE0; la rive du fleuve pour venir en aide aux fid&#xE8;les, ils furent massacr&#xE9;s &#xE0; coups de pierres.</para><para>13.&#xA0; &#xA0; &#xA0; &#xA0; En Chine, pr&#xE8;s de la ville de Weihwei, dans la province de Hunan, en 1900, saint Marc Ji Tianxiang, martyr. Il avait &#xE9;t&#xE9; priv&#xE9; de l&#x2019;Eucharistie pendant trente ans parce qu&#x2019;il refusait de ne plus fumer d&#x2019;opium, mais il ne cessa pas de prier pour obtenir une mort pieuse. Appel&#xE9; en jugement, il professa la foi du Christ d&#x2019;un c&#x153;ur ferme et obtint ainsi de prendre part au banquet du ciel.</para><para>14.&#xA0; &#xA0; &#xA0; &#xA0; En Chine, dans la province de Hunan, &#xE0; Hujiacun pr&#xE8;s de Shenxian, et en 1900, sainte Marie Guo Lizhi, martyre. Telle une autre m&#xE8;re des Maccab&#xE9;es, elle accompagna au lieu du supplice sept personnes de sa famille, les confirmant dans leur constance et demandant d&#x2019;&#xEA;tre ex&#xE9;cut&#xE9;e en dernier. Enfin elle suivit au ciel ceux qu&#x2019;elle y avait guid&#xE9;s.</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; Au village de Rakunai en M&#xE9;lan&#xE9;sie, l&#x2019;an&#xA0;1945, le bienheureux Pierre To Rot, martyr. P&#xE8;re de famille et cat&#xE9;chiste, au cours de la Seconde Guerre mondiale, il fut arr&#xEA;t&#xE9; par l&#x2019;occupant japonais pour avoir pers&#xE9;v&#xE9;r&#xE9; dans sa fonction et subit une injection de poison mortel.</para><para>16*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Le&#xF3;n au Nicaragua, en 1977, la bienheureuse Marie Romero Meneses, vierge, des Filles de Marie Auxiliatrice qui prit &#xE0; c&#x153;ur la formation des jeunes filles, surtout les pauvres et les abandonn&#xE9;es, au Costa Rica, et qui r&#xE9;pandit la d&#xE9;votion &#xE0; l&#x2019;Eucharistie et &#xE0; la Vierge Marie.</para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; En Italie, en 1932, le bienheureux Carlos Liviero, ev&#xEA;que de Citta di Castello en Italie et fondateur de la congr&#xE9;gation des petites servantes du Sacr&#xE9; C&#x153;ur. (b&#xE9;atifi&#xE9; le 27 mai 2007 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

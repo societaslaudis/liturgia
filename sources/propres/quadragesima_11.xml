@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_Precemur_omnes_cernui"/>
+<ant1 id="AN_Benedicam_te_in"/>
+<ant2 id="AN_Hymnum_dicite_et"/>
+<ant3 id="AN_Beneplacitum_est_Domino"/>
+<LB_matin id="LB_Neh_8_9b._l0b"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi_"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_1_Th_4_1._7"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_Is_30_15._18"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<oratio_6 id="COL_Converte_nos_Deus_salutaris_noster_et"/>
+<LB_9 id="LB_Deut_4_29-31"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus"/>
+<HYMNUS_vesperas id="hy_Audi_benigne_Conditor"/>
+<ant7 id="AN_Dominum_Deum_tuum"/>
+<ant8 id="AN_Ecce_nunc_tempus"/>
+<ant9 id="AN_Ecce_ascendimus_Ierosolymam"/>
+<ps9 id="NT8"/>
+<LB_soir id="LB_Cf._1_Cor_9_24-25"/>
+<RB_soir id="RB_Attende_Domine_et_miserere_"/>
+<preces id="quadragesima_11"/>
+
+<messe>
+	<IN id="IN_Invocabit_me"/>
+	<COL id="COL_Concede_nobis_omnipotens_Deus_ut_per"/>
+
+	<PS1 id="GR_Angelis_suis"/>
+	<LEC2>
+		<A id="LEC_Rm5,12-19"/>
+		<B id="LEC_1P3,18-22"/>
+		<C id="LEC_Rm10,8-13"/>
+	</LEC2>
+	<PS2 id="TR_Qui_habitat"/>
+	<EV>
+		<A id="EV_Mt4,1-11"/>
+		<B id="EV_Mc1,12-15"/>
+		<C id="EV_Lc4,1-13"/>
+	</EV>
+	<OF id="OF_Scapulis_suis"/>
+	<CO id="CO_Scapulis_suis"/>
+	<LEC>
+		<A id="LEC_Gn2,7-9.3,1-7"/>
+		<B id="LEC_Gn9,8-15"/>
+		<C id="LEC_Dt26,4-10"/>
+	</LEC>
+	<PR>
+		<A id="PR_Ps51,3"/>
+		<B id="PR_Ps25,4"/>
+		<C id="PR_Ps91,1"/>
+	</PR>
+	<PRE id="PRE_Pr&#xE9;facepropre"/>
+</messe>
+</liturgia>

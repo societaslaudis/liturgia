@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXI per annum</la><fr>XXI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Praeoccupemus_faciem_Domini</invitatoire>
+
+<HYMNUS_lectures>hy_Somno_refectis_artubus</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Aeterna_lux_divinitas</HYMNUS_lec_jour>
+
+<antL1>AN_Salvum_me_fac</antL1>
+
+<psL1>ps6</psL1>
+
+<antL2>AN_Factus_est</antL2>
+
+<psL2>ps9AI</psL2>
+
+<antL3>AN_Annuntiabo_laudationes_tuas</antL3>
+
+<psL3>ps09II</psL3>
+
+<LVers>VERS_Da_mihi</LVers>
+n<Llec1>L1_perannum_21-2</Llec1>
+
+<Lrep1>R1_perannum_21-2</Lrep1>
+
+<Llec2>L2_perannum_21-2</Llec2>
+
+<Lrep2>R2_perannum_21-2</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Splendor_paternae_gloriae</HYMNUS_laudes>
+ 
+<ant1>AN_Ad_te_orabo</ant1>
+ 
+<ps1>ps5</ps1>
+ 
+<ant2>AN_Laudamus_nomen_tuum</ant2>
+ 
+<ps2>AT4</ps2>
+ 
+<ant3>AN_Adorate_Dominum_in</ant3>
+ 
+<ps3>ps28</ps3>
+ 
+<LB_matin>LB_2Th3.10b-13</LB_matin> 
+ 
+<RB_matin>RB_Benedictus_Dominus_A</RB_matin>  
+<benedictus>AN_Benedictus_Dominus_Deus</benedictus> 
+<laudes_preces>perannum_12</laudes_preces><oratio_laudes>COL_Actiones_nostras_quaesumus_Domine_aspirando_praeveni</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Lex_Domini_laetificat</ant4>
+ 
+<ps4>ps18B</ps4>
+ 
+<ant5>AN_Exsurget_Dominus_iudicare</ant5>
+ 
+<ps5>ps7I</ps5>
+ 
+<ant6>AN_Deus_iudex_iustus</ant6>
+ 
+<ps6>ps7II</ps6>
+ 
+<LB_3>LB_Rom_13_8._10</LB_3>
+ 
+<RB_3>VERS_Adiutor_meus_esto_ne_me</RB_3>
+ 
+<LB_6>LB_Iac_1_19b-20._26</LB_6>
+ 
+<RB_6>VERS_Benedicam_Dominum_in_omni_tempore</RB_6>
+ 
+<LB_9>LB_1_Petr_1_17b._18a._19</LB_9>
+ 
+<RB_9>VERS_Redime_me_Domine_et_miserere</RB_9>
+ 
+<oratio_3>COL_Deus_Pater_optime_qui_laborem_hominibus</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_messis_ac_vineae_dominus</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_nos_advocas_illa_hora</oratio_9>
+ 
+<intitule_soir><la/></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Immense_caeli_conditor</HYMNUS_vepres>
+ 
+<ant7>AN_Oculi_Domini_in</ant7>
+ 
+<ps7>ps10</ps7>
+ 
+<ant8>AN_Beati_mundo_corde</ant8>
+ 
+<ps8>ps14</ps8>
+ 
+<ant9>AN_In_Filio_suo</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_Col_1_9b-11</LB_soir>
+ 
+<RB_soir>RB_Sana_animam_meam</RB_soir>
+ 
+<magnificat>AN_Magnificat_anima_mea</magnificat>
+ 
+<vepres_preces>perannum_12</vepres_preces>
+ 
+<oratio_vepres>COL_Magnificet_te_Domine_haec_nostrae_servitutis</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+ 
+<comp_ps1>ps85</comp_ps1> 
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+ 
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Inclina_Domine</IN>
+<IN_L>IN_L_perannum_21</IN_L>
+<COL>COL_perannum_21</COL>
+<LEC>LEC_1Th1,1-10</LEC>
+<PS1>GR_Bonum_est_confiteri</PS1>
+<PS2>AL_Quoniam_Deus</PS2>
+<EV>EV_Mt23,13-22</EV>
+<OF>OF_Exspectans_exspectavi</OF>
+<SO>SO_perannum_21</SO>
+<CO>CO_Qui_manducat</CO>
+<CO_L>CO_L_perannum_21</CO_L>
+<PC>PC_perannum_21</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule>Pologne. Solennit&#xE9; de Notre Dame de Jasna Gora &#x2013; Czestochowa  </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St C&#xE9;saire d'Arles, &#xE9;v&#xEA;que</intitule>
+ <biographiecourte>Ev&#xEA;que, p&#xE8;re de l'Eglise, il d&#xE9;fendit ses fid&#xE8;les face aux babares (+ 1543)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Bse Mariam de Betl&#xE9;em</intitule>
+ <biographiecourte>Carm&#xE9;lite libanaise mystique d&#xE9;c&#xE9;d&#xE9;e en 1878 au Carmel de Betl&#xE9;em</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 26 ao&#xFB;t.</para><para>En France&#xA0;: M&#xE9;moire de saint C&#xE9;saire d&#x2019;Arles (notice&#xA0;15)</para><para>Comm&#xE9;moraison de saint Melchis&#xE9;dek, roi de Salem et pr&#xEA;tre du Dieu Tr&#xE8;s Haut, qui b&#xE9;nit Abraham &#xE0; son retour d&#x2019;une exp&#xE9;dition victorieuse en pr&#xE9;sentant au Seigneur un sacrifice saint, une offrande sans tache, pr&#xE9;figurant ainsi le Chist, roi de justice, pr&#xEA;tre pour l&#x2019;&#xE9;ternit&#xE9;.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, au cimeti&#xE8;re de Basille, sur l&#x2019;ancienne voie Salariene, saint Maximilien, martyr.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Salone en Dalmatie, saint Anastase le foulon, martyr.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; C&#xE9;sar&#xE9;e de Maur&#xE9;tanie, saint Victor, martyr, qui, condamn&#xE9; &#xE0; mort comme chr&#xE9;tien, fut supplici&#xE9; un jour de sabbat.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Bergame en Lombardie (au-del&#xE0; de la plaine du P&#xF4; en Italie), saint Alexandre, martyr.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Auxerre, au VIe si&#xE8;cle, saint &#xC9;leuth&#xE8;re, &#xE9;v&#xEA;que</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; Sur l&#x2019;&#xEE;le Madame, au large du port de Rochefort, en 1794, le bienheureux Jacques Retouret, pr&#xEA;tre et martyr. Carme du Couvent de Limoges, &#xE0; la R&#xE9;volution fran&#xE7;aise, il refusa de pr&#xEA;ter le serment &#xE0; la Constitution civile du Clerg&#xE9;, pr&#xEA;ta, mais r&#xE9;tracta le serment de &#x201C;Libert&#xE9;-&#xC9;galit&#xE9;&#x201D;, fut d&#xE9;port&#xE9; sur un bateau n&#xE9;grier et mourut de froid, laiss&#xE9; jour et nuit presque sans aucun v&#xEA;tement.</para><para>8.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; La Puye dans le Poitou, en 1838, sainte Jeanne-&#xC9;lisabeth Bichier des Anges, vierge. Pendant la R&#xE9;volution fran&#xE7;aise, elle aida saint Andr&#xE9;-Hubert Fournet &#xE0; exercer un minist&#xE8;re clandestin et, quand l&#x2019;&#xC9;glise retrouva la paix, elle fonda la Congr&#xE9;gation des Filles de la Croix pour faire l&#x2019;&#xE9;cole aux enfants de la campagne et soigner les pauvres.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; Au martyrologe romain, le 26 ao&#xFB;t&#xA0;: &#xC0; Bethl&#xE9;em, en 1878, la bienheureuse Marie de J&#xE9;sus Crucifi&#xE9; (Marie Baouardy), vierge carm&#xE9;lite. Combl&#xE9;e de charismes mystiques, elle mena une vie contemplative avec une charit&#xE9; extraordinaire</para><para>10.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Liria en Espagne, l&#x2019;an&#xA0;1897, sainte Th&#xE9;r&#xE8;se de J&#xE9;sus Jornet Ibars, vierge, fondatrice de la Congr&#xE9;gation des Petites Soeurs des vieillards abandonn&#xE9;s.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1936, le bienheureux martyr Ambroise (Louis Valls Matamales, pr&#xEA;tre capucin, mis &#xE0; mort Valence, victime de la pers&#xE9;cution contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1936, le bienheureux Pierre Max Ginestar, pr&#xEA;tre capucin, martyr, mis &#xE0; mort &#xE0; Denia, victime de la pers&#xE9;cution contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para><para>13*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1936, le bienheureux F&#xE9;lix Vivet Trabal religieux sal&#xE9;sien, tu&#xE9; pr&#xE8;s de Barcelone, victime de la pers&#xE9;cution contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; La bienheureuse Laurence (Leucadie Harasymiv), vierge, de la Congr&#xE9;gation des S&#x153;urs de Saint-Joseph, dans la pers&#xE9;cution men&#xE9;e par le r&#xE9;gime sovi&#xE9;tique ath&#xE9;e, fut d&#xE9;port&#xE9;e dans un camp de travail, o&#xF9; la pers&#xE9;v&#xE9;rance dans la foi la mena au martyre &#xE0; Kharsk en Sib&#xE9;rie.</para><para>15*&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, la bienheureuse Marie Beltrame Quattrocchi, m&#xE8;re de famille</para><para>** &#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1936, la bienheureuse Mar&#xED;a De Los &#xC1;ngeles Ginard Mart&#xED; (1894-1936) religieuse de la Congr&#xE9;gation du Culte eucharistique, martyre. (b&#xE9;atifi&#xE9;e le 29 octobre par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

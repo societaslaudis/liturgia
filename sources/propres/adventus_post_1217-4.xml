@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<liturgia>
+	
+	<messe>
+		<IN id="IN_Memento_nostri"/>
+		<PS1 id="GR_In sole_posuit"/>
+		
+		<OF id="OF_Audi_Israel"/>
+		<CO id="CO_Veni_Domine"/>
+	</messe>
+	</liturgia>

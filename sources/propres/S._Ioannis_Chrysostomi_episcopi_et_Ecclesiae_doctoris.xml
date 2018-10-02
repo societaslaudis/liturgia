@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 13 septembris</la>
+<fr>Le 13 septembre</fr>
+</jour>
+<intitule>
+<la>S. IOANNIS CHRYSOSTOMI, EPISCOPI ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. JEAN DE LA CROIX, EVEQUE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Fontem_sapientiae_Dominum"/>
+<HYMNUS_laudes id="hy_Doctor_aeternus_coleris_piusque"/>
+<LB_matin id="LB_Sap_7_13-14"/>
+<RB_matin id="RB_Sapientiam_sanctorum_Narrent_populi"/>
+<benedictus id="AN_Qui_docti_fuerint"/>
+<oratio id="COL_Deus_in_te_sperantium_fortitudo_qui"/>
+<HYMNUS_vesperas id="hy_Aterne_sol_qui_lumine"/>
+<LB_soir id="LB_Iac_3_17-18"/>
+<RB_soir id="RB_In_medio_Ecclesiae_Aperuit"/>
+<magnificat id="AN_O_doctor_optime"/>
+<messe>
+<EV id="EV_Mc4,1-10.13-20"/>
+<LEC id="LEC_Ep4,1-7.11-13"/>
+<IN id="IN_In_medio_Ecclesiae"/>
+<COL id="COL_Deus_in_te_sperantium_fortitudo_qui"/>
+<PS1 id="GR_Ecce_sacerdos"/>
+<PS2 id="AL_Beatus_vir_qui_suffert"/>
+<OF id="OF_Iustus_ut_palma"/>
+<CO id="CO_Fidelis_servus"/>
+
+	<SO id="SO_S_IOANNIS_CHRYSOSTOMI"/>
+	<PC id="PC_S_IOANNIS_CHRYSOSTOMI"/>
+	<IN_L id="IN_L_S_IOANNIS_CHRYSOSTOMI"/>
+	<PR id="PR_S_IOANNIS_CHRYSOSTOMI"/>
+	<PS2_L id="AL_L_S_IOANNIS_CHRYSOSTOMI"/>
+	<CO_L id="CO_L_S_IOANNIS_CHRYSOSTOMI"/>
+</messe>
+</liturgia>

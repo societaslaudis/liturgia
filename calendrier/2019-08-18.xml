@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XX per annum</la><fr>XX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XX per annum</la><fr>XX&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Populus_Domini_et</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1/>
+
+<antL2/>
+
+<psL2/>
+
+<antL3/>
+
+<psL3/>
+
+<LVers/>
+n<Llec1>L1_Dominica_XX_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XX_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XX_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XX_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Ecce_iam_noctis_tenuatur_umbra</HYMNUS_laudes>
+ 
+<ant1>AN_Confitemini_Domino_quoniam</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Alleluia_benedicite_omnia</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Omnis_spiritus_laudet</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_2_Tim_2_8._11-13</LB_matin> 
+ 
+<RB_matin>RB_Confitebimur_tibi_Deus_Et</RB_matin>  
+<benedictus>AN_Baptismo_habeo_baptizar</benedictus> 
+<laudes_preces>perannum_41</laudes_preces><oratio_laudes>COL_Deus_qui_diligentibus_te_bona_invisibilia</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Qui_manducat_ex_hoc</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_Veniet_Dominus_glorificari</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Vovete_et_munera</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_1_Cor_6_19-20</LB_3>
+ 
+<RB_3>VERS_Concupiscit_et_deficit</RB_3>
+ 
+<LB_6>LB_Deut_10_12</LB_6>
+ 
+<RB_6>VERS_Domine_quis_habitabit</RB_6>
+ 
+<LB_9>LB_Cant_8_6b-7a</LB_9>
+ 
+<RB_9>VERS_Diligam te, Domine</RB_9>
+ 
+<oratio_3>COL_Deus_qui_diligentibus_te_bona_invisibilia</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_diligentibus_te_bona_invisibilia</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_diligentibus_te_bona_invisibilia</oratio_9>
+ 
+<intitule_soir><la>Dominica XX per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_O_lux_beata_Trinitas</HYMNUS_vepres>
+ 
+<ant7>AN_In_splendoribus_sanctis</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Beati_qui_esuriunt_et</ant8>
+ 
+<ps8>ps111</ps8>
+ 
+<ant9>AN_Laudem_dicite_Deo</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Hebr_12_22-24</LB_soir>
+ 
+<RB_soir>RB_Magnus_Dominus_noster</RB_soir>
+ 
+<magnificat>AN_Putatis_quia_pacem</magnificat>
+ 
+<vepres_preces>perannum_41</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_diligentibus_te_bona_invisibilia</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Protector_noster</IN>
+<IN_L>IN_L_perannum_20</IN_L>
+<COL>COL_perannum_20</COL>
+<LEC>LEC_Jr38,4-6.8-10</LEC>
+<PS1>GR_Bonum_est_confidere</PS1>
+<LEC2>LEC_He12,1-4</LEC2>
+
+<PS2>AL_Venite_exsultemus</PS2>
+<EV>EV_Lc12,49-53</EV>
+<OF>OF_Immittet_angelus</OF>
+<SO>SO_perannum_20</SO>
+<CO>CO_Domus_mea</CO>
+<CO_L>CO_L_perannum_20</CO_L>
+<PC>PC_perannum_20</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste H&#xE9;l&#xE8;ne</intitule>
+ <biographiecourte>M&#xE8;re de Constantin (&#x2020;328) </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 18 ao&#xFB;t.</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Palestrina dans le Latium, saint Agapit, martyr.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; En Afrique, saint martyr Massae Candidae</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Myre en Lycie, au IVe si&#xE8;cle, saint L&#xE9;on, martyr.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, sur la voie Labicane, vers 329, sainte H&#xE9;l&#xE8;ne, m&#xE8;re de l&#x2019;empereur Constantin le Grand. Elle subvenait aux besoins de toutes sortes de personnes et, m&#xEA;l&#xE9;e &#xE0; la foule, aimait &#xE0; visiter pieusement les &#xE9;glises. Elle fit le p&#xE8;lerinage de J&#xE9;rusalem pour rechercher les lieux de la Nativit&#xE9;, de la Passion et de la R&#xE9;surrection du Christ et fit construire des basiliques pour honorer la cr&#xE8;che et la croix du Seigneur.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Metz, au IVe si&#xE8;cle, saint Firmin, &#xE9;v&#xEA;que.</para><para>6*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Arles en Provence, en 504, saint &#xC9;one, &#xE9;v&#xEA;que, qui d&#xE9;fendit son &#xC9;glise contre les erreurs de P&#xE9;lage et recommanda au peuple, pour lui succ&#xE9;der, saint C&#xE9;saire qu&#x2019;il avait ordonn&#xE9; pr&#xEA;tre.</para><para>7.&#xA0; &#xA0; &#xA0; &#xA0; En Bithynie, l&#x2019;an&#xA0;850, le tr&#xE9;pas de saint Macaire, sup&#xE9;rieur du monast&#xE8;re de Peleceta &#xE0; Constantinople, qui fut expuls&#xE9; de la ville pour la d&#xE9;fense des saintes images sous l&#x2019;empereur L&#xE9;on l&#x2019;Arm&#xE9;nien et qui termina sa vie en exil.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Cava en Campanie, l&#x2019;an&#xA0;1255, le bienheureux L&#xE9;onard, abb&#xE9;, homme tout &#xE0; fait pacifique.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ravenne en Romagne, l&#x2019;an&#xA0;1321, le bienheureux Renaud de Concoregio, &#xE9;v&#xEA;que, plein de z&#xE8;le, de prudence et de charit&#xE9;.</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Mantoue en Lombardie, l&#x2019;an&#xA0;1514, la bienheureuse Paule Montaldi, vierge, abbesse de l&#x2019;Ordre des Clarisses, remarquable par sa d&#xE9;votion &#xE0; la passion du Seigneur, sa pri&#xE8;re continuelle et ses amiti&#xE9;s.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, le bienheureux Antoine Banassat, pr&#xEA;tre et martyr. Cur&#xE9; au dioc&#xE8;se de Limoges au moment de la R&#xE9;volution fran&#xE7;aise, en raison de son sacerdoce, il fut d&#xE9;tenu sur un bateau n&#xE9;grier et y mourut d&#x2019;inanition.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, &#xE0; Val de Moro pr&#xE8;s de Madrid, le bienheureux martyr Fran&#xE7;ois Arias Martin, pr&#xEA;tre, novice dans l&#x2019;Ordre de Saint-Jean de Dieu.</para><para>13*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, en Aragonle, le bienheureux martyr Jacques Falgarona Vilanova, r religieux des missionnaires fils du Coeur immacul&#xE9; de Marie, tu&#xE9; &#xE0; Barbastro&#xA0;:</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, en Catalogne, le bienheureux martyr Martin Martinez Pascual, de la fraternit&#xE9; des pr&#xEA;tres ouvriers dioc&#xE9;sains, pr&#xE8;s d&#x2019;Alacanes, dans la r&#xE9;gion de Tortose.</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, &#xE0; Rafelbunyol dans la r&#xE9;gion de Valence, le bienheureux martyr, Vincent-Marie Izquierdo Alcon, pr&#xEA;tre.</para><para>16*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Santiago du Chili, en 1952, le saint Albert Hurtado Cruchaga, pr&#xEA;tre de la Compagnie de J&#xE9;sus, qui fonda une &#x153;uvre pour donner un toit aux pauvres sans abri, et surtout un domicile vrai et familial aux jeunes vagabonds. (canonis&#xE9; le 23 octobre&#xA0;2005&#xA0;par Benoit&#xA0;XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>7</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XX per annum</la><fr>XX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>S. Bartholomaei, apostoli</la><fr>St Barth&#xE9;lemy, ap&#xF4;tre</fr></intitule>
+<rang><la>Festum</la><fr>F&#xEA;te</fr></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_Apostolorum_Dominum</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps49I</psL1>
+
+<antL2/>
+
+<psL2>ps49II</psL2>
+
+<antL3/>
+
+<psL3>ps49III</psL3>
+
+<LVers/>
+n<Llec1>L1_S._Bartholomaei_apostoli</Llec1>
+
+<Lrep1>R1_S._Bartholomaei_apostoli</Lrep1>
+
+<Llec2>L2_S._Bartholomaei_apostoli</Llec2>
+
+<Lrep2>R2_S._Bartholomaei_apostoli</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Relucens_inter_principes</HYMNUS_laudes>
+ 
+<ant1>AN_Hoc_est_praeceptum</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Maiorem_caritatem_nemo</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Vos_amici_mei</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Eph_2_19-22</LB_matin> 
+ 
+<RB_matin>RB_Constitues_eos_principes_super_omnem</RB_matin>  
+<benedictus>AN_In_fundamentis_civitatis</benedictus> 
+<laudes_preces>apostolorum</laudes_preces><oratio_laudes>COL_Robora_in_nobis_Domine_fidem_qua</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+ 
+ 
+<ant4>AN_Euntes_praedicate_Evangelium</ant4>
+ 
+<ps4>ps118XXII</ps4>
+ 
+<ant5>AN_Ecce_ego_vobiscum</ant5>
+ 
+<ps5>ps44I</ps5>
+ 
+<ant6>AN_In_patientia_vestra</ant6>
+ 
+<ps6>ps44II</ps6>
+ 
+<LB_3>LB_2_Cor_5_19_b-20</LB_3>
+ 
+<RB_3>VERS_In_omnem_terram_exivit_sonus</RB_3>
+ 
+<LB_6>LB_Act_5_12_a._14</LB_6>
+ 
+<RB_6>VERS_Custodiebant_testimonia_Dei_Et_praecepta</RB_6>
+ 
+<LB_9>LB_Act_5_41-42</LB_9>
+ 
+<RB_9>VERS_Gaudete_et_exsultate_dicit_Dominus</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica XXI per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+ 
+<ant7>AN_Dirigatur_Domine_oratio</ant7>
+ 
+<ps7>ps140</ps7>
+ 
+<ant8>AN_Tu_es_refugium</ant8>
+ 
+<ps8>ps141</ps8>
+ 
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_Rom_11_33-36</LB_soir>
+ 
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+ 
+<magnificat>AN_Contendite_intrare_per</magnificat>
+ 
+<vepres_preces>apostolorum</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_fidelium_mentes_unius_efficis</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Protector_noster</IN>
+<IN_L>IN_L_perannum_20</IN_L>
+<COL>COL_perannum_20</COL>
+<LEC>LEC_Rt2,1-4,17</LEC>
+<PS1>GR_Bonum_est_confidere</PS1>
+<PS2>AL_Venite_exsultemus</PS2>
+<EV>EV_Mt23,1-12</EV>
+<OF>OF_Immittet_angelus</OF>
+<SO>SO_perannum_20</SO>
+<CO>CO_Primum_quaerite</CO>
+<CO_L>CO_L_perannum_20</CO_L>
+<PC>PC_perannum_20</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Barth&#xE9;lemy, ap&#xF4;tre</intitule>
+ <biographiecourte>Ap&#xF4;tre, souvent confondu avec Nathana&#xEB;l, serait mort martyr, &#xE9;corch&#xE9; vif</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Ste Jeanne-Antide Thouret</intitule>
+ <biographiecourte>N&#xE9;e pr&#xE8;s de Besan&#xE7;on, religieuse, fondatrice de la  congr&#xE9;gation des s&#x153;urs de la Charit&#xE9;. Victime de la jalousie (&#x2020;1826)</biographiecourte>
+ <canonisebeatifie>Pie XI</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 24 ao&#xFB;t.</para><para>F&#xEA;te de saint Barth&#xE9;lemy, Ap&#xF4;tre. Identifi&#xE9; g&#xE9;n&#xE9;ralement avec Nathana&#xEB;l, originaire de Cana en Galil&#xE9;e, il fut conduit &#xE0; J&#xE9;sus par Philippe&#xA0;; le Seigneur l&#x2019;appela ensuite &#xE0; le suivre et le mit dans le groupe des Douze. Des traditions assurent qu&#x2019;apr&#xE8;s l&#x2019;Ascension du Christ, il annon&#xE7;a l&#x2019;&#xC9;vangile en Inde et qu&#x2019;il y fut couronn&#xE9; du martyre.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Claudiopolis, en Honoriade dans le Pont, saint Tatien, martyr.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Clichy dans la r&#xE9;gion parisienne, en 684, le tr&#xE9;pas de saint Ouen, &#xE9;v&#xEA;que de Rouen. R&#xE9;f&#xE9;rendaire du roi Dagobert, &#xE9;lu &#xE9;v&#xEA;que par le peuple de Rouen, il dirigea son &#xC9;glise avec succ&#xE8;s, pendant quarante-trois ans, faisant construire de nombreuses &#xE9;glises et favorisant les fondations monastiques.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; Sur le mont Olympe en Bithynie, vers 730, saint Georges Limniote, moine. Pour avoir reproch&#xE9; &#xE0; l&#x2019;empereur impie L&#xE9;on l&#x2019;Isaurien de briser les saintes images et de br&#xFB;ler les reliques des saints, il eut, sur l&#x2019;ordre de l&#x2019;empereur, le nez coup&#xE9; et la t&#xEA;te br&#xFB;l&#xE9;e. Il s&#x2019;en alla ainsi, en martyr, vers le Seigneur.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lima au P&#xE9;rou, en 1617, la naissance au ciel de sainte Rose, dont la m&#xE9;moire a &#xE9;t&#xE9; c&#xE9;l&#xE9;br&#xE9;e la veille.</para><para>6*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Angers, en 1794, le bienheureux Andr&#xE9; Fardeau, pr&#xEA;tre et martyr, guillotin&#xE9; en raison de son sacerdoce sous la R&#xE9;volution fran&#xE7;aise.</para><para>7.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Naples, en 1826, sainte Jeanne-Antide Thouret, vierge. N&#xE9;e dans le dioc&#xE8;se de Besan&#xE7;on, elle venait d&#x2019;entrer chez les Filles de la Charit&#xE9; de saint Vincent de Paul, quand la R&#xE9;volution fran&#xE7;aise supprima les instituts religieux. Elle continua cependant &#xE0; Besan&#xE7;on la vie religieuse avec quelques compagnes qu&#x2019;elle appela les S&#x153;urs de la Charit&#xE9; et qu&#x2019;elle voulut consacrer au soin des enfants abandonn&#xE9;s, des pauvres et des malades. Elle connut de grandes tribulations et mourut, exil&#xE9;e, &#xE0; Naples.</para><para>8.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Marseille, en 1856, sainte &#xC9;milie de Vialar, vierge. Dans le souci de diffuser l&#x2019;&#xC9;vangile dans les contr&#xE9;es les plus lointaines, elle fonda la Congr&#xE9;gation des S&#x153;urs de Saint-Joseph de l&#x2019;Apparition et, &#xE0; travers les tracas, les pers&#xE9;cutions, la pauvret&#xE9;, elle d&#xE9;veloppa consid&#xE9;rablement son institut en fondant quarante-deux maisons, de l&#x2019;Afrique du Nord &#xE0; la Birmanie.</para><para>9.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Valence en Espagne, l&#x2019;an&#xA0;1866, sainte Marie-Michelle du Saint-Sacrement (Michelle Desmaisi&#xE8;res), vierge, fondatrice de la Congr&#xE9;gation des Servantes du Saint-Sacrement et de la Charit&#xE9;. Avec z&#xE8;le et t&#xE9;nacit&#xE9;, enflamm&#xE9;e d&#x2019;un grand d&#xE9;sir de gagner des &#xE2;mes &#xE0; Dieu, elle consacra sa vie &#xE0; la r&#xE9;demption des filles perdues et des prostitu&#xE9;es.</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tulcan en &#xC9;quateur, l&#x2019;an&#xA0;1886, la bienheureuse Marie de l&#x2019;Incarnation (Marie-Vincente Rosal), vierge, qui r&#xE9;forma les s&#x153;urs de Bethl&#xE9;em, en leur donnant pour t&#xE2;che principale de revendiquer la dignit&#xE9; des femmes et de donner aux jeunes filles une &#xE9;ducation chr&#xE9;tienne.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, le bienheureux Maximilien Binkiewiecz, pr&#xEA;tre de Cz&#x119;stochowa et martyr. Pendant la Seconde Guerre mondiale, quand la Pologne fut soumise au r&#xE9;gime nazi, il fut arr&#xEA;t&#xE9; et d&#xE9;port&#xE9; dans ce camp, o&#xF9; il mourut des suites des brutalit&#xE9;s subies.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Dresde en Allemagne orientale, l&#x2019;an&#xA0;1942, les bienheureux martyrs Ceslas Jozwiak, &#xC9;douard Kazmierski, Fran&#xE7;ois Kesy, &#xC9;douard Klinik et Iaroniev Wojciechowski. &#xC9;l&#xE8;ves chez les Sal&#xE9;siens de Poznam en Pologne, ils furent arr&#xEA;t&#xE9;s, par le pouvoir nazi, intern&#xE9;s dans diverses prisons, puis condamn&#xE9;s &#xE0; mort sous l&#x2019;accusation d&#x2019;avoir cherch&#xE9; &#xE0; trahir l&#x2019;&#xC9;tat, et d&#xE9;capit&#xE9;s &#xE0; la hache.</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Croatie, en 1947, le bienheureux Miroslav Bulesic, pr&#xEA;tre martyr, victime de la pers&#xE9;cution communiste en Croatie. (b&#xE9;atifi&#xE9; le 28 septembre 2013 par le pape Fran&#xE7;ois)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 29 aprilis</la>
+<fr>Le 29 avril</fr>
+</jour>
+<intitule>
+<la>S. CATHARINA SENENSIS, VIRGINIS ET ECCLESIAE DOCTORIS, PATRONAE EUROPAE</la>
+<fr>S. CATHERINE DE SIENNE,  VIERGE ET DOCTEUR DE L'EGLISE, PATRONNE DE L'EUROPE</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<ant_invit id="INV_Agnum_quem_sequuntur"/>
+<HYMNUS_laudes id="HY_Te_Catharina"/>
+<ant1 id="AN_Christum_libere_conf&#xED;teor"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Benedicite_virgines_Dominum"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Exsultabunt_sancti_in_gloria_quibus"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Cant_8_7"/>
+<RB_matin id="RB_Tibi_dixit_cor_meum_Quaesivi"/>
+<benedictus id="AN_Sancta_virgo_Catharina"/>
+<oratio id="COL_Deus_qui_beatam_Catharinam"/>
+<ant4 id="AN_Mihi_adhaerere_Deo"/>
+<LB_3 id="LB_Sap8,21a"/>
+<RB_3 id="VERS_Haec_est_virgo_sapiens_Quam"/>
+<oratio_3 id="COL_Deus_qui_beatam_Catharinam"/>
+
+<ant5 id="AN_Suscipe_me_Domine_secundum"/>
+<LB_6 id="LB_1Cor7,25"/>
+<RB_6 id="VERS_Haec_est_virgo_sapiens_Et"/>
+<oratio_6 id="COL_Deus_qui_beatam_Catharinam"/>
+<ant6 id="AN_O_quam_pulchra_est"/>
+<LB_9 id="LB_Ap19,6b.7"/>
+<RB_9 id="VERS_Inveni_quem_diligit"/>
+<oratio_9 id="COL_Deus_qui_beatam_Catharinam"/>
+
+<HYMNUS_vesperas id="hy_Te_Catharina"/>
+<preces id="COMMUNE_VIRGINUM"/>
+<ant7 id="AN_Tibi_me_servo_castam"/>
+<ps7 id="ps121"/>
+
+<ant8 id="AN_Beati_mundo_corde"/>
+<ps8 id="ps126"/>
+<ant9 id="AN_Mens_mea_solidata"/>
+<ps9 id="NT4"/>
+<LB_soir id="LB_1_Cor_7,32b.34a"/>
+<RB_soir id="RB_Afferentur_Regi_virgines"/>
+<magnificat id="AN_Semper_et_ubique_Catharina"/>
+
+<EV id="Mt11,25-30"/>
+<LEC id="1Jn1,5-2,2"/>
+
+<IN id="IN_Caritas_Dei"/>
+<IN id="IN_Dilexisti"/>
+<PS2 id="AL_Domine_Deus_salutis_meae"/>
+<PS2 id="AL_Adducentur"/>
+<OF id="OF_Deus_Deus_meus"/>
+<OF id="OF_Filiae_regum"/>
+<CO id="CO_Notas_mihi_fecisti"/>
+<CO id="CO_Quinque_prudentes_virgines"/>
+
+</liturgia>

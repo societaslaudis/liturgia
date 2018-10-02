@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica II Adventus</la>
+<fr>II&#xB0; dimanche de l'Avent</fr>
+</intitule>
+
+<HYMNUS_1V id="hy_Conditor_alme_siderum"/>
+<ant01 id="AN_Gaude_et_laetare"/>
+<ant02 id="AN_Confortate_manus_dissolutas;"/>
+<ant03 id="AN_Lex_per_Moysen"/>
+<LB_1V id="LB_1Th_5_23-24"/>
+<RB_1V id="RB_Ostende_nobis_Domine_Misericordiam"/>
+<magnificat1_A id="AN_Venit_Ioannes_Baptista"/>
+<magnificat1_B id="AN_Ecce_mitto_angelum"/>
+<magnificat1_C id="AN_Veni_Domine_visitare"/>
+
+<benedictus_A id="AN_Vox_clamantis_in"/>
+<benedictus_B id="AN_Fuit_Ioannes_in"/>
+<benedictus_C id="AN_Factum_est_verbum"/>
+<magnificat_A id="AN_Ego_vos_baptizo"/>
+<magnificat_B id="AN_Ioannes_praedicabat_dicens"/>
+<magnificat_C id="AN_Omnis_vallis_implebitur"/>
+<oratio id="COL_Omnipotens_et_misericors_Deus_in_tui"/>
+<oratio_3 id="COL_Omnipotens_et_misericors_Deus_in_tui"/>
+<oratio_6 id="COL_Omnipotens_et_misericors_Deus_in_tui"/>
+<oratio_9 id="COL_Omnipotens_et_misericors_Deus_in_tui"/>
+
+<messe>
+	<IN id="IN_Populus_Sion"/>
+	<COL id="COL_Omnipotens_et_misericors_Deus_in_tui"/>
+	<PS1 id="GR_Ex_Sion"/>
+	<PS2 id="AL_Laetatus_sum"/>
+	<OF id="OF_Deus_tu_convertens"/>
+	<CO id="CO_Ierusalem_surge"/>
+	<LEC>
+		<A id="LEC_Is11,1-10"/>
+		<B id="LEC_Is40,1-5;9-11"/>
+		<C id="LEC_Ba5,1-9"/>
+	</LEC>
+	<PR>
+		<A id="PR_Ps72,1"/>
+		<B id="PR_Ps85,9"/>
+		<C id="PR_Ps126,1"/>
+	</PR>
+	<LEC2>
+		<A id="LEC_Rm15,4-9"/>
+		<B id="LEC_2P3,8-14"/>
+		<C id="LEC_Ph1,4-6.8-11"/>
+	</LEC2>
+	<EV>
+		<A id="EV_Mt3,1-12"/>
+		<B id="EV_Mc1,1-8"/>
+		<C id="EV_Lc3,1-6"/>
+	</EV>
+	<PRE id="PRE_Pr&#xE9;facedel'Aventn1oun.2."/>
+</messe>
+</liturgia>

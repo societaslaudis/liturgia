@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus>
+<hebdomada><la>Hebdomada XXIX per annum</la><fr>XXIX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada>
+<intitule><la>Dominica XXIX per annum</la><fr>XXIX&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+
+<HYMNUS_lectures>HY_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>HY_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Lignum_vitae_in</antL1>
+
+<psL1>ps1</psL1>
+
+<antL2>AN_Ego_constitui_Regem</antL2>
+
+<psL2>ps2</psL2>
+
+<antL3>AN_Tu_Domine_protector</antL3>
+
+<psL3>ps3</psL3>
+
+<LVers>VERS_Verbum_Christi</LVers>
+n<Llec1>L1_Dominica_XXIX_per_annum</Llec1>
+
+<Lrep1>R1_Dominica_XXIX_per_annum</Lrep1>
+
+<Llec2>L2_Dominica_XXIX_per_annum</Llec2>
+
+<Lrep2>R2_Dominica_XXIX_per_annum</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ 
+<ant1>AN_Ad_te_de</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Tres_ex_uno</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Filii_Sion_exsultent</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Ap7.10b-12</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin>  
+<benedictus>AN_Deus_faciet_vindictam</benedictus> 
+<laudes_preces>perannum_11</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_fac_nos_tibi</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Bonum_est_confugere</ant4>
+ 
+<ps4>ps117I</ps4>
+ 
+<ant5>AN_Fortitudo_mea_et</ant5>
+ 
+<ps5>ps117II</ps5>
+ 
+<ant6>AN_Confitebor_tibi_Domine</ant6>
+ 
+<ps6>ps117III</ps6>
+ 
+<LB_3>LB_I_Io4.16</LB_3>
+ 
+<RB_3>VERS_Inclina_cor</RB_3>
+ 
+<LB_6>LB_Gal6.7-8</LB_6>
+ 
+<RB_6>VERS_In_aeternum</RB_6>
+ 
+<LB_9>LB_CfGal6,9-10</LB_9>
+ 
+<RB_9>VERS_Clamavi_in</RB_9>
+ 
+<oratio_3>COL_Omnipotens_sempiterne_Deus_fac_nos_tibi</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_sempiterne_Deus_fac_nos_tibi</oratio_6>
+ 
+<oratio_9>COL_Omnipotens_sempiterne_Deus_fac_nos_tibi</oratio_9>
+ 
+<intitule_soir><la>Dominica XXIX per annum</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+ 
+<ant7>AN_Virgam_potentiae_suae</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_A_facie_Domini</ant8>
+ 
+<ps8>ps113A</ps8>
+ 
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_2_Cor_1_3-4</LB_soir>
+ 
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+ 
+<magnificat>AN_Dum_venerit_Filius</magnificat>
+ 
+<vepres_preces>perannum_11</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_fac_nos_tibi</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Salve_regina</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Ego_clamavi</IN>
+<IN_L>IN_L_perannum_29</IN_L>
+<COL>COL_perannum_29</COL>
+<LEC>LEC_Ex17,8-13</LEC>
+<PS1>GR_Salvum_fac_populum</PS1>
+<LEC2>LEC_2Tm3,14-4,2</LEC2>
+
+<PS2>AL_Lauda_anima_mea</PS2>
+<EV>EV_Lc18,1-8</EV>
+<OF>OF_Meditabor</OF>
+<SO>SO_perannum_29</SO>
+<CO>CO_Domine Dominus_noster</CO>
+<CO_L>CO_L_perannum_29</CO_L>
+<PC>PC_perannum_29</PC>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>St Corneille, centurion</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Corneille</intitule>
+ <biographiecourte>Baptis&#xE9; par St Pierre, il est le premier chr&#xE9;tien non juif.</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 20 octobre</para><para>1. Comm&#xE9;moraison de saint Corneille, le centurion que l&#x2019;Ap&#xF4;tre saint Pierre baptisa &#xE0; C&#xE9;sar&#xE9;e de Palestine, pr&#xE9;mices de l&#x2019;&#xC9;glise des nations. </para><para>2. &#xC0; Agen, vers 303, saint Caprais, martyr.</para><para>3. &#xC0; Aussance au pays de Reims, vers 600, saint Sindulf, ermite, qui mena une vie solitaire, connu de Dieu seul. </para><para>4*. &#xC0; Salzbourg en Bavi&#xE8;re, saint Vital, &#xE9;v&#xEA;que. N&#xE9; en Irlande, il fut disciple de saint Rupert, son compagnon de voyage et son &#xE9;mule en labeurs et en veilles. &#xC9;lu pour lui succ&#xE9;der, il convertit &#xE0; la foi du Christ le peuple de Pinger. </para><para>5. &#xC0; Constantinople, en 767, saint Andr&#xE9;, appel&#xE9; Calybite, moine et martyr. Originaire de Cr&#xE8;te, il fut, &#xE0; cause du culte des saintes images, sous l&#x2019;empereur Constantin Copronyme, rou&#xE9; de verges plus d&#x2019;une fois, puni de divers supplices jusqu&#x2019;&#xE0; la mort, et enfin pr&#xE9;cipit&#xE9; de la muraille de la ville dans les ordures. </para><para>6*. Au pays de Troyes, vers 1002, saint Aderald, archidiacre, fondateur du prieur&#xE9; de Villecerf, qui illustra la r&#xE8;gle canoniale par ses instructions et ses exemples, m&#xEA;me lorsqu&#x2019;il fut retenu prisonnier par les Sarrasins en Terre sainte. </para><para>7*. &#xC0; Savigny en Normandie, vers 1125, sainte Adeline, premi&#xE8;re abbesse du monast&#xE8;re de Mortain, qu&#x2019;elle avait construit avec l&#x2019;aide de son fr&#xE8;re saint Vital.</para><para>8*. &#xC0; Lwow en Ruth&#xE9;nie, en 1409, le tr&#xE9;pas du bienheureux Jacques de Strepa (Rukem de Waldonna), &#xE9;v&#xEA;que de Kalisz, de l&#x2019;Ordre des Mineurs, illustre par sa sollicitude pastorale et ses vertus apostoliques. </para><para>9. &#xC0; Tr&#xE9;vise en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1922, sainte Marie-Bertille (Anne-Fran&#xE7;oise Boscardin), vierge de la Congr&#xE9;gation des S&#x153;urs ma&#xEE;tresses de Sainte Doroth&#xE9;e, qui prit le plus grand soin, corporel et spirituel, des malades de l&#x2019;h&#xF4;pital de la ville. </para><para>10*. &#xC0; Vienne en Autriche, l&#x2019;an&#xA0;1924, le bienheureux Jacques (Fran&#xE7;ois-Alexandre Kern), pr&#xEA;tre pr&#xE9;montr&#xE9;. Encore &#xE9;tudiant, il fut mobilis&#xE9;, pendant la Premi&#xE8;re Guerre mondiale et gravement bless&#xE9;. Par la suite, il se donna de tout son c&#x153;ur au minist&#xE8;re pastoral, mais pour peu de temps, car terrass&#xE9; par une maladie longue et cruelle, qu&#x2019;il accueillit avec une grande force d&#x2019;&#xE2;me, il se soumit dans la paix &#xE0; la volont&#xE9; de Dieu. </para><para/></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>8</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada II Paschae</la><fr>II&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la>S. Catharinae Senensis, virginis et Ecclesiae doctoris, patronae Europae</la><fr>Ste Catherine de Sienne, vierge et docteur de l'Eglise, patronne de l'Europe</fr></intitule>
+<rang><la>Festum</la><fr>F&#xEA;te</fr></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Agnum_quem_sequuntur</invitatoire>
+
+<HYMNUS_lectures>hy_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+
+<antL1>AN_Inclina_ad_me</antL1>
+
+<psL1>ps30I</psL1>
+
+<antL2>AN_Illumina_faciem_tuam</antL2>
+
+<psL2>ps30II</psL2>
+
+<antL3>AN_Benedictus_Dominus_quoniam</antL3>
+
+<psL3>ps30III</psL3>
+
+<LVers>VERS_Dirige_me</LVers>
+n<Llec1>L1_S._Catharinae_Senensis_virginis_et_Ecclesiae_doctoris_patronae_Europae</Llec1>
+
+<Lrep1>R1_S._Catharinae_Senensis_virginis_et_Ecclesiae_doctoris_patronae_Europae</Lrep1>
+
+<Llec2>L2_S._Catharinae_Senensis_virginis_et_Ecclesiae_doctoris_patronae_Europae</Llec2>
+
+<Lrep2>R2_S._Catharinae_Senensis_virginis_et_Ecclesiae_doctoris_patronae_Europae</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>HY_Te_Catharina</HYMNUS_laudes>
+ 
+<ant1>AN_Christum_libere_conf&#xED;teor</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Benedicite_virgines_Dominum</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Exsultabunt_sancti_in_gloria_quibus</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Cant_8_7</LB_matin> 
+ 
+<RB_matin>RB_Tibi_dixit_cor_meum_Quaesivi</RB_matin>  
+<benedictus>AN_Sancta_virgo_Catharina</benedictus> 
+<laudes_preces>COMMUNE_VIRGINUM</laudes_preces><oratio_laudes>COL_Deus_qui_beatam_Catharinam</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Mihi_adhaerere_Deo</ant4>
+ 
+<ps4>ps118VI</ps4>
+ 
+<ant5>AN_Suscipe_me_Domine_secundum</ant5>
+ 
+<ps5>ps39I</ps5>
+ 
+<ant6>AN_O_quam_pulchra_est</ant6>
+ 
+<ps6>ps39II</ps6>
+ 
+<LB_3>LB_Sap8,21a</LB_3>
+ 
+<RB_3>VERS_Haec_est_virgo_sapiens_Quam</RB_3>
+ 
+<LB_6>LB_1Cor7,25</LB_6>
+ 
+<RB_6>VERS_Haec_est_virgo_sapiens_Et</RB_6>
+ 
+<LB_9>LB_Ap19,6b.7</LB_9>
+ 
+<RB_9>VERS_Inveni_quem_diligit</RB_9>
+ 
+<oratio_3>COL_Deus_qui_beatam_Catharinam</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_beatam_Catharinam</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_beatam_Catharinam</oratio_9>
+ 
+<intitule_soir><la>S. CATHARINA SENENSIS, VIRGINIS ET ECCLESIAE DOCTORIS, PATRONAE EUROPAE</la></intitule_soir>
+ 
+<rang_soir><la>Festum</la></rang_soir>
+ 
+<office_soir><la/></office_soir>
+ 
+<HYMNUS_vepres>hy_Te_Catharina</HYMNUS_vepres>
+ 
+<ant7>AN_Tibi_me_servo_castam</ant7>
+ 
+<ps7>ps121</ps7>
+ 
+<ant8>AN_Beati_mundo_corde</ant8>
+ 
+<ps8>ps126</ps8>
+ 
+<ant9>AN_Mens_mea_solidata</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_1_Cor_7,32b.34a</LB_soir>
+ 
+<RB_soir>RB_Afferentur_Regi_virgines</RB_soir>
+ 
+<magnificat>AN_Semper_et_ubique_Catharina</magnificat>
+ 
+<vepres_preces>COMMUNE_VIRGINUM</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_beatam_Catharinam</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+ 
+<comp_ps1>ps85</comp_ps1> 
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+ 
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio> 
+<comp_AM>AM_Regina_caeli</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Accipite_iucunditatem</IN>
+<LEC>LEC_Ac4,23-31</LEC>
+<PS1>AL_In_die_resurrectionis</PS1>
+<PS2/>
+<EV>EV_Jn3,1-8</EV>
+<OF>OF_Angelus_Domini</OF>
+<CO>CO_Spiritus_ubi_vult_spirat</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</intitule>
+ <biographiecourte>Vierge, docteur de l'&#xC9;glise elle persuada le pape Gr&#xE9;goire XI de revenir &#xE0; Rome (&#x2020;1380)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 29 avril</para><para>1. M&#xE9;moire (en Europe, f&#xEA;te) de sainte Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise. Admise parmi les S&#x153;urs de la P&#xE9;nitence de Saint-Dominique, elle s&#x2019;appliqua &#xE0; conna&#xEE;tre Dieu en elle, &#xE0; se conna&#xEE;tre en Dieu et &#xE0; reproduire l&#x2019;image du Christ crucifi&#xE9;. Avec force et inlassablement, elle lutta pour poursuivre la paix, ramener dans sa ville l&#x2019;&#xE9;v&#xEA;que de Rome et refaire l&#x2019;unit&#xE9; de l&#x2019;&#xC9;glise. Elle mourut &#xE0; Rome en 1380, laissant de pr&#xE9;cieux documents de tr&#xE8;s haute doctrine spirituelle. </para><para>2. Comm&#xE9;moraison de saint Tychique, disciple de saint Paul, que l&#x2019;Ap&#xF4;tre appelle dans ses lettres, son fr&#xE8;re bien-aim&#xE9;, son fid&#xE8;le ministre et son compagnon dans le Seigneur. </para><para>3. &#xC0; Pise en Toscane, saint Torp&#xE8;s (Tropez), martyr. </para><para>4. &#xC0; Naples, vers 409, saint S&#xE9;v&#xE8;re, &#xE9;v&#xEA;que, que saint Ambroise aimait comme un fr&#xE8;re, et que son &#xC9;glise a aim&#xE9; comme un p&#xE8;re. </para><para>5. &#xC0; Cluny en Bourgogne, l&#x2019;an&#xA0;1109, saint Hugues, abb&#xE9;, qui gouverna saintement son monast&#xE8;re et ses filiales durant soixante-et-un ans, port&#xE9; sans cesse aux aum&#xF4;nes et &#xE0; la pri&#xE8;re, gardien et promoteur tr&#xE8;s attentif de la discipline monastique, fid&#xE8;le ardent de la sainte &#xC9;glise dont il fut le d&#xE9;fenseur et qu&#x2019;il s&#x2019;appliqua &#xE0; d&#xE9;velopper. </para><para>&#xA0;6*. &#xC0; La Lucerne en Normandie, l&#x2019;an&#xA0;1172, le tr&#xE9;pas de saint Achard, &#xE9;v&#xEA;que d&#x2019;Avranches. Originaire d&#x2019;Angleterre, chanoine r&#xE9;gulier de Saint-Victor &#xE0; Paris avant son &#xE9;piscopat, il &#xE9;crivit plusieurs trait&#xE9;s sur la vie spirituelle, pour guider l&#x2019;&#xE2;me chr&#xE9;tienne jusqu&#x2019;au sommet de la perfection. Il mourut et fut inhum&#xE9; dans l&#x2019;abbaye de l&#x2019;Ordre de Pr&#xE9;montr&#xE9; o&#xF9; il allait fr&#xE9;quemment. </para><para>7. &#xC0; S&#xE9;oul, en 1841, saint Antoine Kim Song-u, martyr, qui avait l&#x2019;habitude de r&#xE9;unir chez lui de nombreux fid&#xE8;les et qui fut &#xE9;trangl&#xE9; en prison pour le Christ. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

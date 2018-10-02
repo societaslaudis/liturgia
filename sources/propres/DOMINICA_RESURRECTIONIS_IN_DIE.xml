@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<liturgia>
+<LEC>
+	<A id="Ac10,34a.37-43"/>
+	<B id="Ac10,34a.37-43"/>
+	<C id="Ac10,34a.37-43"/>
+</LEC>
+<LEC_II>
+	<A id="Col3,1-4"/>
+	<B id="Col3,1-4"/>
+	<C id="Col3,1-4"/>
+</LEC_II>
+<EV>
+	<A id="Jn20,1-9"/>
+	<B id="Jn20,1-9"/>
+	<C id="Jn20,1-9"/>
+</EV>
+	
+	
+	
+	<annoA>
+		<IN id="IN_Resurrexi"/>
+		<PS1 id="GR_Haec_dies"/>
+		<PS2 id="AL_Pascha_nostrum"/>
+		<SEQ id="SEQ_Victimae_paschali_laudes"/>
+		<OF id="OF_Terra_tremuit"/>
+		<CO id="CO_Pascha_nostrum"/>
+		<autre1 id=""/>
+		<autre2 id=""/>
+		<autre3 id=""/>
+		<autre4 id=""/>
+		<autre5 id=""/>
+		<autre6 id=""/>
+		<autre7 id=""/>
+		<autre8 id=""/>
+	</annoA>
+	
+	<annoB>
+		<IN id="IN_Resurrexi"/>
+		<PS1 id="GR_Haec_dies"/>
+		<PS2 id="AL_Pascha_nostrum"/>
+		<SEQ id="SEQ_Victimae_paschali_laudes"/>
+		<OF id="OF_Terra_tremuit"/>
+		<CO id="CO_Pascha_nostrum"/>
+		<autre1 id=""/>
+		<autre2 id=""/>
+		<autre3 id=""/>
+		<autre4 id=""/>
+		<autre5 id=""/>
+		<autre6 id=""/>
+		<autre7 id=""/>
+		<autre8 id=""/>
+		</annoB>
+		
+	<annoC>
+		<IN id="IN_Resurrexi"/>
+		<PS1 id="GR_Haec_dies"/>
+		<PS2 id="AL_Pascha_nostrum"/>
+		<SEQ id="SEQ_Victimae_paschali_laudes"/>
+		<OF id="OF_Terra_tremuit"/>
+		<CO id="CO_Pascha_nostrum"/>
+		<autre1 id=""/>
+		<autre2 id=""/>
+		<autre3 id=""/>
+		<autre4 id=""/>
+		<autre5 id=""/>
+		<autre6 id=""/>
+		<autre7 id=""/>
+		<autre8 id=""/>
+		</annoC>
+	</liturgia>

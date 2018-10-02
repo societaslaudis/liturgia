@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Regem_magnum_Dominum"/>
+<HYMNUS_lectures id="hy_Consors_paterni_luminis"/>
+<HYMNUS_lec_jour id="hy_O_sacrosancta_Trinitas"/>
+<ant01 id="AN_Iudicabit_Dominus_in"/>
+<ps01 id="ps9BI"/>
+<ant02 id="AN_Tu_Domine_laborem"/>
+<ps02 id="ps9BII"/>
+<ant03 id="AN_Eloquia_Domini_eloquia"/>
+<ps03 id="ps11"/>
+<VERS id="VERS_Diriget_Dominus"/>
+<HYMNUS_laudes id="hy_Pergrata_mundo_nuntiat"/>
+<ant1 id="AN_Innocens_manibus_et"/>
+<ps1 id="ps23"/>
+<ant2 id="AN_Exaltate_Regem_saeculorum"/>
+<ant3 id="AN_Rectos_decet_collaudatio."/>
+<LB_matin id="LB_Rom_13_11b._12-13a"/>
+<RB_matin id="RB_Deus_meus_adiutor_meus"/>
+<benedictus id="AN_Erexit_nobis_Dominus"/>
+  <preces id="perannum_13"/>
+<oratio_laudes id="COL_Matutina_supplicum_vota_Domine_propitius_intuere"/>
+
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant4 id="AN_Beati_qui_ambulant"/>
+<ant5 id="AN_Exsultabit_cor_meum"/>
+<ant6 id="AN_Conclusit_Deus_omnia"/>
+<LB_3 id="LB_Ier_17_7-8"/>
+<RB_3 id="VERS_Dominus_non_privabit_bonis_eos"/>
+<oratio_3 id="COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum"/>
+<LB_6 id="LB_Prov_3_13-15"/>
+<RB_6 id="VERS_Domine_veritatem_in_corde_dilexisti"/>
+<oratio_6 id="COL_Deus_qui_Petro_salvificum_tuum_super"/>
+<LB_9 id="LB_Iob_5_17-18"/>
+<RB_9 id="VERS_Fac_cum_servo_tuo_secundum"/>
+<oratio_9 id="COL_Deus_qui_Cornelio_centurioni_angelum_tuum"/>
+
+<HYMNUS_vesperas id="hy_Telluris_ingens_conditor"/>
+<ant7 id="AN_Tribuit_Dominus_victoriam"/>
+<ant8 id="AN_Cantabimus_et_psallemus"/>
+<ant9 id="AN_Fecisti_nos_Domine"/>
+<LB_soir id="LB_1_Io_3_1a._2"/>
+<RB_soir id="RB_In_aeternum_Domine"/>
+<magnificat id="AN_Exsultet_spiritus_meus"/>
+<oratio_vesperas id="COL_Gratias_tibi_agimus_Domine_Deus_omnipotens"/>
+<preces_soir>
+</preces_soir>
+<HYMNUS_completorium id="hy_Te_lucis"/>
+<ant10 id="AN_Non_abscondas_faciem"/>
+<ps10 id="ps142"/>
+<LB_complies id="LB_1_Petr_5_8-9_a"/>
+<ps1 id="ps23"/>
+<ps2 id="AT5"/>
+<ps3 id="ps32"/>
+<ps4 id="ps118I"/>
+<ps5 id="ps12"/>
+<ps6 id="ps13"/>
+<ps7 id="ps19"/>
+<ps8 id="ps20"/>
+<ps9 id="NT9"/>
+
+<HYMNUS_completorium id="hy_Te_lucis_ante_terminum"/>
+<ant10 id="AN_non_abscondas_faciem"/>
+<ps10 id="ps142"/>
+<LB_completorium id="LB_1_Petr_5_8-9_a"/>
+<RB_completorium id="RB_In_manus_tuas"/>
+<oratio_completorium id="COL_Noctem_istam_quaesumus_Domine"/>
+<AM id="AM_Salve_regina"/>
+
+<LB_osb_vigiles id="LB_Iac_5_8_10-11a"/>
+<RB_osb_vigiles id="RB_Bonitatem_et_prudentiam"/>
+</liturgia>

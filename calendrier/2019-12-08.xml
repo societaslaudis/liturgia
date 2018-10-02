@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>2</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Adventus</la><fr>Temps de l'Avent</fr></tempus>
+<hebdomada><la>Hebdomada II Adventus</la><fr>II&#xE8;me semaine de l'Avent</fr></hebdomada>
+<intitule><la>Dominica II Adventus</la><fr>II&#xE8;me dimanche de l'Avent</fr></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_venturum_Dominum</invitatoire>
+
+<HYMNUS_lectures>hy_Verbum_supernum_prodiens</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+
+<antL1>AN_Veniet_ecce_Rex_excelsus_cum</antL1>
+
+<psL1>ps103I</psL1>
+
+<antL2>AN_Gaude_et_laetare_filia_Ierusalem_ecce</antL2>
+
+<psL2>ps103II</psL2>
+
+<antL3>AN_</antL3>
+
+<psL3>ps103III</psL3>
+
+<LVers/>
+n<Llec1>L1_Dominica_II_Adventus</Llec1>
+
+<Lrep1>R1_Dominica_II_Adventus</Lrep1>
+
+<Llec2>L2_Dominica_II_Adventus</Llec2>
+
+<Lrep2>R2_Dominica_II_Adventus</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>adventus_21-NOCT1-2</LEC_NOCT1>
+
+<LEC_NOCT2>adventus_21-NOCT2-2</LEC_NOCT2>
+
+<LEC_NOCT3>adventus_21-NOCT3-A</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Vox_clara_ecce_intonat</HYMNUS_laudes>
+ 
+<ant1>AN_Urbs_fortitudinis_nostrae</ant1>
+ 
+<ps1>ps117</ps1>
+ 
+<ant2>AN_Omnes_sitientes_venite</ant2>
+ 
+<ps2>AT40</ps2>
+ 
+<ant3>AN_Ecce_Dominus_noster</ant3>
+ 
+<ps3>ps150</ps3>
+ 
+<LB_matin>LB_Rom_13_11-12</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi_</RB_matin>  
+<benedictus>AN_Vox_clamantis_in</benedictus> 
+<laudes_preces>perannum_21</laudes_preces><oratio_laudes>COL_Omnipotens_et_misericors_Deus_in_tui</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Prophetae_praedicaverunt_nasci</ant4>
+ 
+<ps4>ps22</ps4>
+ 
+<ant5>AN_Gabriel_angelus_locutus</ant5>
+ 
+<ps5>ps75I</ps5>
+ 
+<ant6>AN_Maria_dixit_Qualis</ant6>
+ 
+<ps6>ps75II</ps6>
+ 
+<LB_3>LB_Rom13,13-14a</LB_3>
+ 
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+ 
+<LB_6>LB_Cf1Th3,12-1</LB_6>
+ 
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+ 
+<LB_9>LB_Cf.2Th1,6.7.10</LB_9>
+ 
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+ 
+<oratio_3>COL_Omnipotens_et_misericors_Deus_in_tui</oratio_3>
+ 
+<oratio_6>COL_Omnipotens_et_misericors_Deus_in_tui</oratio_6>
+ 
+<oratio_9>COL_Omnipotens_et_misericors_Deus_in_tui</oratio_9>
+ 
+<intitule_soir><la>Dominica II Adventus</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Conditor_alme_siderum</HYMNUS_vepres>
+ 
+<ant7>AN_Ecce_in_nubibus_caeli</ant7>
+ 
+<ps7>ps109</ps7>
+ 
+<ant8>AN_Ecce_apparebit_Dominus_et</ant8>
+ 
+<ps8>ps113B</ps8>
+ 
+<ant9>AN_Dominus_legifer_noster_Dominus</ant9>
+ 
+<ps9>NT12</ps9>
+ 
+<LB_soir>LB_Phil4,4-5</LB_soir>
+ 
+<RB_soir>RB_Ostende_nobis_Domine_Misericordiam</RB_soir>
+ 
+<magnificat>AN_Ego_vos_baptizo</magnificat>
+ 
+<vepres_preces>perannum_21</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_et_misericors_Deus_in_tui</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Populus_Sion</IN>
+<COL>COL_Omnipotens_et_misericors_Deus_in_tui</COL>
+<LEC>LEC_Is11,1-10</LEC>
+<PS1>GR_Ex_Sion</PS1>
+<LEC2>LEC_Rm15,4-9</LEC2>
+
+<PS2>AL_Laetatus_sum</PS2>
+<EV>EV_Mt3,1-12</EV>
+<OF>OF_Deus_tu_convertens</OF>
+<PRE>PRE_Pr&#xE9;facedel'Aventn1oun.2.</PRE>
+<CO>CO_Ierusalem_surge</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Allumer la 2&#xE8;me des quatre bougies de l'Avent</intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>CONCEPTION IMMACUL&#xC9;E DE LA BIENHEUREUSE VIERGE MARIE</intitule>
+ <biographiecourte/>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 8 d&#xE9;cembre. </para><para>1. Solennit&#xE9; de l&#x2019;Immacul&#xE9;e Conception de la Vierge Marie. Vraiment combl&#xE9;e de gr&#xE2;ce et b&#xE9;nie entre toutes les femmes, elle fut pr&#xE9;serv&#xE9;e de toute souillure de la faute originelle d&#xE8;s le premier instant de sa conception, par un privil&#xE8;ge unique de Dieu en pr&#xE9;vision de la naissance et de la mort salvifique du Fils de Dieu. Cette doctrine transmise par une tradition tr&#xE8;s ancienne, a &#xE9;t&#xE9; solennellement d&#xE9;finie en ce jour en 1854 par le bienheureux Pie IX. </para><para>2. Comm&#xE9;moraison de saint Macaire, martyr &#xE0; Alexandrie, l&#x2019;an&#xA0;250. D&#x2019;origine lybienne, au temps de l&#x2019;empereur D&#xE8;ce, alors que le juge t&#xE2;chait, par toutes sortes d&#x2019;arguments, de lui faire renier le Christ, il apporta encore plus de constance &#xE0; professer sa foi et fut enfin condamn&#xE9; &#xE0; &#xEA;tre br&#xFB;l&#xE9; vif. </para><para>3. &#xC0; Rome, au cimeti&#xE8;re de Calliste sur la voie Appienne, en 283, la mise au tombeau de saint Eutychien, pape, qui dirigea l&#x2019;&#xC9;glise dans une p&#xE9;riode de paix, pendant plus de neuf ans. </para><para>4. &#xC0; Tr&#xE8;ves en Gaule Belgique, au IIIe si&#xE8;cle, saint Euchaire, consid&#xE9;r&#xE9; comme le premier &#xE9;v&#xEA;que de la cit&#xE9;. </para><para>5. Comm&#xE9;moraison de saint Patapios, solitaire, au Ve ou VIe si&#xE8;cle. N&#xE9; &#xE0; Th&#xE8;bes en &#xC9;gypte, il vint &#xE0; Constantinople et mena la vie monastique dans le quartier des Blachernes, au monast&#xE8;re des &#xC9;gyptiens. </para><para>6. Au mont Hebend dans les Vosges, en 653, saint Romary, abb&#xE9;. Proche du roi d&#x2019;Austrasie Th&#xE9;odebert II, il se retira, apr&#xE8;s l&#x2019;assassinat de celui-ci, au monast&#xE8;re de Luxeuil, puis il fonda un autre monast&#xE8;re sur son domaine, dont il fut le second abb&#xE9;, apr&#xE8;s saint Am&#xE9;. </para><para>7*. Au monast&#xE8;re cistercien des Vaux de Cernay sur le territoire de Paris, en 1247, saint Thibaud de Marly, abb&#xE9;, qui s&#x2019;employait pour ses fr&#xE8;res aux charges les plus humbles. </para><para>8. Dans la r&#xE9;gion de l&#x2019;Ontario au Canada, en 1649, la passion de saint No&#xEB;l Chabanel, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. Il avait fait &#xE0; Dieu le v&#x153;u de demeurer jusqu&#x2019;&#xE0; sa mort dans la mission qu&#x2019;il ch&#xE9;rissait, parmi les Hurons. Alors qu&#x2019;il faisait route en for&#xEA;t avec un apostat, celui-ci le tua en haine de la foi. </para><para>9*. &#xC0; Lima au P&#xE9;rou, en 1819, la sainte Narcisse de J&#xE9;sus Martillo Moran, vierge. Priv&#xE9;e de ses parents, sans aucune ressource, elle fut re&#xE7;ue, apr&#xE8;s bien des difficult&#xE9;s, comme h&#xF4;tesse dans un couvent et elle se donna &#xE0; une pri&#xE8;re continuelle et &#xE0; une p&#xE9;nitence aust&#xE8;re. (canonis&#xE9;e le 12 octobre 2008 par Beno&#xEE;t XVI)</para><para>10*. &#xC0; Picadero de Paterna dans la r&#xE9;gion de Valence en Espagne, l&#x2019;an&#xA0;1936, le bienheureux Joseph-Marie Zabal Blasco, p&#xE8;re de famille et martyr, victime de la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile. </para><para>11*. Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, le bienheureux Louis Liguda, pr&#xEA;tre de la Soci&#xE9;t&#xE9; du Verbe divin et martyr. Arr&#xEA;t&#xE9; par la Gestapo &#xE0; Gorna Grupa avec d&#x2019;autres pr&#xEA;tres polonais, il fut d&#xE9;port&#xE9; en Allemagne et, apr&#xE8;s avoir subi des tortures, assassin&#xE9; par des gardes du camp. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

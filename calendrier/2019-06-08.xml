@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus paschale</la><fr>Tempus paschale</fr></tempus>
+<hebdomada><la>Hebdomada VII Paschae</la><fr>VII&#xE8;me semaine de P&#xE2;ques</fr></hebdomada>
+<intitule><la/><fr/></intitule>
+<rang><la/><fr/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_qui</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps106I</psL1>
+
+<antL2/>
+
+<psL2>ps106II</psL2>
+
+<antL3/>
+
+<psL3>ps106III</psL3>
+
+<LVers/>
+n<Llec1>L1_pascha_77</Llec1>
+
+<Lrep1>R1_pascha_77</Lrep1>
+
+<Llec2>L2_pascha_77</Llec2>
+
+<Lrep2>R2_pascha_77</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+ 
+<HYMNUS_laudes>hy_Optatus_votis_omnium</HYMNUS_laudes>
+ 
+<ant1>AN_Verba_quae_ego</ant1>
+ 
+<ps1>ps118XIX</ps1>
+ 
+<ant2>AN_Adificasti_templum_et</ant2>
+ 
+<ps2>AT10</ps2>
+ 
+<ant3>AN_Ego_sum_via</ant3>
+ 
+<ps3>ps116</ps3>
+ 
+<LB_matin>LB_Rom_14_7-9</LB_matin> 
+ 
+<RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin>  
+<benedictus>AN_Ecce_ego_vobiscum</benedictus> 
+<laudes_preces>perannum_37</laudes_preces><oratio_laudes>COL_Praesta_quaesumus_omnipotens_Deus_ut_qui</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+ 
+ 
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+ 
+<ps4>ps118XVI</ps4>
+ 
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_Rom_5_10-11</LB_3>
+ 
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+ 
+<LB_6>LB_1_Cor_15_20-22</LB_6>
+ 
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+ 
+<LB_9>LB_2_Cor_5_14-15</LB_9>
+ 
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+ 
+<oratio_3>COL_Praesta_quaesumus_omnipotens_Deus_ut_qui</oratio_3>
+ 
+<oratio_6>COL_Praesta_quaesumus_omnipotens_Deus_ut_qui</oratio_6>
+ 
+<oratio_9>COL_Praesta_quaesumus_omnipotens_Deus_ut_qui</oratio_9>
+ 
+<intitule_soir><la>Dominica Pentecostes</la></intitule_soir>
+ 
+<rang_soir><la>Sollemnitas</la></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Veni_creator_Spiritus</HYMNUS_vepres>
+ 
+<ant7>AN_Dum_complerentur_dies</ant7>
+ 
+<ps7>ps112</ps7>
+ 
+<ant8>AN_Apparuerunt_Apostolis_dispertitae</ant8>
+ 
+<ps8>ps146</ps8>
+ 
+<ant9>AN_Spiritus_qui_a</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_Rom_8_11</LB_soir>
+ 
+<RB_soir>RB_Spiritus_Paraclitus_Alleluia_alleluia</RB_soir>
+ 
+<magnificat/>
+ 
+<vepres_preces>perannum_37</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_sacramento_festivitatis_hodiernae_universam</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+	 
+<comp_ps1>ps4</comp_ps1>
+	 
+<comp_ant2>AN_In_noctibus</comp_ant2>
+	 
+<comp_ps2>ps133</comp_ps2>
+	 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+	 
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	 
+<comp_AM>AM_Sub_tuum</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Repleatur_os_meum</IN>
+<LEC>LEC_Ac28,16-31</LEC>
+<PS1>AL_Non_vos_relinquam</PS1>
+<PS2/>
+<EV>EV_Jn21,20-25</EV>
+<OF>OF_Ascendit_Deus</OF>
+<CO>CO_Spiritus_ubi_vult_spirat</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St M&#xE9;dard</intitule>
+ <biographiecourte>Disciple de St R&#xE9;mi, &#xE9;v&#xEA;que de Vermand (&#x2020;558)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Bse Marie du Sacr&#xE9;-C&#x153;ur </intitule>
+ <biographiecourte>Marie Droste zu Vischering, religieuse, humble ambassadrice du Sacr&#xE9;-C&#x153;ur (&#x2020;1899) </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 8 juin</para><para>1. &#xC0; Aix-en-Provence, saint Maximin, &#xE0; qui on attribue les d&#xE9;buts de la foi chr&#xE9;tienne dans cette cit&#xE9;. </para><para>2. &#xC0; Rouen, apr&#xE8;s 511, saint Godard, &#xE9;v&#xEA;que. </para><para>3. Pr&#xE8;s de Soissons&#xA0;; en 564, saint M&#xE9;dard, &#xE9;v&#xEA;que du Vermandois. Quand la cit&#xE9; de Saint-Quentin fut ruin&#xE9;e, il transf&#xE9;ra son si&#xE8;ge dans la ville fortifi&#xE9;e de Noyon, d&#x2019;o&#xF9; il mit tout son soin &#xE0; d&#xE9;tourner le peuple des superstitions pa&#xEF;ennes pour le tourner vers la doctrine du Christ. </para><para>4*. &#xC0; Fano dans le Picenum, &#xE0; la fin du VIe si&#xE8;cle, saint Fortunat, &#xE9;v&#xEA;que, assidu &#xE0; racheter les captifs. </para><para>5. &#xC0; Metz, vers 660, saint Cloud, &#xE9;v&#xEA;que, fils de saint Arnoul et conseiller du roi.</para><para>6. &#xC0; York, en 1154, saint Guillaume Fitzherbert, &#xE9;v&#xEA;que. Homme affable et doux, d&#xE9;pos&#xE9; injustement de son si&#xE8;ge, il se retira &#xE0; Winchester parmi les moines. Quand son si&#xE8;ge lui fut restitu&#xE9;, il pardonna &#xE0; ses ennemis et apaisa les esprits dans la ville. </para><para>7*. &#xC0; Londres, en 1537, le bienheureux Jean Davy, moine diacre de la Chartreuse de la ville et martyr. Sous le roi Henri VIII, pour sa fid&#xE9;lit&#xE9; envers l&#x2019;&#xC9;glise catholique et le pape, il fut emprisonn&#xE9;, subit des mauvais traitements et mourut de faim. </para><para>8*. &#xC0; Ambiatibe &#xE0; Madagascar, en 1896, saintJacques Berthieu, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. En temps de paix comme en temps de guerre, il se d&#xE9;pensa sans compter pour l&#x2019;&#xC9;vangile, fut expuls&#xE9; trois fois des missions, et enfin, frapp&#xE9; de coups de pied en haine de la foi et plusieurs fois appel&#xE9; en vain &#xE0; l&#x2019;apostasie, il fut massacr&#xE9;. (canonis&#xE9; le 21 octobre 2012 par Beno&#xEE;t XVI)</para><para>9*. &#xC0; Oporto au Portugal, en 1899, la bienheureuse Marie du Divin C&#x153;ur de J&#xE9;sus (Marie Droste zu Vischering), vierge, s&#x153;ur de la Charit&#xE9; du Bon Pasteur, admirable promotrice de la d&#xE9;votion au Sacr&#xE9; C&#x153;ur de J&#xE9;sus. </para><para>10*. Au village de Kuzhikkattussery au K&#xE9;rala, en Inde, l&#x2019;an&#xA0;1926, la bienheureuse Marie-Th&#xE9;r&#xE8;se Chiramel Mankidiyan, vierge, qui mena une vie d&#x2019;ermite dans la plus grande aust&#xE9;rit&#xE9; de p&#xE9;nitence, chercha le Christ dans les plus pauvres gens et les plus d&#xE9;laiss&#xE9;s et fonda la Congr&#xE9;gation des S&#x153;urs de la Sainte Famille. </para><para>11*. &#xC0; Cagliari en Sardaigne, l&#x2019;an&#xA0;1958, le bienheureux Nicolas de Gesturi (Jean Medda), pr&#xEA;tre capucin. Qu&#xEA;teur silencieux pendant trente-quatre ans, toujours pr&#xEA;t &#xE0; venir en aide aux indigents, il incitait &#xE0; la charit&#xE9; envers les pauvres par l&#x2019;exemple de sa vertu et de sa bont&#xE9;. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Hongrie, en 1953, le bienheureux Etienne Sandor, fr&#xE8;re sal&#xE9;sien martyr, victime de la dictature communiste hongroise &#xA0; (b&#xE9;atifi&#xE9; le 19 octobre 2013 par le pape Fran&#xE7;ois)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

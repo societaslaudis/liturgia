@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>B</lettre_annee>
+<priorite>9</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Nativitatis</la><fr>Temps de la Nativit&#xE9;</fr></tempus>
+<hebdomada><la>Infra octavam Nativitatis</la><fr>Dans l'octave de la Nativit&#xE9;</fr></hebdomada>
+<intitule><la>SANCTAE FAMILIAE IESU, MARIAE ET IOSEPH</la><fr>SAINTE FAMILLE DE JESUS, MARIE ET JOSEPH</fr></intitule>
+<rang><la>Festum</la><fr>F&#xEA;te</fr></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dei_Filium</invitatoire>
+
+<HYMNUS_lectures>HY_Primo_dierum_omnium</HYMNUS_lectures>
+
+<HYMNUS_lec_jour>HY_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+
+<antL1>AN_Lignum_vitae_in</antL1>
+
+<psL1>ps1</psL1>
+
+<antL2>AN_Ego_constitui_Regem</antL2>
+
+<psL2>ps2</psL2>
+
+<antL3>AN_Tu_Domine_protector</antL3>
+
+<psL3>ps3</psL3>
+
+<LVers>VERS_Verbum_Christi</LVers>
+n<Llec1>L1_SANCTAE_FAMILIAE_IESU_MARIAE_ET_IOSEPH</Llec1>
+
+<Lrep1>R1_SANCTAE_FAMILIAE_IESU_MARIAE_ET_IOSEPH</Lrep1>
+
+<Llec2>L2_SANCTAE_FAMILIAE_IESU_MARIAE_ET_IOSEPH</Llec2>
+
+<Lrep2>R2_SANCTAE_FAMILIAE_IESU_MARIAE_ET_IOSEPH</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>SANCTAE_FAMILIAE_IESU_MARIAE_ET_IOSEPH-NOCT1-1</LEC_NOCT1>
+
+<LEC_NOCT2>SANCTAE_FAMILIAE_IESU_MARIAE_ET_IOSEPH-NOCT2-1</LEC_NOCT2>
+
+<LEC_NOCT3>SANCTAE_FAMILIAE_IESU_MARIAE_ET_IOSEPH-NOCT3-B</LEC_NOCT3>
+
+ 
+<HYMNUS_laudes>hy_Christe_splendor_Patris</HYMNUS_laudes>
+ 
+<ant1>AN_Ibant_parentes_Iesu</ant1>
+ 
+<ps1>ps62</ps1>
+ 
+<ant2>AN_Puer_autem_crescebat</ant2>
+ 
+<ps2>AT41</ps2>
+ 
+<ant3>AN_Erant_pater_eius</ant3>
+ 
+<ps3>ps149</ps3>
+ 
+<LB_matin>LB_Deut_5_16</LB_matin> 
+ 
+<RB_matin>RB_Christe_Fili_Dei_vivi_</RB_matin>  
+<benedictus>AN_Erant_pater_et</benedictus> 
+<laudes_preces>perannum_11</laudes_preces><oratio_laudes>COL_Deus_qui_praeclara_nobis_sanctae_Familiae</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Erant_Ioseph_et</ant4>
+ 
+<ps4>ps122</ps4>
+ 
+<ant5>AN_Maria_autem_conservabat</ant5>
+ 
+<ps5>ps123</ps5>
+ 
+<ant6>AN_Multiplicabitur_eius_imperium</ant6>
+ 
+<ps6>ps124</ps6>
+ 
+<LB_3>LB_Col_3_12-13</LB_3>
+ 
+<RB_3>VERS_Dominus_vias_suas_docebit_nos</RB_3>
+ 
+<LB_6>LB_Col_3_14-15</LB_6>
+ 
+<RB_6>VERS_Pauper_sum_ego_et_in</RB_6>
+ 
+<LB_9>LB_Col_3_17</LB_9>
+ 
+<RB_9>VERS_Ponam_universos_filios_tuos_doctos</RB_9>
+ 
+<oratio_3>COL_Deus_qui_praeclara_nobis_sanctae_Familiae</oratio_3>
+ 
+<oratio_6>COL_Deus_qui_praeclara_nobis_sanctae_Familiae</oratio_6>
+ 
+<oratio_9>COL_Deus_qui_praeclara_nobis_sanctae_Familiae</oratio_9>
+ 
+<intitule_soir><la>SANCTAE FAMILIAE IESU, MARIAE ET IOSEPH</la></intitule_soir>
+ 
+<rang_soir><la>Festum</la></rang_soir>
+ 
+<office_soir><la>Ad II Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_O_lux_beata_caelitum</HYMNUS_vepres>
+ 
+<ant7>AN_Post_triduum_invenerunt</ant7>
+ 
+<ps7>ps121</ps7>
+ 
+<ant8>AN_Descendit_Iesus_cum</ant8>
+ 
+<ps8>ps126</ps8>
+ 
+<ant9>AN_Et_Iesus_proficiebat</ant9>
+ 
+<ps9>NT4</ps9>
+ 
+<LB_soir>LB_Phil_2_6-7</LB_soir>
+ 
+<RB_soir>RB_Debuit_per_omnia_fratribus_similari</RB_soir>
+ 
+<magnificat>AN_Puer_Iesus_crescebat</magnificat>
+ 
+<vepres_preces>perannum_11</vepres_preces>
+ 
+<oratio_vepres>COL_Deus_qui_praeclara_nobis_sanctae_Familiae</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+ 
+<comp_ps1>ps90</comp_ps1> 
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+ 
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_Deus_in_loco_sancto_suo</IN>
+<COL>COL_Deus_qui_praeclara_nobis_sanctae_Familiae</COL>
+<LEC>LEC_Sir3,3-7.14-17a</LEC>
+<PR>Ps127,1-2.3.4-5</PR>
+<PS1>GR_Unam_petii</PS1><LEC2>LEC_Col3,12-21</LEC2>
+<PS2>AL_Gaudete_iusti</PS2>
+<EV>EV_Lc2,22-40</EV>
+<OF>OF_In_te_speravi</OF>
+<CO>CO_Fili_quid_fecisti</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Sylvestre 1er, pape  </intitule>
+ <biographiecourte>Pape sous Constantin, il fut le constructeur des premi&#xE8;res basiliques romaines (&#x2020;335)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 31 d&#xE9;cembre</para><para>1. M&#xE9;moire de saint Silvestre Ier, pape qui dirigea saintement l&#x2019;&#xC9;glise durant de longues ann&#xE9;es &#xE0; l&#x2019;&#xE9;poque o&#xF9; l&#x2019;empereur Constantin fit construire les basiliques v&#xE9;n&#xE9;rables et o&#xF9; le Concile de Nic&#xE9;e acclama le Christ Fils de Dieu. Il fut mis au tombeau en ce jour, en 335, &#xE0; Rome, au cimeti&#xE8;re de Priscille sur la nouvelle voie Salarienne. </para><para>2. &#xC0; Rome &#xE9;galement, sur la m&#xEA;me voie, au cimeti&#xE8;re des Jourdains, les saintes martyres Donate, Pauline, Rogate, Dominanda, S&#xE9;rotine, Saturnine et Hilarie.</para><para>3. &#xC0; Sens, sainte Colombe, vierge et martyre. </para><para>4. &#xC0; Constantinople, vers 350 saint Zotique, pr&#xEA;tre de Rome, qui suivit l&#x2019;empereur Constantin dans sa nouvelle capitale et y fonda un hospice pour les pauvres et un orphelinat. </para><para>5. &#xC0; J&#xE9;rusalem, sainte M&#xE9;lanie la Jeune, qui, avec son &#xE9;poux, saint Pinien, quitta la ville de Rome, se rendit dans la Ville sainte et y mena la vie religieuse parmi les femmes consacr&#xE9;es &#xE0; Dieu, tandis que son mari en faisait de m&#xEA;me parmi les moines. Tous deux firent une sainte mort elle en 439, lui en 440. </para><para>6. &#xC0; Ravenne en &#xC9;milie, vers le VIe si&#xE8;cle, saint Barbatien, pr&#xEA;tre. </para><para>7*. &#xC0; Lausanne en Suisse, l&#x2019;an&#xA0;594, saint Marius (Maire), &#xE9;v&#xEA;que d&#x2019;Avenches, qui d&#xE9;pla&#xE7;a son si&#xE8;ge dans cette ville.</para><para>8*. &#xC0; La Louvesc dans le Vivarais, en 1640, saint Jean-Fran&#xE7;ois R&#xE9;gis, pr&#xEA;tre de la Compagnie de J&#xE9;sus, qui parcourut les monts et les villages de la r&#xE9;gion, pr&#xEA;chant et administrant le sacrement de p&#xE9;nitence et veillant sans rel&#xE2;che &#xE0; r&#xE9;nover la foi catholique dans les &#xE2;mes des gens du pays.</para><para>9*. &#xC0; Mercu&#xE8;s pr&#xE8;s de Cahors, en 1659, le tr&#xE9;pas du bienheureux Alain de Solminihac, &#xE9;v&#xEA;que de Cahors, qui s&#x2019;appliqua &#xE0; corriger les m&#x153;urs de son peuple par ses visites pastorales et s&#x2019;effor&#xE7;a par tous les moyens, avec un z&#xE8;le apostolique, de r&#xE9;nover son &#xC9;glise. F&#xEA;t&#xE9; le 3 janvier - &#xA0;Zenit</para><para>10. &#xC0; Paris, en 1886, sainte Catherine Labour&#xE9;, vierge, Fille de la Charit&#xE9;, qui passa &#xE0; l&#x2019;hospice d&#x2019;Enghien quarante-cinq ans au service des pauvres et des immigr&#xE9;s avec une simplicit&#xE9; et une g&#xE9;n&#xE9;rosit&#xE9; sans faille, et sans laisser deviner que la Vierge Marie s&#x2019;&#xE9;tait manifest&#xE9;e &#xE0; elle dans la chapelle de la rue du Bac, pour inviter ses fils &#xE0; l&#x2019;invoquer comme l&#x2019;Immacul&#xE9;e au moyen de &#x201C;m&#xE9;daille miraculeuse&#x201D;</para><para>**. &#xA0; &#xA0; &#xA0; &#xA0; En Italie, en 1924, la bienheureuse Guiseppina Nicoli, fille de la charit&#xE9; en Sardaigne. (b&#xE9;atifi&#xE9;e par Benoit XVI le 3 f&#xE9;vrier 2008.</para><para/><para/><para/><para/></martyrologe>
+
+<compendium/>
+
+</calendarium>

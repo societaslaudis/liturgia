@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/><fr/></sanctoral>
+<tempus><la>Tempus Adventus</la><fr>Temps de l'Avent</fr></tempus>
+<hebdomada><la>Hebdomada I Adventus</la><fr>I&#xE8;re semaine de l'Avent</fr></hebdomada>
+<intitule><la>S. Ambrosii, episcopi et Ecclesiae doctoris</la><fr>St Ambroise, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr></intitule>
+<rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>49,38</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Fontem_sapientiae_Dominum</invitatoire>
+
+<HYMNUS_lectures/>
+
+<HYMNUS_lec_jour/>
+
+<antL1/>
+
+<psL1>ps130</psL1>
+
+<antL2/>
+
+<psL2>ps131I</psL2>
+
+<antL3/>
+
+<psL3>ps131II</psL3>
+
+<LVers/>
+n<Llec1>L1_S._Ambrosii_episcopi_et_Ecclesiae_doctoris</Llec1>
+
+<Lrep1>R1_S._Ambrosii_episcopi_et_Ecclesiae_doctoris</Lrep1>
+
+<Llec2>L2_S._Ambrosii_episcopi_et_Ecclesiae_doctoris</Llec2>
+
+<Lrep2>R2_S._Ambrosii_episcopi_et_Ecclesiae_doctoris</Lrep2>
+
+<Loratio id=""/>
+
+<Levangile id=""/>
+<LEC_NOCT1>adventus_17-NOCT1-2</LEC_NOCT1>
+
+<LEC_NOCT2>S._Ambrosii_episcopi_et_Ecclesiae_doctoris-NOCT2-2</LEC_NOCT2>
+ 
+<HYMNUS_laudes>hy_Fortem_piumque_praesulem</HYMNUS_laudes>
+ 
+<ant1>AN_Praevenerunt_oculi_mei</ant1>
+ 
+<ps1>ps118XIX</ps1>
+ 
+<ant2>AN_Fortitudo_mea_et</ant2>
+ 
+<ps2>AT1</ps2>
+ 
+<ant3>AN_Laudate_Dominum_omnes</ant3>
+ 
+<ps3>ps116</ps3>
+ 
+<LB_matin>LB_Sap_7_13-14</LB_matin> 
+ 
+<RB_matin>RB_Sapientiam_sanctorum_Narrent_populi</RB_matin>  
+<benedictus>AN_Qui_docti_fuerint</benedictus> 
+<laudes_preces>perannum_17</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Ambrosium_episcopum_catholicae</oratio_laudes>
+ 
+ 
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+ 
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+ 
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+ 
+ 
+<ant4>AN_Prophetae_praedicaverunt_nasci</ant4>
+ 
+<ps4>ps118V</ps4>
+ 
+<ant5>AN_Gabriel_angelus_locutus</ant5>
+ 
+<ps5>ps33I</ps5>
+ 
+<ant6>AN_Maria_dixit_Qualis</ant6>
+ 
+<ps6>ps33II</ps6>
+ 
+<LB_3>LB_Is_4_2</LB_3>
+ 
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+ 
+<LB_6>LB_Is_4_3</LB_6>
+ 
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+ 
+<LB_9>LB_Is_61_11</LB_9>
+ 
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+ 
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+ 
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis</oratio_6>
+ 
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+ 
+<intitule_soir><la>Dominica II Adventus</la></intitule_soir>
+ 
+<rang_soir><la/></rang_soir>
+ 
+<office_soir><la>Ad I Vesperas</la></office_soir>
+ 
+<HYMNUS_vepres>hy_Conditor_alme_siderum</HYMNUS_vepres>
+ 
+<ant7>AN_Gaude_et_laetare</ant7>
+ 
+<ps7>ps118XIV</ps7>
+ 
+<ant8>AN_Confortate_manus_dissolutas;</ant8>
+ 
+<ps8>ps15</ps8>
+ 
+<ant9>AN_Lex_per_Moysen</ant9>
+ 
+<ps9>NT5</ps9>
+ 
+<LB_soir>LB_1Th_5_23-24</LB_soir>
+ 
+<RB_soir>RB_Ostende_nobis_Domine_Misericordiam</RB_soir>
+ 
+<magnificat>AN_Venit_Ioannes_Baptista</magnificat>
+ 
+<vepres_preces>perannum_17</vepres_preces>
+ 
+<oratio_vepres>COL_Omnipotens_et_misericors_Deus_in_tui</oratio_vepres> 
+		
+ 
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+ 
+<comp_RB>RB_In_manus_tuas</comp_RB>
+ 
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+ 
+<comp_ps1>ps4</comp_ps1> 
+<comp_ant2>AN_In_noctibus</comp_ant2> 
+<comp_ps2>ps133</comp_ps2> 
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+ 
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio> 
+<comp_AM>AM_Alma_redemptoris</comp_AM>
+<messe>
+<Intitule_messe>
+</Intitule_messe>
+<IN>IN_In_medio_Ecclesiae</IN>
+<COL>COL_Deus_qui_beatum_Ambrosium_episcopum_catholicae</COL>
+<LEC>LEC_Ep3,8-12</LEC>
+<PS1>GR_Ecce_sacerdos</PS1>
+<PS2>AL_Iuravit_Dominus</PS2>
+<SEQ/>
+<EV>EV_Lc22,24-30</EV>
+<OF>OF_Veritas_mea</OF>
+<CO>CO_Semel_iuravi</CO>
+</messe>
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Ambroise, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que de Milan, docteur de l&#x2019;&#xC9;glise (&#x2020;397)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 7 d&#xE9;cembre</para><para>1. M&#xE9;moire de saint Ambroise, &#xE9;v&#xEA;que de Milan et docteur de l&#x2019;&#xC9;glise. Il s&#x2019;endormit dans le Seigneur le 4 avril&#xA0;397 dans la nuit sainte de P&#xE2;ques, mais on l&#x2019;honore principalement en ce jour, o&#xF9;, encore cat&#xE9;chum&#xE8;ne, il fut, en 374, appela &#xE0; gouverner ce si&#xE8;ge c&#xE9;l&#xE8;bre, alors qu&#x2019;il exer&#xE7;ait la fonction de pr&#xE9;fet de la cit&#xE9;. Vrai pasteur et docteur des fid&#xE8;les, il mit la plus grande &#xE9;nergie &#xE0; exercer la charit&#xE9; envers tous, &#xE0; d&#xE9;fendre la libert&#xE9; de l&#x2019;&#xC9;glise et &#xE0; enseigner la doctrine de la vraie foi contre les ariens et enseigna au peuple la pi&#xE9;t&#xE9; par ses commentaires de la Bible et les hymnes qu&#x2019;il composa. </para><para>2. &#xC0; Spol&#xE8;te en Ombrie, vers&#xA0;303, saint Sabin, v&#xE9;n&#xE9;r&#xE9; comme &#xE9;v&#xEA;que et martyr. </para><para>3. En Syrie, vers 303, saint Ath&#xE9;nodore, martyr. Sous l&#x2019;empereur Diocl&#xE9;tien et le pr&#xE9;fet &#xC9;leusi, il fut, dit-on tourment&#xE9; par le feu et soumis &#xE0; d&#x2019;autres supplices, puis condamn&#xE9; &#xE0; &#xEA;tre d&#xE9;capit&#xE9;, mais, le bourreau ayant &#xE9;t&#xE9; renvers&#xE9; &#xE0; terre et personne n&#x2019;osant prendre l&#x2019;&#xE9;p&#xE9;e pour le frapper, il s&#x2019;endormit dans le Seigneur en priant. </para><para>4. &#xC0; Thienne en Campanie, vers le IVe si&#xE8;cle, saint Urbain, &#xE9;v&#xEA;que. </para><para>5. En Palestine, l&#x2019;an&#xA0;558, saint Jean le Silentiaire ou l&#x2019;H&#xE9;sychaste, qui apr&#xE8;s avoir laiss&#xE9; le si&#xE8;ge &#xE9;piscopal de Colonia en Arm&#xE9;nie, alla mener la vie monastique dans la laure de Saint-Sabas, dans l&#x2019;humble service des fr&#xE8;res aussi bien que dans la solitude et un silence aust&#xE8;re. </para><para>6. Au pays de Meaux, en 657, sainte Fare, abbesse. Apr&#xE8;s avoir, pendant quarante ans, dirig&#xE9; le monast&#xE8;re d&#x2019;Evoriacum, qui fut ensuite appel&#xE9; de son nom Faremoutier, elle fut associ&#xE9;e dans la troupe des vierges qui suivent l&#x2019;Agneau de Dieu. </para><para>7. Dans la r&#xE9;gion de l&#x2019;Ontario au Canada, en 1649, la passion de saint Charles Garnier, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. Alors qu&#x2019;il r&#xE9;pandait l&#x2019;eau du bapt&#xEA;me sur des cat&#xE9;chum&#xE8;nes, il fut gri&#xE8;vement bless&#xE9; par des pa&#xEF;ens qui firent irruption, puis mourut, frapp&#xE9; d&#x2019;un coup de hache.</para><para>8. &#xC0; Savone en Ligurie, l&#x2019;an&#xA0;1880, sainte Marie-Jos&#xE8;phe (Beno&#xEE;te Rosello), vierge, qui fonda l&#x2019;Institut des Filles de Notre-Dame de la Mis&#xE9;ricorde et se d&#xE9;pensa de tout son z&#xE8;le &#xE0; rendre parfait le salut des &#xE2;mes en mettant sa confiance en Dieu seul. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXVI per annum</la>
+<fr>XXVI&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+
+<HYMNUS_1V id="hy_Rerum_Deus_fons_omnium"/>
+<ps01 id="ps118XIV"/>
+<ps02 id="ps15"/>
+<ps03 id="NT5"/>
+<ant07 id="AN_Lucerna_pedibus_meis"/>
+<ant02 id="AN_Adimplebis_me_laetitia"/>
+<ant03 id="AN_In_nomine_Iesu"/>
+<LB_1V id="LB_Col_1_2b-6a"/>
+<RB_1V id="RB_A_solis_ortu"/>
+  
+
+
+<magnificat1_A id="AN_Cum_averterit_se"/>
+<magnificat1_B id="AN_Nemo_est_qui"/>
+<magnificat1_C id="AN_Factum_est_ut"/>
+<oratio id="COL_Deus_qui_omnipotentiam_tuam_parcendo_maxime"/>
+<oratio_3 id="COL_Deus_qui_omnipotentiam_tuam_parcendo_maxime"/>
+<oratio_6 id="COL_Deus_qui_omnipotentiam_tuam_parcendo_maxime"/>
+<oratio_9 id="COL_Deus_qui_omnipotentiam_tuam_parcendo_maxime"/>
+
+<benedictus_A id="AN_Amen_dico_vobis"/>
+<benedictus_B id="AN_Quisquis_potum_dederit"/>
+<benedictus_C id="AN_Fili_recordare_quia"/>
+<magnificat_A id="AN_Non_omnis_qui"/>
+<magnificat_B id="AN_Bonum_est_tibi"/>
+<magnificat_C id="AN_Beati_pauperes_quia"/>
+</liturgia>

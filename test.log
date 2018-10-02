@@ -1,0 +1,367 @@
+
+ /// Intégration cycle de L'Avent - 2018
+20180101 psalterium_12 In_octava_Nativitatis_SOLLEMNITAS_SANCTAE_DEI_GENITRICIS_MARIAE In_octava_Nativitatis_SOLLEMNITAS_SANCTAE_DEI_GENITRICIS_MARIAE     In octava Nativitatis SOLLEMNITAS SANCTAE DEI GENITRICIS MARIAE  1V
+20180102 psalterium_23 nativitatis_0102 Ss._Basilii_et_Gregorii_Nazianzeni_episcoporum_et_Ecclesiae_doctorum     Ss. Basilii et Gregorii Nazianzeni, episcoporum et Ecclesiae doctorum  
+20180103 psalterium_24 nativitatis_0103      Ss.mi Nominis Iesu  
+20180104 psalterium_25 nativitatis_0104        
+20180105 psalterium_26 nativitatis_0105        
+20180106 psalterium_37 nativitatis_0106        
+20180107 psalterium_21 IN_EPIPHANIA_DOMINI IN_EPIPHANIA_DOMINI     IN EPIPHANIA DOMINI  1V
+20180108 psalterium_12 IN_BAPTISMATE_DOMINI IN_BAPTISMATE_DOMINI     IN BAPTISMATE DOMINI  1V
+20180109 psalterium_13 perannum_1-3        
+20180110 psalterium_14 perannum_1-4        
+20180111 psalterium_15 perannum_1-5        
+20180112 psalterium_16 perannum_1-6        
+20180113 psalterium_17 perannum_1-7      S. Hilarii, episcopi et Ecclesiae doctoris  
+20180114 psalterium_11 perannum_2-1 Dominica_II_per_annum     Dominica II per annum  1V
+20180115 psalterium_22 perannum_2-2        
+20180116 psalterium_23 perannum_2-3        
+20180117 psalterium_24 perannum_2-4 S._Antonii_abbatis     S. Antonii, abbatis  
+20180118 psalterium_25 perannum_2-5        
+20180119 psalterium_26 perannum_2-6        
+20180120 psalterium_27 perannum_2-7      S. Sebastiani, martyris  
+20180121 psalterium_31 perannum_3-1 Dominica_III_per_annum     Dominica III per annum  1V
+20180122 psalterium_32 perannum_3-2      S. Vincentii, diaconi et martyris  
+20180123 psalterium_33 perannum_3-3        
+20180124 psalterium_34 perannum_3-4 S._Francisci_de_Sales_episcopi_et_Ecclesiae_doctoris     S. Francisci de Sales, episcopi et Ecclesiae doctoris  
+20180125 psalterium_35 perannum_3-5 In_conversione_S._Pauli_apostoli     In conversione S. Pauli, apostoli  
+20180126 psalterium_36 perannum_3-6 Ss._Timothei_et_Titi_episcoporum     Ss. Timothei et Titi, episcoporum  
+20180127 psalterium_37 perannum_3-7      S. Angelae Merici, virginis  
+20180128 psalterium_41 perannum_4-1 Dominica_IV_per_annum     Dominica IV per annum Septuagésime 1V
+20180129 psalterium_42 perannum_4-2        
+20180130 psalterium_43 perannum_4-3        
+20180131 psalterium_44 perannum_4-4 S._Ioannis_Bosco_presbyteri     S. Ioannis Bosco, presbyteri  
+20180201 psalterium_45 perannum_4-5        
+20180202 psalterium_46 perannum_4-6 IN_PRAESENTATIONE_DOMINI     IN PRAESENTATIONE DOMINI  
+20180203 psalterium_47 perannum_4-7      S. Ansgarii, episcopi  
+20180204 psalterium_11 perannum_5-1 Dominica_V_per_annum     Dominica V per annum Sexagésime 1V
+20180205 psalterium_12 perannum_5-2 S._Agathae_virginis_et_martyris     S. Agathae, virginis et martyris  
+20180206 psalterium_13 perannum_5-3 Ss._Pauli_Miki_et_sociorum_martyrum     Ss. Pauli Miki et sociorum, martyrum  
+20180207 psalterium_14 perannum_5-4        
+20180208 psalterium_15 perannum_5-5      S. Iosephinae Bakhita, virginis  
+20180209 psalterium_16 perannum_5-6        
+20180210 psalterium_17 perannum_5-7 S._Scholasticae_virginis     S. Scholasticae, virginis  
+20180211 psalterium_21 perannum_6-1 Dominica_VI_per_annum     Dominica VI per annum Quinquagésime 1V
+20180212 psalterium_22 perannum_6-2        
+20180213 psalterium_23 perannum_6-3        
+20180214 psalterium_24 quadragesima_04 Feria_IV_Cinerum     Feria IV Cinerum Jeûne et abstinence de précepte 
+20180215 psalterium_25 quadragesima_05        
+20180216 psalterium_26 quadragesima_06        
+20180217 psalterium_27 quadragesima_07        
+20180218 psalterium_11 quadragesima_11 Dominica_I_Quadragesimae     Dominica I Quadragesimae  1V
+20180219 psalterium_12 quadragesima_12        
+20180220 psalterium_13 quadragesima_13        
+20180221 psalterium_14 quadragesima_14       Quatre temps de printemps 
+20180222 psalterium_15 quadragesima_15 Cathedrae_S._Petri_apostoli     Cathedrae S. Petri, apostoli  
+20180223 psalterium_16 quadragesima_16       Quatre temps de printemps 
+20180224 psalterium_17 quadragesima_17       Quatre temps de printemps 
+20180225 psalterium_21 quadragesima_21 Dominica_II_Quadragesimae     Dominica II Quadragesimae  1V
+20180226 psalterium_22 quadragesima_22        
+20180227 psalterium_23 quadragesima_23        
+20180228 psalterium_24 quadragesima_24        
+20180301 psalterium_25 quadragesima_25        
+20180302 psalterium_26 quadragesima_26        
+20180303 psalterium_27 quadragesima_27        
+20180304 psalterium_31 quadragesima_31 Dominica_III_Quadragesimae     Dominica III Quadragesimae  1V
+20180305 psalterium_32 quadragesima_32        
+20180306 psalterium_33 quadragesima_33        
+20180307 psalterium_34 quadragesima_34        
+20180308 psalterium_35 quadragesima_35        
+20180309 psalterium_36 quadragesima_36        
+20180310 psalterium_37 quadragesima_37        
+20180311 psalterium_41 quadragesima_41 Dominica_IV_Quadragesimae     Dominica IV Quadragesimae  1V
+20180312 psalterium_42 quadragesima_42        
+20180313 psalterium_43 quadragesima_43        
+20180314 psalterium_44 quadragesima_44        
+20180315 psalterium_45 quadragesima_45        
+20180316 psalterium_46 quadragesima_46        
+20180317 psalterium_47 quadragesima_47        
+20180318 psalterium_11 quadragesima_51 Dominica_V_Quadragesimae     Dominica V Quadragesimae  1V
+20180319 psalterium_12 quadragesima_52 S._IOSEPH_SPONSI_B._M._V.     S. IOSEPH, SPONSI B. M. V.  1V
+20180320 psalterium_13 quadragesima_53        
+20180321 psalterium_14 quadragesima_54        
+20180322 psalterium_15 quadragesima_55        
+20180323 psalterium_16 quadragesima_56        
+20180324 psalterium_17 quadragesima_57        
+20180325 psalterium_21 DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI DOMINICA_IN_PALMIS_DE_PASSIONE_DOMINI     DOMINICA IN PALMIS DE PASSIONE DOMINI  1V
+20180326 psalterium_22 HS_2 Feria_II_hebdomadae_sanctae     Feria II hebdomadae sanctae  
+20180327 psalterium_23 HS_3 Feria_III_hebdomadae_sanctae     Feria III hebdomadae sanctae  
+20180328 psalterium_24 HS_4 Feria_IV_hebdomadae_sanctae     Feria IV hebdomadae sanctae  
+20180329 psalterium_25 HS_5 Feria_V_hebdomadae_sanctae     Feria V hebdomadae sanctae  
+20180330 psalterium_26 HS_6 Feria_VI_hebdomadae_sanctae     Feria VI hebdomadae sanctae  
+20180331 psalterium_27 Sabbato_Sancto Sabbato_Sancto     Sabbato Sancto  
+20180401 psalterium_11 DOMINICA_RESURRECTIONIS DOMINICA_RESURRECTIONIS     DOMINICA RESURRECTIONIS  
+20180402 psalterium_12 pascha_12 Feria_II_infra_octavam_Paschae     Feria II infra octavam Paschae  
+20180403 psalterium_13 pascha_13 Feria_III_infra_octavam_Paschae     Feria III infra octavam Paschae  
+20180404 psalterium_14 pascha_14 Feria_IV_infra_octavam_Paschae     Feria IV infra octavam Paschae  
+20180405 psalterium_15 pascha_15 Feria_V_infra_octavam_Paschae     Feria V infra octavam Paschae  
+20180406 psalterium_16 pascha_16 Feria_VI_infra_octavam_Paschae     Feria VI infra octavam Paschae  
+20180407 psalterium_17 pascha_17 Sabbato_infra_octavam_Paschae     Sabbato infra octavam Paschae  
+20180408 psalterium_21 pascha_21 DOMINICA_IN_OCTAVA_PASCHA_SEU_DE_SACRA_MISERICORDIA     DOMINICA IN OCTAVA PASCHÆ SEU DE SACRA MISERICORDIA  1V
+20180409 psalterium_22 pascha_22 IN_ANNUNTIATIONE_DOMINI     IN ANNUNTIATIONE DOMINI  1V
+20180410 psalterium_23 pascha_23        
+20180411 psalterium_24 pascha_24 S._Stanislai_episcopi_et_martyris     S. Stanislai, episcopi et martyris  
+20180412 psalterium_25 pascha_25        
+20180413 psalterium_26 pascha_26        
+20180414 psalterium_27 pascha_27        
+20180415 psalterium_31 pascha_31 Dominica_III_Paschae     Dominica III Paschae  1V
+20180416 psalterium_32 pascha_32        
+20180417 psalterium_33 pascha_33        
+20180418 psalterium_34 pascha_34        
+20180419 psalterium_35 pascha_35        
+20180420 psalterium_36 pascha_36        
+20180421 psalterium_37 pascha_37      S. Anselmi, episcopi et Ecclesiae doctoris  
+20180422 psalterium_41 pascha_41 Dominica_IV_Paschae     Dominica IV Paschae  1V
+20180423 psalterium_42 pascha_42      S. Adalberti, episcopi et martyris  
+20180424 psalterium_43 pascha_43      S. Fidelis a Sigmaringen, presbyteri et martyris  
+20180425 psalterium_44 pascha_44 S._Marci_evangelistae     S. Marci, evangelistae  
+20180426 psalterium_45 pascha_45        
+20180427 psalterium_46 pascha_46        
+20180428 psalterium_47 pascha_47      S. Ludovici Mariae Grignion de Montfort, presbyteri  
+20180429 psalterium_11 pascha_51 Dominica_V_Paschae     Dominica V Paschae  1V
+20180430 psalterium_12 pascha_52        
+20180501 psalterium_13 pascha_53        
+20180502 psalterium_14 pascha_54 S._Athanasii_episcopi_et_Ecclesiae_doctoris     S. Athanasii, episcopi et Ecclesiae doctoris  
+20180503 psalterium_15 pascha_55 Ss._Philippi_et_Iacobi_apostolorum     Ss. Philippi et Iacobi, apostolorum  
+20180504 psalterium_16 pascha_56        
+20180505 psalterium_17 pascha_57        
+20180506 psalterium_21 pascha_61 Dominica_VI_Paschae     Dominica VI Paschae  1V
+20180507 psalterium_22 pascha_62       Rogations  
+20180508 psalterium_23 pascha_63       Rogations  
+20180509 psalterium_24 pascha_64       Rogations  
+20180510 psalterium_25 IN_ASCENSIONE_DOMINI IN_ASCENSIONE_DOMINI     IN ASCENSIONE DOMINI  1V
+20180511 psalterium_26 pascha_66        
+20180512 psalterium_27 pascha_67      S. Pancratii, martyris  
+20180513 psalterium_31 pascha_71 Dominica_VII_Paschae     Dominica VII Paschae  1V
+20180514 psalterium_32 pascha_72 S._Matthiae_apostoli     S. Matthiae, apostoli  
+20180515 psalterium_33 pascha_73        
+20180516 psalterium_34 pascha_74        
+20180517 psalterium_35 pascha_75        
+20180518 psalterium_36 pascha_76      S. Ioannis I, papae et martyris  
+20180519 psalterium_37 pascha_77        
+20180520 psalterium_31 Dominica_Pentecostes Dominica_Pentecostes     Dominica Pentecostes  1V
+20180521 psalterium_32  B._Mariae_Virginis_Ecclesiae_Matris Feria_II_post_Pentecosten_-_B._Mariae_Virginis_Ecclesiae_Matris     Feria II post Pentecosten - B. Mariae Virginis Ecclesiae Matris  
+20180522 psalterium_33 perannum_7-3      S. Ritae de Cascia, religiosae  
+20180523 psalterium_34 perannum_7-4       Quatre temps de Pentecôte 
+20180524 psalterium_35 perannum_7-5        
+20180525 psalterium_36 perannum_7-6      S. Mariae Magdalenae de Pazzi, virginis Quatre temps de Pentecôte 
+20180526 psalterium_37 perannum_7-7 S._Philippi_Neri_presbyteri     S. Philippi Neri, presbyteri Quatre temps de Pentecôte 
+20180527 psalterium_41 SANCTISSIMAE_TRINITATIS SANCTISSIMAE_TRINITATIS     SANCTISSIMAE TRINITATIS  1V
+20180528 psalterium_42 perannum_8-2        
+20180529 psalterium_43 perannum_8-3        
+20180530 psalterium_44 perannum_8-4        
+20180531 psalterium_45 perannum_8-5 In_Visitatione_B._Mariae_Virginis     In Visitatione B. Mariae Virginis  1V
+20180601 psalterium_46 perannum_8-6 S._Iustini_martyris     S. Iustini, martyris  
+20180602 psalterium_47 perannum_8-7        
+20180603 psalterium_11 SS._MI_CORPORIS_ET_SANGUINIS_CHRISTI SS.MI_CORPORIS_ET_SANGUINIS_CHRISTI     SS.MI CORPORIS ET SANGUINIS CHRISTI  1V
+20180604 psalterium_12 perannum_9-2        
+20180605 psalterium_13 perannum_9-3 S._Bonifatii_episcopi_et_martyris     S. Bonifatii, episcopi et martyris  
+20180606 psalterium_14 perannum_9-4      S. Norberti, episcopi  
+20180607 psalterium_15 perannum_9-5        
+20180608 psalterium_16 SACRATISSIMI_CORDIS_IESU SACRATISSIMI_CORDIS_IESU     SACRATISSIMI CORDIS IESU  1V
+20180609 psalterium_17 Immaculati_Cordis_B._Mariae_Virginis Immaculati_Cordis_B._Mariae_Virginis     Immaculati Cordis B. Mariae Virginis  
+20180610 psalterium_21 perannum_10-1 Dominica_X_per_annum     Dominica X per annum  1V
+20180611 psalterium_22 perannum_10-2 S._Barnabae_apostoli     S. Barnabae, apostoli  
+20180612 psalterium_23 perannum_10-3        
+20180613 psalterium_24 perannum_10-4 S._Antonii_de_Padova_presbyteri_et_Ecclesiae_doctoris     S. Antonii de Padova, presbyteri et Ecclesiae doctoris  
+20180614 psalterium_25 perannum_10-5        
+20180615 psalterium_26 perannum_10-6        
+20180616 psalterium_27 perannum_10-7        
+20180617 psalterium_31 perannum_11-1 Dominica_XI_per_annum     Dominica XI per annum  1V
+20180618 psalterium_32 perannum_11-2        
+20180619 psalterium_33 perannum_11-3      S. Romualdi, abbatis  
+20180620 psalterium_34 perannum_11-4        
+20180621 psalterium_35 perannum_11-5 S_Aloisii_Gonzaga_religiosi     S Aloisii Gonzaga, religiosi  
+20180622 psalterium_36 perannum_11-6      Ss. Ioannis Fisher, episcopi, et Thomae More, martyrum  
+20180623 psalterium_37 perannum_11-7        
+20180624 psalterium_41 perannum_12-1 IN_NATIVITATE_S._IOANNIS_BAPTISTAE     IN NATIVITATE S. IOANNIS BAPTISTAE  1V
+20180625 psalterium_42 perannum_12-2        
+20180626 psalterium_43 perannum_12-3      S. Iosephmariæ Escrivá de Balaguer, presbyteri  
+20180627 psalterium_44 perannum_12-4      S. Cyrilli Alexandrini, episcopi et Ecclesiae doctoris  
+20180628 psalterium_45 perannum_12-5 S._Irenaei_episcopi_et_martyris     S. Irenaei, episcopi et martyris  
+20180629 psalterium_46 perannum_12-6 Ss._PETRI_ET_PAULI_APOSTOLORUM     Ss. PETRI ET PAULI, APOSTOLORUM  1V
+20180630 psalterium_47 perannum_12-7        
+20180701 psalterium_11 perannum_13-1 Dominica_XIII_per_annum     Dominica XIII per annum  1V
+20180702 psalterium_12 perannum_13-2        
+20180703 psalterium_13 perannum_13-3 S._Thomae_apostoli     S. Thomae, apostoli  
+20180704 psalterium_14 perannum_13-4      S. Elisabeth Lusitaniae  
+20180705 psalterium_15 perannum_13-5      S. Antonii Mariae Zaccaria, presbyteri  
+20180706 psalterium_16 perannum_13-6      S. Mariae Goretti, virginis et martyris  
+20180707 psalterium_17 perannum_13-7        
+20180708 psalterium_21 perannum_14-1 Dominica_XIV_per_annum     Dominica XIV per annum  1V
+20180709 psalterium_22 perannum_14-2      Ss. Augustini Zhao Rong, presbyteri et sociorum, martyrum.  
+20180710 psalterium_23 perannum_14-3        
+20180711 psalterium_24 perannum_14-4 S._Benedicti_abbatis_patroni_Europae     S. Benedicti, abbatis, patroni Europae  
+20180712 psalterium_25 perannum_14-5        
+20180713 psalterium_26 perannum_14-6      S. Henrici  
+20180714 psalterium_27 perannum_14-7      S. Camilli de Lellis, presbyteri  
+20180715 psalterium_31 perannum_15-1 Dominica_XV_per_annum     Dominica XV per annum  1V
+20180716 psalterium_32 perannum_15-2      B. Mariae Virginis de Monte Carmelo  
+20180717 psalterium_33 perannum_15-3        
+20180718 psalterium_34 perannum_15-4        
+20180719 psalterium_35 perannum_15-5        
+20180720 psalterium_36 perannum_15-6      S. Apollinaris, episcopi et martyris  
+20180721 psalterium_37 perannum_15-7      S. Laurentii de Brindisi, presbyteri et Ecclesiae doctoris  
+20180722 psalterium_41 perannum_16-1 Dominica_XVI_per_annum     Dominica XVI per annum  1V
+20180723 psalterium_42 perannum_16-2 S._Birgittae_religiosae_patronae_Europae     S. Birgittae, religiosae, patronae Europae  
+20180724 psalterium_43 perannum_16-3      S. Sarbelii Makhluf, presbyteri  
+20180725 psalterium_44 perannum_16-4 S._Iacobi_apostoli     S. Iacobi, apostoli  
+20180726 psalterium_45 perannum_16-5 Ss._Ioachim_et_Annae_parentum_B._Mariae_Virginis     Ss. Ioachim et Annae, parentum B. Mariae Virginis  
+20180727 psalterium_46 perannum_16-6        
+20180728 psalterium_47 perannum_16-7        
+20180729 psalterium_11 perannum_17-1 Dominica_XVII_per_annum     Dominica XVII per annum  1V
+20180730 psalterium_12 perannum_17-2      S. Petri Chrysologi, episcopi et Ecclesiae doctoris  
+20180731 psalterium_13 perannum_17-3 S._Ignatii_de_Loyola_presbyteri     S. Ignatii de Loyola, presbyteri  
+20180801 psalterium_14 perannum_17-4 S._Alfonsi_Mariae_de_Liguori_episcopi_et_Ecclesiae_doctoris     S. Alfonsi Mariae de Liguori, episcopi et Ecclesiae doctoris  
+20180802 psalterium_15 perannum_17-5      S. Petri Iuliani Eymard, presbyteri  
+20180803 psalterium_16 perannum_17-6        
+20180804 psalterium_17 perannum_17-7 S._Ioannis_Mariae_Vianney_presbyteri     S. Ioannis Mariae Vianney, presbyteri  
+20180805 psalterium_21 perannum_18-1 Dominica_XVIII_per_annum     Dominica XVIII per annum  1V
+20180806 psalterium_22 perannum_18-2 IN_TRANSFIGURATIONE_DOMINI     IN TRANSFIGURATIONE DOMINI  
+20180807 psalterium_23 perannum_18-3      S. Caietani, presbyteri  
+20180808 psalterium_24 perannum_18-4 S._Dominici_presbyteri     S. Dominici, presbyteri  
+20180809 psalterium_25 perannum_18-5 S._Teresiae_Benedictae_a_Cruce_virginis_et_martyris_patronae_Europae     S. Teresiae Benedictae a Cruce, virginis et martyris, patronae Europae  
+20180810 psalterium_26 perannum_18-6 S._Laurentii_diaconi_et_martyris     S. Laurentii, diaconi et martyris  
+20180811 psalterium_27 perannum_18-7 S._Clarae_virginis     S. Clarae, virginis  
+20180812 psalterium_31 perannum_19-1 Dominica_XIX_per_annum     Dominica XIX per annum  1V
+20180813 psalterium_32 perannum_19-2      Ss. Pontiani, papae, et Hippolyti, presbyteri, martyrum  
+20180814 psalterium_33 perannum_19-3 S._Maximiliani_Mariae_Kolbe_presbyteri_et_martyris     S. Maximiliani Mariae Kolbe, presbyteri et martyris  
+20180815 psalterium_34 perannum_19-4 IN_ASSUMPTIONE_B._MARIAE_VIRGINIS     IN ASSUMPTIONE B. MARIAE VIRGINIS  1V
+20180816 psalterium_35 perannum_19-5      S. Stephani Hungariae  
+20180817 psalterium_36 perannum_19-6        
+20180818 psalterium_37 perannum_19-7        
+20180819 psalterium_41 perannum_20-1 Dominica_XX_per_annum     Dominica XX per annum  1V
+20180820 psalterium_42 perannum_20-2 S._Bernardi_abbatis_et_Ecclesiae_doctoris     S. Bernardi, abbatis et Ecclesiae doctoris  
+20180821 psalterium_43 perannum_20-3 S._Pii_X_papae     S. Pii X, papae  
+20180822 psalterium_44 perannum_20-4 B._Mariae_Virginis_Reginae     B. Mariae Virginis Reginae  
+20180823 psalterium_45 perannum_20-5      S. Rosae de Lima, virginis  
+20180824 psalterium_46 perannum_20-6 S._Bartholomaei_apostoli     S. Bartholomaei, apostoli  
+20180825 psalterium_47 perannum_20-7      S. Ioseph de Calasanz, presbyteri  
+20180826 psalterium_11 perannum_21-1 Dominica_XXI_per_annum     Dominica XXI per annum  1V
+20180827 psalterium_12 perannum_21-2 S._Monicae     S. Monicae  
+20180828 psalterium_13 perannum_21-3 S._Augustini_episcopi_et_Ecclesiae_doctoris     S. Augustini, episcopi et Ecclesiae doctoris  
+20180829 psalterium_14 perannum_21-4 In_Passione_S._Ioannis_Baptistae_martyris     In Passione S. Ioannis Baptistae, martyris  
+20180830 psalterium_15 perannum_21-5        
+20180831 psalterium_16 perannum_21-6        
+20180901 psalterium_17 perannum_21-7        
+20180902 psalterium_21 perannum_22-1 Dominica_XXII_per_annum     Dominica XXII per annum  1V
+20180903 psalterium_22 perannum_22-2 S._Gregorii_Magni_papae_et_Ecclesiae_doctoris     S. Gregorii Magni, papae et Ecclesiae doctoris  
+20180904 psalterium_23 perannum_22-3        
+20180905 psalterium_24 perannum_22-4        
+20180906 psalterium_25 perannum_22-5        
+20180907 psalterium_26 perannum_22-6        
+20180908 psalterium_27 perannum_22-7 In_Nativitate_B._Mariae_Virginis     In Nativitate B. Mariae Virginis  
+20180909 psalterium_31 perannum_23-1 Dominica_XXIII_per_annum     Dominica XXIII per annum  1V
+20180910 psalterium_32 perannum_23-2        
+20180911 psalterium_33 perannum_23-3        
+20180912 psalterium_34 perannum_23-4      Ss.mi Nominis Mariae  
+20180913 psalterium_35 perannum_23-5 S._Ioannis_Chrysostomi_episcopi_et_Ecclesiae_doctoris     S. Ioannis Chrysostomi, episcopi et Ecclesiae doctoris  
+20180914 psalterium_36 perannum_23-6 IN_EXALTATIONE_SANCTAE_CRUCIS     IN EXALTATIONE SANCTAE CRUCIS  
+20180915 psalterium_37 perannum_23-7 B._Mariae_Virginis_Perdolentis     B. Mariae Virginis Perdolentis  
+20180916 psalterium_41 perannum_24-1 Dominica_XXIV_per_annum     Dominica XXIV per annum  1V
+20180917 psalterium_42 perannum_24-2      S. Roberti Bellarmino, episcopi et Ecclesiae doctoris  
+20180918 psalterium_43 perannum_24-3        
+20180919 psalterium_44 perannum_24-4      S. Ianuarii, episcopi et martyris  
+20180920 psalterium_45 perannum_24-5 Ss._Andreae_Kim_Tae-gon_et_Pauli_Chong_Ha-sang_et_sociorum_martyrum     Ss. Andreae Kim Tae-gon et Pauli Chong Ha-sang et sociorum, martyrum  
+20180921 psalterium_46 perannum_24-6 S._Matthaei_apostoli_et_evangelistae     S. Matthaei, apostoli et evangelistae  
+20180922 psalterium_47 perannum_24-7        
+20180923 psalterium_11 perannum_25-1 Dominica_XXV_per_annum     Dominica XXV per annum  1V
+20180924 psalterium_12 perannum_25-2        
+20180925 psalterium_13 perannum_25-3        
+20180926 psalterium_14 perannum_25-4      Ss. Cosmae et Damiani, martyrum  
+20180927 psalterium_15 perannum_25-5 S._Vincentii_de_Paul_presbyteri     S. Vincentii de Paul, presbyteri  
+20180928 psalterium_16 perannum_25-6      S. Laurentii Ruiz et sociorum, martyrum  
+20180929 psalterium_17 perannum_25-7 Ss._Michaelis_Gabrielis_et_Raphaelis_archangelorum     Ss. Michaelis, Gabrielis et Raphaelis, archangelorum  
+20180930 psalterium_21 perannum_26-1 Dominica_XXVI_per_annum     Dominica XXVI per annum  1V
+20181001 psalterium_22 perannum_26-2 S._Teresiae_a_Iesu_Infante_virginis_et_Ecclesiae_doctoris     S. Teresiae a Iesu Infante, virginis et Ecclesiae doctoris  
+20181002 psalterium_23 perannum_26-3 Ss._Angelorum_Custodum     Ss. Angelorum Custodum  
+20181003 psalterium_24 perannum_26-4        
+20181004 psalterium_25 perannum_26-5 S._Francisci_Assisiensis     S. Francisci Assisiensis  
+20181005 psalterium_26 perannum_26-6        
+20181006 psalterium_27 perannum_26-7      S. Brunonis, presbyteri  
+20181007 psalterium_31 perannum_27-1 Dominica_XXVII_per_annum     Dominica XXVII per annum  1V
+20181008 psalterium_32 perannum_27-2        
+20181009 psalterium_33 perannum_27-3      S. Ioannis Leonardi, presbyteri  
+20181010 psalterium_34 perannum_27-4        
+20181011 psalterium_35 perannum_27-5      S. Ioannis XXIII, papae  
+20181012 psalterium_36 perannum_27-6        
+20181013 psalterium_37 perannum_27-7        
+20181014 psalterium_41 perannum_28-1 Dominica_XXVIII_per_annum     Dominica XXVIII per annum  1V
+20181015 psalterium_42 perannum_28-2 S._Teresiae_a_Iesu_virginis_et_Ecclesiae_doctoris     S. Teresiae a Iesu, virginis et Ecclesiae doctoris  
+20181016 psalterium_43 perannum_28-3      S. Margaritae Mariae Alacoque, virginis  
+20181017 psalterium_44 perannum_28-4 S._Ignatii_Antiocheni_episcopi_et_martyris     S. Ignatii Antiocheni, episcopi et martyris  
+20181018 psalterium_45 perannum_28-5 S._Lucae_evangelistae     S. Lucae, evangelistae  
+20181019 psalterium_46 perannum_28-6      S. Pauli a Cruce, presbyteri  
+20181020 psalterium_47 perannum_28-7        
+20181021 psalterium_11 perannum_29-1 Dominica_XXIX_per_annum     Dominica XXIX per annum  1V
+20181022 psalterium_12 perannum_29-2      S. Ioannis Pauli II, papae  
+20181023 psalterium_13 perannum_29-3      S. Ioannis de Capestrano, presbyteri  
+20181024 psalterium_14 perannum_29-4      S. Antonii Mariae Claret, episcopi  
+20181025 psalterium_15 perannum_29-5        
+20181026 psalterium_16 perannum_29-6        
+20181027 psalterium_17 perannum_29-7        
+20181028 psalterium_21 perannum_30-1 Dominica_XXX_per_annum     Dominica XXX per annum  1V
+20181029 psalterium_22 perannum_30-2        
+20181030 psalterium_23 perannum_30-3        
+20181031 psalterium_24 perannum_30-4        
+20181101 psalterium_25 perannum_30-5 OMNIUM_SANCTORUM     OMNIUM SANCTORUM  1V
+20181102 psalterium_26 perannum_30-6 IN_COMMEMORATIONE_OMNIUM_FIDELIUM_DEFUNCTORUM     IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM  
+20181103 psalterium_27 perannum_30-7      S. Martini de Porres, religiosi  
+20181104 psalterium_31 perannum_31-1 Dominica_XXXI_per_annum     Dominica XXXI per annum  1V
+20181105 psalterium_32 perannum_31-2        
+20181106 psalterium_33 perannum_31-3        
+20181107 psalterium_34 perannum_31-4        
+20181108 psalterium_35 perannum_31-5        
+20181109 psalterium_36 perannum_31-6 IN_DEDICATIONE_BASILICAE_LATERANENSIS     IN DEDICATIONE BASILICAE LATERANENSIS  
+20181110 psalterium_37 perannum_31-7 S._Leonis_Magni_papae_et_Ecclesiae_doctoris     S. Leonis Magni, papae et Ecclesiae doctoris  
+20181111 psalterium_41 perannum_32-1 Dominica_XXXII_per_annum     Dominica XXXII per annum  1V
+20181112 psalterium_42 perannum_32-2 S._Iosaphat_episcopi_et_martyris     S. Iosaphat, episcopi et martyris  
+20181113 psalterium_43 perannum_32-3        
+20181114 psalterium_44 perannum_32-4        
+20181115 psalterium_45 perannum_32-5      S. Alberti Magni, episcopi et Ecclesiae doctoris  
+20181116 psalterium_46 perannum_32-6      S. Gertrudis, virginis  
+20181117 psalterium_47 perannum_32-7 S._Elisabeth_Hungariae_religiosae     S. Elisabeth Hungariae, religiosae  
+20181118 psalterium_11 perannum_33-1 Dominica_XXXIII_per_annum     Dominica XXXIII per annum  1V
+20181119 psalterium_12 perannum_33-2        
+20181120 psalterium_13 perannum_33-3        
+20181121 psalterium_14 perannum_33-4 In_Praesentatione_B._Mariae_Virginis     In Praesentatione B. Mariae Virginis  
+20181122 psalterium_15 perannum_33-5 S._Caeciliae_virginis_et_martyris     S. Caeciliae, virginis et martyris  
+20181123 psalterium_16 perannum_33-6      S. Columbani, abbatis  
+20181124 psalterium_17 perannum_33-7 Ss._Andreae_Dung_Lac_presbyteri_et_sociorum_martyrum     Ss. Andreae Dung Lac, presbyteri, et sociorum, martyrum  
+20181125 psalterium_21 D.N._IESU_CHRISTI_UNIVERSORUM_REGIS D.N._IESU_CHRISTI_UNIVERSORUM_REGIS     D.N. IESU CHRISTI UNIVERSORUM REGIS  1V
+20181126 psalterium_22 perannum_34-2        
+20181127 psalterium_23 perannum_34-3        
+20181128 psalterium_24 perannum_34-4        
+20181129 psalterium_25 perannum_34-5        
+20181130 psalterium_26 perannum_34-6 S._Andreae_apostoli     S. Andreae, apostoli  
+20181201 psalterium_27 perannum_34-7        
+20181202 psalterium_11 adventus_11 Dominica_I_Adventus     Dominica I Adventus  1V
+20181203 psalterium_12 adventus_12 S._Francisci_Xavier_presbyteri     S. Francisci Xavier, presbyteri  
+20181204 psalterium_13 adventus_13      S. Ioannis Damasceni, presbyteri et Ecclesiae doctoris  
+20181205 psalterium_14 adventus_13        
+20181206 psalterium_15 adventus_15      S. Nicolai, episcopi  
+20181207 psalterium_16 adventus_16 S._Ambrosii_episcopi_et_Ecclesiae_doctoris     S. Ambrosii, episcopi et Ecclesiae doctoris  
+20181208 psalterium_17 adventus_17 IN_CONCEPTIONE_IMMACULATA_BEATAE_MARIAE_VIRGINIS     IN CONCEPTIONE IMMACULATA BEATAE MARIAE VIRGINIS  1V
+20181209 psalterium_21 adventus_21 Dominica_II_Adventus     Dominica II Adventus  1V
+20181210 psalterium_22 adventus_22        
+20181211 psalterium_23 adventus_23      S. Damasi I, papae  
+20181212 psalterium_24 adventus_24      B. Mariae Virg. De Guadalupe  
+20181213 psalterium_25 adventus_25 S._Luciae_virginis_et_martyris     S. Luciae, virginis et martyris  
+20181214 psalterium_26 adventus_26 S._Ioannis_a_Cruce_presbyteri_et_Ecclesiae_doctoris     S. Ioannis a Cruce, presbyteri et Ecclesiae doctoris  
+20181215 psalterium_27 adventus_27        
+20181216 psalterium_31 adventus_31 Dominica_III_Adventus     Dominica III Adventus  1V
+20181217 psalterium_32 adventus_32   adventus_1712 adventus_1712     
+20181218 psalterium_33 adventus_33   adventus_1812 adventus_1812     
+20181219 psalterium_34 adventus_34   adventus_1912 adventus_1912    Quatre temps - Avent 
+20181220 psalterium_35 adventus_35   adventus_2012 adventus_2012     
+20181221 psalterium_36 adventus_36   adventus_2112 adventus_2112    Quatre temps - Avent 
+20181222 psalterium_37 adventus_37   adventus_2212 adventus_2212    Quatre temps - Avent 
+20181223 psalterium_41 adventus_41 Dominica_IV_Adventus  adventus_2312 adventus_2312 Dominica_IV_Adventus Dominica_IV_Adventus Dominica IV Adventus  1V
+20181224 psalterium_42 adventus_42   adventus_2412 adventus_2412     
+20181225 psalterium_13 IN_NATIVITATE_DOMINI IN_NATIVITATE_DOMINI     IN NATIVITATE DOMINI  1V
+20181226 psalterium_14 infra_octavam_nativitas_1226 S._Stephani_protomartyris     S. Stephani, protomartyris  
+20181227 psalterium_15 infra_octavam_nativitas_1227 S._Ioannis_apostoli_et_evangelistae     S. Ioannis, apostoli et evangelistae  
+20181228 psalterium_16 infra_octavam_nativitas_1228 Ss._Innocentium_martyrum     Ss. Innocentium, martyrum  
+20181229 psalterium_17 infra_octavam_nativitas_1229        
+20181230 psalterium_11 infra_octavam_nativitas_1230 SANCTAE_FAMILIAE_IESU_MARIAE_ET_IOSEPH     SANCTAE FAMILIAE IESU, MARIAE ET IOSEPH  1V
+20181231 psalterium_12 infra_octavam_nativitas_1231        
